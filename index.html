@@ -151,26 +151,17 @@
         }
 
         /* View transition animations */
-        @keyframes fadeUp {
-            from { opacity: 0; transform: translateY(12px); }
-            to { opacity: 1; transform: translateY(0); }
-        }
-
         @keyframes fadeIn {
             from { opacity: 0; }
             to { opacity: 1; }
         }
 
-        .card, .featured {
-            animation: fadeUp 0.35s ease both;
-        }
-
         .reader-body > * {
-            animation: fadeIn 0.25s ease 0.15s both;
+            animation: fadeIn 0.2s ease both;
         }
 
         @media (prefers-reduced-motion: reduce) {
-            .card, .featured, .reader-body > * {
+            .reader-body > * {
                 animation: none;
             }
         }
@@ -330,8 +321,8 @@
 
         @media (max-width: 480px) {
             .header { padding: 8px 10px; }
-            .header-search { width: 120px; }
-            .header-search:focus-within { width: 180px; }
+            .header-search { width: 0; flex: 1; min-width: 80px; max-width: 160px; }
+            .header-search:focus-within { max-width: 200px; }
             .header-progress .hp-label { display: none; }
             .tabs { padding: 6px 12px 6px; gap: 5px; }
             .main { padding: 0 12px 80px; }
@@ -1666,10 +1657,8 @@ async function fetchStories(showLoading) {
         else if (tc.week > 0) timeFilter = 'week';
         else timeFilter = 'all';
         // Cache for offline use
-        try {
-            localStorage.setItem('bytes_stories_cache', JSON.stringify(stories));
-            localStorage.setItem('bytes_cache_time', lastUpdated.toISOString());
-        } catch(e) {}
+        safeSave('bytes_stories_cache', stories);
+        try { localStorage.setItem('bytes_cache_time', lastUpdated.toISOString()); } catch(e) {}
 
 
         renderTabs();
@@ -1902,10 +1891,12 @@ async function loadArchiveMonth(file, label) {
         // Add back button
         const backBtn = document.createElement('div');
         backBtn.style.cssText = 'padding:8px 0 4px;grid-column:1/-1;';
-        backBtn.innerHTML = `<button class="action-btn" onclick="data=window._origData;storyMeta=window._origMeta;timeFilter='all';filter='all';shown=4;renderTabs();render();" style="width:100%;justify-content:center;padding:10px;border-radius:10px;">← Back to Current Stories</button>`;
+        backBtn.innerHTML = `<button class="action-btn" onclick="data=window._origData;storyMeta=window._origMeta;window._origData=null;window._origMeta=null;timeFilter='all';filter='all';shown=4;renderTabs();render();" style="width:100%;justify-content:center;padding:10px;border-radius:10px;">← Back to Current Stories</button>`;
         feed.insertBefore(backBtn, feed.firstChild);
-        window._origData = origData;
-        window._origMeta = origMeta;
+        if (!window._origData) {
+            window._origData = origData;
+            window._origMeta = origMeta;
+        }
     } catch(e) {
         feed.innerHTML = '<div class="archive-section"><div class="empty"><div class="empty-icon">⚠️</div><div class="empty-title">Could not load archive</div></div></div>';
     }
@@ -2060,7 +2051,7 @@ function render() {
     const featMeta = storyMeta[feat.id];
     const featGs = featMeta ? featMeta.gs.map(g => `<span class="gs-badge ${g.toLowerCase()}">${g}</span>`).join('') : '';
 
-    let html = `<div class="featured" style="animation-delay:0.03s" onclick="openReader(${feat.id})">
+    let html = `<div class="featured" onclick="openReader(${feat.id})">
         <span class="featured-badge">⚡ TOP STORY</span>
         <h2 class="featured-title">${feat.title}</h2>
         <p class="featured-summary">${feat.summary}</p>
@@ -2079,8 +2070,7 @@ function render() {
         const meta = storyMeta[d.id];
         const visHtml = renderVis(d);
         const gsHtml = meta ? meta.gs.slice(0, 2).map(g => `<span class="gs-badge ${g.toLowerCase()}">${g}</span>`).join('') : '';
-        const delay = Math.min(0.04 * (i + 1), 0.3);
-        return `<article class="card${isRead ? ' read-card' : ''}" style="animation-delay:${delay}s" onclick="openReader(${d.id})">
+        return `<article class="card${isRead ? ' read-card' : ''}" onclick="openReader(${d.id})">
             <div class="card-main">
                 <div class="card-top">
                     <div class="card-badges">
@@ -2119,7 +2109,7 @@ function openReader(id) {
     // Auto-mark as read
     if (!readItems.includes(id)) {
         readItems.push(id);
-        localStorage.setItem('bytes_read', JSON.stringify(readItems));
+        safeSave('bytes_read', readItems);
     }
 
     updateReaderButtons();
@@ -2484,7 +2474,7 @@ function toggleSaveFromReader() {
     const idx = saved.indexOf(currentStoryId);
     if (idx > -1) { saved.splice(idx, 1); toast('Removed from saved'); }
     else { saved.push(currentStoryId); toast('Added to Reading List'); }
-    localStorage.setItem('bytes_saved', JSON.stringify(saved));
+    safeSave('bytes_saved', saved);
     updateReaderButtons();
 }
 
@@ -2492,7 +2482,7 @@ function toggleReadFromReader() {
     const idx = readItems.indexOf(currentStoryId);
     if (idx > -1) { readItems.splice(idx, 1); toast('Marked unread'); }
     else { readItems.push(currentStoryId); toast('Marked as read'); }
-    localStorage.setItem('bytes_read', JSON.stringify(readItems));
+    safeSave('bytes_read', readItems);
     updateReaderButtons();
 }
 
@@ -2516,7 +2506,7 @@ function toggleRead(id) {
     const idx = readItems.indexOf(id);
     if (idx > -1) { readItems.splice(idx, 1); }
     else { readItems.push(id); }
-    localStorage.setItem('bytes_read', JSON.stringify(readItems));
+    safeSave('bytes_read', readItems);
     render();
 }
 
@@ -2524,7 +2514,7 @@ function toggleSave(id) {
     const idx = saved.indexOf(id);
     if (idx > -1) { saved.splice(idx, 1); toast('Removed from saved'); }
     else { saved.push(id); toast('Saved'); }
-    localStorage.setItem('bytes_saved', JSON.stringify(saved));
+    safeSave('bytes_saved', saved);
     render();
 }
 
@@ -2570,23 +2560,32 @@ document.getElementById('tabs').addEventListener('click', e => {
 });
 
 let loading = false;
+let scrollTimer = null;
 window.addEventListener('scroll', () => {
-    if (loading) return;
-    if (window.innerHeight + window.scrollY >= document.body.offsetHeight - 400) {
-        const filtered = getFiltered();
-        if (shown < filtered.length) {
-            loading = true;
-            document.getElementById('loading').classList.remove('hidden');
-            setTimeout(() => { shown += 6; render(); loading = false; document.getElementById('loading').classList.add('hidden'); }, 200);
+    if (loading || scrollTimer) return;
+    scrollTimer = setTimeout(() => {
+        scrollTimer = null;
+        if (window.innerHeight + window.scrollY >= document.body.offsetHeight - 400) {
+            const filtered = getFiltered();
+            if (shown < filtered.length) {
+                loading = true;
+                document.getElementById('loading').classList.remove('hidden');
+                setTimeout(() => { shown += 6; render(); loading = false; document.getElementById('loading').classList.add('hidden'); }, 200);
+            }
         }
-    }
+    }, 100);
 });
 
 function toast(msg) {
     const t = document.getElementById('toast');
     t.textContent = msg;
     t.classList.add('show');
-    setTimeout(() => t.classList.remove('show'), 1500);
+    setTimeout(() => t.classList.remove('show'), 2000);
+}
+
+function safeSave(key, value) {
+    try { localStorage.setItem(key, JSON.stringify(value)); return true; }
+    catch(e) { toast('Storage full — could not save'); return false; }
 }
 
 // ═══ MCQ QUIZ ENGINE ═══
@@ -2623,7 +2622,7 @@ function renderMCQSection(storyId, mcqs) {
                     const clickable = !qs.answered;
                     return `<div class="${cls}" ${clickable ? `onclick="event.stopPropagation();selectMCQ(${storyId},${qi},${oi})"` : ''}>
                         <span class="mcq-option-letter">${letters[oi]}</span>
-                        <span>${opt}</span>
+                        <span>${(opt||'').replace(/</g,'&lt;').replace(/>/g,'&gt;')}</span>
                     </div>`;
                 }).join('')}
             </div>
@@ -2631,8 +2630,8 @@ function renderMCQSection(storyId, mcqs) {
                 <button class="action-btn primary" onclick="event.stopPropagation();submitMCQ(${storyId},${qi})" style="padding:8px 24px;">Check Answer</button>
             </div>` : ''}
             <div class="mcq-explanation${qs.answered ? ' show' : ''}" id="mcq-exp-${storyId}-${qi}">
-                ${qs.answered ? `${qs.correct ? '✅ <strong>Correct!</strong>' : '❌ <strong>Incorrect.</strong>'} ${mcq.explanation}
-                ${mcq.trap ? `<br><span class="mcq-trap-tag">⚠ UPSC Trap: ${mcq.trap}</span>` : ''}` : ''}
+                ${qs.answered ? `${qs.correct ? '✅ <strong>Correct!</strong>' : '❌ <strong>Incorrect.</strong>'} ${(mcq.explanation||'').replace(/</g,'&lt;').replace(/>/g,'&gt;')}
+                ${mcq.trap ? `<br><span class="mcq-trap-tag">⚠ UPSC Trap: ${(mcq.trap||'').replace(/</g,'&lt;').replace(/>/g,'&gt;')}</span>` : ''}` : ''}
             </div>
         </div>`;
     });
@@ -2669,7 +2668,7 @@ function submitMCQ(storyId, qIdx) {
     const d = data.find(s => s.id === storyId);
     if (d) renderReaderContent(d);
     // Persist quiz state
-    try { localStorage.setItem('bytes_quiz', JSON.stringify(quizState)); } catch(e) {}
+    safeSave('bytes_quiz', quizState);
     if (qs.correct) toast('✅ Correct!');
     else toast('❌ Review the explanation');
 }
