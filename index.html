@@ -1,0 +1,2760 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <meta name="theme-color" content="#000000">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <title>Bytes</title>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+    <style>
+        :root {
+            --bg: #000;
+            --surface: #111;
+            --surface-2: #1a1a1a;
+            --surface-3: #222;
+            --border: #333;
+            --text: #fff;
+            --text-2: #c0c0c0;
+            --text-3: #888;
+            --accent: #0066ff;
+            --accent-soft: rgba(0,102,255,0.15);
+            --green: #00c853;
+            --green-soft: rgba(0,200,83,0.12);
+            --orange: #ff9500;
+            --orange-soft: rgba(255,149,0,0.12);
+            --red: #ff3b30;
+            --purple: #af52de;
+            --purple-soft: rgba(175,82,222,0.12);
+            --yellow: #ffd60a;
+            --yellow-soft: rgba(255,214,10,0.12);
+        }
+
+        /* ═══ LIGHT THEME ═══ */
+        [data-theme="light"] {
+            --bg: #f5f5f0;
+            --surface: #fff;
+            --surface-2: #eeede8;
+            --surface-3: #e4e3de;
+            --border: #d8d7d2;
+            --text: #111;
+            --text-2: #444;
+            --text-3: #777;
+            --accent: #0055d4;
+            --accent-soft: rgba(0,85,212,0.1);
+            --green: #008a38;
+            --green-soft: rgba(0,138,56,0.1);
+            --orange: #b85e00;
+            --orange-soft: rgba(184,94,0,0.1);
+            --red: #c0291f;
+            --purple: #7a2db0;
+            --purple-soft: rgba(122,45,176,0.1);
+            --yellow: #8a6d00;
+            --yellow-soft: rgba(138,109,0,0.1);
+        }
+        [data-theme="light"] body {
+            background-image:
+                radial-gradient(ellipse at top left, rgba(99,102,241,0.04) 0%, transparent 50%),
+                radial-gradient(ellipse at bottom right, rgba(175,82,222,0.04) 0%, transparent 50%);
+        }
+        [data-theme="light"] .header {
+            background: rgba(245,245,240,0.92);
+            border-bottom: 1px solid rgba(0,0,0,0.08);
+        }
+        [data-theme="light"] .featured {
+            background: linear-gradient(135deg, #eef0ff 0%, #e8eaf6 50%, #ede7f6 100%);
+            border-color: rgba(99,102,241,0.25);
+        }
+        [data-theme="light"] .featured::before {
+            background: linear-gradient(90deg, transparent, rgba(99,102,241,0.2), transparent);
+        }
+        [data-theme="light"] .overlay { background: rgba(0,0,0,0.35); }
+        [data-theme="light"] .reader-header { background: rgba(245,245,240,0.92); }
+        [data-theme="light"] .reader-nav { background: rgba(245,245,240,0.92); border-top: 1px solid rgba(0,0,0,0.08); }
+        [data-theme="light"] .badge-cat.india { background: var(--orange-soft); color: var(--orange); }
+
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+
+        body {
+            font-family: 'Inter', -apple-system, system-ui, sans-serif;
+            background: var(--bg);
+            color: var(--text);
+            line-height: 1.5;
+            -webkit-font-smoothing: antialiased;
+            overflow-x: hidden;
+            background-image:
+                radial-gradient(ellipse at top left, rgba(99, 102, 241, 0.06) 0%, transparent 50%),
+                radial-gradient(ellipse at bottom right, rgba(175, 82, 222, 0.06) 0%, transparent 50%);
+            min-height: 100vh;
+        }
+
+        .header {
+            position: sticky;
+            top: 0;
+            z-index: 100;
+            background: rgba(0,0,0,0.88);
+            backdrop-filter: blur(24px);
+            -webkit-backdrop-filter: blur(24px);
+            padding: 10px 16px;
+            border-bottom: 1px solid rgba(255,255,255,0.06);
+        }
+
+        .header-row {
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            gap: 12px;
+            max-width: 1400px;
+            margin: 0 auto;
+            position: relative;
+        }
+
+        .logo {
+            display: flex;
+            align-items: center;
+            gap: 8px;
+        }
+
+        .logo-text {
+            font-size: 20px;
+            font-weight: 800;
+            letter-spacing: -0.5px;
+        }
+
+        .logo-sub {
+            font-size: 10px;
+            font-weight: 600;
+            color: var(--text-3);
+            text-transform: uppercase;
+            letter-spacing: 0.5px;
+        }
+
+        .logo-dot {
+            width: 8px;
+            height: 8px;
+            background: var(--green);
+            border-radius: 50%;
+        }
+
+        .icon-btn.refreshing {
+            animation: spin 0.8s linear infinite;
+        }
+
+        @keyframes spin {
+            from { transform: rotate(0deg); }
+            to { transform: rotate(360deg); }
+        }
+
+        @keyframes pulse {
+            0%, 100% { opacity: 1; }
+            50% { opacity: 0.5; }
+        }
+
+        /* View transition animations */
+        @keyframes fadeUp {
+            from { opacity: 0; transform: translateY(12px); }
+            to { opacity: 1; transform: translateY(0); }
+        }
+
+        @keyframes fadeIn {
+            from { opacity: 0; }
+            to { opacity: 1; }
+        }
+
+        .card, .featured {
+            animation: fadeUp 0.35s ease both;
+        }
+
+        .reader-body > * {
+            animation: fadeIn 0.25s ease 0.15s both;
+        }
+
+        @media (prefers-reduced-motion: reduce) {
+            .card, .featured, .reader-body > * {
+                animation: none;
+            }
+        }
+
+        .header-right {
+            display: flex;
+            align-items: center;
+            gap: 4px;
+        }
+
+        .header-search {
+            display: flex;
+            align-items: center;
+            background: var(--surface);
+            border: 1px solid var(--border);
+            border-radius: 8px;
+            padding: 0 8px;
+            transition: all 0.15s;
+            width: 160px;
+        }
+        @media (min-width: 600px) { .header-search { width: 220px; } }
+
+        .header-search:focus-within {
+            border-color: var(--accent);
+            background: var(--surface-2);
+            width: 260px;
+        }
+
+        .header-search input {
+            flex: 1;
+            background: none;
+            border: none;
+            color: var(--text);
+            padding: 7px 6px;
+            font-size: 13px;
+            font-family: inherit;
+            outline: none;
+            min-width: 0;
+        }
+        .header-search input::placeholder { color: var(--text-3); }
+
+        .icon-btn {
+            width: 36px;
+            height: 36px;
+            border: none;
+            background: transparent;
+            color: var(--text-2);
+            border-radius: 8px;
+            cursor: pointer;
+            font-size: 18px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            transition: all 0.15s;
+            position: relative;
+        }
+
+        .icon-btn:hover { background: var(--surface-2); color: var(--text); }
+
+        .badge {
+            position: absolute;
+            top: 4px;
+            right: 4px;
+            width: 8px;
+            height: 8px;
+            background: var(--red);
+            border-radius: 50%;
+        }
+
+        .search-icon { color: var(--text-3); font-size: 14px; }
+
+        .header-progress {
+            display: flex;
+            align-items: center;
+            gap: 6px;
+            cursor: pointer;
+            padding: 4px 8px;
+            border-radius: 8px;
+            transition: background 0.15s;
+        }
+        .header-progress:hover { background: var(--surface-2); }
+        .header-progress svg { transform: rotate(-90deg); }
+        .header-progress circle { fill: none; stroke-width: 3.5; }
+        .header-progress .bg { stroke: var(--surface-3); }
+        .header-progress .fill { stroke: var(--green); stroke-linecap: round; }
+        .header-progress .hp-pct { font-size: 10px; font-weight: 700; color: var(--green); }
+        .header-progress .hp-label { font-size: 11px; color: var(--text-3); font-weight: 500; }
+
+        .progress-dropdown {
+            display: none;
+            position: absolute;
+            top: 100%;
+            right: 16px;
+            background: var(--surface);
+            border: 1px solid var(--border);
+            border-radius: 12px;
+            padding: 16px;
+            width: 280px;
+            box-shadow: 0 8px 32px rgba(0,0,0,0.3);
+            z-index: 101;
+        }
+        .progress-dropdown.open { display: block; }
+        .progress-dropdown .pd-title { font-size: 13px; font-weight: 600; margin-bottom: 10px; }
+        .progress-dropdown .pd-stat { font-size: 12px; color: var(--text-3); margin-bottom: 12px; }
+
+        .tabs {
+            display: flex;
+            align-items: center;
+            gap: 6px;
+            padding: 8px 16px 8px;
+            max-width: 1400px;
+            margin: 0 auto;
+            overflow-x: auto;
+            scrollbar-width: none;
+        }
+        .tabs::-webkit-scrollbar { display: none; }
+        .tabs .tab-divider {
+            width: 1px;
+            height: 16px;
+            background: var(--border);
+            flex-shrink: 0;
+            margin: 0 2px;
+        }
+
+        .tab {
+            padding: 6px 14px;
+            background: var(--surface);
+            border: 1px solid var(--border);
+            border-radius: 20px;
+            color: var(--text-2);
+            font-size: 13px;
+            font-weight: 600;
+            cursor: pointer;
+            white-space: nowrap;
+            transition: all 0.15s;
+            font-family: inherit;
+        }
+
+        .tab:hover { border-color: var(--text-3); }
+        .tab.active {
+            background: var(--text);
+            color: var(--bg);
+            border-color: var(--text);
+        }
+
+        .tab-count {
+            margin-left: 4px;
+            opacity: 0.6;
+            font-size: 11px;
+        }
+
+        .main {
+            max-width: 1400px;
+            margin: 0 auto;
+            padding: 0 16px 80px;
+        }
+
+        @media (max-width: 480px) {
+            .header { padding: 8px 10px; }
+            .header-search { width: 120px; }
+            .header-search:focus-within { width: 180px; }
+            .header-progress .hp-label { display: none; }
+            .tabs { padding: 6px 12px 6px; gap: 5px; }
+            .main { padding: 0 12px 80px; }
+            .featured { padding: 16px; border-radius: 16px; }
+            .featured-title { font-size: 18px; }
+            .card { border-radius: 12px; }
+            .card-main { padding: 14px; }
+            .reader-body { padding: 16px; }
+            .reader-title { font-size: 20px; }
+            .deep-section { padding: 14px; }
+            .progress-dropdown { right: 10px; width: 260px; }
+        }
+
+        #feed {
+            display: grid;
+            grid-template-columns: 1fr;
+            gap: 12px;
+        }
+
+        @media (min-width: 768px) {
+            #feed { grid-template-columns: repeat(2, 1fr); }
+            .featured { grid-column: span 2; }
+        }
+
+        @media (min-width: 1100px) {
+            #feed { grid-template-columns: repeat(2, 1fr); }
+            .featured { grid-column: span 2; }
+        }
+
+        /* story-meta removed — integrated into progress bar */
+
+        .featured {
+            background: linear-gradient(135deg, #0d1117 0%, #161b2e 50%, #1a1a2e 100%);
+            border: 1px solid rgba(99, 102, 241, 0.2);
+            border-radius: 20px;
+            padding: 20px;
+            position: relative;
+            overflow: hidden;
+            cursor: pointer;
+            transition: all 0.25s;
+        }
+
+        .featured::before {
+            content: '';
+            position: absolute;
+            top: 0; left: 0; right: 0;
+            height: 1px;
+            background: linear-gradient(90deg, transparent, rgba(99,102,241,0.3), transparent);
+        }
+
+        .featured:hover {
+            border-color: rgba(99, 102, 241, 0.4);
+            transform: translateY(-2px);
+            box-shadow: 0 8px 32px rgba(0,0,0,0.3);
+        }
+
+        .featured-badge {
+            display: inline-flex;
+            align-items: center;
+            gap: 6px;
+            padding: 4px 10px;
+            background: var(--accent);
+            border-radius: 6px;
+            font-size: 10px;
+            font-weight: 700;
+            text-transform: uppercase;
+            letter-spacing: 0.5px;
+            margin-bottom: 12px;
+        }
+
+        .featured-title {
+            font-size: 20px;
+            font-weight: 700;
+            line-height: 1.3;
+            margin-bottom: 8px;
+        }
+
+        @media (min-width: 768px) {
+            .featured-title { font-size: 26px; }
+            .featured { padding: 28px; }
+        }
+
+        .featured-summary {
+            font-size: 14px;
+            color: var(--text-2);
+            line-height: 1.6;
+        }
+
+        .featured-footer {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-top: 16px;
+            padding-top: 16px;
+            border-top: 1px solid var(--border);
+        }
+
+        .featured-source { font-size: 12px; color: var(--text-3); }
+
+        .featured-btn {
+            background: var(--accent);
+            border: none;
+            color: white;
+            padding: 8px 16px;
+            border-radius: 8px;
+            font-size: 13px;
+            font-weight: 600;
+            cursor: pointer;
+            font-family: inherit;
+        }
+
+        .card {
+            background: var(--surface);
+            border: 1px solid var(--border);
+            border-radius: 16px;
+            overflow: hidden;
+            transition: all 0.2s;
+            display: flex;
+            flex-direction: column;
+            cursor: pointer;
+        }
+
+        .card:hover {
+            border-color: var(--accent);
+            transform: translateY(-2px);
+        }
+
+        .card:active { transform: translateY(0); }
+        .card.read-card { opacity: 0.7; }
+        .card.read-card:hover { opacity: 1; }
+
+        .card-main { padding: 16px; flex: 1; }
+
+        .card-top {
+            display: flex;
+            align-items: flex-start;
+            justify-content: space-between;
+            gap: 12px;
+            margin-bottom: 10px;
+        }
+
+        .card-badges { display: flex; flex-wrap: wrap; gap: 6px; }
+
+        .badge-cat {
+            padding: 3px 8px;
+            border-radius: 4px;
+            font-size: 10px;
+            font-weight: 700;
+            text-transform: uppercase;
+        }
+
+        .badge-cat.economy { background: var(--green-soft); color: var(--green); }
+        .badge-cat.tech { background: var(--accent-soft); color: var(--accent); }
+        .badge-cat.world { background: var(--orange-soft); color: var(--orange); }
+        .badge-cat.india { background: var(--orange); color: #000; }
+        .badge-cat.science { background: var(--purple-soft); color: var(--purple); }
+        .badge-cat.policy { background: rgba(255,59,48,0.12); color: var(--red); }
+
+        .badge-upsc {
+            padding: 3px 8px;
+            background: var(--green-soft);
+            border: 1px solid var(--green);
+            border-radius: 4px;
+            font-size: 10px;
+            font-weight: 700;
+            color: var(--green);
+        }
+
+        .card-time { font-size: 11px; color: var(--text-3); white-space: nowrap; }
+
+        .card-title {
+            font-size: 17px;
+            font-weight: 700;
+            line-height: 1.35;
+            margin-bottom: 8px;
+        }
+
+        .card-summary {
+            font-size: 14px;
+            color: var(--text-2);
+            line-height: 1.6;
+        }
+
+        .card-visual {
+            padding: 10px 16px;
+            background: var(--surface-2);
+            border-top: 1px solid var(--border);
+        }
+        .card-visual:empty { display: none; }
+
+        .visual-row {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            padding: 6px 0;
+        }
+
+        .visual-row:not(:last-child) { border-bottom: 1px solid var(--border); }
+
+        .visual-row.hl {
+            background: var(--accent-soft);
+            margin: 0 -16px;
+            padding: 6px 16px;
+            border-radius: 6px;
+        }
+
+        .vr-left { display: flex; align-items: center; gap: 8px; }
+        .vr-flag { font-size: 18px; }
+        .vr-name { font-size: 12px; color: var(--text-2); }
+        .vr-value { font-size: 13px; font-weight: 700; color: var(--accent); }
+
+        .mini-stats { display: grid; grid-template-columns: repeat(2, 1fr); gap: 8px; }
+
+        .mini-stat {
+            background: var(--surface-3);
+            border-radius: 8px;
+            padding: 10px;
+            text-align: center;
+        }
+
+        .mini-stat-value { font-size: 16px; font-weight: 800; color: var(--accent); }
+        .mini-stat-label { font-size: 9px; color: var(--text-3); text-transform: uppercase; margin-top: 2px; }
+
+        .pm-row { display: flex; align-items: center; gap: 8px; margin-bottom: 6px; }
+        .pm-row:last-child { margin-bottom: 0; }
+        .pm-label { width: 55px; font-size: 11px; color: var(--text-2); }
+        .pm-bar { flex: 1; height: 6px; background: var(--surface-3); border-radius: 3px; overflow: hidden; }
+        .pm-fill { height: 100%; background: var(--accent); border-radius: 3px; }
+        .pm-value { font-size: 11px; font-weight: 600; width: 50px; text-align: right; }
+
+        .card-actions {
+            display: flex;
+            align-items: center;
+            padding: 8px 16px;
+            border-top: 1px solid var(--border);
+            gap: 8px;
+        }
+
+        .card-source { flex: 1; font-size: 11px; color: var(--text-3); }
+        .card-source a { color: var(--text-2); text-decoration: none; }
+
+        .card-read-indicator {
+            font-size: 10px;
+            color: var(--green);
+            display: flex;
+            align-items: center;
+            gap: 3px;
+        }
+
+        .action-btn {
+            padding: 6px 12px;
+            border: 1px solid var(--border);
+            background: transparent;
+            color: var(--text-2);
+            border-radius: 6px;
+            font-size: 12px;
+            font-weight: 500;
+            cursor: pointer;
+            display: flex;
+            align-items: center;
+            gap: 4px;
+            transition: all 0.15s;
+            font-family: inherit;
+        }
+
+        .action-btn:hover { border-color: var(--text-3); color: var(--text); }
+        .action-btn.saved { background: var(--green-soft); border-color: var(--green); color: var(--green); }
+        .action-btn.read { background: var(--purple-soft); border-color: var(--purple); color: var(--purple); }
+        .action-btn.primary { background: var(--text); color: var(--bg); border-color: var(--text); }
+
+        /* Progress tracker — compact collapsible */
+        .progress-bar {
+            display: flex;
+            align-items: center;
+            gap: 10px;
+            padding: 10px 14px;
+            background: var(--surface);
+            border: 1px solid var(--border);
+            border-radius: 12px;
+            margin-bottom: 12px;
+            cursor: pointer;
+            transition: all 0.15s;
+        }
+        .progress-bar:hover { border-color: var(--text-3); }
+
+        .progress-ring {
+            width: 36px;
+            height: 36px;
+            position: relative;
+            flex-shrink: 0;
+        }
+
+        .progress-ring svg { transform: rotate(-90deg); }
+        .progress-ring circle { fill: none; stroke-width: 3.5; }
+        .progress-ring .bg { stroke: var(--surface-3); }
+        .progress-ring .fill {
+            stroke: var(--green);
+            stroke-linecap: round;
+            transition: stroke-dashoffset 0.3s;
+        }
+        .progress-ring .pct {
+            position: absolute; inset: 0;
+            display: flex; align-items: center; justify-content: center;
+            font-size: 10px; font-weight: 700; color: var(--green);
+        }
+
+        .progress-info { flex: 1; min-width: 0; }
+        .progress-label { font-size: 12px; font-weight: 600; }
+        .progress-sublabel { font-size: 11px; color: var(--text-3); margin-top: 1px; }
+
+        .progress-expand {
+            font-size: 12px;
+            color: var(--text-3);
+            transition: transform 0.2s;
+        }
+        .progress-expand.open { transform: rotate(180deg); }
+
+        .progress-detail {
+            max-height: 0;
+            overflow: hidden;
+            transition: max-height 0.3s ease;
+        }
+        .progress-detail.open {
+            max-height: 200px;
+        }
+
+        .progress-actions { display: flex; gap: 8px; }
+        .progress-btn {
+            padding: 6px 12px;
+            background: var(--surface-2);
+            border: 1px solid var(--border);
+            border-radius: 6px;
+            color: var(--text-2);
+            font-size: 11px;
+            font-weight: 600;
+            cursor: pointer;
+            font-family: inherit;
+            transition: all 0.15s;
+        }
+        .progress-btn:hover { border-color: var(--accent); color: var(--accent); }
+
+        /* Connect tags - clickable */
+        .connect-tag {
+            cursor: pointer;
+        }
+
+        .deep-section {
+            padding: 16px;
+        }
+
+        .deep-section:last-child { border-bottom: none; }
+        .deep-section + .deep-section { margin-top: 4px; }
+
+        .deep-header {
+            display: flex;
+            align-items: center;
+            gap: 8px;
+            margin-bottom: 12px;
+        }
+
+        .deep-icon {
+            width: 28px;
+            height: 28px;
+            border-radius: 6px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 14px;
+        }
+
+        .deep-icon.prelims { background: var(--purple-soft); }
+        .deep-icon.mains { background: var(--orange-soft); }
+        .deep-icon.connect { background: var(--accent-soft); }
+
+        .deep-title {
+            font-size: 11px;
+            font-weight: 700;
+            text-transform: uppercase;
+            letter-spacing: 0.5px;
+            color: var(--text-2);
+        }
+
+        /* Prelims Facts */
+        .prelims-grid {
+            display: flex;
+            flex-direction: column;
+            gap: 8px;
+        }
+
+        .prelims-fact {
+            display: flex;
+            align-items: flex-start;
+            gap: 8px;
+            padding: 10px 12px;
+            background: var(--surface-2);
+            border-radius: 8px;
+            border-left: 3px solid var(--purple);
+        }
+
+        .prelims-bullet {
+            color: var(--purple);
+            font-weight: 700;
+            font-size: 12px;
+        }
+
+        .prelims-text {
+            font-size: 14px;
+            color: var(--text);
+            line-height: 1.5;
+        }
+
+        .prelims-text strong {
+            color: var(--purple);
+        }
+
+        .prelims-subtitle {
+            font-size: 12px;
+            color: var(--text-3);
+            font-style: italic;
+            line-height: 1.4;
+            margin-bottom: 12px;
+        }
+
+        /* Mains Question */
+        .mains-question {
+            background: var(--surface-2);
+            border-radius: 10px;
+            padding: 14px;
+            border: 1px solid var(--border);
+        }
+
+        .mains-q-label {
+            font-size: 10px;
+            font-weight: 700;
+            text-transform: uppercase;
+            color: var(--orange);
+            margin-bottom: 8px;
+            display: flex;
+            align-items: center;
+            gap: 6px;
+        }
+
+        .mains-q-text {
+            font-size: 14px;
+            font-style: italic;
+            color: var(--text);
+            line-height: 1.5;
+            margin-bottom: 12px;
+        }
+
+        .mains-marks {
+            display: inline-block;
+            padding: 3px 8px;
+            background: var(--orange-soft);
+            border-radius: 4px;
+            font-size: 11px;
+            font-weight: 600;
+            color: var(--orange);
+        }
+
+        .mains-hints {
+            margin-top: 12px;
+            padding-top: 12px;
+            border-top: 1px dashed var(--border);
+        }
+
+        .mains-hint-label {
+            font-size: 10px;
+            font-weight: 700;
+            color: var(--text-3);
+            text-transform: uppercase;
+            margin-bottom: 8px;
+        }
+
+        .mains-hint {
+            font-size: 12px;
+            color: var(--text-2);
+            margin-bottom: 4px;
+            padding-left: 12px;
+            position: relative;
+        }
+
+        .mains-hint::before {
+            content: '→';
+            position: absolute;
+            left: 0;
+            color: var(--orange);
+        }
+
+        /* Connect Links — pill style (legacy string format) */
+        .connect-tags {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 8px;
+        }
+
+        .connect-tag {
+            padding: 6px 12px;
+            background: var(--surface-2);
+            border: 1px solid var(--border);
+            border-radius: 20px;
+            font-size: 12px;
+            color: var(--text-2);
+            transition: all 0.15s;
+        }
+
+        .connect-tag:hover {
+            border-color: var(--accent);
+            color: var(--accent);
+        }
+
+        .connect-tag .arrow {
+            color: var(--accent);
+            margin-left: 4px;
+        }
+
+        /* Connect Links — rich card style (new object format) */
+        .connect-grid {
+            display: flex;
+            flex-direction: column;
+            gap: 10px;
+        }
+
+        .connect-item {
+            padding: 12px 14px;
+            background: var(--surface-2);
+            border: 1px solid var(--border);
+            border-left: 3px solid var(--accent);
+            border-radius: 8px;
+            cursor: pointer;
+            transition: all 0.15s;
+        }
+
+        .connect-item:hover {
+            border-left-color: var(--purple);
+            background: var(--surface-3);
+        }
+
+        .connect-topic {
+            font-size: 13px;
+            font-weight: 600;
+            color: var(--text);
+            margin-bottom: 4px;
+        }
+
+        .connect-topic .arrow {
+            color: var(--accent);
+            margin-left: 4px;
+            font-size: 11px;
+        }
+
+        .connect-context {
+            font-size: 12px;
+            color: var(--text-3);
+            line-height: 1.5;
+            font-style: italic;
+        }
+
+        /* Card key-fact preview (shown when no vdata) */
+        .card-keyfact {
+            padding: 8px 12px;
+            border-top: 1px solid var(--border);
+            border-left: 3px solid var(--purple);
+            margin: 0 12px 8px;
+            border-radius: 4px;
+            background: var(--surface-2);
+        }
+
+        .card-keyfact-text {
+            font-size: 11px;
+            color: var(--text-2);
+            line-height: 1.4;
+            display: -webkit-box;
+            -webkit-line-clamp: 2;
+            -webkit-box-orient: vertical;
+            overflow: hidden;
+        }
+
+        .card-keyfact-text strong {
+            color: var(--purple);
+        }
+
+        .empty {
+            text-align: center;
+            padding: 60px 20px;
+            grid-column: 1 / -1;
+        }
+
+        .empty-icon { font-size: 48px; margin-bottom: 16px; }
+        .empty-title { font-size: 18px; font-weight: 600; margin-bottom: 8px; }
+        .empty-text { color: var(--text-3); font-size: 14px; }
+
+        .loading { text-align: center; padding: 24px; color: var(--text-3); font-size: 13px; grid-column: 1 / -1; }
+        .loading.hidden { display: none; }
+
+        .overlay {
+            position: fixed;
+            inset: 0;
+            background: rgba(0,0,0,0.6);
+            z-index: 200;
+            opacity: 0;
+            visibility: hidden;
+            transition: all 0.2s;
+        }
+
+        .overlay.show { opacity: 1; visibility: visible; }
+
+        .panel {
+            position: fixed;
+            bottom: 0;
+            left: 0;
+            right: 0;
+            background: var(--surface);
+            border-radius: 20px 20px 0 0;
+            z-index: 201;
+            transform: translateY(100%);
+            transition: transform 0.3s ease;
+            max-height: 70vh;
+            display: flex;
+            flex-direction: column;
+        }
+
+        .panel.show { transform: translateY(0); }
+
+        .panel-handle {
+            width: 36px;
+            height: 4px;
+            background: var(--border);
+            border-radius: 2px;
+            margin: 12px auto;
+        }
+
+        .panel-header {
+            padding: 0 20px 16px;
+            border-bottom: 1px solid var(--border);
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+        .panel-title { font-size: 18px; font-weight: 700; }
+        .panel-close {
+            width: 32px;
+            height: 32px;
+            border: none;
+            background: var(--surface-2);
+            color: var(--text-2);
+            border-radius: 50%;
+            font-size: 18px;
+            cursor: pointer;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+        }
+        .panel-content { flex: 1; overflow-y: auto; padding: 16px 20px; }
+
+        /* Deep Dive Reader Sheet */
+        .reader {
+            position: fixed;
+            inset: 0;
+            background: var(--bg);
+            z-index: 202;
+            transform: translateY(100%);
+            transition: transform 0.3s ease;
+            display: flex;
+            flex-direction: column;
+            overflow: hidden;
+        }
+
+        .reader.show { transform: translateY(0); }
+
+        .reader-header {
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            padding: 12px 16px;
+            border-bottom: 1px solid var(--border);
+            background: rgba(0,0,0,0.88);
+            backdrop-filter: blur(24px);
+            -webkit-backdrop-filter: blur(24px);
+        }
+
+        .reader-back {
+            display: flex;
+            align-items: center;
+            gap: 8px;
+            background: none;
+            border: none;
+            color: var(--accent);
+            font-size: 14px;
+            font-weight: 600;
+            cursor: pointer;
+            font-family: inherit;
+        }
+
+        .reader-actions {
+            display: flex;
+            gap: 8px;
+        }
+
+        .reader-body {
+            flex: 1;
+            overflow-y: auto;
+            padding: 20px;
+            padding-bottom: 100px;
+        }
+
+        .reader-title {
+            font-size: 22px;
+            font-weight: 800;
+            line-height: 1.3;
+            margin-bottom: 12px;
+        }
+
+        .reader-meta {
+            display: flex;
+            align-items: center;
+            gap: 8px;
+            margin-bottom: 16px;
+            flex-wrap: wrap;
+        }
+
+        .reader-summary {
+            font-size: 16px;
+            color: var(--text-2);
+            line-height: 1.8;
+            margin-bottom: 24px;
+            padding-bottom: 24px;
+            border-bottom: 1px solid var(--border);
+        }
+
+        .reader-visual {
+            background: var(--surface);
+            border: 1px solid var(--border);
+            border-radius: 12px;
+            padding: 16px;
+            margin-bottom: 20px;
+        }
+
+        .reader-visual-title {
+            font-size: 11px;
+            font-weight: 700;
+            text-transform: uppercase;
+            color: var(--text-3);
+            margin-bottom: 12px;
+        }
+
+        /* Deep sections in reader */
+        .reader .deep-section {
+            padding: 24px;
+            background: var(--surface);
+            border: 1px solid var(--border);
+            border-radius: 12px;
+            margin-bottom: 20px;
+        }
+
+        .reader .prelims-fact {
+            background: var(--surface-2);
+        }
+
+        .reader .mains-question {
+            background: var(--surface-2);
+        }
+
+        /* Bottom nav in reader */
+        .reader-nav {
+            position: absolute;
+            bottom: 0;
+            left: 0;
+            right: 0;
+            display: flex;
+            justify-content: space-between;
+            padding: 12px 16px;
+            padding-bottom: max(12px, env(safe-area-inset-bottom));
+            background: rgba(0,0,0,0.88);
+            backdrop-filter: blur(24px);
+            -webkit-backdrop-filter: blur(24px);
+            border-top: 1px solid rgba(255,255,255,0.06);
+        }
+
+        .reader-nav-btn {
+            display: flex;
+            align-items: center;
+            gap: 6px;
+            padding: 10px 16px;
+            background: var(--surface-2);
+            border: 1px solid var(--border);
+            border-radius: 8px;
+            color: var(--text-2);
+            font-size: 13px;
+            font-weight: 600;
+            cursor: pointer;
+            font-family: inherit;
+            transition: all 0.15s;
+        }
+
+        .reader-nav-btn:hover { border-color: var(--accent); color: var(--accent); }
+        .reader-nav-btn:disabled { opacity: 0.4; cursor: not-allowed; }
+        .reader-nav-btn:disabled:hover { border-color: var(--border); color: var(--text-2); }
+
+        .saved-item {
+            display: flex;
+            justify-content: space-between;
+            align-items: flex-start;
+            padding: 12px 0;
+            border-bottom: 1px solid var(--border);
+            gap: 12px;
+        }
+
+        .saved-title { font-size: 14px; font-weight: 500; line-height: 1.4; }
+        .saved-cat { font-size: 11px; color: var(--text-3); text-transform: uppercase; margin-top: 4px; }
+        .saved-remove { background: none; border: none; color: var(--red); font-size: 18px; cursor: pointer; padding: 4px; }
+
+        .toast {
+            position: fixed;
+            bottom: 24px;
+            left: 50%;
+            transform: translateX(-50%) translateY(60px);
+            background: var(--surface-2);
+            color: var(--text);
+            padding: 10px 20px;
+            border-radius: 10px;
+            border: 1px solid var(--border);
+            font-size: 13px;
+            font-weight: 500;
+            z-index: 300;
+            opacity: 0;
+            transition: all 0.25s cubic-bezier(0.16, 1, 0.3, 1);
+            backdrop-filter: blur(16px);
+            -webkit-backdrop-filter: blur(16px);
+        }
+
+        .toast.show { transform: translateX(-50%) translateY(0); opacity: 1; }
+
+        .end-msg {
+            text-align: center;
+            padding: 24px 16px;
+            color: var(--text-3);
+            font-size: 13px;
+            grid-column: 1 / -1;
+        }
+        .end-msg.hidden { display: none; }
+
+        /* ═══ SMART PLATFORM ENHANCEMENTS ═══ */
+
+        /* GS Paper Badges */
+        .gs-badges { display: flex; flex-wrap: wrap; gap: 4px; margin-top: 6px; }
+        .gs-badge {
+            padding: 2px 6px;
+            border-radius: 3px;
+            font-size: 9px;
+            font-weight: 700;
+            letter-spacing: 0.3px;
+        }
+        .gs-badge.gs1 { background: rgba(255,214,10,0.15); color: var(--yellow); }
+        .gs-badge.gs2 { background: rgba(0,102,255,0.15); color: var(--accent); }
+        .gs-badge.gs3 { background: rgba(0,200,83,0.15); color: var(--green); }
+        .gs-badge.gs4 { background: rgba(175,82,222,0.15); color: var(--purple); }
+        .gs-badge.essay { background: rgba(255,149,0,0.15); color: var(--orange); }
+
+        /* Source Type Badges */
+        .source-badge {
+            display: inline-flex;
+            align-items: center;
+            gap: 4px;
+            padding: 2px 8px;
+            border-radius: 4px;
+            font-size: 9px;
+            font-weight: 700;
+            text-transform: uppercase;
+            letter-spacing: 0.3px;
+        }
+        .source-badge.budget { background: rgba(255,214,10,0.12); color: var(--yellow); }
+        .source-badge.pib { background: rgba(0,200,83,0.12); color: var(--green); }
+        .source-badge.intl-report { background: rgba(0,102,255,0.12); color: var(--accent); }
+        .source-badge.sc-judgment { background: rgba(175,82,222,0.12); color: var(--purple); }
+        .source-badge.ministry { background: rgba(255,149,0,0.12); color: var(--orange); }
+        .source-badge.media { background: rgba(153,153,153,0.15); color: var(--text-2); }
+
+        /* Difficulty Indicator */
+        .difficulty-dots { display: flex; gap: 3px; align-items: center; }
+        .difficulty-dot {
+            width: 6px; height: 6px; border-radius: 50%;
+            background: var(--surface-3);
+        }
+        .difficulty-dot.filled { background: var(--accent); }
+        .difficulty-dot.filled.hard { background: var(--red); }
+        .difficulty-dot.filled.medium { background: var(--orange); }
+
+        /* Exam Relevance Bar */
+        .relevance-indicator {
+            display: flex;
+            align-items: center;
+            gap: 6px;
+            font-size: 10px;
+            color: var(--text-3);
+            margin-top: 8px;
+        }
+        .relevance-bar {
+            flex: 1;
+            height: 3px;
+            background: var(--surface-3);
+            border-radius: 2px;
+            overflow: hidden;
+            max-width: 60px;
+        }
+        .relevance-fill {
+            height: 100%;
+            border-radius: 2px;
+            transition: width 0.3s;
+        }
+        .relevance-fill.high { background: var(--green); }
+        .relevance-fill.medium { background: var(--orange); }
+        .relevance-fill.low { background: var(--text-3); }
+
+        /* MCQ Quiz Styles */
+        .mcq-section {
+            background: var(--surface);
+            border: 1px solid var(--border);
+            border-radius: 12px;
+            padding: 20px;
+            margin-bottom: 16px;
+        }
+        .mcq-header {
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            margin-bottom: 16px;
+        }
+        .mcq-title {
+            font-size: 11px;
+            font-weight: 700;
+            text-transform: uppercase;
+            letter-spacing: 0.5px;
+            color: var(--accent);
+            display: flex;
+            align-items: center;
+            gap: 8px;
+        }
+        .mcq-count {
+            font-size: 11px;
+            color: var(--text-3);
+        }
+        .mcq-question {
+            background: var(--surface-2);
+            border-radius: 10px;
+            padding: 16px;
+            margin-bottom: 12px;
+        }
+        .mcq-q-num {
+            font-size: 10px;
+            font-weight: 700;
+            color: var(--accent);
+            text-transform: uppercase;
+            margin-bottom: 8px;
+        }
+        .mcq-q-text {
+            font-size: 14px;
+            line-height: 1.5;
+            margin-bottom: 14px;
+        }
+        .mcq-options {
+            display: flex;
+            flex-direction: column;
+            gap: 8px;
+        }
+        .mcq-option {
+            display: flex;
+            align-items: flex-start;
+            gap: 10px;
+            padding: 10px 12px;
+            background: var(--surface);
+            border: 1px solid var(--border);
+            border-radius: 8px;
+            cursor: pointer;
+            transition: all 0.15s;
+            font-size: 13px;
+            line-height: 1.4;
+        }
+        .mcq-option:hover { border-color: var(--accent); background: var(--accent-soft); }
+        .mcq-option.selected { border-color: var(--accent); background: var(--accent-soft); }
+        .mcq-option.correct { border-color: var(--green); background: var(--green-soft); }
+        .mcq-option.wrong { border-color: var(--red); background: rgba(255,59,48,0.12); }
+        .mcq-option.reveal-correct { border-color: var(--green); background: var(--green-soft); }
+        .mcq-option-letter {
+            width: 22px; height: 22px;
+            border-radius: 50%;
+            background: var(--surface-2);
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 11px;
+            font-weight: 700;
+            color: var(--text-2);
+            flex-shrink: 0;
+        }
+        .mcq-option.correct .mcq-option-letter { background: var(--green); color: #000; }
+        .mcq-option.wrong .mcq-option-letter { background: var(--red); color: #fff; }
+        .mcq-option.reveal-correct .mcq-option-letter { background: var(--green); color: #000; }
+        .mcq-explanation {
+            margin-top: 12px;
+            padding: 12px;
+            background: var(--surface);
+            border-radius: 8px;
+            border-left: 3px solid var(--accent);
+            font-size: 12px;
+            line-height: 1.5;
+            color: var(--text-2);
+            display: none;
+        }
+        .mcq-explanation.show { display: block; }
+        .mcq-explanation strong { color: var(--text); }
+        .mcq-trap-tag {
+            display: inline-block;
+            padding: 2px 6px;
+            background: rgba(255,59,48,0.12);
+            color: var(--red);
+            border-radius: 3px;
+            font-size: 9px;
+            font-weight: 700;
+            margin-top: 6px;
+        }
+        .mcq-score {
+            text-align: center;
+            padding: 16px;
+            background: var(--surface-2);
+            border-radius: 10px;
+            margin-top: 12px;
+        }
+        .mcq-score-num {
+            font-size: 28px;
+            font-weight: 800;
+            color: var(--green);
+        }
+        .mcq-score-label {
+            font-size: 11px;
+            color: var(--text-3);
+            margin-top: 4px;
+        }
+
+        /* Directive Word Tooltip */
+        .directive-tag {
+            display: inline-flex;
+            align-items: center;
+            gap: 4px;
+            padding: 3px 8px;
+            background: var(--accent-soft);
+            border-radius: 4px;
+            font-size: 10px;
+            font-weight: 700;
+            color: var(--accent);
+            cursor: help;
+            position: relative;
+        }
+        .directive-tooltip {
+            display: none;
+            position: absolute;
+            bottom: calc(100% + 8px);
+            left: 0;
+            width: 240px;
+            padding: 10px;
+            background: var(--surface-2);
+            border: 1px solid var(--border);
+            border-radius: 8px;
+            font-size: 11px;
+            font-weight: 400;
+            color: var(--text-2);
+            line-height: 1.4;
+            z-index: 10;
+            box-shadow: 0 4px 12px rgba(0,0,0,0.3);
+        }
+        .directive-tag:hover .directive-tooltip { display: block; }
+
+        /* GS Paper Progress Grid */
+        .gs-progress-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(120px, 1fr));
+            gap: 8px;
+            margin-top: 10px;
+        }
+        .gs-progress-item {
+            background: var(--surface-2);
+            border-radius: 8px;
+            padding: 10px;
+            text-align: center;
+        }
+        .gs-progress-item .label {
+            font-size: 10px;
+            color: var(--text-3);
+            text-transform: uppercase;
+            font-weight: 600;
+        }
+        .gs-progress-item .bar {
+            height: 4px;
+            background: var(--surface-3);
+            border-radius: 2px;
+            margin: 6px 0;
+            overflow: hidden;
+        }
+        .gs-progress-item .bar .fill {
+            height: 100%;
+            border-radius: 2px;
+            transition: width 0.3s;
+        }
+        .gs-progress-item .count {
+            font-size: 12px;
+            font-weight: 700;
+        }
+
+        /* (smart-filters and time-filters merged into sub-filters above) */
+
+        /* Sub-filters: combined time + GS in one row */
+        .sub-filters {
+            display: flex;
+            align-items: center;
+            gap: 6px;
+            padding: 0 16px 8px;
+            max-width: 1400px;
+            margin: 0 auto;
+            overflow-x: auto;
+            scrollbar-width: none;
+        }
+        .sub-filters::-webkit-scrollbar { display: none; }
+
+        .sf-divider {
+            width: 1px;
+            height: 16px;
+            background: var(--border);
+            flex-shrink: 0;
+        }
+
+        .sf-btn {
+            padding: 4px 10px;
+            border-radius: 14px;
+            font-size: 11px;
+            font-weight: 600;
+            background: transparent;
+            border: 1px solid var(--border);
+            color: var(--text-3);
+            cursor: pointer;
+            white-space: nowrap;
+            transition: all 0.15s;
+            font-family: inherit;
+        }
+        .sf-btn:hover { border-color: var(--text-3); color: var(--text-2); }
+        .sf-btn.active { background: var(--accent-soft); border-color: var(--accent); color: var(--accent); }
+        .sf-btn .sf-count { font-weight: 400; opacity: 0.6; margin-left: 3px; }
+
+        .sf-archive {
+            margin-left: auto;
+            padding: 4px 10px;
+            border-radius: 14px;
+            font-size: 11px;
+            font-weight: 600;
+            background: transparent;
+            border: 1px solid var(--border);
+            color: var(--text-3);
+            cursor: pointer;
+            white-space: nowrap;
+            transition: all 0.15s;
+            font-family: inherit;
+        }
+        .sf-archive:hover { border-color: var(--text-3); color: var(--text-2); }
+
+        /* Archive panel */
+        .archive-section { padding: 16px; }
+        .archive-month {
+            background: var(--surface);
+            border-radius: 12px;
+            padding: 14px 16px;
+            margin-bottom: 8px;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            cursor: pointer;
+            border: 1px solid var(--border);
+            transition: all 0.15s;
+        }
+        .archive-month:hover { border-color: var(--accent); transform: translateX(4px); }
+        .archive-month-label { font-weight: 600; font-size: 14px; }
+        .archive-month-count { font-size: 12px; color: var(--text-3); }
+
+        /* Skeleton loading cards */
+        .skeleton-cards { display: grid; grid-template-columns: 1fr; gap: 12px; }
+        @media (min-width: 768px) { .skeleton-cards { grid-template-columns: repeat(2, 1fr); } }
+        .skeleton-card { background: var(--surface); border: 1px solid var(--border); border-radius: 16px; padding: 20px; }
+        .skeleton-card.featured { padding: 28px; min-height: 180px; grid-column: 1 / -1; }
+        .sk-line { height: 12px; background: var(--surface-3); border-radius: 6px; margin-bottom: 12px; animation: sk-pulse 1.5s ease-in-out infinite; }
+        .sk-w40 { width: 40%; }
+        .sk-w60 { width: 60%; }
+        .sk-w80 { width: 80%; }
+        .sk-w90 { width: 90%; }
+        @keyframes sk-pulse { 0%, 100% { opacity: 0.3; } 50% { opacity: 0.7; } }
+    </style>
+</head>
+<body>
+    <header class="header">
+        <div class="header-row">
+            <div class="logo">
+                <span class="logo-dot"></span>
+                <div>
+                    <div class="logo-text">Bytes</div>
+                    <div class="logo-sub">UPSC Current Affairs</div>
+                </div>
+            </div>
+            <div class="header-right">
+                <div class="header-progress" id="headerProgress" onclick="toggleProgressDropdown()"></div>
+                <div class="header-search">
+                    <span class="search-icon">⌕</span>
+                    <input type="text" id="search" placeholder="Search..." oninput="doSearch()">
+                </div>
+                <button class="icon-btn" id="themeToggle" onclick="toggleTheme()" title="Toggle light/dark mode"></button>
+                <button class="icon-btn" id="refreshBtn" onclick="refreshStories()">↻</button>
+                <button class="icon-btn" onclick="openPanel()">☆<span class="badge" id="badge" style="display:none"></span></button>
+            </div>
+            <div class="progress-dropdown" id="progressDropdown"></div>
+        </div>
+    </header>
+
+    <div class="tabs" id="tabs"></div>
+
+    <main class="main">
+        <div id="feed"></div>
+        <div id="loading" class="loading hidden">Loading more...</div>
+        <div id="endMsg" class="end-msg hidden">You're all caught up</div>
+    </main>
+
+    <div class="overlay" id="overlay" onclick="closePanel()"></div>
+    <div class="panel" id="panel">
+        <div class="panel-handle"></div>
+        <div class="panel-header">
+            <div class="panel-title">📚 Reading List</div>
+            <button class="panel-close" onclick="closePanel()">×</button>
+        </div>
+        <div class="panel-content" id="panelContent"></div>
+    </div>
+
+    <!-- Full-screen reader for deep dives -->
+    <div class="reader" id="reader">
+        <div class="reader-header">
+            <button class="reader-back" onclick="closeReader()">← Back</button>
+            <div class="reader-actions">
+                <button class="action-btn" id="readerSaveBtn" onclick="toggleSaveFromReader()">☆ Save</button>
+                <button class="action-btn read" id="readerReadBtn" onclick="toggleReadFromReader()">✓ Read</button>
+            </div>
+        </div>
+        <div class="reader-body" id="readerBody"></div>
+        <div class="reader-nav">
+            <button class="reader-nav-btn" id="prevBtn" onclick="navStory(-1)">← Previous</button>
+            <button class="reader-nav-btn" id="nextBtn" onclick="navStory(1)">Next →</button>
+        </div>
+    </div>
+
+    <div class="toast" id="toast"></div>
+
+<script>
+// Topic knowledge base loaded from external JSON for rabbit hole learning
+let topics = {};
+fetch('data/topics.json')
+    .then(r => r.json())
+    .then(t => { topics = t; console.log(`Loaded ${Object.keys(t).length} topics`); })
+    .catch(e => console.warn('Topics load failed:', e));
+
+// Topic navigation history for rabbit hole breadcrumbs
+let topicHistory = [];
+
+const topicAliases = {};
+
+
+// ═══ LIVE DATA: Fetched from stories.json ═══
+let data = [];
+let storyMeta = {};
+let lastUpdated = null;
+let progressExpanded = false;
+
+async function refreshStories() {
+    const btn = document.getElementById('refreshBtn');
+    btn.classList.add('refreshing');
+    await fetchStories(false);
+    btn.classList.remove('refreshing');
+    toast('Stories refreshed');
+}
+
+function toggleProgress() {
+    progressExpanded = !progressExpanded;
+    const detail = document.getElementById('progressDetail');
+    const arrow = document.getElementById('progressArrow');
+    if (detail) detail.classList.toggle('open', progressExpanded);
+    if (arrow) arrow.classList.toggle('open', progressExpanded);
+}
+
+async function fetchStories(showLoading) {
+    if (showLoading) {
+        document.getElementById('feed').innerHTML =
+            `<div class="skeleton-card featured">
+                <div class="sk-line sk-w40" style="height:10px;margin-bottom:16px;max-width:100px;"></div>
+                <div class="sk-line sk-w80" style="height:18px;"></div>
+                <div class="sk-line sk-w60" style="height:18px;"></div>
+                <div class="sk-line sk-w90" style="height:12px;margin-top:8px;"></div>
+            </div>` +
+            [1,2,3,4].map(() => `<div class="skeleton-card">
+                <div class="sk-line sk-w40" style="height:10px;max-width:80px;"></div>
+                <div class="sk-line sk-w80"></div>
+                <div class="sk-line sk-w60"></div>
+            </div>`).join('');
+    }
+
+    try {
+        const resp = await fetch('data/stories.json?t=' + Date.now());
+        if (!resp.ok) throw new Error('HTTP ' + resp.status);
+        const stories = await resp.json();
+
+        // Populate data and rebuild storyMeta from inline _ fields
+        data = stories;
+        storyMeta = {};
+        stories.forEach(s => {
+            if (s._gs) {
+                storyMeta[s.id] = {
+                    gs: s._gs || [],
+                    sourceType: s._sourceType || 'media',
+                    difficulty: s._difficulty || 2,
+                    relevance: s._relevance || 50,
+                    directive: s._directive || 'discuss',
+                    mcqs: Array.isArray(s._mcqs) ? s._mcqs : (s._mcqs && typeof s._mcqs === 'object' && s._mcqs.q ? [s._mcqs] : [])
+                };
+            }
+        });
+
+        lastUpdated = new Date();
+        // Smart default time filter: pick most specific range with content
+        const tc = getTimeCounts();
+        if (tc.today > 0) timeFilter = 'today';
+        else if (tc.week > 0) timeFilter = 'week';
+        else timeFilter = 'all';
+        // Cache for offline use
+        try {
+            localStorage.setItem('bytes_stories_cache', JSON.stringify(stories));
+            localStorage.setItem('bytes_cache_time', lastUpdated.toISOString());
+        } catch(e) {}
+
+
+        renderTabs();
+
+        render();
+        return true;
+    } catch(e) {
+        console.warn('Fetch failed, trying cache:', e);
+        // Try localStorage cache
+        try {
+            const cached = localStorage.getItem('bytes_stories_cache');
+            if (cached) {
+                const stories = JSON.parse(cached);
+                data = stories;
+                storyMeta = {};
+                stories.forEach(s => {
+                    if (s._gs) {
+                        storyMeta[s.id] = {
+                            gs: s._gs || [],
+                            sourceType: s._sourceType || 'media',
+                            difficulty: s._difficulty || 2,
+                            relevance: s._relevance || 50,
+                            directive: s._directive || 'discuss',
+                            mcqs: Array.isArray(s._mcqs) ? s._mcqs : (s._mcqs && typeof s._mcqs === 'object' && s._mcqs.q ? [s._mcqs] : [])
+                        };
+                    }
+                });
+                const cacheTime = localStorage.getItem('bytes_cache_time');
+                if (cacheTime) lastUpdated = new Date(cacheTime);
+        
+                renderTabs();
+        
+                render();
+                return true;
+            }
+        } catch(e2) {}
+
+        // Show error state
+        document.getElementById('feed').innerHTML = `
+            <div class="empty">
+                <div class="empty-icon">📡</div>
+                <div class="empty-title">Couldn't load stories</div>
+                <div class="empty-text">Check your connection and try again</div>
+                <button class="featured-btn" style="margin-top:12px;" onclick="fetchStories(true)">Retry</button>
+            </div>`;
+        return false;
+    }
+}
+
+// Update progress bar timestamp every minute
+setInterval(() => { if (data.length) renderProgress(); }, 60000);
+
+
+// Directive word explanations for Mains
+const directiveWords = {
+    'discuss': { label: 'Discuss', meaning: 'Present multiple perspectives with balanced arguments. Examine arguments for and against, then give your assessment.' },
+    'analyze': { label: 'Analyze', meaning: 'Break down the topic into components. Examine each part, identify cause-effect relationships, and draw conclusions.' },
+    'examine': { label: 'Examine', meaning: 'Investigate the topic in detail. Present evidence, look at different dimensions, and arrive at an informed assessment.' },
+    'critically_examine': { label: 'Critically Examine', meaning: 'Not just examine but evaluate — weigh strengths AND weaknesses, question assumptions, and give a balanced judgment.' },
+    'critically_analyze': { label: 'Critically Analyze', meaning: 'Break down AND evaluate. Identify what works and what does not. Challenge given premises with evidence.' },
+    'compare': { label: 'Compare', meaning: 'Identify similarities and differences between two or more approaches/policies. Present a structured comparison.' },
+    'comment': { label: 'Comment', meaning: 'Express an informed opinion backed by facts and reasoning. Take a clear position while acknowledging counterpoints.' }
+};
+
+// Source type labels and icons
+const sourceLabels = {
+    'budget': { icon: '💰', label: 'Budget/Eco Survey' },
+    'pib': { icon: '📢', label: 'PIB/Govt Source' },
+    'intl-report': { icon: '🌐', label: 'International Report' },
+    'sc-judgment': { icon: '⚖️', label: 'SC Judgment' },
+    'ministry': { icon: '🏛️', label: 'Ministry/Regulator' },
+    'media': { icon: '📰', label: 'Media Report' }
+};
+
+// ═══ THEME ═══
+function applyTheme(theme) {
+    document.documentElement.setAttribute('data-theme', theme);
+    const btn = document.getElementById('themeToggle');
+    if (btn) btn.textContent = theme === 'light' ? '☾' : '☀';
+}
+function toggleTheme() {
+    const current = document.documentElement.getAttribute('data-theme') || 'dark';
+    const next = current === 'light' ? 'dark' : 'light';
+    localStorage.setItem('bytes_theme', next);
+    applyTheme(next);
+}
+// Init theme immediately (before render)
+applyTheme(localStorage.getItem('bytes_theme') || 'dark');
+
+// MCQ quiz state
+let quizState = {};
+
+// State
+let filter = 'all', query = '', shown = 4;
+let gsFilter = null; // GS paper filter
+let timeFilter = 'all'; // today, week, month, all — set to smartest default after fetch
+let saved = JSON.parse(localStorage.getItem('bytes_saved') || '[]');
+let readItems = JSON.parse(localStorage.getItem('bytes_read') || '[]');
+
+function getCounts() {
+    const timeArr = getTimeFiltered();
+    const c = { all: timeArr.length, upsc: 0 };
+    timeArr.forEach(d => { c[d.cat] = (c[d.cat] || 0) + 1; if (d.upsc) c.upsc++; });
+    return c;
+}
+
+function getTimeFiltered() {
+    if (timeFilter === 'all') return data;
+    const now = new Date();
+    const cutoffs = {
+        today: new Date(now.getFullYear(), now.getMonth(), now.getDate()),
+        week: new Date(now - 7 * 86400000),
+        month: new Date(now - 30 * 86400000),
+    };
+    const cutoff = cutoffs[timeFilter];
+    if (!cutoff) return data;
+    return data.filter(d => {
+        const f = d._fetched;
+        if (!f) return true;
+        try { return new Date(f) >= cutoff; } catch(e) { return true; }
+    });
+}
+
+function getTimeCounts() {
+    const now = new Date();
+    const todayCutoff = new Date(now.getFullYear(), now.getMonth(), now.getDate());
+    const weekCutoff = new Date(now - 7 * 86400000);
+    const monthCutoff = new Date(now - 30 * 86400000);
+    const c = { today: 0, week: 0, month: 0, all: data.length };
+    data.forEach(d => {
+        const f = d._fetched;
+        if (!f) return;
+        try {
+            const dt = new Date(f);
+            if (dt >= todayCutoff) c.today++;
+            if (dt >= weekCutoff) c.week++;
+            if (dt >= monthCutoff) c.month++;
+        } catch(e) {}
+    });
+    return c;
+}
+
+function renderSubFilters() {
+    const tc = getTimeCounts();
+    const el = document.getElementById('subFilters');
+
+    // Time pills — only show ones with stories, always show 'all'
+    const timePills = [
+        { id: 'today', label: 'Today', count: tc.today },
+        { id: 'week', label: 'This Week', count: tc.week },
+        { id: 'month', label: 'This Month', count: tc.month },
+        { id: 'all', label: 'All', count: tc.all },
+    ].filter(p => p.count > 0 || p.id === 'all');
+
+    let html = timePills.map(p =>
+        `<button class="sf-btn${timeFilter === p.id ? ' active' : ''}" onclick="timeFilter='${p.id}';shown=4;render();">${p.label}<span class="sf-count">${p.count}</span></button>`
+    ).join('');
+
+    // GS pills — only show ones with stories
+    const gsPapers = ['GS1', 'GS2', 'GS3', 'GS4', 'Essay'];
+    const gsWithCount = gsPapers.map(g => ({
+        id: g,
+        count: data.filter(d => storyMeta[d.id] && storyMeta[d.id].gs.includes(g)).length
+    })).filter(g => g.count > 0);
+
+    if (gsWithCount.length > 0) {
+        html += '<span class="sf-divider"></span>';
+        html += gsWithCount.map(g =>
+            `<button class="sf-btn${gsFilter === g.id ? ' active' : ''}" onclick="toggleGsFilter('${g.id}')">${g.id}<span class="sf-count">${g.count}</span></button>`
+        ).join('');
+    }
+
+    // Archive button
+    html += `<button class="sf-archive" onclick="openArchive()">Past Months</button>`;
+
+    el.innerHTML = html;
+}
+
+let archiveIndex = null;
+async function openArchive() {
+    const feed = document.getElementById('feed');
+    // Fetch archive index
+    if (!archiveIndex) {
+        feed.innerHTML = '<div class="archive-section"><div style="color:var(--text-3);text-align:center;padding:32px;">Loading archives...</div></div>';
+        try {
+            const resp = await fetch('data/archive/index.json?t=' + Date.now());
+            if (resp.ok) archiveIndex = await resp.json();
+            else archiveIndex = [];
+        } catch(e) { archiveIndex = []; }
+    }
+
+    if (archiveIndex.length === 0) {
+        feed.innerHTML = '<div class="archive-section"><div class="empty"><div class="empty-icon">📂</div><div class="empty-title">No archives yet</div><div class="empty-text">Stories older than 30 days will appear here</div></div></div>';
+        return;
+    }
+
+    const months = ['January','February','March','April','May','June','July','August','September','October','November','December'];
+    feed.innerHTML = '<div class="archive-section"><h3 style="margin:0 0 12px;font-size:16px;color:var(--text-1);">Past Months</h3>' +
+        archiveIndex.map(m => {
+            const [y, mo] = m.month.split('-');
+            const label = months[parseInt(mo)-1] + ' ' + y;
+            return `<div class="archive-month" onclick="loadArchiveMonth('${m.file}', '${label}')">
+                <span class="archive-month-label">${label}</span>
+                <span class="archive-month-count">${m.count} stories →</span>
+            </div>`;
+        }).join('') + '</div>';
+}
+
+async function loadArchiveMonth(file, label) {
+    const feed = document.getElementById('feed');
+    feed.innerHTML = '<div class="archive-section"><div style="color:var(--text-3);text-align:center;padding:32px;">Loading...</div></div>';
+    try {
+        const resp = await fetch('data/' + file + '?t=' + Date.now());
+        const stories = await resp.json();
+        // Temporarily replace data to render these stories
+        const origData = data;
+        const origMeta = storyMeta;
+        data = stories;
+        storyMeta = {};
+        stories.forEach(s => {
+            if (s._gs) {
+                storyMeta[s.id] = { gs: s._gs||[], sourceType: s._sourceType||'media', difficulty: s._difficulty||2, relevance: s._relevance||50, directive: s._directive||'discuss', mcqs: Array.isArray(s._mcqs) ? s._mcqs : (s._mcqs && typeof s._mcqs === 'object' && s._mcqs.q ? [s._mcqs] : []) };
+            }
+        });
+        // Update progress bar for archive context
+        timeFilter = 'all';
+        filter = 'all';
+        shown = 4;
+        render();
+        // Add back button
+        const backBtn = document.createElement('div');
+        backBtn.style.cssText = 'padding:8px 0 4px;grid-column:1/-1;';
+        backBtn.innerHTML = `<button class="action-btn" onclick="data=window._origData;storyMeta=window._origMeta;timeFilter='all';filter='all';shown=4;renderTabs();render();" style="width:100%;justify-content:center;padding:10px;border-radius:10px;">← Back to Current Stories</button>`;
+        feed.insertBefore(backBtn, feed.firstChild);
+        window._origData = origData;
+        window._origMeta = origMeta;
+    } catch(e) {
+        feed.innerHTML = '<div class="archive-section"><div class="empty"><div class="empty-icon">⚠️</div><div class="empty-title">Could not load archive</div></div></div>';
+    }
+}
+
+function renderTabs() {
+    const c = getCounts();
+    const tabs = [
+        { id: 'all', label: 'All' }, { id: 'india', label: 'India' }, { id: 'world', label: 'World' },
+        { id: 'economy', label: 'Economy' }, { id: 'tech', label: 'Tech' },
+        { id: 'science', label: 'Science' }, { id: 'policy', label: 'Policy' }
+    ];
+    const visible = tabs.filter(t => t.id === 'all' || (c[t.id] || 0) > 0);
+    let html = visible.map(t =>
+        `<button class="tab${filter === t.id ? ' active' : ''}" data-id="${t.id}">${t.label}${t.id !== 'all' ? `<span class="tab-count">${c[t.id]}</span>` : ''}</button>`
+    ).join('');
+
+    // Merge time filters
+    const tc = getTimeCounts();
+    const timePills = [
+        { id: 'today', label: 'Today', count: tc.today },
+        { id: 'week', label: 'This Week', count: tc.week },
+        { id: 'month', label: 'This Month', count: tc.month },
+        { id: 'all', label: 'All', count: tc.all },
+    ].filter(p => p.count > 0 || p.id === 'all');
+    if (timePills.length > 1) {
+        html += '<span class="tab-divider"></span>';
+        html += timePills.map(p =>
+            `<button class="sf-btn${timeFilter === p.id ? ' active' : ''}" onclick="timeFilter='${p.id}';shown=4;render();">${p.label}<span class="sf-count">${p.count}</span></button>`
+        ).join('');
+    }
+
+    // Merge GS filters
+    const gsPapers = ['GS1', 'GS2', 'GS3', 'GS4', 'Essay'];
+    const gsWithCount = gsPapers.map(g => ({
+        id: g,
+        count: data.filter(d => storyMeta[d.id] && storyMeta[d.id].gs.includes(g)).length
+    })).filter(g => g.count > 0);
+    if (gsWithCount.length > 0) {
+        html += '<span class="tab-divider"></span>';
+        html += gsWithCount.map(g =>
+            `<button class="sf-btn${gsFilter === g.id ? ' active' : ''}" onclick="toggleGsFilter('${g.id}')">${g.id}<span class="sf-count">${g.count}</span></button>`
+        ).join('');
+    }
+
+    // Archive link
+    html += `<button class="sf-btn" onclick="openArchive()" style="margin-left:auto;">Past Months</button>`;
+
+    document.getElementById('tabs').innerHTML = html;
+}
+
+function getFiltered() {
+    let arr = getTimeFiltered();
+    if (filter === 'upsc') arr = arr.filter(d => d.upsc);
+    else if (filter !== 'all') arr = arr.filter(d => d.cat === filter);
+    if (gsFilter) {
+        arr = arr.filter(d => {
+            const meta = storyMeta[d.id];
+            return meta && meta.gs.includes(gsFilter);
+        });
+    }
+    if (query) {
+        const q = query.toLowerCase();
+        arr = arr.filter(d => d.title.toLowerCase().includes(q) || d.summary.toLowerCase().includes(q));
+    }
+    return arr;
+}
+
+function renderSmartBadges(id) {
+    const meta = storyMeta[id];
+    if (!meta) return '';
+    const src = sourceLabels[meta.sourceType] || sourceLabels.media;
+    const gs = meta.gs.map(g => `<span class="gs-badge ${g.toLowerCase()}">${g}</span>`).join('');
+    return `<div class="gs-badges">${gs}<span class="source-badge ${meta.sourceType}">${src.icon} ${src.label}</span></div>`;
+}
+
+function renderDifficulty(id) {
+    const meta = storyMeta[id];
+    if (!meta) return '';
+    const d = meta.difficulty;
+    const cls = d >= 3 ? 'hard' : d >= 2 ? 'medium' : '';
+    const labels = ['Foundational', 'Intermediate', 'Advanced'];
+    return `<div class="difficulty-dots" title="${labels[d-1]}">
+        ${[1,2,3].map(i => `<span class="difficulty-dot${i <= d ? ' filled ' + cls : ''}"></span>`).join('')}
+        <span style="font-size:9px;color:var(--text-3);margin-left:2px;">${labels[d-1]}</span>
+    </div>`;
+}
+
+function renderRelevance(id) {
+    const meta = storyMeta[id];
+    if (!meta) return '';
+    const r = meta.relevance;
+    const cls = r >= 85 ? 'high' : r >= 60 ? 'medium' : 'low';
+    const label = r >= 85 ? 'High Yield' : r >= 60 ? 'Medium Yield' : 'Low Yield';
+    return `<div class="relevance-indicator">
+        <span>Exam Relevance</span>
+        <div class="relevance-bar"><div class="relevance-fill ${cls}" style="width:${r}%"></div></div>
+        <span style="font-weight:600;color:var(--${cls === 'high' ? 'green' : cls === 'medium' ? 'orange' : 'text-3'})">${label}</span>
+    </div>`;
+}
+
+// renderSmartFilters and renderTimeFilters merged into renderSubFilters above
+
+// Normalize markdown bold to HTML strong for display
+function normBold(s) { return s.replace(/\*\*(.+?)\*\*/g, '<strong>$1</strong>'); }
+
+function renderVis(d) {
+    if (!d.visual || !d.vdata || !d.vdata.length) return '';
+    // Filter out trivial/placeholder vdata items
+    const meaningful = d.vdata.filter(v =>
+        v.val !== 'N/A' && v.val !== 'NEW' &&
+        !(v.label && /hour of|day of|date of/i.test(v.label))
+    );
+    if (!meaningful.length) return '';
+    const orig = d.vdata;
+    d.vdata = meaningful;
+    if (d.visual === 'comparison') {
+        return d.vdata.map(v => `<div class="visual-row${v.hl ? ' hl' : ''}"><div class="vr-left"><span class="vr-flag">${v.flag || ''}</span><span class="vr-name">${v.name || ''}</span></div><span class="vr-value">${v.val}</span></div>`).join('');
+    }
+    if (d.visual === 'stats') {
+        return `<div class="mini-stats">${d.vdata.map(v => `<div class="mini-stat"><div class="mini-stat-value">${v.val}</div><div class="mini-stat-label">${v.label}</div></div>`).join('')}</div>`;
+    }
+    if (d.visual === 'progress') {
+        const result = d.vdata.map(v => `<div class="pm-row"><span class="pm-label">${v.label}</span><div class="pm-bar"><div class="pm-fill" style="width:${v.pct || 0}%"></div></div><span class="pm-value">${v.val}</span></div>`).join('');
+        d.vdata = orig;
+        return result;
+    }
+    d.vdata = orig;
+    return '';
+}
+
+
+let currentStoryId = null;
+
+function render() {
+    const filtered = getFiltered();
+    const list = filtered.slice(0, shown);
+    const feed = document.getElementById('feed');
+
+    renderProgress();
+
+    if (list.length === 0) {
+        feed.innerHTML = `<div class="empty"><div class="empty-icon">🔍</div><div class="empty-title">No stories found</div><div class="empty-text">Try different filters or search</div></div>`;
+        document.getElementById('endMsg').classList.add('hidden');
+        return;
+    }
+
+    const feat = list[0];
+    const featSaved = saved.includes(feat.id);
+    const featRead = readItems.includes(feat.id);
+
+    const featMeta = storyMeta[feat.id];
+    const featGs = featMeta ? featMeta.gs.map(g => `<span class="gs-badge ${g.toLowerCase()}">${g}</span>`).join('') : '';
+
+    let html = `<div class="featured" style="animation-delay:0.03s" onclick="openReader(${feat.id})">
+        <span class="featured-badge">⚡ TOP STORY</span>
+        <h2 class="featured-title">${feat.title}</h2>
+        <p class="featured-summary">${feat.summary}</p>
+        <div class="featured-footer">
+            <div style="display:flex;align-items:center;gap:6px;flex-wrap:wrap;">
+                <span class="badge-cat ${feat.cat}">${feat.cat}</span>
+                ${featGs}
+                <span style="color:var(--text-3);font-size:11px;">${feat.src} · ${feat.time}</span>
+            </div>
+        </div>
+    </div>`;
+
+    html += list.slice(1).map((d, i) => {
+        const isSaved = saved.includes(d.id);
+        const isRead = readItems.includes(d.id);
+        const meta = storyMeta[d.id];
+        const visHtml = renderVis(d);
+        const gsHtml = meta ? meta.gs.slice(0, 2).map(g => `<span class="gs-badge ${g.toLowerCase()}">${g}</span>`).join('') : '';
+        const delay = Math.min(0.04 * (i + 1), 0.3);
+        return `<article class="card${isRead ? ' read-card' : ''}" style="animation-delay:${delay}s" onclick="openReader(${d.id})">
+            <div class="card-main">
+                <div class="card-top">
+                    <div class="card-badges">
+                        <span class="badge-cat ${d.cat}">${d.cat}</span>
+                        ${gsHtml}
+                    </div>
+                    <span class="card-time">${d.time}</span>
+                </div>
+                <h3 class="card-title">${d.title}</h3>
+                <p class="card-summary">${d.summary.length > 120 ? d.summary.substring(0, 120) + '...' : d.summary}</p>
+            </div>
+            ${visHtml ? `<div class="card-visual">${visHtml}</div>` : (d.prelims && d.prelims.length ? `<div class="card-keyfact"><div class="card-keyfact-text">${normBold(d.prelims[0])}</div></div>` : '')}
+            <div class="card-actions">
+                <span class="card-source">${d.src}</span>
+                ${isRead ? '<span class="card-read-indicator">✓ Read</span>' : ''}
+                ${isSaved ? '<span style="font-size:10px;color:var(--green);">★</span>' : ''}
+            </div>
+        </article>`;
+    }).join('');
+
+    feed.innerHTML = html;
+    document.getElementById('endMsg').classList.toggle('hidden', shown < filtered.length);
+    renderTabs();
+    updateBadge();
+}
+
+// Reader functions
+function openReader(id) {
+    currentStoryId = id;
+    const d = data.find(s => s.id === id);
+    if (!d) return;
+
+    // Reset UI in case coming from topic view
+    resetReaderUI();
+
+    // Auto-mark as read
+    if (!readItems.includes(id)) {
+        readItems.push(id);
+        localStorage.setItem('bytes_read', JSON.stringify(readItems));
+    }
+
+    updateReaderButtons();
+    renderReaderContent(d);
+    document.getElementById('reader').classList.add('show');
+    document.body.style.overflow = 'hidden';
+
+    // Update nav buttons
+    updateNavButtons();
+}
+
+function closeReader() {
+    resetReaderUI();
+    document.getElementById('reader').classList.remove('show');
+    document.body.style.overflow = '';
+    currentStoryId = null;
+    render(); // Re-render to update read status on cards
+}
+
+function renderReaderContent(d) {
+    const meta = storyMeta[d.id];
+    const src = meta ? sourceLabels[meta.sourceType] : null;
+    const visHtml = renderVis(d);
+    let html = `
+        <h1 class="reader-title">${d.title}</h1>
+        <div class="reader-meta">
+            <span class="badge-cat ${d.cat}">${d.cat}</span>
+            ${meta ? meta.gs.map(g => `<span class="gs-badge ${g.toLowerCase()}">${g}</span>`).join('') : ''}
+            ${src ? `<span class="source-badge ${meta.sourceType}">${src.icon} ${src.label}</span>` : ''}
+            <span style="color:var(--text-3);font-size:12px;">${d.src} · ${d.time}</span>
+        </div>
+        ${meta ? `<div style="display:flex;align-items:center;gap:16px;margin-bottom:12px;">${renderDifficulty(d.id)}${renderRelevance(d.id)}</div>` : ''}
+        <p class="reader-summary">${d.summary}</p>
+        ${visHtml ? `<div class="reader-visual">
+            <div class="reader-visual-title">Key Numbers to Remember</div>
+            <div class="prelims-subtitle">Statistics and figures likely to appear in prelims</div>
+            ${visHtml}
+        </div>` : ''}
+    `;
+
+    // UPSC Deep Dive sections
+    if (d.upsc && d.prelims.length) {
+        html += `
+            <div class="deep-section">
+                <div class="deep-header">
+                    <div class="deep-icon prelims">📝</div>
+                    <div class="deep-title">Prelims Focus</div>
+                </div>
+                <div class="prelims-subtitle">Key facts beyond the headline — constitutional provisions, establishment dates, and exam-relevant context</div>
+                <div class="prelims-grid">
+                    ${d.prelims.map(p => `<div class="prelims-fact"><span class="prelims-bullet">•</span><span class="prelims-text">${normBold(p)}</span></div>`).join('')}
+                </div>
+            </div>
+        `;
+    }
+
+    if (d.mains && d.mains.q) {
+        const dir = meta ? directiveWords[meta.directive] : null;
+        html += `
+            <div class="deep-section">
+                <div class="deep-header">
+                    <div class="deep-icon mains">✍️</div>
+                    <div class="deep-title">Mains Probable</div>
+                </div>
+                <div class="mains-question">
+                    <div class="mains-q-label">📌 Probable Question</div>
+                    ${dir ? `<div class="directive-tag">${dir.label}<span style="font-size:8px;">ⓘ</span><div class="directive-tooltip"><strong>${dir.label}:</strong> ${dir.meaning}</div></div>` : ''}
+                    <div class="mains-q-text">"${d.mains.q}"</div>
+                    <span class="mains-marks">${d.mains.marks}</span>
+                    ${d.mains.hints.length ? `<div class="mains-hints">
+                        <div class="mains-hint-label">Answer Framework</div>
+                        ${d.mains.hints.map(h => `<div class="mains-hint">${typeof h === 'object' ? `${h.point} <span style="color:var(--purple);font-size:11px;">(${h.marks}m)</span>` : h}</div>`).join('')}
+                    </div>` : ''}
+                </div>
+            </div>
+        `;
+    }
+
+    // MCQ Practice Section
+    if (meta && meta.mcqs && meta.mcqs.length > 0) {
+        html += renderMCQSection(d.id, meta.mcqs);
+    }
+
+    if (d.connect && d.connect.length) {
+        const isRich = typeof d.connect[0] === 'object' && d.connect[0].topic;
+        html += `
+            <div class="deep-section">
+                <div class="deep-header">
+                    <div class="deep-icon connect">🔗</div>
+                    <div class="deep-title">Syllabus Interlinkages</div>
+                </div>
+                ${isRich ? `<div class="connect-grid">
+                    ${d.connect.map((c, i) => `<div class="connect-item" onclick="topicHistory=[];searchTopicFromConnect(${d.id},${i})">
+                        <div class="connect-topic">${c.topic}<span class="arrow">↗</span></div>
+                        <div class="connect-context">${c.context || ''}</div>
+                    </div>`).join('')}
+                </div>` : `<div class="connect-tags">
+                    ${d.connect.map(c => `<span class="connect-tag" onclick="topicHistory=[];searchTopic('${c}')">${c}<span class="arrow">↗</span></span>`).join('')}
+                </div>`}
+            </div>
+        `;
+    }
+
+    document.getElementById('readerBody').innerHTML = html;
+}
+
+function findRelatedTopics(topicName) {
+    // First: use the curated related list from topics.json
+    const topicEntry = topics[topicName];
+    if (topicEntry && topicEntry.related && topicEntry.related.length) {
+        return topicEntry.related.filter(r => topics[r]).slice(0, 5);
+    }
+    // Fallback: co-occurring topics from stories
+    const coTopics = new Set();
+    data.forEach(d => {
+        if (d.connect && d.connect.some(c => {
+            const cTopic = typeof c === 'object' ? (c.topic || '') : c;
+            return cTopic.toLowerCase() === topicName.toLowerCase();
+        })) {
+            d.connect.forEach(c => {
+                const cTopic = typeof c === 'object' ? (c.topic || '') : c;
+                if (cTopic.toLowerCase() !== topicName.toLowerCase() && topics[cTopic]) {
+                    coTopics.add(cTopic);
+                }
+            });
+        }
+    });
+    return Array.from(coTopics).slice(0, 5);
+}
+
+function searchTopicFromConnect(storyId, connectIdx) {
+    const story = data.find(d => d.id === storyId);
+    if (!story || !story.connect[connectIdx]) return;
+    const c = story.connect[connectIdx];
+    const topic = typeof c === 'object' ? c.topic : c;
+    const context = typeof c === 'object' ? c.context : '';
+    searchTopic(topic, context);
+}
+
+function searchTopic(topic, context) {
+    // Tier 1: Alias resolution + exact match
+    const resolved = topicAliases[topic] || topic;
+    const exactMatch = topics[resolved];
+    if (exactMatch) {
+        openTopicView(resolved, exactMatch, context);
+        return;
+    }
+
+    // Tier 2: Case-insensitive exact match
+    const ciKey = Object.keys(topics).find(k =>
+        k.toLowerCase() === resolved.toLowerCase()
+    );
+    if (ciKey) {
+        openTopicView(ciKey, topics[ciKey], context);
+        return;
+    }
+
+    // Tier 2b: Substring match
+    const partialKey = Object.keys(topics).find(k =>
+        k.toLowerCase().includes(resolved.toLowerCase()) ||
+        resolved.toLowerCase().includes(k.toLowerCase())
+    );
+    if (partialKey) {
+        openTopicView(partialKey, topics[partialKey], context);
+        return;
+    }
+
+    // Tier 3: Synthetic topic view from story context
+    const linkedStories = data.filter(d =>
+        d.connect && d.connect.some(c => {
+            const cTopic = typeof c === 'object' ? (c.topic || '') : c;
+            return cTopic.toLowerCase() === resolved.toLowerCase();
+        })
+    );
+
+    if (linkedStories.length > 0) {
+        // Build richer synthetic facts from connect contexts
+        const syntheticFacts = [];
+        linkedStories.slice(0, 5).forEach(s => {
+            const connectObj = s.connect.find(c => {
+                const cTopic = typeof c === 'object' ? (c.topic || '') : c;
+                return cTopic.toLowerCase() === resolved.toLowerCase();
+            });
+            const ctx = typeof connectObj === 'object' ? connectObj.context : '';
+            if (ctx) {
+                syntheticFacts.push(`<strong>${s.title}:</strong> ${ctx}`);
+            } else {
+                syntheticFacts.push(`<strong>${s.title}:</strong> ${s.summary.length > 200 ? s.summary.substring(0, 200) + '…' : s.summary}`);
+            }
+        });
+        const syntheticTopic = {
+            title: resolved,
+            desc: `This topic connects ${linkedStories.length} current affairs ${linkedStories.length === 1 ? 'story' : 'stories'} in the UPSC syllabus. Explore the context and linked stories below.`,
+            facts: syntheticFacts,
+            related: findRelatedTopics(resolved)
+        };
+        openTopicView(resolved, syntheticTopic, context);
+    } else {
+        toast(`No information available yet for: ${topic}`);
+    }
+}
+
+function openTopicView(topicName, topicData, connectContext) {
+    currentStoryId = null; // Not a story, it's a topic
+
+    // Push to history for breadcrumb navigation
+    topicHistory.push(topicName);
+
+    // Find related stories that mention this topic
+    const relatedStories = data.filter(d =>
+        d.connect && d.connect.some(c => {
+            const cTopic = typeof c === 'object' ? (c.topic || '') : c;
+            return cTopic.toLowerCase().includes(topicName.toLowerCase());
+        }) ||
+        d.title.toLowerCase().includes(topicName.toLowerCase()) ||
+        d.summary.toLowerCase().includes(topicName.toLowerCase())
+    ).slice(0, 5);
+
+    // Breadcrumb navigation
+    let breadcrumbHtml = '';
+    if (topicHistory.length > 1) {
+        const prevTopic = topicHistory[topicHistory.length - 2];
+        breadcrumbHtml = `<div style="margin-bottom:12px;display:flex;align-items:center;gap:6px;">
+            <span onclick="goBackTopic()" style="cursor:pointer;font-size:13px;color:var(--purple);display:flex;align-items:center;gap:4px;">
+                ← Back to ${prevTopic.length > 40 ? prevTopic.substring(0,40)+'…' : prevTopic}
+            </span>
+            <span style="font-size:11px;color:var(--text-3);margin-left:auto;">Depth: ${topicHistory.length}</span>
+        </div>`;
+    }
+
+    let html = breadcrumbHtml + `
+        <div style="display:flex;align-items:center;gap:8px;margin-bottom:16px;">
+            <span style="font-size:24px;">📖</span>
+            <span class="badge-upsc" style="font-size:11px;">UPSC TOPIC</span>
+        </div>
+        <h1 class="reader-title">${topicData.title}</h1>
+        <p class="reader-summary">${topicData.desc}</p>
+    `;
+
+    // Show context from the connect tag if available
+    if (connectContext) {
+        html += `<div style="padding:12px 16px;background:var(--surface-2);border-left:3px solid var(--purple);border-radius:0 8px 8px 0;margin-bottom:20px;font-size:13px;color:var(--text-2);line-height:1.5;">
+            <strong style="color:var(--purple);">Why this matters:</strong> ${connectContext}
+        </div>`;
+    }
+
+    html += `
+        <div class="deep-section">
+            <div class="deep-header">
+                <div class="deep-icon prelims">📝</div>
+                <div class="deep-title">Key Facts for Prelims</div>
+            </div>
+            <div class="prelims-grid">
+                ${topicData.facts.map(f => `<div class="prelims-fact"><span class="prelims-bullet">•</span><span class="prelims-text">${normBold(f)}</span></div>`).join('')}
+            </div>
+        </div>
+    `;
+
+    // Related topics as rich cards
+    if (topicData.related && topicData.related.length) {
+        html += `
+            <div class="deep-section">
+                <div class="deep-header">
+                    <div class="deep-icon connect">🔗</div>
+                    <div class="deep-title">Explore Related Topics</div>
+                </div>
+                <div style="display:flex;flex-direction:column;gap:10px;">
+                    ${topicData.related.map(r => {
+                        const rData = topics[r];
+                        if (rData) {
+                            return `<div onclick="searchTopic('${r.replace(/'/g, "\\'")}')" style="padding:12px;background:var(--surface-2);border-radius:8px;cursor:pointer;border:1px solid var(--border);transition:border-color 0.2s;" onmouseover="this.style.borderColor='var(--purple)'" onmouseout="this.style.borderColor='var(--border)'">
+                                <div style="font-size:14px;font-weight:600;color:var(--text-1);margin-bottom:4px;display:flex;align-items:center;justify-content:space-between;">${rData.title}<span style="color:var(--purple);font-size:12px;">↗</span></div>
+                                <div style="font-size:12px;color:var(--text-3);line-height:1.4;">${rData.desc.length > 150 ? rData.desc.substring(0,150)+'…' : rData.desc}</div>
+                            </div>`;
+                        }
+                        return `<span class="connect-tag" onclick="searchTopic('${r.replace(/'/g, "\\'")}')">${r}<span class="arrow">↗</span></span>`;
+                    }).join('')}
+                </div>
+            </div>
+        `;
+    }
+
+    // Related news stories
+    if (relatedStories.length) {
+        html += `
+            <div class="deep-section">
+                <div class="deep-header">
+                    <div class="deep-icon mains">📰</div>
+                    <div class="deep-title">Related Current Affairs</div>
+                </div>
+                <div style="display:flex;flex-direction:column;gap:12px;">
+                    ${relatedStories.map(s => `
+                        <div onclick="openReader(${s.id})" style="padding:12px;background:var(--surface-2);border-radius:8px;cursor:pointer;border:1px solid var(--border);">
+                            <div style="display:flex;align-items:center;gap:8px;margin-bottom:6px;">
+                                <span class="badge-cat ${s.cat}" style="font-size:9px;padding:2px 6px;">${s.cat}</span>
+                                <span style="font-size:11px;color:var(--text-3);">${s.time}</span>
+                            </div>
+                            <div style="font-size:14px;font-weight:600;line-height:1.3;">${s.title}</div>
+                        </div>
+                    `).join('')}
+                </div>
+            </div>
+        `;
+    }
+
+    const readerBody = document.getElementById('readerBody');
+    const reader = document.getElementById('reader');
+    const isAlreadyOpen = reader.classList.contains('show');
+
+    if (isAlreadyOpen) {
+        // Crossfade: fade out, swap content, fade in
+        readerBody.style.transition = 'opacity 0.15s ease';
+        readerBody.style.opacity = '0';
+        setTimeout(() => {
+            readerBody.innerHTML = html;
+            readerBody.scrollTop = 0;
+            readerBody.style.opacity = '1';
+        }, 150);
+    } else {
+        readerBody.innerHTML = html;
+        readerBody.scrollTop = 0;
+    }
+
+    // Update header for topic view
+    document.getElementById('readerSaveBtn').style.display = 'none';
+    document.getElementById('readerReadBtn').style.display = 'none';
+
+    reader.classList.add('show');
+    document.body.style.overflow = 'hidden';
+
+    // Hide nav buttons for topic view
+    document.getElementById('prevBtn').style.display = 'none';
+    document.getElementById('nextBtn').style.display = 'none';
+}
+
+function goBackTopic() {
+    if (topicHistory.length > 1) {
+        topicHistory.pop(); // Remove current
+        const prevTopic = topicHistory.pop(); // Get previous (will be re-pushed by openTopicView)
+        searchTopic(prevTopic);
+    }
+}
+
+function resetReaderUI() {
+    document.getElementById('readerSaveBtn').style.display = '';
+    document.getElementById('readerReadBtn').style.display = '';
+    document.getElementById('prevBtn').style.display = '';
+    document.getElementById('nextBtn').style.display = '';
+    topicHistory = [];
+}
+
+function updateReaderButtons() {
+    const isSaved = saved.includes(currentStoryId);
+    const isRead = readItems.includes(currentStoryId);
+    document.getElementById('readerSaveBtn').className = `action-btn${isSaved ? ' saved' : ''}`;
+    document.getElementById('readerSaveBtn').innerHTML = isSaved ? '★ Saved' : '☆ Save';
+    document.getElementById('readerReadBtn').className = `action-btn${isRead ? ' read' : ''}`;
+    document.getElementById('readerReadBtn').innerHTML = isRead ? '✓ Read' : '○ Read';
+}
+
+function toggleSaveFromReader() {
+    const idx = saved.indexOf(currentStoryId);
+    if (idx > -1) { saved.splice(idx, 1); toast('Removed from saved'); }
+    else { saved.push(currentStoryId); toast('Added to Reading List'); }
+    localStorage.setItem('bytes_saved', JSON.stringify(saved));
+    updateReaderButtons();
+}
+
+function toggleReadFromReader() {
+    const idx = readItems.indexOf(currentStoryId);
+    if (idx > -1) { readItems.splice(idx, 1); toast('Marked unread'); }
+    else { readItems.push(currentStoryId); toast('Marked as read'); }
+    localStorage.setItem('bytes_read', JSON.stringify(readItems));
+    updateReaderButtons();
+}
+
+function updateNavButtons() {
+    const filtered = getFiltered();
+    const idx = filtered.findIndex(d => d.id === currentStoryId);
+    document.getElementById('prevBtn').disabled = idx <= 0;
+    document.getElementById('nextBtn').disabled = idx >= filtered.length - 1;
+}
+
+function navStory(dir) {
+    const filtered = getFiltered();
+    const idx = filtered.findIndex(d => d.id === currentStoryId);
+    const newIdx = idx + dir;
+    if (newIdx >= 0 && newIdx < filtered.length) {
+        openReader(filtered[newIdx].id);
+    }
+}
+
+function toggleRead(id) {
+    const idx = readItems.indexOf(id);
+    if (idx > -1) { readItems.splice(idx, 1); }
+    else { readItems.push(id); }
+    localStorage.setItem('bytes_read', JSON.stringify(readItems));
+    render();
+}
+
+function toggleSave(id) {
+    const idx = saved.indexOf(id);
+    if (idx > -1) { saved.splice(idx, 1); toast('Removed from saved'); }
+    else { saved.push(id); toast('Saved'); }
+    localStorage.setItem('bytes_saved', JSON.stringify(saved));
+    render();
+}
+
+function updateBadge() { document.getElementById('badge').style.display = saved.length ? 'block' : 'none'; }
+
+function openPanel() {
+    document.getElementById('overlay').classList.add('show');
+    document.getElementById('panel').classList.add('show');
+    renderPanel();
+}
+
+function closePanel() {
+    document.getElementById('overlay').classList.remove('show');
+    document.getElementById('panel').classList.remove('show');
+}
+
+function renderPanel() {
+    const items = data.filter(d => saved.includes(d.id));
+    const c = document.getElementById('panelContent');
+    if (!items.length) {
+        c.innerHTML = '<div class="empty"><div class="empty-icon">📚</div><div class="empty-title">Your reading list is empty</div><div class="empty-text">Save stories to read them later</div></div>';
+        return;
+    }
+    c.innerHTML = items.map(d => {
+        const isRead = readItems.includes(d.id);
+        return `<div class="saved-item" onclick="closePanel();openReader(${d.id})" style="cursor:pointer;">
+            <div style="flex:1;">
+                <div class="saved-title">${d.title}</div>
+                <div class="saved-cat">
+                    <span class="badge-cat ${d.cat}" style="font-size:9px;padding:2px 6px;">${d.cat}</span>
+                    ${isRead ? '<span style="color:var(--purple);margin-left:8px;">✓ Read</span>' : '<span style="color:var(--orange);margin-left:8px;">○ Unread</span>'}
+                </div>
+            </div>
+            <button class="saved-remove" onclick="event.stopPropagation();toggleSave(${d.id});renderPanel()">×</button>
+        </div>`;
+    }).join('');
+}
+
+function doSearch() { query = document.getElementById('search').value; gsFilter = null; timeFilter = 'all'; shown = 4; render(); }
+
+document.getElementById('tabs').addEventListener('click', e => {
+    if (e.target.classList.contains('tab')) { filter = e.target.dataset.id; gsFilter = null; shown = 4; render(); }
+});
+
+let loading = false;
+window.addEventListener('scroll', () => {
+    if (loading) return;
+    if (window.innerHeight + window.scrollY >= document.body.offsetHeight - 400) {
+        const filtered = getFiltered();
+        if (shown < filtered.length) {
+            loading = true;
+            document.getElementById('loading').classList.remove('hidden');
+            setTimeout(() => { shown += 6; render(); loading = false; document.getElementById('loading').classList.add('hidden'); }, 200);
+        }
+    }
+});
+
+function toast(msg) {
+    const t = document.getElementById('toast');
+    t.textContent = msg;
+    t.classList.add('show');
+    setTimeout(() => t.classList.remove('show'), 1500);
+}
+
+// ═══ MCQ QUIZ ENGINE ═══
+function renderMCQSection(storyId, mcqs) {
+    if (!quizState[storyId]) {
+        quizState[storyId] = mcqs.map(() => ({ answered: false, selected: null, correct: false }));
+    }
+    const state = quizState[storyId];
+    const answered = state.filter(s => s.answered).length;
+    const correctCount = state.filter(s => s.correct).length;
+
+    let html = `<div class="mcq-section">
+        <div class="mcq-header">
+            <div class="mcq-title">🎯 Prelims Practice — UPSC-Style MCQs</div>
+            <div class="mcq-count">${answered}/${mcqs.length} attempted</div>
+        </div>`;
+
+    mcqs.forEach((mcq, qi) => {
+        const qs = state[qi];
+        const letters = ['a', 'b', 'c', 'd'];
+        html += `<div class="mcq-question">
+            <div class="mcq-q-num">Question ${qi + 1} of ${mcqs.length}</div>
+            <div class="mcq-q-text">${mcq.q.replace(/\n/g, '<br>')}</div>
+            <div class="mcq-options">
+                ${mcq.options.map((opt, oi) => {
+                    let cls = 'mcq-option';
+                    if (qs.answered) {
+                        if (oi === mcq.correct) cls += ' correct';
+                        else if (oi === qs.selected && oi !== mcq.correct) cls += ' wrong';
+                        else if (oi === mcq.correct) cls += ' reveal-correct';
+                    } else if (qs.selected === oi) {
+                        cls += ' selected';
+                    }
+                    const clickable = !qs.answered;
+                    return `<div class="${cls}" ${clickable ? `onclick="event.stopPropagation();selectMCQ(${storyId},${qi},${oi})"` : ''}>
+                        <span class="mcq-option-letter">${letters[oi]}</span>
+                        <span>${opt}</span>
+                    </div>`;
+                }).join('')}
+            </div>
+            ${!qs.answered && qs.selected !== null ? `<div style="text-align:center;margin-top:12px;">
+                <button class="action-btn primary" onclick="event.stopPropagation();submitMCQ(${storyId},${qi})" style="padding:8px 24px;">Check Answer</button>
+            </div>` : ''}
+            <div class="mcq-explanation${qs.answered ? ' show' : ''}" id="mcq-exp-${storyId}-${qi}">
+                ${qs.answered ? `${qs.correct ? '✅ <strong>Correct!</strong>' : '❌ <strong>Incorrect.</strong>'} ${mcq.explanation}
+                ${mcq.trap ? `<br><span class="mcq-trap-tag">⚠ UPSC Trap: ${mcq.trap}</span>` : ''}` : ''}
+            </div>
+        </div>`;
+    });
+
+    if (answered === mcqs.length) {
+        html += `<div class="mcq-score">
+            <div class="mcq-score-num">${correctCount}/${mcqs.length}</div>
+            <div class="mcq-score-label">${correctCount === mcqs.length ? 'Perfect! You avoided all UPSC traps' : correctCount >= mcqs.length / 2 ? 'Good attempt — review the traps you missed' : 'Review the explanations carefully — learn the trap patterns'}</div>
+        </div>`;
+    }
+
+    html += `</div>`;
+    return html;
+}
+
+function selectMCQ(storyId, qIdx, optIdx) {
+    if (!quizState[storyId]) return;
+    const qs = quizState[storyId][qIdx];
+    if (qs.answered) return;
+    qs.selected = optIdx;
+    // Re-render reader content
+    const d = data.find(s => s.id === storyId);
+    if (d) renderReaderContent(d);
+}
+
+function submitMCQ(storyId, qIdx) {
+    if (!quizState[storyId]) return;
+    const qs = quizState[storyId][qIdx];
+    const meta = storyMeta[storyId];
+    if (!meta || qs.answered || qs.selected === null) return;
+    qs.answered = true;
+    qs.correct = qs.selected === meta.mcqs[qIdx].correct;
+    // Re-render reader content
+    const d = data.find(s => s.id === storyId);
+    if (d) renderReaderContent(d);
+    // Persist quiz state
+    try { localStorage.setItem('bytes_quiz', JSON.stringify(quizState)); } catch(e) {}
+    if (qs.correct) toast('✅ Correct!');
+    else toast('❌ Review the explanation');
+}
+
+// ═══ GS PAPER FILTER ═══
+function toggleGsFilter(gs) {
+    gsFilter = gsFilter === gs ? null : gs;
+    shown = 4;
+    render();
+}
+
+// ═══ COMPACT HEADER PROGRESS ═══
+function renderProgress() {
+    const upscStories = data.filter(d => d.upsc);
+    const readUpsc = upscStories.filter(d => readItems.includes(d.id)).length;
+    const pct = upscStories.length > 0 ? Math.round((readUpsc / upscStories.length) * 100) : 0;
+    const circumference = 2 * Math.PI * 10;
+    const offset = circumference - (pct / 100) * circumference;
+
+    // Compact ring in header
+    document.getElementById('headerProgress').innerHTML = `
+        <svg width="24" height="24">
+            <circle class="bg" cx="12" cy="12" r="10"></circle>
+            <circle class="fill" cx="12" cy="12" r="10"
+                stroke-dasharray="${circumference}"
+                stroke-dashoffset="${offset}"></circle>
+        </svg>
+        <span class="hp-pct">${pct}%</span>
+        <span class="hp-label">${readUpsc}/${upscStories.length}</span>
+    `;
+
+    // Dropdown content
+    const gsPapers = ['GS1', 'GS2', 'GS3', 'GS4', 'Essay'];
+    const gsColors = { GS1: 'var(--yellow)', GS2: 'var(--accent)', GS3: 'var(--green)', GS4: 'var(--purple)', Essay: 'var(--orange)' };
+    let gsProgressHtml = gsPapers.map(gs => {
+        const total = data.filter(d => storyMeta[d.id] && storyMeta[d.id].gs.includes(gs)).length;
+        const read = data.filter(d => storyMeta[d.id] && storyMeta[d.id].gs.includes(gs) && readItems.includes(d.id)).length;
+        const p = total > 0 ? Math.round((read / total) * 100) : 0;
+        if (total === 0) return '';
+        return `<div class="gs-progress-item">
+            <div class="label">${gs}</div>
+            <div class="bar"><div class="fill" style="width:${p}%;background:${gsColors[gs]}"></div></div>
+            <div class="count" style="color:${gsColors[gs]}">${read}/${total}</div>
+        </div>`;
+    }).join('');
+
+    const timeText = lastUpdated ? (() => {
+        const diff = Math.floor((new Date() - lastUpdated) / 1000);
+        if (diff < 60) return 'just now';
+        if (diff < 3600) return Math.floor(diff / 60) + 'm ago';
+        if (diff < 86400) return Math.floor(diff / 3600) + 'h ago';
+        return lastUpdated.toLocaleDateString();
+    })() : '';
+
+    document.getElementById('progressDropdown').innerHTML = `
+        <div class="pd-title">Reading Progress</div>
+        <div class="pd-stat">${readUpsc} of ${upscStories.length} stories read${timeText ? ' · Updated ' + timeText : ''}</div>
+        <div class="gs-progress-grid">${gsProgressHtml}</div>
+    `;
+}
+
+function toggleProgressDropdown() {
+    const dd = document.getElementById('progressDropdown');
+    dd.classList.toggle('open');
+    // Close on outside click
+    if (dd.classList.contains('open')) {
+        setTimeout(() => {
+            document.addEventListener('click', function closeDD(e) {
+                if (!dd.contains(e.target) && !document.getElementById('headerProgress').contains(e.target)) {
+                    dd.classList.remove('open');
+                    document.removeEventListener('click', closeDD);
+                }
+            });
+        }, 0);
+    }
+}
+
+// Restore quiz state from localStorage
+try {
+    const savedQuiz = localStorage.getItem('bytes_quiz');
+    if (savedQuiz) quizState = JSON.parse(savedQuiz);
+} catch(e) {}
+
+// Boot: fetch stories then render
+fetchStories(true);
+</script>
+</body>
+</html>

@@ -1,0 +1,22 @@
+# Python
+pipeline/.venv/
+__pycache__/
+*.pyc
+
+# Environment
+.env
+.env.local
+*.local
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Backups
+app-backup.html
+
+# Editor
+.vscode/
+.idea/
+*.swp
+*.swo
