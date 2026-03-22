@@ -1,6 +1,332 @@
 [
   {
     "id": 1,
+    "title": "Iran War Impact",
+    "cat": "economy",
+    "upsc": true,
+    "time": "just now",
+    "summary": "The Iran war has disrupted the Gulf, threatening India's strong growth story due to rising energy prices and disrupted trade. This situation matters for UPSC as it affects India's economic development and has implications for the country's energy security. It connects to the syllabus area of GS3, which covers economic development and energy security.",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": 70,
+        "label": "Percentage of India's oil imports from the Middle East"
+      },
+      {
+        "val": 150,
+        "label": "Number of million barrels of oil imported by India per day"
+      },
+      {
+        "val": 50,
+        "label": "Percentage of India's energy consumption met by oil and gas"
+      }
+    ],
+    "src": "ET Economy",
+    "link": "https://economictimes.indiatimes.com/news/economy/indicators/as-iran-war-disrupts-the-gulf-indias-growth-story-faces-new-risks/articleshow/129728352.cms",
+    "prelims": [
+      "The <strong>Organization of the Petroleum Exporting Countries (OPEC)</strong> was established in 1960 to coordinate the production and sale of oil on the global market. OPEC's decisions have a significant impact on the global energy market, and its actions can affect the price of oil and gas. India, being a major oil importer, is particularly vulnerable to OPEC's decisions.",
+      "The <strong>Indian economy's dependence on oil imports</strong> makes it susceptible to fluctuations in global oil prices. The country's oil import bill is a significant component of its trade deficit, and any increase in oil prices can have a negative impact on the economy. The government has been trying to reduce the country's dependence on oil imports by promoting the use of alternative energy sources.",
+      "The <strong>Iran-Pakistan-India (IPI) gas pipeline</strong> project has been in the works for several years, but its implementation has been delayed due to various reasons, including geopolitical tensions. The project aims to transport natural gas from Iran to India via Pakistan, which would help reduce India's dependence on oil imports and promote energy security.",
+      "The <strong>Ministry of Petroleum and Natural Gas</strong> is responsible for the exploration, production, and distribution of oil and gas in India. The ministry has been working to promote the use of alternative energy sources, such as solar and wind power, to reduce the country's dependence on fossil fuels. It has also been trying to increase the production of oil and gas in the country to reduce imports.",
+      "The <strong>Energy Security Policy</strong> of India aims to promote energy security by reducing the country's dependence on oil imports and promoting the use of alternative energy sources. The policy also aims to increase the production of oil and gas in the country and to promote energy efficiency. The policy is crucial for India's economic development and has implications for the country's energy security."
+    ],
+    "mains": {
+      "q": "Analyze the impact of the Iran war on India's energy security and economic development.",
+      "marks": "15 marks · GS3",
+      "directive": "analyze",
+      "hints": [
+        "Introduction (2 marks): Define energy security and its importance for India's economic development.",
+        "Body - Impact on energy prices (3 marks): Discuss how the Iran war has affected global oil prices and what impact this has had on India's energy security.",
+        "Body - Economic implications (3 marks): Examine the economic implications of the Iran war on India, including its impact on the trade deficit and inflation.",
+        "Body - Alternative energy sources (3 marks): Analyze the potential of alternative energy sources, such as solar and wind power, to reduce India's dependence on oil imports.",
+        "Conclusion (2 marks): Summarize the main points and suggest ways to promote energy security and reduce the impact of the Iran war on India's economy."
+      ]
+    },
+    "connect": [
+      {
+        "topic": "Energy Security Policy",
+        "context": "The policy aims to promote energy security by reducing the country's dependence on oil imports and promoting the use of alternative energy sources."
+      },
+      {
+        "topic": "OPEC and Global Oil Prices",
+        "context": "OPEC's decisions have a significant impact on the global energy market, and its actions can affect the price of oil and gas."
+      },
+      {
+        "topic": "IPI Gas Pipeline Project",
+        "context": "The project aims to transport natural gas from Iran to India via Pakistan, which would help reduce India's dependence on oil imports and promote energy security."
+      },
+      {
+        "topic": "Ministry of Petroleum and Natural Gas",
+        "context": "The ministry is responsible for the exploration, production, and distribution of oil and gas in India and has been working to promote the use of alternative energy sources."
+      },
+      {
+        "topic": "India's Trade Deficit",
+        "context": "The trade deficit is a significant component of India's economy, and any increase in oil prices can have a negative impact on the economy."
+      }
+    ],
+    "_hash": "7275d363c6bf",
+    "_fetched": "2026-03-22T07:00:57.894614+00:00",
+    "_relevance": 52,
+    "_gs": [
+      "GS2",
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "analyze",
+    "_mcqs": {
+      "q": "Consider the following statements:\n1. The Iran war has led to a decrease in global oil prices.\n2. India is a major oil exporter.\n3. The IPI gas pipeline project aims to transport natural gas from Iran to India via Pakistan.\nWhich of the above is/are correct?",
+      "options": [
+        "1 only",
+        "1 and 2 only",
+        "2 and 3 only",
+        "1, 2 and 3"
+      ],
+      "correct": 3,
+      "explanation": "Statement 1 is incorrect: The Iran war has led to an increase in global oil prices. Statement 2 is incorrect: India is a major oil importer, not exporter. Statement 3 is correct: The IPI gas pipeline project aims to transport natural gas from Iran to India via Pakistan.",
+      "trap": "Absolute Language"
+    }
+  },
+  {
+    "id": 2,
+    "title": "UK Submarine in Arabian Sea",
+    "cat": "world",
+    "upsc": true,
+    "time": "just now",
+    "summary": "The UK has positioned a nuclear-powered submarine, HMS Anson, in the Arabian Sea amid regional tensions. This development is crucial for UPSC aspirants as it highlights the geopolitical dynamics in the region and the role of naval power in international relations. The presence of the submarine connects to the GS2 syllabus area, specifically the topic of international relations and maritime security.",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": 3862000,
+        "label": "Area of the Arabian Sea (square kilometers)"
+      },
+      {
+        "val": 16,
+        "label": "Number of countries bordering the Arabian Sea"
+      },
+      {
+        "val": 1994,
+        "label": "Year the International Maritime Organization (IMO) adopted the Convention for the Suppression of Unlawful Acts Against the Safety of Maritime Navigation (SUA)"
+      }
+    ],
+    "src": "The Hindu International",
+    "link": "https://www.thehindu.com/news/international/uk-nuclear-powered-submarine-positioned-in-arabian-sea-amid-regional-tensions-daily-mail-reports/article70771563.ece",
+    "prelims": [
+      "The <strong>Arabian Sea</strong> is a vital body of water located in the northwest part of the Indian Ocean, covering an area of approximately 3,862,000 square kilometers. It plays a significant role in international trade and maritime security. The sea's geographical features, including its connection to the Persian Gulf and the Red Sea, make it a critical region for global commerce and naval operations.",
+      "The <strong>United Kingdom's</strong> decision to position a nuclear-powered submarine in the Arabian Sea reflects its strategic interests in the region, including the protection of sea lanes and the maintenance of stability in the Middle East. This move is also indicative of the UK's commitment to its allies in the region and its desire to counterbalance the influence of other naval powers.",
+      "The <strong>Indo-Pacific</strong> region, which includes the Arabian Sea, has become a focal point of international relations, with several nations, including India, the US, and China, vying for influence. The region's strategic importance is underscored by its critical sea lanes, which are essential for global trade and economic stability. The presence of foreign naval powers in the region highlights the complexities of international relations and the need for diplomacy and cooperation.",
+      "The <strong>International Maritime Organization (IMO)</strong> plays a crucial role in regulating maritime security and safety in the Arabian Sea and other international waters. The IMO's conventions and protocols, such as the Convention for the Suppression of Unlawful Acts Against the Safety of Maritime Navigation (SUA), aim to prevent and respond to maritime threats, including piracy, terrorism, and environmental pollution.",
+      "The <strong>United Nations Convention on the Law of the Sea (UNCLOS)</strong> provides the framework for the use of the world's oceans, including the Arabian Sea. The convention establishes the rights and responsibilities of nations in relation to the use of the sea, including navigation, overflight, and the exploitation of marine resources. Understanding UNCLOS is essential for analyzing the legal and political aspects of maritime security and international relations."
+    ],
+    "mains": {
+      "q": "Analyze the implications of the presence of foreign naval powers in the Arabian Sea on regional stability and international relations.",
+      "marks": "15 marks · GS2",
+      "directive": "analyze",
+      "hints": [
+        "Introduction (2 marks): Define the Arabian Sea's strategic importance and the role of naval powers in international relations.",
+        "Body - Regional stability (3 marks): Discuss the potential impact of foreign naval presence on regional stability, including the risk of conflict and the need for diplomacy.",
+        "Body - International relations (3 marks): Examine the implications of the UK's decision to position a submarine in the Arabian Sea on its relations with other nations in the region, including India and China.",
+        "Body - Maritime security (3 marks): Analyze the role of international organizations, such as the IMO, in regulating maritime security and safety in the Arabian Sea.",
+        "Conclusion (2 marks): Summarize the key points and reiterate the importance of understanding the complexities of international relations and maritime security in the Arabian Sea."
+      ]
+    },
+    "connect": [
+      {
+        "topic": "Maritime Security and the Law of the Sea",
+        "context": "The presence of foreign naval powers in the Arabian Sea highlights the importance of understanding maritime security and the law of the sea, including the role of the IMO and UNCLOS."
+      },
+      {
+        "topic": "International Relations and Diplomacy",
+        "context": "The UK's decision to position a submarine in the Arabian Sea reflects the complexities of international relations and the need for diplomacy and cooperation in maintaining regional stability."
+      },
+      {
+        "topic": "Geopolitics of the Indo-Pacific Region",
+        "context": "The Arabian Sea is a critical component of the Indo-Pacific region, and understanding its strategic importance is essential for analyzing the geopolitical dynamics of the region."
+      },
+      {
+        "topic": "Naval Power and Maritime Strategy",
+        "context": "The presence of foreign naval powers in the Arabian Sea underscores the significance of naval power and maritime strategy in international relations, including the role of submarines and other naval vessels."
+      },
+      {
+        "topic": "Global Governance and International Organizations",
+        "context": "The IMO and other international organizations play a crucial role in regulating maritime security and safety in the Arabian Sea, highlighting the importance of global governance and cooperation in maintaining international stability."
+      }
+    ],
+    "_hash": "86a610ceddd8",
+    "_fetched": "2026-03-22T07:01:13.718929+00:00",
+    "_relevance": 50,
+    "_gs": [
+      "GS2",
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "analyze",
+    "_mcqs": {
+      "q": "Consider the following statements:\n1. The Arabian Sea is the largest body of water in the Indian Ocean.\n2. The UK's decision to position a submarine in the Arabian Sea is a violation of international law.\n3. The International Maritime Organization (IMO) is responsible for regulating maritime security and safety in the Arabian Sea.\nWhich of the above is/are correct?",
+      "options": [
+        "1 only",
+        "1 and 2 only",
+        "2 and 3 only",
+        "1, 2 and 3"
+      ],
+      "correct": 3,
+      "explanation": "Statement 1 is incorrect: The Arabian Sea is not the largest body of water in the Indian Ocean. Statement 2 is incorrect: The UK's decision to position a submarine in the Arabian Sea is not necessarily a violation of international law. Statement 3 is correct: The IMO is indeed responsible for regulating maritime security and safety in the Arabian Sea.",
+      "trap": "Absolute Language"
+    }
+  },
+  {
+    "id": 3,
+    "title": "Government modifies Mutual Credit Guarantee Scheme to suppor",
+    "cat": "economy",
+    "upsc": false,
+    "time": "just now",
+    "summary": "According to the modified scheme, the credit guarantee would expire after 10 years, as compared to the unspecified period in the earlier scheme",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "The Hindu Business",
+    "link": "https://www.thehindu.com/business/Industry/government-modifies-mutual-credit-guarantee-scheme-to-support-msme-manufacturers-exporters/article70770205.ece",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "31cc64199fc8",
+    "_fetched": "2026-03-22T07:03:26.127883+00:00",
+    "_relevance": 36,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 4,
+    "title": "Meghalaya leader of Opposition Mukul Sangma demands independ",
+    "cat": "india",
+    "upsc": false,
+    "time": "just now",
+    "summary": "In a petition to Governor C.H. Vijayashankar, Mr. Sangma flagged a \"serious law and order situation\" in the Garo Hills region, which he said stemmed f",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "The Hindu",
+    "link": "https://www.thehindu.com/news/national/meghalaya/meghalaya-leader-of-opposition-mukul-sangma-demands-independent-inquiry-into-garo-hills-violence/article70771617.ece",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "8057e129eabd",
+    "_fetched": "2026-03-22T07:05:38.461493+00:00",
+    "_relevance": 33,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "sc-judgment",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 5,
+    "title": "India’s options boom, a 25-year-old caution",
+    "cat": "economy",
+    "upsc": false,
+    "time": "just now",
+    "summary": "The capital-market regulator said that the losses remained even after announcement of the measures, according to its report",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "The Hindu Business",
+    "link": "https://www.thehindu.com/business/indias-options-booma-25-year-old-caution/article70769155.ece",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "8483850741cd",
+    "_fetched": "2026-03-22T07:07:50.884569+00:00",
+    "_relevance": 33,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 6,
+    "title": "Jharkhand Police seek army help to defuse suspected WWII-era",
+    "cat": "world",
+    "upsc": false,
+    "time": "just now",
+    "summary": "East Singhbhum SP (Rural) Rishav Garg said the bomb detection and disposal squad (BDDS) from Ranchi inspected the site in Baharagora on Thursday and f",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "The Hindu",
+    "link": "https://www.thehindu.com/news/national/jharkhand/jharkhand-police-seek-army-help-to-defuse-suspected-wwii-era-bomb/article70771672.ece",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "3353ed32bc27",
+    "_fetched": "2026-03-22T07:10:03.224085+00:00",
+    "_relevance": 31,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 7,
+    "title": "Rice, wheat procurement remains ‘consistently’ low; House pa",
+    "cat": "tech",
+    "upsc": false,
+    "time": "just now",
+    "summary": "Kanimozhi-led panel asks Union Food Ministry to strengthen its procurement planning and coordination with States to minimise the gap between estimated",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "The Hindu",
+    "link": "https://www.thehindu.com/news/national/rice-wheat-procurement-remains-consistently-low-house-panel-raises-concern/article70771648.ece",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "ba8337907f68",
+    "_fetched": "2026-03-22T07:12:15.593510+00:00",
+    "_relevance": 31,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 8,
     "title": "World Water Day",
     "cat": "science",
     "upsc": true,
@@ -88,7 +414,7 @@
     }
   },
   {
-    "id": 2,
+    "id": 9,
     "title": "Iran War Toll",
     "cat": "world",
     "upsc": true,
@@ -175,7 +501,7 @@
     }
   },
   {
-    "id": 3,
+    "id": 10,
     "title": "US-Iran war Live: Can Iran’s long-range missile reach London",
     "cat": "science",
     "upsc": false,
@@ -205,7 +531,7 @@
     "_mcqs": []
   },
   {
-    "id": 4,
+    "id": 11,
     "title": "Iran strikes towns near Israel's nuclear site — why are Arad",
     "cat": "economy",
     "upsc": false,
@@ -235,7 +561,7 @@
     "_mcqs": []
   },
   {
-    "id": 5,
+    "id": 12,
     "title": "Iran-Israel war LIVE: Iran missile strikes injure over 100 i",
     "cat": "tech",
     "upsc": false,
@@ -265,7 +591,7 @@
     "_mcqs": []
   },
   {
-    "id": 6,
+    "id": 13,
     "title": "Strait of Hormuz Disruption",
     "cat": "economy",
     "upsc": true,
@@ -349,7 +675,7 @@
     }
   },
   {
-    "id": 7,
+    "id": 14,
     "title": "US-Iran Conflict",
     "cat": "world",
     "upsc": true,
@@ -436,7 +762,7 @@
     }
   },
   {
-    "id": 8,
+    "id": 15,
     "title": "SC on Maternity Leave",
     "cat": "policy",
     "upsc": true,
@@ -524,7 +850,7 @@
     }
   },
   {
-    "id": 9,
+    "id": 16,
     "title": "ICE officers soon will help with airport security unless Dem",
     "cat": "tech",
     "upsc": false,
@@ -554,7 +880,7 @@
     "_mcqs": []
   },
   {
-    "id": 10,
+    "id": 17,
     "title": "Cuba Blackout",
     "cat": "world",
     "upsc": true,
@@ -642,7 +968,7 @@
     }
   },
   {
-    "id": 11,
+    "id": 18,
     "title": "Science Updates",
     "cat": "science",
     "upsc": true,
@@ -729,7 +1055,7 @@
     }
   },
   {
-    "id": 12,
+    "id": 19,
     "title": "Iran-Israel War",
     "cat": "world",
     "upsc": true,
@@ -817,7 +1143,7 @@
     }
   },
   {
-    "id": 13,
+    "id": 20,
     "title": "Women Teachers Exemption",
     "cat": "policy",
     "upsc": true,
@@ -905,7 +1231,7 @@
     }
   },
   {
-    "id": 14,
+    "id": 21,
     "title": "Himachal Budget",
     "cat": "economy",
     "upsc": true,
@@ -993,7 +1319,7 @@
     }
   },
   {
-    "id": 15,
+    "id": 22,
     "title": "Nepal-India Ties",
     "cat": "world",
     "upsc": true,
@@ -1081,7 +1407,7 @@
     }
   },
   {
-    "id": 16,
+    "id": 23,
     "title": "Bihar Election",
     "cat": "india",
     "upsc": true,
@@ -1168,7 +1494,7 @@
     }
   },
   {
-    "id": 17,
+    "id": 24,
     "title": "Telangana Urban Boom",
     "cat": "economy",
     "upsc": true,
@@ -1252,7 +1578,7 @@
     }
   },
   {
-    "id": 18,
+    "id": 25,
     "title": "MSME Credit Guarantee",
     "cat": "economy",
     "upsc": true,
@@ -1340,7 +1666,7 @@
     }
   },
   {
-    "id": 19,
+    "id": 26,
     "title": "‘India’s gem, jewellery sector shows resilience’",
     "cat": "economy",
     "upsc": false,
@@ -1370,7 +1696,7 @@
     "_mcqs": []
   },
   {
-    "id": 20,
+    "id": 27,
     "title": "Feminists, lawyers urge MPs to reject ‘unconstitutional’ ame",
     "cat": "policy",
     "upsc": false,
@@ -1400,7 +1726,7 @@
     "_mcqs": []
   },
   {
-    "id": 21,
+    "id": 28,
     "title": "Bangladesh rushes to secure $2 billion loan amid energy cris",
     "cat": "economy",
     "upsc": false,
@@ -1430,7 +1756,7 @@
     "_mcqs": []
   },
   {
-    "id": 22,
+    "id": 29,
     "title": "Vellore Mayor, councillor booked for violating Model Code of",
     "cat": "india",
     "upsc": false,
@@ -1460,7 +1786,7 @@
     "_mcqs": []
   },
   {
-    "id": 23,
+    "id": 30,
     "title": "Blockade on Cuba: Asphyxiating an island nation",
     "cat": "science",
     "upsc": false,
@@ -1490,7 +1816,7 @@
     "_mcqs": []
   },
   {
-    "id": 24,
+    "id": 31,
     "title": "In call with PM Modi, Iran President proposes West Asia secu",
     "cat": "india",
     "upsc": false,
@@ -1520,7 +1846,7 @@
     "_mcqs": []
   },
   {
-    "id": 25,
+    "id": 32,
     "title": "Supreme Court concerned over cops uploading videos online, s",
     "cat": "india",
     "upsc": false,
@@ -1550,7 +1876,7 @@
     "_mcqs": []
   },
   {
-    "id": 26,
+    "id": 33,
     "title": "Trans Rights Protest",
     "cat": "policy",
     "upsc": true,
@@ -1638,7 +1964,7 @@
     }
   },
   {
-    "id": 27,
+    "id": 34,
     "title": "US-Cuba Relations",
     "cat": "world",
     "upsc": true,
@@ -1725,7 +2051,7 @@
     }
   },
   {
-    "id": 28,
+    "id": 35,
     "title": "Farmers’ body to enter local polls, plans protest against In",
     "cat": "india",
     "upsc": false,
@@ -1755,7 +2081,7 @@
     "_mcqs": []
   },
   {
-    "id": 29,
+    "id": 36,
     "title": "Middle East conflict: Iran's strike on joint US-UK Diego Gar",
     "cat": "tech",
     "upsc": false,
@@ -1785,7 +2111,7 @@
     "_mcqs": []
   },
   {
-    "id": 30,
+    "id": 37,
     "title": "Air India CEO warns of travel demand hit as fuel costs surge",
     "cat": "india",
     "upsc": false,
@@ -1815,7 +2141,7 @@
     "_mcqs": []
   },
   {
-    "id": 31,
+    "id": 38,
     "title": "Bihar Polls",
     "cat": "india",
     "upsc": true,
@@ -1902,7 +2228,7 @@
     }
   },
   {
-    "id": 32,
+    "id": 39,
     "title": "US, Israel Strike Iran",
     "cat": "world",
     "upsc": true,
@@ -1989,7 +2315,7 @@
     }
   },
   {
-    "id": 33,
+    "id": 40,
     "title": "Market Trends",
     "cat": "economy",
     "upsc": true,
@@ -2076,7 +2402,7 @@
     }
   },
   {
-    "id": 34,
+    "id": 41,
     "title": "Hyderabad gets static allocation in 2026-27 budget despite e",
     "cat": "economy",
     "upsc": false,
@@ -2106,7 +2432,7 @@
     "_mcqs": []
   },
   {
-    "id": 35,
+    "id": 42,
     "title": "Chief Minister Chandrababu Naidu calls for transforming TTD ",
     "cat": "economy",
     "upsc": false,
@@ -2136,7 +2462,7 @@
     "_mcqs": []
   },
   {
-    "id": 36,
+    "id": 43,
     "title": "US Iran War News 21 March LIVE: US-Israeli strikes hit Natan",
     "cat": "india",
     "upsc": false,
@@ -2166,7 +2492,7 @@
     "_mcqs": []
   },
   {
-    "id": 37,
+    "id": 44,
     "title": "PM Modi Talks to Iran",
     "cat": "world",
     "upsc": true,
@@ -2253,7 +2579,7 @@
     }
   },
   {
-    "id": 38,
+    "id": 45,
     "title": "India achieves one billion tonne coal production for 2nd con",
     "cat": "india",
     "upsc": false,
@@ -2283,7 +2609,7 @@
     "_mcqs": []
   },
   {
-    "id": 39,
+    "id": 46,
     "title": "Railways begins feasibility study to develop Talgaria statio",
     "cat": "tech",
     "upsc": false,
@@ -2313,7 +2639,7 @@
     "_mcqs": []
   },
   {
-    "id": 40,
+    "id": 47,
     "title": "Thousand Lights: a developed neighbourhood that struggles wi",
     "cat": "world",
     "upsc": false,
@@ -2343,7 +2669,7 @@
     "_mcqs": []
   },
   {
-    "id": 41,
+    "id": 48,
     "title": "Abu Dhabi Investment Portfolio: 6 stocks surge up to 110% in",
     "cat": "economy",
     "upsc": false,
@@ -2373,7 +2699,7 @@
     "_mcqs": []
   },
   {
-    "id": 42,
+    "id": 49,
     "title": "Middle East War Impact",
     "cat": "economy",
     "upsc": true,
@@ -2461,7 +2787,7 @@
     }
   },
   {
-    "id": 43,
+    "id": 50,
     "title": "Gujarat LS Polls",
     "cat": "india",
     "upsc": true,
@@ -2549,7 +2875,7 @@
     }
   },
   {
-    "id": 44,
+    "id": 51,
     "title": "Smallcaps Rally",
     "cat": "economy",
     "upsc": true,
@@ -2636,7 +2962,7 @@
     }
   },
   {
-    "id": 45,
+    "id": 52,
     "title": "Assembly election LIVE: Won’t allow BJP to snatch voting rig",
     "cat": "india",
     "upsc": false,
@@ -2666,7 +2992,7 @@
     "_mcqs": []
   },
   {
-    "id": 46,
+    "id": 53,
     "title": "US Iran War News LIVE: Moscow a ‘loyal friend and reliable p",
     "cat": "india",
     "upsc": false,
@@ -2696,7 +3022,7 @@
     "_mcqs": []
   },
   {
-    "id": 47,
+    "id": 54,
     "title": "US-Iran Tensions",
     "cat": "world",
     "upsc": true,
@@ -2780,7 +3106,7 @@
     }
   },
   {
-    "id": 48,
+    "id": 55,
     "title": "Ukraine-Russia Drone Attack",
     "cat": "world",
     "upsc": true,
@@ -2867,7 +3193,7 @@
     }
   },
   {
-    "id": 49,
+    "id": 56,
     "title": "Iran-Israel war LIVE: Refiners in India, elsewhere in Asia, ",
     "cat": "world",
     "upsc": false,
@@ -2897,7 +3223,7 @@
     "_mcqs": []
   },
   {
-    "id": 50,
+    "id": 57,
     "title": "Geopolitical Risks",
     "cat": "economy",
     "upsc": true,
@@ -2985,7 +3311,7 @@
     }
   },
   {
-    "id": 51,
+    "id": 58,
     "title": "Uttam Nagar residents observe Eid ul-Fitr amid heavy securit",
     "cat": "tech",
     "upsc": false,
@@ -3015,7 +3341,7 @@
     "_mcqs": []
   },
   {
-    "id": 52,
+    "id": 59,
     "title": "India, Pakistan, China, and now Japan? Full list of countrie",
     "cat": "world",
     "upsc": false,
@@ -3045,7 +3371,7 @@
     "_mcqs": []
   },
   {
-    "id": 53,
+    "id": 60,
     "title": "Air India, IndiGo, SpiceJet oppose government’s 60% free sea",
     "cat": "india",
     "upsc": false,
@@ -3075,7 +3401,7 @@
     "_mcqs": []
   },
   {
-    "id": 54,
+    "id": 61,
     "title": "Development without impact: Coastal residents of Kanniyakuma",
     "cat": "policy",
     "upsc": false,
@@ -3105,7 +3431,7 @@
     "_mcqs": []
   },
   {
-    "id": 55,
+    "id": 62,
     "title": "Refiners in India, elsewhere in Asia look to buy Iranian oil",
     "cat": "india",
     "upsc": false,
@@ -3135,7 +3461,7 @@
     "_mcqs": []
   },
   {
-    "id": 56,
+    "id": 63,
     "title": "Metals to shine? Hindustan Copper, Tata Steel, other stocks ",
     "cat": "economy",
     "upsc": false,
@@ -3165,7 +3491,7 @@
     "_mcqs": []
   },
   {
-    "id": 57,
+    "id": 64,
     "title": "Iran-US Tension",
     "cat": "world",
     "upsc": true,
@@ -3248,7 +3574,7 @@
     }
   },
   {
-    "id": 58,
+    "id": 65,
     "title": "Eid Bank Holiday",
     "cat": "economy",
     "upsc": true,
@@ -3333,7 +3659,7 @@
     }
   },
   {
-    "id": 59,
+    "id": 66,
     "title": "US-Israel-Iran War News LIVE: Iran threatens tourist destina",
     "cat": "india",
     "upsc": false,
@@ -3363,7 +3689,7 @@
     "_mcqs": []
   },
   {
-    "id": 60,
+    "id": 67,
     "title": "Euro FX settlement in works at GIFT City",
     "cat": "world",
     "upsc": false,
@@ -3393,7 +3719,7 @@
     "_mcqs": []
   },
   {
-    "id": 61,
+    "id": 68,
     "title": "D-St breathes easy for a day as crude bucks rising trend",
     "cat": "economy",
     "upsc": false,
@@ -3423,7 +3749,7 @@
     "_mcqs": []
   },
   {
-    "id": 62,
+    "id": 69,
     "title": "Goa's Town Planning Act",
     "cat": "policy",
     "upsc": true,
@@ -3511,7 +3837,7 @@
     }
   },
   {
-    "id": 63,
+    "id": 70,
     "title": "Trump's Iran War",
     "cat": "world",
     "upsc": true,
@@ -3598,7 +3924,7 @@
     }
   },
   {
-    "id": 64,
+    "id": 71,
     "title": "US Judge Blocks Pentagon Policy",
     "cat": "world",
     "upsc": true,
@@ -3685,7 +4011,7 @@
     }
   },
   {
-    "id": 65,
+    "id": 72,
     "title": "UK Meningitis Outbreak",
     "cat": "world",
     "upsc": true,
@@ -3772,7 +4098,7 @@
     }
   },
   {
-    "id": 66,
+    "id": 73,
     "title": "UK-US Iran Strike",
     "cat": "world",
     "upsc": true,
@@ -3859,7 +4185,7 @@
     }
   },
   {
-    "id": 67,
+    "id": 74,
     "title": "Tax Reforms",
     "cat": "economy",
     "upsc": true,
@@ -3947,7 +4273,7 @@
     }
   },
   {
-    "id": 68,
+    "id": 75,
     "title": "Spice Export Disruption",
     "cat": "economy",
     "upsc": true,
@@ -4035,7 +4361,7 @@
     }
   },
   {
-    "id": 69,
+    "id": 76,
     "title": "India's core growth eases to 2.3% in February on poor energy",
     "cat": "science",
     "upsc": false,
@@ -4065,7 +4391,7 @@
     "_mcqs": []
   },
   {
-    "id": 70,
+    "id": 77,
     "title": "Communists in India",
     "cat": "india",
     "upsc": true,
@@ -4152,7 +4478,7 @@
     }
   },
   {
-    "id": 71,
+    "id": 78,
     "title": "Mirwaiz ‘barred’ from Friday prayers at Srinagar’s Jamia Mas",
     "cat": "tech",
     "upsc": false,
@@ -4182,7 +4508,7 @@
     "_mcqs": []
   },
   {
-    "id": 72,
+    "id": 79,
     "title": "Agriculture Ministry Reviews Farm Losses",
     "cat": "economy",
     "upsc": true,
@@ -4270,7 +4596,7 @@
     }
   },
   {
-    "id": 73,
+    "id": 80,
     "title": "Export Credit Norms",
     "cat": "economy",
     "upsc": true,
@@ -4354,7 +4680,7 @@
     }
   },
   {
-    "id": 74,
+    "id": 81,
     "title": "India-China Border Trade",
     "cat": "economy",
     "upsc": true,
@@ -4438,7 +4764,7 @@
     }
   },
   {
-    "id": 75,
+    "id": 82,
     "title": "Lok Ayukta orders Kerala govt. to rehabilitate families disp",
     "cat": "india",
     "upsc": false,
@@ -4468,7 +4794,7 @@
     "_mcqs": []
   },
   {
-    "id": 76,
+    "id": 83,
     "title": "Mamata makes 10 commitments to woo West Bengal voters",
     "cat": "india",
     "upsc": false,
@@ -4498,7 +4824,7 @@
     "_mcqs": []
   },
   {
-    "id": 77,
+    "id": 84,
     "title": "PM Modi on West Asia Energy",
     "cat": "world",
     "upsc": true,
@@ -4585,7 +4911,7 @@
     }
   },
   {
-    "id": 78,
+    "id": 85,
     "title": "Bengaluru’s KIA named best regional airport in India and Sou",
     "cat": "india",
     "upsc": false,
@@ -4615,7 +4941,7 @@
     "_mcqs": []
   },
   {
-    "id": 79,
+    "id": 86,
     "title": "MNRE seeks sweeping powers under Electricity Act to govern I",
     "cat": "science",
     "upsc": false,
@@ -4645,7 +4971,7 @@
     "_mcqs": []
   },
   {
-    "id": 80,
+    "id": 87,
     "title": "Price of premium petrol up ₹2 per litre, government says no ",
     "cat": "india",
     "upsc": false,
@@ -4675,7 +5001,7 @@
     "_mcqs": []
   },
   {
-    "id": 81,
+    "id": 88,
     "title": "Election Commission sets up 19 appellate tribunals for Benga",
     "cat": "policy",
     "upsc": false,
@@ -4705,7 +5031,7 @@
     "_mcqs": []
   },
   {
-    "id": 82,
+    "id": 89,
     "title": "India starts selective fuel price hikes as oil goes past $10",
     "cat": "economy",
     "upsc": false,
@@ -4735,7 +5061,7 @@
     "_mcqs": []
   },
   {
-    "id": 83,
+    "id": 90,
     "title": "Telangana Budget 2026-27| Energy sector allocation remains s",
     "cat": "economy",
     "upsc": false,
@@ -4765,7 +5091,7 @@
     "_mcqs": []
   },
   {
-    "id": 84,
+    "id": 91,
     "title": "India's forex reserves drop $7 bn to $709.76 bn",
     "cat": "india",
     "upsc": false,
@@ -4795,7 +5121,7 @@
     "_mcqs": []
   },
   {
-    "id": 85,
+    "id": 92,
     "title": "Who was Esmail Ahmadi? Iran's Basij Force intelligence chief",
     "cat": "tech",
     "upsc": false,
@@ -4825,7 +5151,7 @@
     "_mcqs": []
   },
   {
-    "id": 86,
+    "id": 93,
     "title": "Anti-Dumping Duty",
     "cat": "economy",
     "upsc": true,
@@ -4912,7 +5238,7 @@
     }
   },
   {
-    "id": 87,
+    "id": 94,
     "title": "India's Rare Earth Magnet Plants",
     "cat": "economy",
     "upsc": true,
@@ -5000,7 +5326,7 @@
     }
   },
   {
-    "id": 88,
+    "id": 95,
     "title": "Iran warns world tourism sites ‘not safe’ for Israeli, U.S. ",
     "cat": "science",
     "upsc": false,
@@ -5030,7 +5356,7 @@
     "_mcqs": []
   },
   {
-    "id": 89,
+    "id": 96,
     "title": "Industries Dept. gets ₹3,490 cr. allocation in Budget",
     "cat": "economy",
     "upsc": false,
@@ -5060,7 +5386,7 @@
     "_mcqs": []
   },
   {
-    "id": 90,
+    "id": 97,
     "title": "Make life easier for taxpayers, use technology to check evas",
     "cat": "economy",
     "upsc": false,
@@ -5090,7 +5416,7 @@
     "_mcqs": []
   },
   {
-    "id": 91,
+    "id": 98,
     "title": "City gets static allocation in budget despite expanded city ",
     "cat": "economy",
     "upsc": false,
@@ -5120,7 +5446,7 @@
     "_mcqs": []
   },
   {
-    "id": 92,
+    "id": 99,
     "title": "‘Never waste a good crisis’: Zerodha's Nithin Kamath outline",
     "cat": "economy",
     "upsc": false,
@@ -5150,7 +5476,7 @@
     "_mcqs": []
   },
   {
-    "id": 93,
+    "id": 100,
     "title": "'Deserves perfect score': IRGC spokesman Ali Mohammad Naini ",
     "cat": "tech",
     "upsc": false,
@@ -5180,7 +5506,7 @@
     "_mcqs": []
   },
   {
-    "id": 94,
+    "id": 101,
     "title": "US unveils National AI Policy Framework: 7 key aspects inclu",
     "cat": "india",
     "upsc": false,
@@ -5210,7 +5536,7 @@
     "_mcqs": []
   },
   {
-    "id": 95,
+    "id": 102,
     "title": "Trump calls NATO ‘cowards’ over lack of support in Iran war",
     "cat": "world",
     "upsc": false,
@@ -5240,7 +5566,7 @@
     "_mcqs": []
   },
   {
-    "id": 96,
+    "id": 103,
     "title": "Energy Security",
     "cat": "policy",
     "upsc": true,
@@ -5328,7 +5654,7 @@
     }
   },
   {
-    "id": 97,
+    "id": 104,
     "title": "Energy Data Security",
     "cat": "economy",
     "upsc": true,
@@ -5416,7 +5742,7 @@
     }
   },
   {
-    "id": 98,
+    "id": 105,
     "title": "India's Forex Reserves",
     "cat": "economy",
     "upsc": true,
@@ -5503,7 +5829,7 @@
     }
   },
   {
-    "id": 99,
+    "id": 106,
     "title": "Telangana Budget 2026-27| Allocations to farm, irrigation, e",
     "cat": "economy",
     "upsc": false,
@@ -5533,7 +5859,7 @@
     "_mcqs": []
   },
   {
-    "id": 100,
+    "id": 107,
     "title": "At ₹13,679 crore, health sector gets ₹1,286 crore more in Te",
     "cat": "economy",
     "upsc": false,
@@ -5563,7 +5889,7 @@
     "_mcqs": []
   },
   {
-    "id": 101,
+    "id": 108,
     "title": "Government blocks 300 ‘illegal’ gambling and betting platfor",
     "cat": "economy",
     "upsc": false,
@@ -5593,7 +5919,7 @@
     "_mcqs": []
   },
   {
-    "id": 102,
+    "id": 109,
     "title": "China welcomes Vikram Doraiswami's appointment as India's ne",
     "cat": "world",
     "upsc": false,
@@ -5623,7 +5949,7 @@
     "_mcqs": []
   },
   {
-    "id": 103,
+    "id": 110,
     "title": "Bengaluru’s KIA named best regional airport in India and sou",
     "cat": "india",
     "upsc": false,
@@ -5653,7 +5979,7 @@
     "_mcqs": []
   },
   {
-    "id": 104,
+    "id": 111,
     "title": "Indian killed in Riyadh due to ‘recent events of March 18’, ",
     "cat": "india",
     "upsc": false,
@@ -5683,7 +6009,7 @@
     "_mcqs": []
   },
   {
-    "id": 105,
+    "id": 112,
     "title": "Iran-Israel War",
     "cat": "world",
     "upsc": true,
@@ -5771,7 +6097,7 @@
     }
   },
   {
-    "id": 106,
+    "id": 113,
     "title": "Bhatti presents welfare oriented budget for Telangana with e",
     "cat": "india",
     "upsc": false,
@@ -5801,7 +6127,7 @@
     "_mcqs": []
   },
   {
-    "id": 107,
+    "id": 114,
     "title": "BRS terms Telangana’s 2026-27 budget highly disappointing wi",
     "cat": "economy",
     "upsc": false,
@@ -5831,7 +6157,7 @@
     "_mcqs": []
   },
   {
-    "id": 108,
+    "id": 115,
     "title": "Government unveils Rs 20000 crore credit guarantee plan for ",
     "cat": "tech",
     "upsc": false,
@@ -5861,7 +6187,7 @@
     "_mcqs": []
   },
   {
-    "id": 109,
+    "id": 116,
     "title": "Telangana announces cashless health security scheme for gove",
     "cat": "india",
     "upsc": false,
@@ -5891,7 +6217,7 @@
     "_mcqs": []
   },
   {
-    "id": 110,
+    "id": 117,
     "title": "Telangana Budget 2026-27| 10.4% of total outlay allocated to",
     "cat": "economy",
     "upsc": false,
@@ -5921,7 +6247,7 @@
     "_mcqs": []
   },
   {
-    "id": 111,
+    "id": 118,
     "title": "India's core sector growth slows down to 2.3 per cent in Feb",
     "cat": "tech",
     "upsc": false,
@@ -5951,7 +6277,7 @@
     "_mcqs": []
   },
   {
-    "id": 112,
+    "id": 119,
     "title": "CBDT notifies new Income Tax rules; HRA benefits enhanced, d",
     "cat": "economy",
     "upsc": false,
@@ -5981,7 +6307,7 @@
     "_mcqs": []
   },
   {
-    "id": 113,
+    "id": 120,
     "title": "Work from home, avoid air travel: Here's what IEA suggests t",
     "cat": "economy",
     "upsc": false,
@@ -6011,7 +6337,7 @@
     "_mcqs": []
   },
   {
-    "id": 114,
+    "id": 121,
     "title": "NITI Aayog Skilling Policy",
     "cat": "policy",
     "upsc": true,
@@ -6099,7 +6425,7 @@
     }
   },
   {
-    "id": 115,
+    "id": 122,
     "title": "Amid Middle East war-related supply disruptions, govt emphas",
     "cat": "economy",
     "upsc": true,
@@ -6129,7 +6455,7 @@
     "_mcqs": []
   },
   {
-    "id": 116,
+    "id": 123,
     "title": "Telangana Budget 2026-27: Government fears migration due to ",
     "cat": "economy",
     "upsc": false,
@@ -6159,7 +6485,7 @@
     "_mcqs": []
   },
   {
-    "id": 117,
+    "id": 124,
     "title": "Telangana Budget 2026-27: Government Announces cashless heal",
     "cat": "economy",
     "upsc": false,
@@ -6189,7 +6515,7 @@
     "_mcqs": []
   },
   {
-    "id": 118,
+    "id": 125,
     "title": "Rupee weakness likely to persist as oil prices stay elevated",
     "cat": "world",
     "upsc": false,
@@ -6219,7 +6545,7 @@
     "_mcqs": []
   },
   {
-    "id": 119,
+    "id": 126,
     "title": "Tata Power Shares Jump",
     "cat": "economy",
     "upsc": true,
@@ -6302,7 +6628,7 @@
     }
   },
   {
-    "id": 120,
+    "id": 127,
     "title": "The unique flavour of Dindigul cigar, a balm to Winston Chur",
     "cat": "india",
     "upsc": false,
@@ -6332,7 +6658,7 @@
     "_mcqs": []
   },
   {
-    "id": 121,
+    "id": 128,
     "title": "Placed under house arrest, not allowed to offer Friday praye",
     "cat": "tech",
     "upsc": false,
@@ -6362,7 +6688,7 @@
     "_mcqs": []
   },
   {
-    "id": 122,
+    "id": 129,
     "title": "Gulf dreams turn sour for Konaseema women",
     "cat": "tech",
     "upsc": false,
@@ -6392,7 +6718,7 @@
     "_mcqs": []
   },
   {
-    "id": 123,
+    "id": 130,
     "title": "Telangana Budget 2026-27: ₹11907 crore allocated to Home Dep",
     "cat": "economy",
     "upsc": false,
@@ -6422,7 +6748,7 @@
     "_mcqs": []
   },
   {
-    "id": 124,
+    "id": 131,
     "title": "Rupee in free fall, down 60 paise to new all-time low of 93.",
     "cat": "economy",
     "upsc": false,
@@ -6452,7 +6778,7 @@
     "_mcqs": []
   },
   {
-    "id": 125,
+    "id": 132,
     "title": "Telangana Budget 2026-27 LIVE: Govt introduces ₹3.24 lakh cr",
     "cat": "india",
     "upsc": false,
@@ -6482,7 +6808,7 @@
     "_mcqs": []
   },
   {
-    "id": 126,
+    "id": 133,
     "title": "Bhatti presents welfare oriented 2026-27 budget for Telangan",
     "cat": "india",
     "upsc": false,
@@ -6512,7 +6838,7 @@
     "_mcqs": []
   },
   {
-    "id": 127,
+    "id": 134,
     "title": "Rs 1 lakh crore wiped off! Bajaj Finance shares tumble 18% i",
     "cat": "economy",
     "upsc": false,
@@ -6542,7 +6868,7 @@
     "_mcqs": []
   },
   {
-    "id": 128,
+    "id": 135,
     "title": "CBDT notifies new Income Tax rules for 2026; HRA benefits en",
     "cat": "economy",
     "upsc": false,
@@ -6572,7 +6898,7 @@
     "_mcqs": []
   },
   {
-    "id": 129,
+    "id": 136,
     "title": "India's Carbon Trading",
     "cat": "economy",
     "upsc": true,
@@ -6660,7 +6986,7 @@
     }
   },
   {
-    "id": 130,
+    "id": 137,
     "title": "'Trade flows are returning to India, but markets remain unin",
     "cat": "economy",
     "upsc": true,
@@ -6690,7 +7016,7 @@
     "_mcqs": []
   },
   {
-    "id": 131,
+    "id": 138,
     "title": "Fighting a looming threat of erasure: The outrage over amend",
     "cat": "policy",
     "upsc": false,
@@ -6720,7 +7046,7 @@
     "_mcqs": []
   },
   {
-    "id": 132,
+    "id": 139,
     "title": "India notifies Income Tax Rules, 2026: What's in it",
     "cat": "economy",
     "upsc": false,
@@ -6750,7 +7076,7 @@
     "_mcqs": []
   },
   {
-    "id": 133,
+    "id": 140,
     "title": "Rupee breaches 93/dollar for the first time, down 19 paise t",
     "cat": "economy",
     "upsc": false,
@@ -6780,7 +7106,7 @@
     "_mcqs": []
   },
   {
-    "id": 134,
+    "id": 141,
     "title": "Judge rules U.S. government overreached with transgender hea",
     "cat": "science",
     "upsc": false,
@@ -6810,7 +7136,7 @@
     "_mcqs": []
   },
   {
-    "id": 135,
+    "id": 142,
     "title": "Fire at Kuwait refinery as Gulf states come under drone, mis",
     "cat": "tech",
     "upsc": false,
@@ -6840,7 +7166,7 @@
     "_mcqs": []
   },
   {
-    "id": 136,
+    "id": 143,
     "title": "Accenture’s AI momentum strong, but revenue growth signals c",
     "cat": "tech",
     "upsc": false,
@@ -6870,7 +7196,7 @@
     "_mcqs": []
   },
   {
-    "id": 137,
+    "id": 144,
     "title": "Supreme Court dismisses plea seeking enquiry into CITES viol",
     "cat": "economy",
     "upsc": true,
@@ -6900,7 +7226,7 @@
     "_mcqs": []
   },
   {
-    "id": 138,
+    "id": 145,
     "title": "Centre has no plans to exit Vodafone Idea: Jyotiraditya Scin",
     "cat": "india",
     "upsc": false,
@@ -6930,7 +7256,7 @@
     "_mcqs": []
   },
   {
-    "id": 139,
+    "id": 146,
     "title": "Telangana Budget 2026-27 LIVE: Finance Minister Bhatti likel",
     "cat": "economy",
     "upsc": false,
@@ -6960,7 +7286,7 @@
     "_mcqs": []
   },
   {
-    "id": 140,
+    "id": 147,
     "title": "RBI's March-end rupee support faces test from war and oil su",
     "cat": "economy",
     "upsc": false,
@@ -6990,7 +7316,7 @@
     "_mcqs": []
   },
   {
-    "id": 141,
+    "id": 148,
     "title": "Indian indices log biggest single-day decline in nearly two ",
     "cat": "economy",
     "upsc": false,
@@ -7020,7 +7346,7 @@
     "_mcqs": []
   },
   {
-    "id": 142,
+    "id": 149,
     "title": "Why is the transgender community saying #RejectTransBill",
     "cat": "policy",
     "upsc": false,
@@ -7050,7 +7376,7 @@
     "_mcqs": []
   },
   {
-    "id": 143,
+    "id": 150,
     "title": "Tesla in talks with Chinese firms to buy $2.9 bln worth of s",
     "cat": "science",
     "upsc": false,
@@ -7080,7 +7406,7 @@
     "_mcqs": []
   },
   {
-    "id": 144,
+    "id": 151,
     "title": "Donald Trump, Japan's Takaichi announce $40 billion US nucle",
     "cat": "policy",
     "upsc": false,
@@ -7110,7 +7436,7 @@
     "_mcqs": []
   },
   {
-    "id": 145,
+    "id": 152,
     "title": "A three-day Bihar Nursery and Green-Tech Conclave 2026 in Pa",
     "cat": "india",
     "upsc": false,
@@ -7140,7 +7466,7 @@
     "_mcqs": []
   },
   {
-    "id": 146,
+    "id": 153,
     "title": "OpenAI to buy Python toolmaker Astral to take on Anthropic; ",
     "cat": "tech",
     "upsc": false,
@@ -7170,7 +7496,7 @@
     "_mcqs": []
   },
   {
-    "id": 147,
+    "id": 154,
     "title": "Japan's Takaichi tries to reaffirm alliance with Trump as he",
     "cat": "tech",
     "upsc": false,
@@ -7200,7 +7526,7 @@
     "_mcqs": []
   },
   {
-    "id": 148,
+    "id": 155,
     "title": "Farmers seek agri, dairy carve-out in India-US trade deal ov",
     "cat": "economy",
     "upsc": true,
@@ -7230,7 +7556,7 @@
     "_mcqs": []
   },
   {
-    "id": 149,
+    "id": 156,
     "title": "Motion against CEC in Parliament: Will Gyanesh Kumar be remo",
     "cat": "india",
     "upsc": true,
@@ -7260,7 +7586,7 @@
     "_mcqs": []
   },
   {
-    "id": 150,
+    "id": 157,
     "title": "RBI working to provide avenues to Russian trade counterparts",
     "cat": "economy",
     "upsc": true,
@@ -7290,7 +7616,7 @@
     "_mcqs": []
   },
   {
-    "id": 151,
+    "id": 158,
     "title": "India engaged with US, working with industry to mitigate tar",
     "cat": "economy",
     "upsc": true,
@@ -7320,7 +7646,7 @@
     "_mcqs": []
   },
   {
-    "id": 152,
+    "id": 159,
     "title": "Biz chamber seeks RBI relief for exporters hit by West Asia ",
     "cat": "economy",
     "upsc": true,
@@ -7350,7 +7676,7 @@
     "_mcqs": []
   },
   {
-    "id": 153,
+    "id": 160,
     "title": "India rolls out ₹497 crore RELIEF scheme to support exporter",
     "cat": "economy",
     "upsc": true,
@@ -7380,7 +7706,7 @@
     "_mcqs": []
   },
   {
-    "id": 154,
+    "id": 161,
     "title": "Oil shock: Panel urges Finance Ministry to craft strategic e",
     "cat": "economy",
     "upsc": true,
@@ -7410,7 +7736,7 @@
     "_mcqs": []
   },
   {
-    "id": 155,
+    "id": 162,
     "title": "India's exports to hold in March despite global turmoil, say",
     "cat": "economy",
     "upsc": true,
@@ -7440,7 +7766,7 @@
     "_mcqs": []
   },
   {
-    "id": 156,
+    "id": 163,
     "title": "What's key to India's forex defence? Patra suggests it's $1 ",
     "cat": "economy",
     "upsc": true,
@@ -7470,7 +7796,7 @@
     "_mcqs": []
   },
   {
-    "id": 157,
+    "id": 164,
     "title": "West Asia in turmoil, govt looks to clear trade routes to So",
     "cat": "economy",
     "upsc": true,
@@ -7500,7 +7826,7 @@
     "_mcqs": []
   },
   {
-    "id": 158,
+    "id": 165,
     "title": "WTO Meet",
     "cat": "economy",
     "upsc": true,
@@ -7588,7 +7914,7 @@
     }
   },
   {
-    "id": 159,
+    "id": 166,
     "title": "Free trade between India and Russia is being worked upon, of",
     "cat": "economy",
     "upsc": true,
@@ -7618,7 +7944,7 @@
     "_mcqs": []
   },
   {
-    "id": 160,
+    "id": 167,
     "title": "West Asia conflict poses downside risk, India GDP growth see",
     "cat": "economy",
     "upsc": true,
@@ -7648,7 +7974,7 @@
     "_mcqs": []
   },
   {
-    "id": 161,
+    "id": 168,
     "title": "India to pitch for strengthening WTO at upcoming ministerial",
     "cat": "world",
     "upsc": true,
@@ -7678,7 +8004,7 @@
     "_mcqs": []
   },
   {
-    "id": 162,
+    "id": 169,
     "title": "Gender, agriculture and climate change",
     "cat": "science",
     "upsc": true,
@@ -7708,7 +8034,7 @@
     "_mcqs": []
   },
   {
-    "id": 163,
+    "id": 170,
     "title": "India extends domestic sourcing mandate to solar wafers, ing",
     "cat": "economy",
     "upsc": true,
@@ -7738,7 +8064,7 @@
     "_mcqs": []
   },
   {
-    "id": 164,
+    "id": 171,
     "title": "Oil shock, inflation pressures dampen RBI rate-cut hopes",
     "cat": "economy",
     "upsc": true,
@@ -7768,7 +8094,7 @@
     "_mcqs": []
   },
   {
-    "id": 165,
+    "id": 172,
     "title": "NITI Aayog lays out a roadmap to make India global manufactu",
     "cat": "economy",
     "upsc": true,
@@ -7798,7 +8124,7 @@
     "_mcqs": []
   },
   {
-    "id": 166,
+    "id": 173,
     "title": "No severe shocks despite crises, says Sitharaman as she high",
     "cat": "economy",
     "upsc": true,
@@ -7828,7 +8154,7 @@
     "_mcqs": []
   },
   {
-    "id": 167,
+    "id": 174,
     "title": "India’s exports to hold steady in March despite global disru",
     "cat": "economy",
     "upsc": true,
@@ -7858,7 +8184,7 @@
     "_mcqs": []
   },
   {
-    "id": 168,
+    "id": 175,
     "title": "Parliamentary panel advises MoSPI to optimise fund use, seek",
     "cat": "tech",
     "upsc": true,
@@ -7888,7 +8214,7 @@
     "_mcqs": []
   },
   {
-    "id": 169,
+    "id": 176,
     "title": "India growth outlook dims as oil tops $100, gas crisis deepe",
     "cat": "economy",
     "upsc": true,
@@ -7918,7 +8244,7 @@
     "_mcqs": []
   },
   {
-    "id": 170,
+    "id": 177,
     "title": "On scientific collaborations in BRICS",
     "cat": "world",
     "upsc": true,
@@ -7948,7 +8274,7 @@
     "_mcqs": []
   },
   {
-    "id": 171,
+    "id": 178,
     "title": "Women’s Day: How many women MPs does Indian Parliament have?",
     "cat": "india",
     "upsc": true,
@@ -7978,7 +8304,7 @@
     "_mcqs": []
   },
   {
-    "id": 172,
+    "id": 179,
     "title": "India recommends anti-dumping duty on Chinese chemical used ",
     "cat": "economy",
     "upsc": true,
@@ -8008,7 +8334,7 @@
     "_mcqs": []
   },
   {
-    "id": 173,
+    "id": 180,
     "title": "Govt launches ₹497-crore RELIEF scheme as West Asia crisis d",
     "cat": "economy",
     "upsc": true,
@@ -8038,7 +8364,7 @@
     "_mcqs": []
   },
   {
-    "id": 174,
+    "id": 181,
     "title": "Govt gets Parliament nod for Rs 2.01 lakh crore additional s",
     "cat": "india",
     "upsc": true,
@@ -8068,7 +8394,7 @@
     "_mcqs": []
   },
   {
-    "id": 175,
+    "id": 182,
     "title": "India’s future demographic challenges",
     "cat": "economy",
     "upsc": true,
@@ -8098,7 +8424,7 @@
     "_mcqs": []
   },
   {
-    "id": 176,
+    "id": 183,
     "title": "Niti Aayog Rebuked",
     "cat": "policy",
     "upsc": true,
@@ -8186,7 +8512,7 @@
     }
   },
   {
-    "id": 177,
+    "id": 184,
     "title": "‘Anti-women, anti-Bengal’: Mamata Banerjee slams BJP, Electi",
     "cat": "india",
     "upsc": true,
@@ -8216,7 +8542,7 @@
     "_mcqs": []
   },
   {
-    "id": 178,
+    "id": 185,
     "title": "India-UK FTA likely to be implemented by early May; EU by ye",
     "cat": "economy",
     "upsc": true,
@@ -8246,7 +8572,7 @@
     "_mcqs": []
   },
   {
-    "id": 179,
+    "id": 186,
     "title": "Failure of atomic clock cripples ISRO’s NavIC system",
     "cat": "science",
     "upsc": false,
@@ -8276,7 +8602,7 @@
     "_mcqs": []
   },
   {
-    "id": 180,
+    "id": 187,
     "title": "Experts clash over HALEU-Th fuel for Indian nuclear reactors",
     "cat": "science",
     "upsc": false,
@@ -8306,7 +8632,7 @@
     "_mcqs": []
   },
   {
-    "id": 181,
+    "id": 188,
     "title": "ISRO’s Aditya-L1 decodes how solar storms affect earth’s mag",
     "cat": "science",
     "upsc": false,
@@ -8336,7 +8662,7 @@
     "_mcqs": []
   },
   {
-    "id": 182,
+    "id": 189,
     "title": "​Band aid: On the Supreme Court and the Special Intensive Re",
     "cat": "india",
     "upsc": false,
@@ -8366,7 +8692,7 @@
     "_mcqs": []
   },
   {
-    "id": 183,
+    "id": 190,
     "title": "India's semiconductor market to reach $300 billion by 2035: ",
     "cat": "tech",
     "upsc": false,
@@ -8396,7 +8722,7 @@
     "_mcqs": []
   },
   {
-    "id": 184,
+    "id": 191,
     "title": "Explained: Changes in India’s FDI policy for Land Bordering ",
     "cat": "economy",
     "upsc": false,
@@ -8426,7 +8752,7 @@
     "_mcqs": []
   },
   {
-    "id": 185,
+    "id": 192,
     "title": "Lack of ‘sustainable water sources’ will thwart Jal Jeevan M",
     "cat": "india",
     "upsc": false,
@@ -8456,7 +8782,7 @@
     "_mcqs": []
   },
   {
-    "id": 186,
+    "id": 193,
     "title": "Diversion of stranded cargo to new markets under review",
     "cat": "economy",
     "upsc": false,
@@ -8486,7 +8812,7 @@
     "_mcqs": []
   },
   {
-    "id": 187,
+    "id": 194,
     "title": "​Price pressures: On new series of Consumer Price Index, inf",
     "cat": "economy",
     "upsc": false,
@@ -8516,7 +8842,7 @@
     "_mcqs": []
   },
   {
-    "id": 188,
+    "id": 195,
     "title": "India mulls exempting micro firms under ₹1 crore from statut",
     "cat": "india",
     "upsc": false,
@@ -8546,7 +8872,7 @@
     "_mcqs": []
   },
   {
-    "id": 189,
+    "id": 196,
     "title": "India's privatisation drive derails because of weak investor",
     "cat": "world",
     "upsc": false,
@@ -8576,7 +8902,7 @@
     "_mcqs": []
   },
   {
-    "id": 190,
+    "id": 197,
     "title": "India oilmeal exports hit by US-Iran conflict, Red Sea disru",
     "cat": "economy",
     "upsc": false,
@@ -8606,7 +8932,7 @@
     "_mcqs": []
   },
   {
-    "id": 191,
+    "id": 198,
     "title": "India underreported rice, wheat price support: US, others to",
     "cat": "economy",
     "upsc": false,
@@ -8636,7 +8962,7 @@
     "_mcqs": []
   },
   {
-    "id": 192,
+    "id": 199,
     "title": "When lantern festival meets the Holi vibe",
     "cat": "world",
     "upsc": false,
@@ -8666,7 +8992,7 @@
     "_mcqs": []
   },
   {
-    "id": 193,
+    "id": 200,
     "title": "Government clears 23 institutions to set up ‘quantum labs’",
     "cat": "tech",
     "upsc": false,
@@ -8696,7 +9022,7 @@
     "_mcqs": []
   },
   {
-    "id": 194,
+    "id": 201,
     "title": "India's New GDP Series",
     "cat": "economy",
     "upsc": true,
@@ -8783,7 +9109,7 @@
     }
   },
   {
-    "id": 195,
+    "id": 202,
     "title": "Time for government, companies to adopt artificial intellige",
     "cat": "economy",
     "upsc": false,
@@ -8813,7 +9139,7 @@
     "_mcqs": []
   },
   {
-    "id": 196,
+    "id": 203,
     "title": "UN climate Chief Simon Stiell calls for cooperation in unsta",
     "cat": "science",
     "upsc": false,
@@ -8843,7 +9169,7 @@
     "_mcqs": []
   },
   {
-    "id": 197,
+    "id": 204,
     "title": "Government announces ₹497 crore RELIEF scheme for exporters ",
     "cat": "economy",
     "upsc": false,
@@ -8873,7 +9199,7 @@
     "_mcqs": []
   },
   {
-    "id": 198,
+    "id": 205,
     "title": "Parliament Budget Session Highlights: Lok Sabha adjourned ti",
     "cat": "india",
     "upsc": false,
@@ -8903,7 +9229,7 @@
     "_mcqs": []
   },
   {
-    "id": 199,
+    "id": 206,
     "title": "Global trade growth to slow to 1.4-1.9%, Middle East conflic",
     "cat": "tech",
     "upsc": false,
@@ -8933,7 +9259,7 @@
     "_mcqs": []
   },
   {
-    "id": 200,
+    "id": 207,
     "title": "Space for global growth to remain contested; greater intra-s",
     "cat": "science",
     "upsc": false,
@@ -8963,7 +9289,7 @@
     "_mcqs": []
   },
   {
-    "id": 201,
+    "id": 208,
     "title": "India’s need for a mandatory R&D disclosure standard",
     "cat": "india",
     "upsc": false,
@@ -8993,7 +9319,7 @@
     "_mcqs": []
   },
   {
-    "id": 202,
+    "id": 209,
     "title": "Mission Drone Shakti: India plans  ₹1,800 crore scheme to su",
     "cat": "economy",
     "upsc": false,
@@ -9023,7 +9349,7 @@
     "_mcqs": []
   },
   {
-    "id": 203,
+    "id": 210,
     "title": "As West Asia war threatens gas supply, remembering a gas gri",
     "cat": "world",
     "upsc": false,
@@ -9053,7 +9379,7 @@
     "_mcqs": []
   },
   {
-    "id": 204,
+    "id": 211,
     "title": "Sri Lanka ready to welcome and support refugees from India: ",
     "cat": "india",
     "upsc": false,
@@ -9083,7 +9409,7 @@
     "_mcqs": []
   },
   {
-    "id": 205,
+    "id": 212,
     "title": "‘Violates federal character of Constitution’: Parliament pan",
     "cat": "india",
     "upsc": false,
@@ -9113,7 +9439,7 @@
     "_mcqs": []
   },
   {
-    "id": 206,
+    "id": 213,
     "title": "Parliamentary panel recommends overworked bureaucrats get me",
     "cat": "india",
     "upsc": false,
@@ -9143,7 +9469,7 @@
     "_mcqs": []
   },
   {
-    "id": 207,
+    "id": 214,
     "title": "In farewell message for RS members, PM praises Kharge, Deve ",
     "cat": "india",
     "upsc": false,
@@ -9173,7 +9499,7 @@
     "_mcqs": []
   },
   {
-    "id": 208,
+    "id": 215,
     "title": "Oil prices to hit $150? How Indian stock markets may react a",
     "cat": "economy",
     "upsc": false,
@@ -9203,7 +9529,7 @@
     "_mcqs": []
   },
   {
-    "id": 209,
+    "id": 216,
     "title": "India's oilmeal export to China jumps 20-fold to 7.79 lakh t",
     "cat": "economy",
     "upsc": false,
@@ -9233,7 +9559,7 @@
     "_mcqs": []
   },
   {
-    "id": 210,
+    "id": 217,
     "title": "Tamil Nadu surpasses Gujarat, Maharashtra to become India's ",
     "cat": "economy",
     "upsc": false,
@@ -9263,7 +9589,7 @@
     "_mcqs": []
   },
   {
-    "id": 211,
+    "id": 218,
     "title": "Health insurance priority for government, to cover all by 20",
     "cat": "india",
     "upsc": false,
@@ -9293,7 +9619,7 @@
     "_mcqs": []
   },
   {
-    "id": 212,
+    "id": 219,
     "title": "Pension Hike",
     "cat": "economy",
     "upsc": true,
@@ -9381,7 +9707,7 @@
     }
   },
   {
-    "id": 213,
+    "id": 220,
     "title": "Modi, Jaishankar work the phones, call for dialogue as strik",
     "cat": "india",
     "upsc": false,
@@ -9411,7 +9737,7 @@
     "_mcqs": []
   },
   {
-    "id": 214,
+    "id": 221,
     "title": "Policy missteps: On the government’s handling of India’s fue",
     "cat": "india",
     "upsc": false,
@@ -9441,7 +9767,7 @@
     "_mcqs": []
   },
   {
-    "id": 215,
+    "id": 222,
     "title": "Poll sop: On Tamil Nadu and cash benefits",
     "cat": "india",
     "upsc": false,
@@ -9471,7 +9797,7 @@
     "_mcqs": []
   },
   {
-    "id": 216,
+    "id": 223,
     "title": "Importance of sex education in academia",
     "cat": "economy",
     "upsc": false,
@@ -9501,7 +9827,7 @@
     "_mcqs": []
   },
   {
-    "id": 217,
+    "id": 224,
     "title": "Making sense of the political tsunami in Nepal",
     "cat": "india",
     "upsc": false,
@@ -9531,7 +9857,7 @@
     "_mcqs": []
   },
   {
-    "id": 218,
+    "id": 225,
     "title": "A reality check on Indian ambition for internationalising hi",
     "cat": "india",
     "upsc": false,
@@ -9561,7 +9887,7 @@
     "_mcqs": []
   },
   {
-    "id": 219,
+    "id": 226,
     "title": "Youth-backed RSP win signals Nepal’s new political era",
     "cat": "india",
     "upsc": false,
@@ -9591,7 +9917,7 @@
     "_mcqs": []
   },
   {
-    "id": 220,
+    "id": 227,
     "title": "Reevaluating the office of the Speaker",
     "cat": "india",
     "upsc": false,
@@ -9621,7 +9947,7 @@
     "_mcqs": []
   },
   {
-    "id": 221,
+    "id": 228,
     "title": "LPG crisis: why it is important for India to electrify indus",
     "cat": "science",
     "upsc": false,
@@ -9651,7 +9977,7 @@
     "_mcqs": []
   },
   {
-    "id": 222,
+    "id": 229,
     "title": "ISRO, AIIMS sign MoU for cooperation in space medicine and r",
     "cat": "science",
     "upsc": false,
@@ -9681,7 +10007,7 @@
     "_mcqs": []
   },
   {
-    "id": 223,
+    "id": 230,
     "title": "Transgender Rights Amendment Bill: Key Changes to 2019 Act E",
     "cat": "policy",
     "upsc": false,
@@ -9711,7 +10037,7 @@
     "_mcqs": []
   },
   {
-    "id": 224,
+    "id": 231,
     "title": "Rupee, inflation, growth: How global energy shock threatens ",
     "cat": "economy",
     "upsc": false,
@@ -9741,7 +10067,7 @@
     "_mcqs": []
   },
   {
-    "id": 225,
+    "id": 232,
     "title": "Parliamentary panel asks Railways to assess passenger satisf",
     "cat": "india",
     "upsc": false,
@@ -9771,7 +10097,7 @@
     "_mcqs": []
   },
   {
-    "id": 226,
+    "id": 233,
     "title": "Rupee falls 3 paise to 92.43 against U.S. dollar in early tr",
     "cat": "economy",
     "upsc": false,
@@ -9801,7 +10127,7 @@
     "_mcqs": []
   },
   {
-    "id": 227,
+    "id": 234,
     "title": "KC Tyagi quits JD(U) a day after Nitish Kumar's Rajya Sabha ",
     "cat": "india",
     "upsc": false,
@@ -9831,7 +10157,7 @@
     "_mcqs": []
   },
   {
-    "id": 228,
+    "id": 235,
     "title": "Parliament Session: ‘India’s crude supply position is secure",
     "cat": "india",
     "upsc": false,
@@ -9861,7 +10187,7 @@
     "_mcqs": []
   },
   {
-    "id": 229,
+    "id": 236,
     "title": "‘By casting suspicion on speaker, you weaken our democratic ",
     "cat": "india",
     "upsc": false,
@@ -9891,7 +10217,7 @@
     "_mcqs": []
   },
   {
-    "id": 230,
+    "id": 237,
     "title": "Lok Sabha No-Confidence Motion",
     "cat": "policy",
     "upsc": true,
@@ -9978,7 +10304,7 @@
     }
   },
   {
-    "id": 231,
+    "id": 238,
     "title": "Why a 70:30 India-global portfolio makes sense in a changing",
     "cat": "tech",
     "upsc": false,
@@ -10008,7 +10334,7 @@
     "_mcqs": []
   },
   {
-    "id": 232,
+    "id": 239,
     "title": "Rs 39.48 lakh cr sanctioned so far under PM-MUDRA, NPAs at a",
     "cat": "tech",
     "upsc": false,
@@ -10038,7 +10364,7 @@
     "_mcqs": []
   },
   {
-    "id": 233,
+    "id": 240,
     "title": "Ongoing West Asia conflict may feed through imported inflati",
     "cat": "economy",
     "upsc": false,
@@ -10068,7 +10394,7 @@
     "_mcqs": []
   },
   {
-    "id": 234,
+    "id": 241,
     "title": "India’s medium-term macro fundamentals remain healthy, robus",
     "cat": "india",
     "upsc": false,
@@ -10098,7 +10424,7 @@
     "_mcqs": []
   },
   {
-    "id": 235,
+    "id": 242,
     "title": "Nora Fatehi's Sarke Chunar Teri Sarke song lands in more tro",
     "cat": "policy",
     "upsc": false,
@@ -10128,7 +10454,7 @@
     "_mcqs": []
   },
   {
-    "id": 236,
+    "id": 243,
     "title": "AI for all: On the India AI Impact Summit 2026",
     "cat": "india",
     "upsc": false,
@@ -10158,7 +10484,7 @@
     "_mcqs": []
   },
   {
-    "id": 237,
+    "id": 244,
     "title": "​ Stick together: On India and Brazil and their ties",
     "cat": "economy",
     "upsc": false,
@@ -10188,7 +10514,7 @@
     "_mcqs": []
   },
   {
-    "id": 238,
+    "id": 245,
     "title": "Balancing innovation with women’s digital safety",
     "cat": "tech",
     "upsc": false,
@@ -10218,7 +10544,7 @@
     "_mcqs": []
   },
   {
-    "id": 239,
+    "id": 246,
     "title": "Oil, gas firms ordered to share import, export data with PPA",
     "cat": "economy",
     "upsc": false,
@@ -10248,7 +10574,7 @@
     "_mcqs": []
   },
   {
-    "id": 240,
+    "id": 247,
     "title": "Cholesterol makes cells’ nuclei squishy, helping melanoma sp",
     "cat": "economy",
     "upsc": false,
@@ -10278,7 +10604,7 @@
     "_mcqs": []
   },
   {
-    "id": 241,
+    "id": 248,
     "title": "With lunar missions looming, scientists grow chickpeas in 'm",
     "cat": "science",
     "upsc": false,
@@ -10308,7 +10634,7 @@
     "_mcqs": []
   },
   {
-    "id": 242,
+    "id": 249,
     "title": "India, Pakistan ties ‘remain a risk’ for nuclear conflict: U",
     "cat": "india",
     "upsc": false,
@@ -10338,7 +10664,7 @@
     "_mcqs": []
   },
   {
-    "id": 243,
+    "id": 250,
     "title": "Rupee below 92 against dollar amid Iran conflict: impact on ",
     "cat": "economy",
     "upsc": false,
@@ -10368,7 +10694,7 @@
     "_mcqs": []
   },
   {
-    "id": 244,
+    "id": 251,
     "title": "As more Indians move to cities, 16th Finance Commission give",
     "cat": "economy",
     "upsc": false,
@@ -10398,7 +10724,7 @@
     "_mcqs": []
   },
   {
-    "id": 245,
+    "id": 252,
     "title": "Train to Sikkim: Sevoke-Rangpo railway project achieves majo",
     "cat": "tech",
     "upsc": false,
@@ -10428,7 +10754,7 @@
     "_mcqs": []
   },
   {
-    "id": 246,
+    "id": 253,
     "title": "Govt declares energy statistics as national security matter;",
     "cat": "economy",
     "upsc": false,
@@ -10458,7 +10784,7 @@
     "_mcqs": []
   },
   {
-    "id": 247,
+    "id": 254,
     "title": "Mint Explainer | Why India remains dependent on fertilizer i",
     "cat": "economy",
     "upsc": false,
@@ -10488,7 +10814,7 @@
     "_mcqs": []
   },
   {
-    "id": 248,
+    "id": 255,
     "title": "Industry Definition",
     "cat": "policy",
     "upsc": true,
@@ -10576,7 +10902,7 @@
     }
   },
   {
-    "id": 249,
+    "id": 256,
     "title": "Twitter's India policy head to step down; will transition in",
     "cat": "india",
     "upsc": false,
@@ -10606,7 +10932,7 @@
     "_mcqs": []
   },
   {
-    "id": 250,
+    "id": 257,
     "title": "Warren Buffett is buying, Michael Burry is shorting: The AI ",
     "cat": "economy",
     "upsc": false,
@@ -10636,7 +10962,7 @@
     "_mcqs": []
   },
   {
-    "id": 251,
+    "id": 258,
     "title": "India in talks with Russia, Belarus, Morocco to boost fertil",
     "cat": "economy",
     "upsc": false,
@@ -10666,7 +10992,7 @@
     "_mcqs": []
   },
   {
-    "id": 252,
+    "id": 259,
     "title": "Big bets, weak ground: Why AI in Indian agriculture needs st",
     "cat": "tech",
     "upsc": false,
@@ -10696,7 +11022,7 @@
     "_mcqs": []
   },
   {
-    "id": 253,
+    "id": 260,
     "title": "Israel PM Netanyahu’s Iran war briefing: 15 major points",
     "cat": "world",
     "upsc": false,
@@ -10726,7 +11052,7 @@
     "_mcqs": []
   },
   {
-    "id": 254,
+    "id": 261,
     "title": "'Unacceptable': MEA on attacks against energy infrastructure",
     "cat": "economy",
     "upsc": false,
@@ -10756,7 +11082,7 @@
     "_mcqs": []
   },
   {
-    "id": 255,
+    "id": 262,
     "title": "India unveils  ₹497-cr RELIEF package to shield exporters fr",
     "cat": "economy",
     "upsc": false,
@@ -10786,7 +11112,7 @@
     "_mcqs": []
   },
   {
-    "id": 256,
+    "id": 263,
     "title": "Rajnath Singh calls for mission-mode push to make India glob",
     "cat": "india",
     "upsc": false,
@@ -10816,7 +11142,7 @@
     "_mcqs": []
   },
   {
-    "id": 257,
+    "id": 264,
     "title": "Privacy and transparency: On the RTI Act amendment, petition",
     "cat": "policy",
     "upsc": false,
@@ -10846,7 +11172,7 @@
     "_mcqs": []
   },
   {
-    "id": 258,
+    "id": 265,
     "title": "The opportunity in Cameroon to rebalance the WTO",
     "cat": "economy",
     "upsc": false,
@@ -10876,7 +11202,7 @@
     "_mcqs": []
   },
   {
-    "id": 259,
+    "id": 266,
     "title": "Rethinking tax searches for the digital age",
     "cat": "tech",
     "upsc": false,
@@ -10906,7 +11232,7 @@
     "_mcqs": []
   },
   {
-    "id": 260,
+    "id": 267,
     "title": "RBI approves transition plan after HDFC Bank chairman’s resi",
     "cat": "economy",
     "upsc": false,
@@ -10936,7 +11262,7 @@
     "_mcqs": []
   },
   {
-    "id": 261,
+    "id": 268,
     "title": "Electrifying industrial heat as a path to India’s thermal in",
     "cat": "economy",
     "upsc": false,
@@ -10966,7 +11292,7 @@
     "_mcqs": []
   },
   {
-    "id": 262,
+    "id": 269,
     "title": "India’s Project Cheetah must stop importing big cats, say sc",
     "cat": "economy",
     "upsc": false,
@@ -10996,7 +11322,7 @@
     "_mcqs": []
   },
   {
-    "id": 263,
+    "id": 270,
     "title": "Faunal survey in Kerala’s Vazhachal adds 26 species to check",
     "cat": "science",
     "upsc": false,
@@ -11026,7 +11352,7 @@
     "_mcqs": []
   },
   {
-    "id": 264,
+    "id": 271,
     "title": "HALEU-Thorium fuel unsuitable for Indian nuclear reactors: s",
     "cat": "india",
     "upsc": false,
@@ -11056,7 +11382,7 @@
     "_mcqs": []
   },
   {
-    "id": 265,
+    "id": 272,
     "title": "China calls killing of Iran’s Larijani, leaders ‘unacceptabl",
     "cat": "world",
     "upsc": false,
@@ -11086,7 +11412,7 @@
     "_mcqs": []
   },
   {
-    "id": 266,
+    "id": 273,
     "title": "Thailand PM Vote",
     "cat": "world",
     "upsc": true,
@@ -11173,7 +11499,7 @@
     }
   },
   {
-    "id": 267,
+    "id": 274,
     "title": "Three Palestinian women killed in Iranian missile attack in ",
     "cat": "economy",
     "upsc": false,
@@ -11203,7 +11529,7 @@
     "_mcqs": []
   },
   {
-    "id": 268,
+    "id": 275,
     "title": "Pakistan’s long-range ballistic missiles could potentially t",
     "cat": "tech",
     "upsc": false,
@@ -11233,7 +11559,7 @@
     "_mcqs": []
   },
   {
-    "id": 269,
+    "id": 276,
     "title": "Tariffs, AI, war, oil: what next for Indian stock markets",
     "cat": "economy",
     "upsc": false,
@@ -11263,7 +11589,7 @@
     "_mcqs": []
   },
   {
-    "id": 270,
+    "id": 277,
     "title": "Explained: Supreme Court to decide what counts as an ‘indust",
     "cat": "india",
     "upsc": false,
@@ -11293,7 +11619,7 @@
     "_mcqs": []
   },
   {
-    "id": 271,
+    "id": 278,
     "title": "Iran War has hit all segments of India’s oil, gas imports. W",
     "cat": "economy",
     "upsc": false,
@@ -11323,7 +11649,7 @@
     "_mcqs": []
   },
   {
-    "id": 272,
+    "id": 279,
     "title": "Explained, in 3 charts: How India became so dependent on LPG",
     "cat": "economy",
     "upsc": false,
@@ -11353,7 +11679,7 @@
     "_mcqs": []
   },
   {
-    "id": 273,
+    "id": 280,
     "title": "Explained: Maharashtra’s new farm loan waiver, despite past ",
     "cat": "tech",
     "upsc": false,
@@ -11383,7 +11709,7 @@
     "_mcqs": []
   },
   {
-    "id": 274,
+    "id": 281,
     "title": "How West Asia conflict has hit India’s rice exports, left th",
     "cat": "economy",
     "upsc": false,
@@ -11413,7 +11739,7 @@
     "_mcqs": []
   },
   {
-    "id": 275,
+    "id": 282,
     "title": "Amid ongoing conflict in West Asia, Indian Exporters meet Co",
     "cat": "economy",
     "upsc": false,
@@ -11443,7 +11769,7 @@
     "_mcqs": []
   },
   {
-    "id": 276,
+    "id": 283,
     "title": "India AI Impact Summit | Delhi declaration: Focus on democra",
     "cat": "world",
     "upsc": false,
@@ -11473,7 +11799,7 @@
     "_mcqs": []
   },
   {
-    "id": 277,
+    "id": 284,
     "title": "Women's Day: When Indira Gandhi said she felt ‘insulted’ for",
     "cat": "tech",
     "upsc": false,
@@ -11503,7 +11829,7 @@
     "_mcqs": []
   },
   {
-    "id": 278,
+    "id": 285,
     "title": "Mint Explainer | How long can India delay a fuel price hike?",
     "cat": "world",
     "upsc": false,
@@ -11533,7 +11859,7 @@
     "_mcqs": []
   },
   {
-    "id": 279,
+    "id": 286,
     "title": "HDFC Bank ADRs crash another 4% after sharp selloff, hinting",
     "cat": "economy",
     "upsc": false,
@@ -11563,7 +11889,7 @@
     "_mcqs": []
   },
   {
-    "id": 280,
+    "id": 287,
     "title": "Every decision of government needn’t be a big reform: Anand ",
     "cat": "economy",
     "upsc": false,
@@ -11593,7 +11919,7 @@
     "_mcqs": []
   },
   {
-    "id": 281,
+    "id": 288,
     "title": "Facing evictions, Gulmarg hoteliers withdraw petitions ‘to s",
     "cat": "india",
     "upsc": false,
@@ -11623,7 +11949,7 @@
     "_mcqs": []
   },
   {
-    "id": 282,
+    "id": 289,
     "title": "Anti-establishment X accounts ‘withheld’ in India as takedow",
     "cat": "india",
     "upsc": false,
@@ -11653,7 +11979,7 @@
     "_mcqs": []
   },
   {
-    "id": 283,
+    "id": 290,
     "title": "About 90 ships have crossed Strait of Hormuz so far as Iran ",
     "cat": "economy",
     "upsc": false,
@@ -11683,7 +12009,7 @@
     "_mcqs": []
   },
   {
-    "id": 284,
+    "id": 291,
     "title": "Microsoft vs Amazon",
     "cat": "tech",
     "upsc": true,
@@ -11767,7 +12093,7 @@
     }
   },
   {
-    "id": 285,
+    "id": 292,
     "title": "India’s second LPG carrier ‘Nanda Devi’ arrives at Gujarat p",
     "cat": "india",
     "upsc": false,
@@ -11797,7 +12123,7 @@
     "_mcqs": []
   },
   {
-    "id": 286,
+    "id": 293,
     "title": "Science Snapshots: March 15, 2026",
     "cat": "economy",
     "upsc": false,
@@ -11827,7 +12153,7 @@
     "_mcqs": []
   },
   {
-    "id": 287,
+    "id": 294,
     "title": "ISRO and ESA sign agreement for Earth Observation missions",
     "cat": "science",
     "upsc": false,
@@ -11857,7 +12183,7 @@
     "_mcqs": []
   },
   {
-    "id": 288,
+    "id": 295,
     "title": "Global warming picking up pace, study says",
     "cat": "world",
     "upsc": false,
@@ -11887,7 +12213,7 @@
     "_mcqs": []
   },
   {
-    "id": 289,
+    "id": 296,
     "title": "Israel will not attack Iranian gas field any more, says Trum",
     "cat": "tech",
     "upsc": false,
@@ -11917,7 +12243,7 @@
     "_mcqs": []
   },
   {
-    "id": 290,
+    "id": 297,
     "title": "Digvijaya Singh says Jagdambika Pal would be ‘better’ speake",
     "cat": "india",
     "upsc": false,
@@ -11947,7 +12273,7 @@
     "_mcqs": []
   },
   {
-    "id": 291,
+    "id": 298,
     "title": "Losing the way: On ISRO and issues with its NavIC constellat",
     "cat": "science",
     "upsc": false,
@@ -11977,7 +12303,7 @@
     "_mcqs": []
   },
   {
-    "id": 292,
+    "id": 299,
     "title": "Selective outrage: on Supreme Court and NCERT textbook",
     "cat": "india",
     "upsc": false,
@@ -12007,7 +12333,7 @@
     "_mcqs": []
   },
   {
-    "id": 293,
+    "id": 300,
     "title": "Is the Supreme Court doing enough to tackle hate speech?",
     "cat": "india",
     "upsc": false,
@@ -12037,7 +12363,7 @@
     "_mcqs": []
   },
   {
-    "id": 294,
+    "id": 301,
     "title": "NavIC satellite loses its atomic clock: What this means for ",
     "cat": "india",
     "upsc": false,
@@ -12067,7 +12393,7 @@
     "_mcqs": []
   },
   {
-    "id": 295,
+    "id": 302,
     "title": "ExplainSpeaking: Understanding the ‘discrepancies’ in India’",
     "cat": "tech",
     "upsc": false,
@@ -12097,7 +12423,7 @@
     "_mcqs": []
   },
   {
-    "id": 296,
+    "id": 303,
     "title": "Expert Explains Nepal elections: ‘RSP a party of progressive",
     "cat": "india",
     "upsc": false,
@@ -12127,7 +12453,7 @@
     "_mcqs": []
   },
   {
-    "id": 297,
+    "id": 304,
     "title": "How Bombay HC ruling on fee payment highlights Right to Educ",
     "cat": "india",
     "upsc": false,
@@ -12157,7 +12483,7 @@
     "_mcqs": []
   },
   {
-    "id": 298,
+    "id": 305,
     "title": "India puts rider to signing US trade deal after Supreme Cour",
     "cat": "india",
     "upsc": false,
@@ -12187,7 +12513,7 @@
     "_mcqs": []
   },
   {
-    "id": 299,
+    "id": 306,
     "title": "Cabinet raises POWERGRID’s equity cap to boost participation",
     "cat": "science",
     "upsc": false,
@@ -12217,7 +12543,7 @@
     "_mcqs": []
   },
   {
-    "id": 300,
+    "id": 307,
     "title": "India trade deal talks rescheduled as US Supreme Court scrap",
     "cat": "india",
     "upsc": false,
@@ -12247,7 +12573,7 @@
     "_mcqs": []
   },
   {
-    "id": 301,
+    "id": 308,
     "title": "Canada immigration backlog below 1 million mark for first ti",
     "cat": "tech",
     "upsc": false,
@@ -12277,7 +12603,7 @@
     "_mcqs": []
   },
   {
-    "id": 302,
+    "id": 309,
     "title": "Adani Airport Dispute",
     "cat": "economy",
     "upsc": true,
@@ -12366,7 +12692,7 @@
     }
   },
   {
-    "id": 303,
+    "id": 310,
     "title": "Solar power is all the rage, but something is troubling bank",
     "cat": "science",
     "upsc": false,
@@ -12396,7 +12722,7 @@
     "_mcqs": []
   },
   {
-    "id": 304,
+    "id": 311,
     "title": "Connected car in the driveway as Trai set to frame spectrum ",
     "cat": "tech",
     "upsc": false,
@@ -12426,7 +12752,7 @@
     "_mcqs": []
   },
   {
-    "id": 305,
+    "id": 312,
     "title": "Feed-first growth, weak monetization: Inside India’s micro-d",
     "cat": "economy",
     "upsc": false,
@@ -12456,7 +12782,7 @@
     "_mcqs": []
   },
   {
-    "id": 306,
+    "id": 313,
     "title": "From Buddha rice to zero-pesticide chana: How farmer-run com",
     "cat": "economy",
     "upsc": false,
@@ -12486,7 +12812,7 @@
     "_mcqs": []
   },
   {
-    "id": 307,
+    "id": 314,
     "title": "Nepal votes on March 5; focus on jobs, economy",
     "cat": "india",
     "upsc": false,
@@ -12516,7 +12842,7 @@
     "_mcqs": []
   },
   {
-    "id": 308,
+    "id": 315,
     "title": "Inflation reflects growth dynamics in India: Christopher Woo",
     "cat": "economy",
     "upsc": false,
