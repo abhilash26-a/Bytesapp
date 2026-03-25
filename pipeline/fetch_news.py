@@ -427,21 +427,15 @@ def build_story(article, ai_data, story_id):
     """Combine article data + AI analysis into a Bytes story object."""
     now = datetime.now(timezone.utc)
 
-    # Calculate relative time
-    time_str = "just now"
+    # Store actual publish timestamp (ISO format) for frontend to compute relative time
+    time_str = now.isoformat()
     if article.get("published"):
         try:
             pub = feedparser._parse_date(article["published"])
             if pub:
                 from calendar import timegm
                 pub_dt = datetime.fromtimestamp(timegm(pub), tz=timezone.utc)
-                delta = now - pub_dt
-                if delta.days > 0:
-                    time_str = f"{delta.days}d ago"
-                elif delta.seconds > 3600:
-                    time_str = f"{delta.seconds // 3600}h ago"
-                else:
-                    time_str = f"{delta.seconds // 60}m ago"
+                time_str = pub_dt.isoformat()
         except Exception:
             pass
 

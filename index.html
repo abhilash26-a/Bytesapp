@@ -1751,6 +1751,21 @@ applyTheme(localStorage.getItem('bytes_theme') || 'dark');
 // MCQ quiz state
 let quizState = {};
 
+function relativeTime(ts) {
+    if (!ts) return '';
+    try {
+        const d = new Date(ts);
+        if (isNaN(d)) return ts; // fallback for old "just now" strings
+        const now = Date.now();
+        const diff = Math.floor((now - d.getTime()) / 1000);
+        if (diff < 60) return 'just now';
+        if (diff < 3600) return Math.floor(diff / 60) + 'm ago';
+        if (diff < 86400) return Math.floor(diff / 3600) + 'h ago';
+        if (diff < 604800) return Math.floor(diff / 86400) + 'd ago';
+        return d.toLocaleDateString('en-IN', { day: 'numeric', month: 'short' });
+    } catch(e) { return ts; }
+}
+
 // State
 let filter = 'all', query = '', shown = 4;
 let gsFilter = null; // GS paper filter
@@ -2059,7 +2074,7 @@ function render() {
             <div style="display:flex;align-items:center;gap:6px;flex-wrap:wrap;">
                 <span class="badge-cat ${feat.cat}">${feat.cat}</span>
                 ${featGs}
-                <span style="color:var(--text-3);font-size:11px;">${feat.src} · ${feat.time}</span>
+                <span style="color:var(--text-3);font-size:11px;">${feat.src} · ${relativeTime(feat.time)}</span>
             </div>
         </div>
     </div>`;
@@ -2077,7 +2092,7 @@ function render() {
                         <span class="badge-cat ${d.cat}">${d.cat}</span>
                         ${gsHtml}
                     </div>
-                    <span class="card-time">${d.time}</span>
+                    <span class="card-time">${relativeTime(d.time)}</span>
                 </div>
                 <h3 class="card-title">${d.title}</h3>
                 <p class="card-summary">${d.summary.length > 120 ? d.summary.substring(0, 120) + '...' : d.summary}</p>
@@ -2139,7 +2154,7 @@ function renderReaderContent(d) {
             <span class="badge-cat ${d.cat}">${d.cat}</span>
             ${meta ? meta.gs.map(g => `<span class="gs-badge ${g.toLowerCase()}">${g}</span>`).join('') : ''}
             ${src ? `<span class="source-badge ${meta.sourceType}">${src.icon} ${src.label}</span>` : ''}
-            <span style="color:var(--text-3);font-size:12px;">${d.src} · ${d.time}</span>
+            <span style="color:var(--text-3);font-size:12px;">${d.src} · ${relativeTime(d.time)}</span>
         </div>
         ${meta ? `<div style="display:flex;align-items:center;gap:16px;margin-bottom:12px;">${renderDifficulty(d.id)}${renderRelevance(d.id)}</div>` : ''}
         <p class="reader-summary">${d.summary}</p>
@@ -2405,7 +2420,7 @@ function openTopicView(topicName, topicData, connectContext) {
                         <div onclick="openReader(${s.id})" style="padding:12px;background:var(--surface-2);border-radius:8px;cursor:pointer;border:1px solid var(--border);">
                             <div style="display:flex;align-items:center;gap:8px;margin-bottom:6px;">
                                 <span class="badge-cat ${s.cat}" style="font-size:9px;padding:2px 6px;">${s.cat}</span>
-                                <span style="font-size:11px;color:var(--text-3);">${s.time}</span>
+                                <span style="font-size:11px;color:var(--text-3);">${relativeTime(s.time)}</span>
                             </div>
                             <div style="font-size:14px;font-weight:600;line-height:1.3;">${s.title}</div>
                         </div>
