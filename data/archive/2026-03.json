@@ -6263,5 +6263,956 @@
       "explanation": "Statement 1 is correct: The Electricity Act, 2003, indeed establishes the CERC to regulate the power sector. Statement 2 is incorrect: The REC mechanism promotes the use of renewable energy sources, not non-renewable energy sources. Statement 3 is correct: The PPA is a critical component of the power sector, as it ensures a stable revenue stream for power generators.",
       "trap": "Wrong information about the REC mechanism"
     }
+  },
+  {
+    "id": 2106,
+    "title": "Energy Security",
+    "cat": "policy",
+    "upsc": true,
+    "time": "2026-03-20T13:16:35.467541+00:00",
+    "summary": "The Power Minister emphasized the importance of energy security amidst global uncertainties. This matters for UPSC as it connects to India's energy policy and transition towards renewable energy, which is a crucial aspect of the country's sustainable development. The statement highlights the need to enhance per capita energy consumption and accelerate the transition towards renewable energy, which is in line with the country's commitments under the Paris Agreement.",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": 33,
+        "label": "Percentage reduction in greenhouse gas emissions intensity below 2005 levels by 2030"
+      },
+      {
+        "val": 100,
+        "label": "GW of solar power capacity to be achieved by 2022"
+      },
+      {
+        "val": 2010,
+        "label": "Year the Renewable Energy Certificate mechanism was introduced"
+      }
+    ],
+    "src": "The Hindu",
+    "link": "https://www.thehindu.com/news/national/power-minister-stresses-energy-security-amid-global-tensions/article70765105.ece",
+    "prelims": [
+      "<strong>National Energy Policy</strong> aims to provide energy access to all citizens while reducing dependence on fossil fuels. The policy was formulated in 2005 and has been updated to incorporate new technologies and global best practices. It emphasizes the need for a balanced energy mix, including renewable energy sources, to ensure energy security.",
+      "<strong>Renewable Energy Certificate (REC)</strong> mechanism was introduced in 2010 to promote the use of renewable energy sources. RECs are tradable certificates that represent the environmental attributes of one megawatt-hour of renewable energy. They are issued to renewable energy generators and can be traded with other entities to meet their renewable purchase obligations.",
+      "<strong>Paris Agreement</strong> on climate change was signed in 2015, and India has committed to reducing its greenhouse gas emissions intensity by 33-35% below 2005 levels by 2030. The agreement also aims to limit global warming to well below 2 degrees Celsius and pursue efforts to limit it to 1.5 degrees Celsius. India's energy policy is aligned with the goals of the Paris Agreement.",
+      "<strong>Energy Efficiency Services Limited (EESL)</strong> is a joint venture of the Ministry of Power, Government of India, and four other public sector undertakings. EESL was established in 2009 to promote energy efficiency in the country. It has implemented several energy efficiency programs, including the street lighting national programme, which has replaced traditional street lights with LED lights across the country.",
+      "<strong>International Solar Alliance (ISA)</strong> was launched in 2015 to promote the use of solar energy globally. The ISA is an intergovernmental organization that aims to reduce the cost of solar energy and increase its deployment in member countries. India has played a key role in the formation of the ISA and has committed to achieving 100 GW of solar power capacity by 2022."
+    ],
+    "mains": {
+      "q": "Analyze the role of renewable energy in ensuring energy security in India.",
+      "marks": "15 marks · GS3",
+      "directive": "analyze",
+      "hints": [
+        "Introduction (2 marks): Define energy security and its importance in the context of India's economic development.",
+        "Body - Renewable energy potential (3 marks): Discuss the potential of renewable energy sources, such as solar and wind power, in India.",
+        "Body - Policy and regulatory framework (3 marks): Examine the policy and regulatory framework for promoting renewable energy in India, including the National Energy Policy and the Renewable Energy Certificate mechanism.",
+        "Body - Challenges and limitations (3 marks): Analyze the challenges and limitations of promoting renewable energy in India, including the high upfront costs and intermittency of renewable energy sources.",
+        "Conclusion (2 marks): Summarize the importance of renewable energy in ensuring energy security in India and suggest measures to promote its adoption."
+      ]
+    },
+    "connect": [
+      {
+        "topic": "National Energy Policy",
+        "context": "The policy aims to provide energy access to all citizens while reducing dependence on fossil fuels, which is relevant to the topic of energy security."
+      },
+      {
+        "topic": "Renewable Energy Certificate (REC) mechanism",
+        "context": "The REC mechanism was introduced to promote the use of renewable energy sources, which is a key aspect of India's energy policy."
+      },
+      {
+        "topic": "Paris Agreement on climate change",
+        "context": "The agreement aims to limit global warming to well below 2 degrees Celsius and pursue efforts to limit it to 1.5 degrees Celsius, which is relevant to India's energy policy and commitment to reducing greenhouse gas emissions."
+      },
+      {
+        "topic": "Energy Efficiency Services Limited (EESL)",
+        "context": "EESL has implemented several energy efficiency programs, including the street lighting national programme, which has replaced traditional street lights with LED lights across the country."
+      },
+      {
+        "topic": "International Solar Alliance (ISA)",
+        "context": "The ISA aims to reduce the cost of solar energy and increase its deployment in member countries, which is relevant to India's commitment to achieving 100 GW of solar power capacity by 2022."
+      }
+    ],
+    "_hash": "2569f40abc0e",
+    "_fetched": "2026-03-20T13:16:35.467541+00:00",
+    "_relevance": 67,
+    "_gs": [
+      "GS2",
+      "GS3"
+    ],
+    "_sourceType": "ministry",
+    "_difficulty": 2,
+    "_directive": "analyze",
+    "_mcqs": {
+      "q": "Consider the following statements:\n1. The National Energy Policy aims to provide energy access to all citizens while reducing dependence on fossil fuels.\n2. The Renewable Energy Certificate mechanism was introduced in 2015.\n3. The Paris Agreement on climate change was signed in 2010.\nWhich of the above is/are correct?",
+      "options": [
+        "1 only",
+        "1 and 2 only",
+        "2 and 3 only",
+        "1, 2 and 3"
+      ],
+      "correct": 0,
+      "explanation": "Statement 1 is correct: The National Energy Policy aims to provide energy access to all citizens while reducing dependence on fossil fuels. Statement 2 is incorrect: The Renewable Energy Certificate mechanism was introduced in 2010, not 2015. Statement 3 is incorrect: The Paris Agreement on climate change was signed in 2015, not 2010.",
+      "trap": "Timeline Confusion"
+    }
+  },
+  {
+    "id": 2107,
+    "title": "Energy Data Security",
+    "cat": "economy",
+    "upsc": true,
+    "time": "2026-03-20T13:16:51.850838+00:00",
+    "summary": "The Indian government has classified vital energy data as a national security matter, mandating real-time reporting from oil and gas firms. This move is crucial for UPSC as it highlights the government's efforts to strengthen energy security and oversight. It connects to the syllabus area of energy security and governance, which is a key aspect of GS3.",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": 75,
+        "label": "Percentage of India's energy imports"
+      },
+      {
+        "val": 2001,
+        "label": "Year the Energy Conservation Act was enacted"
+      },
+      {
+        "val": 30,
+        "label": "Percentage of India's energy consumption accounted for by the industrial sector"
+      }
+    ],
+    "src": "ET Economy",
+    "link": "https://economictimes.indiatimes.com/news/economy/policy/centre-classifies-key-energy-data-as-national-security-mandates-real-time-reporting-from-oil-and-gas-firms/articleshow/129699966.cms",
+    "prelims": [
+      "The <strong>National Data Governance Framework</strong> is a policy initiative that aims to regulate the collection, storage, and use of data in India. It has implications for the energy sector, where data security is critical. The framework is expected to enhance data protection and promote the use of data for economic development.",
+      "The <strong>Ministry of Petroleum and Natural Gas</strong> is responsible for the development and implementation of policies related to the energy sector. It plays a crucial role in ensuring energy security and promoting the use of clean energy sources. The ministry has launched several initiatives to enhance energy efficiency and reduce dependence on fossil fuels.",
+      "The <strong>Energy Conservation Act, 2001</strong> is a legislation that aims to promote energy conservation and efficient use of energy in India. It has provisions for regulating the energy consumption patterns of various sectors, including industries, transport, and buildings. The act is crucial for reducing energy waste and promoting sustainable development.",
+      "The <strong>Intelligence Bureau (IB)</strong> is the primary intelligence agency responsible for internal security and counter-intelligence in India. It plays a critical role in protecting the country's energy infrastructure from cyber threats and sabotage. The IB works closely with other agencies to ensure the security of critical infrastructure, including energy installations.",
+      "The <strong>Cabinet Committee on Security (CCS)</strong> is the highest decision-making body on security issues in India. It is responsible for formulating and implementing policies related to national security, including energy security. The CCS comprises the Prime Minister and the Ministers of Defence, Home, Finance, and External Affairs, and it plays a crucial role in ensuring the country's energy security."
+    ],
+    "mains": {
+      "q": "Analyze the implications of classifying energy data as a national security matter on the governance of the energy sector in India.",
+      "marks": "15 marks · GS3",
+      "directive": "analyze",
+      "hints": [
+        "Introduction (2 marks): Define energy security and its importance in the context of national security. Explain the rationale behind classifying energy data as a national security matter.",
+        "Body - Energy Governance (3 marks): Discuss the current governance structure of the energy sector in India, including the role of the Ministry of Petroleum and Natural Gas, and the regulatory framework for energy data.",
+        "Body - Security Implications (3 marks): Analyze the potential security implications of classifying energy data as a national security matter, including the risks of cyber attacks and sabotage.",
+        "Body - Economic Implications (3 marks): Examine the potential economic implications of classifying energy data as a national security matter, including the impact on energy trade and investment.",
+        "Conclusion (2 marks): Summarize the main points and suggest ways to balance energy security with economic development and governance."
+      ]
+    },
+    "connect": [
+      {
+        "topic": "Energy Security and Governance",
+        "context": "The classification of energy data as a national security matter highlights the importance of energy security in India's overall security framework."
+      },
+      {
+        "topic": "Cyber Security and Critical Infrastructure",
+        "context": "The protection of energy infrastructure from cyber threats is a critical aspect of national security, and the Intelligence Bureau (IB) plays a key role in this regard."
+      },
+      {
+        "topic": "Economic Development and Energy Policy",
+        "context": "The governance of the energy sector has significant implications for economic development, and the classification of energy data as a national security matter may impact energy trade and investment."
+      },
+      {
+        "topic": "Environmental Impact Assessment (EIA) and Energy Projects",
+        "context": "The EIA process is critical for ensuring that energy projects are environmentally sustainable, and the classification of energy data as a national security matter may have implications for the EIA process."
+      },
+      {
+        "topic": "National Disaster Management Authority (NDMA) and Energy Infrastructure",
+        "context": "The NDMA plays a critical role in disaster management, including the protection of energy infrastructure, and the classification of energy data as a national security matter may have implications for disaster management"
+      }
+    ],
+    "_hash": "1fac8d46271c",
+    "_fetched": "2026-03-20T13:16:51.850838+00:00",
+    "_relevance": 62,
+    "_gs": [
+      "GS2",
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "analyze",
+    "_mcqs": {
+      "q": "Consider the following statements:\n1. The Ministry of Petroleum and Natural Gas is responsible for regulating the energy sector in India.\n2. The Energy Conservation Act, 2001, is applicable only to the industrial sector.\n3. The Intelligence Bureau (IB) is responsible for protecting the country's energy infrastructure from cyber threats.\nWhich of the above is/are correct?",
+      "options": [
+        "1 only",
+        "1 and 3 only",
+        "2 and 3 only",
+        "1, 2 and 3"
+      ],
+      "correct": 1,
+      "explanation": "Statement 1 is correct: The Ministry of Petroleum and Natural Gas is indeed responsible for regulating the energy sector in India. Statement 2 is incorrect: The Energy Conservation Act, 2001, is applicable to all sectors, including industries, transport, and buildings. Statement 3 is correct: The Intelligence Bureau (IB) is responsible for protecting the country's energy infrastructure from cyber threats.",
+      "trap": "Wrong Ministry"
+    }
+  },
+  {
+    "id": 2108,
+    "title": "India's Forex Reserves",
+    "cat": "economy",
+    "upsc": true,
+    "time": "2026-03-20T13:17:07.986803+00:00",
+    "summary": "India's foreign exchange reserves dropped by $7.05 billion to $709.76 billion. This decline is significant for UPSC as it reflects the country's economic stability and its ability to manage external shocks. The decrease in forex reserves is connected to the GS3 syllabus area, which covers economic development and international trade.",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": 709.76,
+        "label": "India's foreign exchange reserves (in billion USD)"
+      },
+      {
+        "val": 7.05,
+        "label": "Decline in foreign exchange reserves (in billion USD)"
+      },
+      {
+        "val": 1935,
+        "label": "Year the Reserve Bank of India was established"
+      }
+    ],
+    "src": "ET Economy",
+    "link": "https://economictimes.indiatimes.com/news/economy/indicators/indias-forex-reserves-fall-7-05-billion-to-709-76-billion-as-of-march-13/articleshow/129699582.cms",
+    "prelims": [
+      "The <strong>Reserve Bank of India (RBI)</strong> plays a crucial role in managing the country's foreign exchange reserves, and its interventions in the currency market can significantly impact the value of the rupee. The RBI was established in 1935 under the Reserve Bank of India Act, 1934. Its primary objective is to regulate the issue of banknotes and maintain the financial stability of the country.",
+      "The <strong>Foreign Exchange Management Act (FEMA), 1999</strong>, regulates foreign exchange transactions in India, and its provisions are essential for understanding the country's foreign exchange management framework. FEMA replaced the Foreign Exchange Regulation Act (FERA), 1973, and has undergone several amendments since its enactment. The Act is administered by the RBI.",
+      "The <strong>Special Drawing Rights (SDRs)</strong> are supplementary foreign exchange reserve assets defined and maintained by the International Monetary Fund (IMF). SDRs were introduced in 1969 to supplement the official reserves of member countries, and their value is based on a basket of five major currencies. India's foreign exchange reserves include SDRs, which are an essential component of the country's reserve assets.",
+      "The <strong>Current Account Deficit (CAD)</strong> is a significant factor that affects a country's foreign exchange reserves, as it represents the difference between the country's exports and imports. A high CAD can lead to a decrease in foreign exchange reserves, as the country needs to use its reserves to finance its imports. India's CAD has been a concern in recent years, and the government has taken several measures to reduce it.",
+      "The <strong>External Commercial Borrowings (ECBs)</strong> are a significant source of foreign exchange for Indian companies, and their regulations are governed by the RBI. ECBs are loans taken by Indian companies from foreign lenders, and they are subject to certain guidelines and restrictions. The RBI monitors ECBs closely to ensure that they do not pose a risk to the country's financial stability."
+    ],
+    "mains": {
+      "q": "Analyze the impact of a decline in foreign exchange reserves on a country's economic stability.",
+      "marks": "15 marks · GS3",
+      "directive": "analyze",
+      "hints": [
+        "Introduction (2 marks): Define foreign exchange reserves and their importance in maintaining economic stability.",
+        "Body - Causes of decline (3 marks): Discuss the factors that can lead to a decline in foreign exchange reserves, such as a high current account deficit, a decline in exports, and an increase in imports.",
+        "Body - Effects on economy (3 marks): Analyze the impact of a decline in foreign exchange reserves on a country's economy, including its effects on the value of the currency, inflation, and interest rates.",
+        "Body - Policy responses (3 marks): Discuss the policy responses that a government can take to address a decline in foreign exchange reserves, such as implementing fiscal austerity measures, increasing interest rates, and imposing capital controls.",
+        "Conclusion (2 marks): Summarize the importance of maintaining adequate foreign exchange reserves and the need for a country to implement policies that promote economic stability."
+      ]
+    },
+    "connect": [
+      {
+        "topic": "Balance of Payments (BoP)",
+        "context": "The decline in foreign exchange reserves is connected to the BoP, which is a statistical statement that summarizes a country's economic transactions with the rest of the world."
+      },
+      {
+        "topic": "Foreign Exchange Management",
+        "context": "The management of foreign exchange reserves is a critical aspect of a country's economic policy, and it is connected to the topic of foreign exchange management."
+      },
+      {
+        "topic": "International Trade",
+        "context": "The decline in foreign exchange reserves can be affected by a country's international trade, including its exports and imports."
+      },
+      {
+        "topic": "Monetary Policy",
+        "context": "The RBI's monetary policy decisions, including interest rates and money supply, can impact the country's foreign exchange reserves."
+      },
+      {
+        "topic": "Economic Stability",
+        "context": "The decline in foreign exchange reserves can have significant implications for a country's economic stability, including its ability to manage external shocks and maintain economic growth."
+      }
+    ],
+    "_hash": "6034c002f076",
+    "_fetched": "2026-03-20T13:17:07.986803+00:00",
+    "_relevance": 50,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "analyze",
+    "_mcqs": {
+      "q": "Consider the following statements:\n1. The Reserve Bank of India (RBI) is responsible for managing India's foreign exchange reserves.\n2. The Foreign Exchange Management Act (FEMA), 1999, regulates foreign exchange transactions in India.\n3. The Special Drawing Rights (SDRs) are a component of India's foreign exchange reserves.\nWhich of the above is/are correct?",
+      "options": [
+        "1 only",
+        "1 and 2 only",
+        "2 and 3 only",
+        "1, 2 and 3"
+      ],
+      "correct": 3,
+      "explanation": "Statement 1 is correct: The RBI is responsible for managing India's foreign exchange reserves. Statement 2 is correct: FEMA regulates foreign exchange transactions in India. Statement 3 is correct: SDRs are a component of India's foreign exchange reserves.",
+      "trap": "Wrong Ministry"
+    }
+  },
+  {
+    "id": 2109,
+    "title": "Telangana Budget 2026-27| Allocations to farm, irrigation, e",
+    "cat": "economy",
+    "upsc": false,
+    "time": "2026-03-20T13:19:20.393279+00:00",
+    "summary": "Despite stupendous performance being put up by the Agriculture sector, the allocation for it is pruned to ₹23,179 for 2026-27 from ₹24,439 crore",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "The Hindu",
+    "link": "https://www.thehindu.com/news/national/telangana/telangana-budget-2026-27-allocations-to-farm-irrigation-energy-sectors-remain-unchanged/article70764980.ece",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "27e516ee2b92",
+    "_fetched": "2026-03-20T13:19:20.393279+00:00",
+    "_relevance": 49,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "budget",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 2110,
+    "title": "At ₹13,679 crore, health sector gets ₹1,286 crore more in Te",
+    "cat": "economy",
+    "upsc": false,
+    "time": "2026-03-20T13:21:32.820607+00:00",
+    "summary": "The government is also taking up construction of 17 medical colleges",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "The Hindu",
+    "link": "https://www.thehindu.com/news/national/telangana/health-sector-gets-1286-crore-more-in-telangana-budget-2026-27-infrastructure-and-preventive-care-in-focus/article70764712.ece",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "07258f32985c",
+    "_fetched": "2026-03-20T13:21:32.820607+00:00",
+    "_relevance": 46,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "budget",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 2111,
+    "title": "Government blocks 300 ‘illegal’ gambling and betting platfor",
+    "cat": "economy",
+    "upsc": false,
+    "time": "2026-03-20T13:23:45.206665+00:00",
+    "summary": "Banned entities include sports betting portals, casino platforms offering slots and roulette, live dealer tables, betting exchanges functioning like p",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "The Hindu",
+    "link": "https://www.thehindu.com/news/national/government-blocks-300-illegal-gambling-and-betting-platforms/article70765367.ece",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "ab1dffbf4951",
+    "_fetched": "2026-03-20T13:23:45.206665+00:00",
+    "_relevance": 41,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 2112,
+    "title": "China welcomes Vikram Doraiswami's appointment as India's ne",
+    "cat": "world",
+    "upsc": false,
+    "time": "2026-03-20T13:25:57.594059+00:00",
+    "summary": "Chinese Foreign Ministry spokesman Lin Jian told a media briefing that envoys are an important bridge for fostering friendly and cooperative relations",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "The Hindu",
+    "link": "https://www.thehindu.com/news/national/china-welcomes-vikram-doraiswamis-appointment-as-indias-new-envoy/article70765472.ece",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "e3efdae79198",
+    "_fetched": "2026-03-20T13:25:57.594059+00:00",
+    "_relevance": 41,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 2113,
+    "title": "Bengaluru’s KIA named best regional airport in India and sou",
+    "cat": "india",
+    "upsc": false,
+    "time": "2026-03-20T13:28:09.970699+00:00",
+    "summary": "While Terminal 2 became the first in India to receive a 5-star Skytrax rating, the airport has also achieved the highest Level 5 Accreditation under A",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "The Hindu",
+    "link": "https://www.thehindu.com/news/cities/bangalore/bengalurus-kia-named-best-regional-airport-in-india-and-south-asia-moves-to-41st-spot-in-global-rankings/article70764671.ece",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "c0e37f013fac",
+    "_fetched": "2026-03-20T13:28:09.970699+00:00",
+    "_relevance": 41,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 2114,
+    "title": "Indian killed in Riyadh due to ‘recent events of March 18’, ",
+    "cat": "india",
+    "upsc": false,
+    "time": "2026-03-20T13:30:22.330352+00:00",
+    "summary": "The Indian embassy said that it is in contact with the deceased’s family and local authorities but the circumstances regarding the Indian national’s d",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "The Hindu",
+    "link": "https://www.thehindu.com/news/national/indian-killed-in-riyadh-due-to-recent-events-of-march-18-says-embassy/article70765316.ece",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "8ddb8a64df3a",
+    "_fetched": "2026-03-20T13:30:22.330352+00:00",
+    "_relevance": 39,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 2115,
+    "title": "Iran-Israel War",
+    "cat": "world",
+    "upsc": true,
+    "time": "2026-03-20T13:31:39.398589+00:00",
+    "summary": "Drone attacks have caused a fire at Kuwait's Mina Al-Ahmadi oil refinery, amidst reports of attacks from Iran on several Gulf states. This incident is crucial for UPSC as it highlights the geopolitical tensions in the Middle East and their potential impact on global energy security. The situation also connects to India's energy imports and the country's strategic interests in the region.",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": 20,
+        "label": "Percentage of the world's oil that passes through the Strait of Hormuz"
+      },
+      {
+        "val": 1960,
+        "label": "Year OPEC was established"
+      },
+      {
+        "val": 75,
+        "label": "Percentage of India's oil requirements that are met through imports"
+      }
+    ],
+    "src": "The Hindu International",
+    "link": "https://www.thehindu.com/news/international/iran-israel-war-usa-west-asia-trump-netanyahu-live-updates-march-20-2026/article70764069.ece",
+    "prelims": [
+      "The <strong>Organization of the Petroleum Exporting Countries (OPEC)</strong> is a cartel of 13 oil-producing countries that coordinates the production and sale of oil on the global market. Established in 1960, OPEC's primary goal is to determine the best means for safeguarding the interests of its member countries. The organization's decisions significantly impact global energy prices and security.",
+      "The <strong>Strait of Hormuz</strong> is a vital shipping lane located between the Persian Gulf and the Gulf of Oman, through which approximately 20% of the world's oil passes. The strait's geopolitical importance is underscored by its proximity to major oil-producing countries, including Iran, Iraq, and Kuwait. Any disruption to shipping in this strait could have significant implications for global energy security.",
+      "The <strong>Indian Ocean Rim Association (IORA)</strong> is an international organization that aims to promote economic cooperation and regional security among its member states, which include India, Iran, and several other countries bordering the Indian Ocean. IORA's objectives include enhancing trade, investment, and economic development in the region, as well as addressing common security concerns such as piracy and terrorism.",
+      "The <strong>Energy Security</strong> of a nation is critical to its economic development and stability. For India, which imports a significant portion of its oil requirements, ensuring energy security involves diversifying its energy sources, investing in renewable energy, and engaging in diplomatic efforts to secure stable oil supplies from abroad. The country's energy security strategy also involves developing strategic oil reserves and promoting energy efficiency.",
+      "The <strong>United Nations Security Council (UNSC)</strong> has a critical role in maintaining international peace and security, including in regions like the Middle East. The UNSC's decisions and resolutions can significantly impact the geopolitical dynamics of conflicts, including those related to energy security. As a major energy importer, India has a vested interest in the UNSC's efforts to maintain stability in oil-producing regions."
+    ],
+    "mains": {
+      "q": "Analyze the implications of the Iran-Israel conflict on global energy security, with a focus on the strategic interests of major oil-importing countries like India.",
+      "marks": "15 marks · GS3",
+      "directive": "analyze",
+      "hints": [
+        "Introduction (2 marks): Define energy security and its importance for economic development, highlighting the role of oil in the global energy mix.",
+        "Body - Geopolitical implications (4 marks): Discuss the impact of the Iran-Israel conflict on oil prices, global supply chains, and the strategic interests of major oil-importing countries, including India's dependence on Middle Eastern oil.",
+        "Body - Economic implications (4 marks): Examine the potential economic consequences of the conflict for oil-importing countries, including inflation, trade deficits, and the impact on economic growth.",
+        "Body - Diplomatic efforts (3 marks): Analyze the role of international organizations like OPEC and the UNSC in addressing the conflict and ensuring energy security, including the potential for diplomatic solutions to mitigate the crisis.",
+        "Conclusion (2 marks): Summarize the key implications of the conflict for global energy security and the strategic interests of countries like India, emphasizing the need for diversified energy sources and diplomatic engagement to mitigate risks."
+      ]
+    },
+    "connect": [
+      {
+        "topic": "Energy Security and Diplomacy",
+        "context": "The Iran-Israel conflict highlights the importance of energy security and diplomacy in maintaining global stability, a key aspect of GS2 (International Relations)."
+      },
+      {
+        "topic": "OPEC and Global Oil Prices",
+        "context": "Understanding OPEC's role in determining global oil prices is crucial for analyzing the economic implications of the conflict, relevant to GS3 (Economy)."
+      },
+      {
+        "topic": "Indian Ocean Rim Association (IORA)",
+        "context": "IORA's objectives include enhancing regional security and economic cooperation, which are directly relevant to the geopolitical dynamics of the Middle East and India's strategic interests, connecting to GS2 (International Relations)."
+      },
+      {
+        "topic": "United Nations Security Council (UNSC)",
+        "context": "The UNSC plays a critical role in maintaining international peace and security, including in regions like the Middle East, making it a key institution for GS2 (International Relations)."
+      },
+      {
+        "topic": "Economic Development and Energy Security",
+        "context": "The conflict underscores the importance of energy security for economic development, a connection that is fundamental to GS3 (Economy) and the analysis of a country's strategic interests."
+      }
+    ],
+    "_hash": "ba4dbb9a6d02",
+    "_fetched": "2026-03-20T13:31:39.398589+00:00",
+    "_relevance": 36,
+    "_gs": [
+      "GS2",
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "analyze",
+    "_mcqs": {
+      "q": "Consider the following statements:\n1. The Strait of Hormuz is a critical shipping lane through which most of the world's oil passes.\n2. India is a member of OPEC and plays a significant role in determining global oil prices.\n3. The Iran-Israel conflict has the potential to disrupt global energy security due to Iran's significant oil reserves.\nWhich of the above is/are correct?",
+      "options": [
+        "1 only",
+        "1 and 3 only",
+        "2 and 3 only",
+        "1, 2 and 3"
+      ],
+      "correct": 1,
+      "explanation": "Statement 1 is correct: The Strait of Hormuz is indeed a critical shipping lane for oil. Statement 2 is incorrect: India is not a member of OPEC. Statement 3 is correct: The conflict does have the potential to disrupt global energy security due to Iran's oil reserves.",
+      "trap": "Absolute Language"
+    }
+  },
+  {
+    "id": 2116,
+    "title": "Bhatti presents welfare oriented budget for Telangana with e",
+    "cat": "india",
+    "upsc": false,
+    "time": "2026-03-20T13:33:51.792523+00:00",
+    "summary": "Panchayat Raj and Rural Development, Municipal Administration and Urban Development, Irrigation and other sectors get highest allocations",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "The Hindu",
+    "link": "https://www.thehindu.com/news/national/telangana/bhatti-presents-welfare-oriented-2026-27-budget-for-telangana-with-emphasis-on-urban-and-rural-development/article70764783.ece",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "f8bf962745c9",
+    "_fetched": "2026-03-20T13:33:51.792523+00:00",
+    "_relevance": 33,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "budget",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 2117,
+    "title": "BRS terms Telangana’s 2026-27 budget highly disappointing wi",
+    "cat": "economy",
+    "upsc": false,
+    "time": "2026-03-20T13:36:04.145979+00:00",
+    "summary": "Party’s Deputy Floor Leader Harish Rao says all key indicators of growth slipped compared to the previous government",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "The Hindu",
+    "link": "https://www.thehindu.com/news/national/telangana/brs-terms-budget-highly-disappointing-with-no-cheer-to-any-section-or-sector/article70765366.ece",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "8502efebdabe",
+    "_fetched": "2026-03-20T13:36:04.145979+00:00",
+    "_relevance": 33,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "budget",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 2118,
+    "title": "Government unveils Rs 20000 crore credit guarantee plan for ",
+    "cat": "tech",
+    "upsc": false,
+    "time": "2026-03-20T13:38:16.543588+00:00",
+    "summary": "The government has announced an ambitious Rs 20,000 crore credit guarantee scheme targeting microfinance institutions, a lifeline for those grappling ",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "ET Economy",
+    "link": "https://economictimes.indiatimes.com/news/economy/finance/government-unveils-rs-20000-crore-credit-guarantee-plan-for-mfis/articleshow/129700478.cms",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "6c804a48d16f",
+    "_fetched": "2026-03-20T13:38:16.543588+00:00",
+    "_relevance": 33,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 2119,
+    "title": "Telangana announces cashless health security scheme for gove",
+    "cat": "india",
+    "upsc": false,
+    "time": "2026-03-20T13:40:28.908116+00:00",
+    "summary": "This cashless health security scheme (Employees Health Scheme-EHS) will be implemented through the Rajiv Aarogyasri Trust",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "The Hindu",
+    "link": "https://www.thehindu.com/news/national/telangana/telangana-budget-2026-27-government-announces-cashless-health-security-scheme-for-employees-teachers-and-pensioners-welfare/article70764740.ece",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "ccf000a630e0",
+    "_fetched": "2026-03-20T13:40:28.908116+00:00",
+    "_relevance": 31,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "budget",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 2120,
+    "title": "Telangana Budget 2026-27| 10.4% of total outlay allocated to",
+    "cat": "economy",
+    "upsc": false,
+    "time": "2026-03-20T13:42:41.266459+00:00",
+    "summary": "",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "The Hindu",
+    "link": "https://www.thehindu.com/news/national/telangana/telangana-budget-2026-27-104-of-total-outlay-allocated-to-rural-development-dept-2083-crore-more-than-2025-26/article70765224.ece",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "89214aa7b82b",
+    "_fetched": "2026-03-20T13:42:41.266459+00:00",
+    "_relevance": 31,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "budget",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 2124,
+    "title": "The unique flavour of Dindigul cigar, a balm to Winston Chur",
+    "cat": "india",
+    "upsc": false,
+    "time": "2026-03-20T10:04:35.185405+00:00",
+    "summary": "During the Second World War, the British Prime Minister decided to have a regular supply of these cigars made by Spencer and Co. A permanent order was",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "The Hindu",
+    "link": "https://www.thehindu.com/news/national/tamil-nadu/the-unique-flavour-of-the-dindigulcigar-a-balm-to-winston-churchill-in-times-of-war/article70762952.ece",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "23bcba276a83",
+    "_fetched": "2026-03-20T10:04:35.185405+00:00",
+    "_relevance": 39,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 2125,
+    "title": "Placed under house arrest, not allowed to offer Friday praye",
+    "cat": "tech",
+    "upsc": false,
+    "time": "2026-03-20T10:06:47.455105+00:00",
+    "summary": "Mirwaiz Umar Farooq also posted pictures purportedly showing a large contingent of security forces and police vehicles outside the gate of his residen",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "The Hindu",
+    "link": "https://www.thehindu.com/news/national/jammu-and-kashmir/placed-under-house-arrest-not-allowed-to-offer-friday-prayers-says-mirwaiz/article70764861.ece",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "9d6d668b51d7",
+    "_fetched": "2026-03-20T10:06:47.455105+00:00",
+    "_relevance": 39,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 2126,
+    "title": "Gulf dreams turn sour for Konaseema women",
+    "cat": "tech",
+    "upsc": false,
+    "time": "2026-03-20T10:08:59.736984+00:00",
+    "summary": "Driven by economic need and the hope of a better future, many women from the region migrate to Gulf nations in search of employment. In their desperat",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "The Hindu",
+    "link": "https://www.thehindu.com/news/national/andhra-pradesh/gulf-dreams-turn-sour-for-konaseema-women/article70762061.ece",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "e5acc171a132",
+    "_fetched": "2026-03-20T10:08:59.736984+00:00",
+    "_relevance": 39,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 2127,
+    "title": "Telangana Budget 2026-27: ₹11907 crore allocated to Home Dep",
+    "cat": "economy",
+    "upsc": false,
+    "time": "2026-03-20T10:11:12.065066+00:00",
+    "summary": "“The previous government and the present Central Government treated Maoism merely as a law-and-order problem and tried to suppress it through police a",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "The Hindu",
+    "link": "https://www.thehindu.com/news/national/telangana/budget-report-budget-gives-massive-fillip-to-maoist-rehabilitation-11907-crore-allocated-to-home-department/article70764701.ece",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "b8ab3ddc9495",
+    "_fetched": "2026-03-20T10:11:12.065066+00:00",
+    "_relevance": 36,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "budget",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 2128,
+    "title": "Rupee in free fall, down 60 paise to new all-time low of 93.",
+    "cat": "economy",
+    "upsc": false,
+    "time": "2026-03-20T10:13:24.361183+00:00",
+    "summary": "Elevated global crude oil prices put further pressure on the local unit, while a positive opening at the domestic equity markets cushioned against a s",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "The Hindu Business",
+    "link": "https://www.thehindu.com/business/markets/indian-rupee-us-dollar-record-low-rising-oil-prices/article70764259.ece",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "f7eb842b441c",
+    "_fetched": "2026-03-20T10:13:24.361183+00:00",
+    "_relevance": 36,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 2129,
+    "title": "Telangana Budget 2026-27 LIVE: Govt introduces ₹3.24 lakh cr",
+    "cat": "india",
+    "upsc": false,
+    "time": "2026-03-20T10:15:36.792016+00:00",
+    "summary": "Panchayat Raj and Rural Development, Municipal Administration and Urban Development, Irrigation and other sectors get highest allocations",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "The Hindu",
+    "link": "https://www.thehindu.com/news/national/telangana/telangana-state-budget-2026-27-live-updates-march-20-2026/article70764126.ece",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "72dbad50f8b1",
+    "_fetched": "2026-03-20T10:15:36.792016+00:00",
+    "_relevance": 33,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "budget",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 2130,
+    "title": "Bhatti presents welfare oriented 2026-27 budget for Telangan",
+    "cat": "india",
+    "upsc": false,
+    "time": "2026-03-20T10:17:49.064648+00:00",
+    "summary": "Panchayat Raj and Rural Development, Municipal Administration and Urban Development, Irrigation and other sectors get highest allocations",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "The Hindu",
+    "link": "https://www.thehindu.com/news/national/telangana/bhatti-presents-welfare-oriented-2026-27-budget-for-telangana-with-emphasis-on-urban-and-rural-development/article70764783.ece",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "aa93eb020103",
+    "_fetched": "2026-03-20T10:17:49.064648+00:00",
+    "_relevance": 33,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "budget",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 2131,
+    "title": "Rs 1 lakh crore wiped off! Bajaj Finance shares tumble 18% i",
+    "cat": "economy",
+    "upsc": false,
+    "time": "2026-03-20T10:20:01.365433+00:00",
+    "summary": "Bajaj Finance shares have plunged over 20% in a month, eroding more than Rs 1 lakh crore in market value amid escalating Iran-US tensions. Rising oil ",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "Economic Times",
+    "link": "https://economictimes.indiatimes.com/markets/stocks/news/rs-1-lakh-crore-wiped-off-bajaj-finance-shares-tumble-18-in-march-so-far-amid-raging-iran-us-war/articleshow/129694027.cms",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "523fc765f9a5",
+    "_fetched": "2026-03-20T10:20:01.365433+00:00",
+    "_relevance": 32,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 2132,
+    "title": "CBDT notifies new Income Tax rules for 2026; HRA benefits en",
+    "cat": "economy",
+    "upsc": false,
+    "time": "2026-03-20T10:22:13.796793+00:00",
+    "summary": "New Income-tax Rules for 2026 are now in effect. These rules will bring the Income-tax Act of 2025 to life starting April 1, 2026. Compliance will be ",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "ET Economy",
+    "link": "https://economictimes.indiatimes.com/news/economy/policy/india-notifies-income-tax-rules-2026-whats-in-it/articleshow/129694515.cms",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "73d371a23427",
+    "_fetched": "2026-03-20T10:22:13.796793+00:00",
+    "_relevance": 31,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
   }
 ]
