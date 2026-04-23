@@ -20300,5 +20300,806 @@
     "_difficulty": 2,
     "_directive": "discuss",
     "_mcqs": []
+  },
+  {
+    "id": 2125,
+    "title": "India-US Trade",
+    "cat": "economy",
+    "upsc": true,
+    "time": "2026-03-24T13:41:20.818402+00:00",
+    "summary": "The US Supreme Court struck down tariffs imposed by Donald Trump, potentially impacting the India-US trade deal. This development is crucial for UPSC as it affects India's economic diplomacy and bilateral trade agreements. The move may also influence India's stance in future trade negotiations, particularly with the US.",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": 1974,
+        "label": "Year the US Trade Act was enacted"
+      },
+      {
+        "val": 164,
+        "label": "Number of WTO member countries"
+      },
+      {
+        "val": 2015,
+        "label": "Year the India-US Strategic and Commercial Dialogue was established"
+      }
+    ],
+    "src": "The Hindu",
+    "link": "https://www.thehindu.com/business/Economy/where-does-the-india-us-trade-deal-stand-explained/article70689001.ece",
+    "prelims": [
+      "The <strong>Generalized System of Preferences (GSP)</strong> is a US trade program that provides preferential tariff treatment to certain products from designated beneficiary countries, including India. It was enacted in 1974 and aims to promote economic development in these countries. The GSP has been a significant aspect of US-India trade relations.",
+      "The <strong>World Trade Organization (WTO)</strong> is an international organization that regulates global trade, providing a framework for countries to negotiate trade agreements and resolve disputes. Established in 1995, the WTO replaced the General Agreement on Tariffs and Trade (GATT) and has 164 member countries, including the US and India. Understanding the WTO's role is essential for analyzing international trade policies.",
+      "The <strong>US Trade Act of 1974</strong> is a federal law that governs US trade policy, including the imposition of tariffs and the negotiation of trade agreements. It also established the US Trade Representative (USTR) as the principal trade negotiator for the US government. This act has been amended several times, reflecting changes in US trade policy and its engagement with the global economy.",
+      "The <strong>India-US Strategic and Commercial Dialogue</strong> is a high-level dialogue mechanism that aims to strengthen economic ties between the two countries. Established in 2015, it covers a wide range of issues, including trade, investment, and energy cooperation. This dialogue reflects the growing importance of the US-India economic relationship.",
+      "The <strong>Tariff Act of 1930</strong>, also known as the Smoot-Hawley Tariff, is a US federal law that raised tariffs on imported goods, leading to retaliatory measures from other countries and exacerbating the Great Depression. Although it was significantly amended in subsequent years, understanding the historical context of US tariff policies is crucial for analyzing current trade negotiations."
+    ],
+    "mains": {
+      "q": "Analyze the implications of the US Supreme Court's decision on tariffs for India's trade policy and its bilateral trade agreements.",
+      "marks": "15 marks · GS3",
+      "directive": "analyze",
+      "hints": [
+        "Introduction (2 marks): Define the context of the US Supreme Court's decision on tariffs and its potential impact on global trade.",
+        "Body - Trade Policy Implications (4 marks): Discuss how the decision might influence India's trade policy, particularly in relation to the US, and the potential effects on Indian industries.",
+        "Body - Bilateral Trade Agreements (4 marks): Examine how the decision could affect India's bilateral trade agreements, including those with the US, and the strategies India might employ to navigate these changes.",
+        "Body - Global Trade Governance (3 marks): Analyze the decision's implications for global trade governance, including the role of the WTO and the potential for trade wars.",
+        "Conclusion (2 marks): Summarize the key points and suggest how India can leverage this development to strengthen its trade position globally."
+      ]
+    },
+    "connect": [
+      {
+        "topic": "WTO and International Trade Law",
+        "context": "Understanding the WTO's role in regulating global trade is crucial for analyzing the implications of the US Supreme Court's decision on tariffs."
+      },
+      {
+        "topic": "US Trade Policy and Tariffs",
+        "context": "Knowledge of US trade policy, including the use of tariffs, is essential for comprehending the decision's impact on India-US trade relations."
+      },
+      {
+        "topic": "India's Foreign Trade Policy",
+        "context": "Analyzing India's foreign trade policy helps in understanding how the country might respond to changes in US trade policy and the implications for bilateral trade agreements."
+      },
+      {
+        "topic": "Bilateral Trade Agreements",
+        "context": "Studying bilateral trade agreements, particularly those between India and the US, provides insight into the potential effects of the decision on these agreements and future trade negotiations."
+      },
+      {
+        "topic": "Global Economic Governance",
+        "context": "The decision reflects broader issues in global economic governance, including the balance between unilateral trade policies and multilateral trade agreements, which is a critical area of study for international relations and economics."
+      }
+    ],
+    "_hash": "8dd048d09e35",
+    "_fetched": "2026-03-24T13:41:20.818402+00:00",
+    "_relevance": 70,
+    "_gs": [
+      "GS2",
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "analyze",
+    "_mcqs": {
+      "q": "Consider the following statements:\n1. The US Supreme Court's decision on tariffs directly affects all countries with which the US has trade agreements.\n2. The Generalized System of Preferences (GSP) is a unilateral US trade program that can be revoked without negotiations.\n3. The World Trade Organization (WTO) has the authority to impose tariffs on its member countries.\nWhich of the above is/are correct?",
+      "options": [
+        "1 only",
+        "1 and 2 only",
+        "2 and 3 only",
+        "1, 2 and 3"
+      ],
+      "correct": 1,
+      "explanation": "Statement 1 is correct because the US Supreme Court's decision on tariffs has implications for all US trade agreements. Statement 2 is correct as the GSP is a unilateral program that the US can modify or revoke. Statement 3 is incorrect because the WTO does not impose tariffs; it provides a framework for countries to negotiate trade agreements.",
+      "trap": "Absolute Language"
+    }
+  },
+  {
+    "id": 2126,
+    "title": "RBI Digital Payments",
+    "cat": "economy",
+    "upsc": true,
+    "time": "2026-03-24T13:41:37.016617+00:00",
+    "summary": "The Reserve Bank of India is building advanced digital platforms to improve customer service and make payment systems stronger. This development is crucial for UPSC as it relates to the economy and digital governance. It connects to the syllabus area of economic development and governance.",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": 1935,
+        "label": "Year the Reserve Bank of India was established"
+      },
+      {
+        "val": 2007,
+        "label": "Year the Payment and Settlement Systems Act was passed"
+      },
+      {
+        "val": 2008,
+        "label": "Year the National Payments Corporation of India (NPCI) was established"
+      }
+    ],
+    "src": "ET Economy",
+    "link": "https://economictimes.indiatimes.com/news/economy/finance/rbi-building-more-digital-payments-intelligence-platforms-to-empower-users-ed/articleshow/129772904.cms",
+    "prelims": [
+      "The <strong>Reserve Bank of India (RBI)</strong> was established in 1935 under the Reserve Bank of India Act, 1934. It has its headquarters in Mumbai and is responsible for regulating the monetary policy of the Indian rupee. The RBI is also mandated to manage the country's foreign exchange and gold reserves.",
+      "The <strong>Payment and Settlement Systems Act, 2007</strong> provides the legal framework for the regulation and supervision of payment systems in India. It also establishes the Board for Regulation and Supervision of Payment and Settlement Systems. The Act is crucial for ensuring the stability and security of the country's payment systems.",
+      "The <strong>Information Technology Act, 2000</strong> is a key legislation that deals with the legal aspects of electronic commerce and digital payments in India. It provides for the recognition of electronic records and digital signatures, and also establishes the Cyber Appellate Tribunal. The Act is essential for promoting trust and confidence in online transactions.",
+      "The <strong>National Payments Corporation of India (NPCI)</strong> is an organization that operates and manages various payment systems in India, including the Unified Payments Interface (UPI) and the National Electronic Fund Transfer (NEFT) system. It was established in 2008 and is responsible for promoting digital payments and financial inclusion in the country.",
+      "The <strong>Digital India initiative</strong> was launched in 2015 to promote the use of technology and digital services in various sectors, including governance, education, and healthcare. It aims to make government services more accessible and convenient for citizens, and also to promote digital literacy and online transactions."
+    ],
+    "mains": {
+      "q": "Analyze the role of the Reserve Bank of India in promoting digital payments and financial inclusion in India.",
+      "marks": "15 marks · GS3",
+      "directive": "analyze",
+      "hints": [
+        "Introduction (2 marks): Define the role of the Reserve Bank of India in promoting digital payments and financial inclusion, and explain its significance in the context of the Indian economy.",
+        "Body - Regulatory framework (3 marks): Discuss the key regulations and guidelines issued by the RBI to promote digital payments, including the Payment and Settlement Systems Act, 2007, and the Information Technology Act, 2000.",
+        "Body - Institutional mechanism (3 marks): Explain the role of the National Payments Corporation of India (NPCI) in operating and managing various payment systems in India, and discuss its impact on promoting digital payments and financial inclusion.",
+        "Body - Challenges and opportunities (3 marks): Analyze the challenges faced by the RBI in promoting digital payments, including cybersecurity risks and infrastructure constraints, and discuss the opportunities for growth and innovation in the digital payments sector.",
+        "Conclusion (2 marks): Summarize the key points and emphasize the importance of the RBI's role in promoting digital payments and financial inclusion in India."
+      ]
+    },
+    "connect": [
+      {
+        "topic": "Digital India initiative",
+        "context": "The RBI's efforts to promote digital payments are part of the broader Digital India initiative, which aims to promote the use of technology and digital services in various sectors."
+      },
+      {
+        "topic": "Financial Inclusion",
+        "context": "The RBI's efforts to promote digital payments are also aimed at promoting financial inclusion, which is a key aspect of the Indian government's economic development strategy."
+      },
+      {
+        "topic": "Payment and Settlement Systems Act, 2007",
+        "context": "The Payment and Settlement Systems Act, 2007, provides the legal framework for the regulation and supervision of payment systems in India, and is a key legislation that governs the RBI's role in promoting digital payments."
+      },
+      {
+        "topic": "National Payments Corporation of India (NPCI)",
+        "context": "The National Payments Corporation of India (NPCI) plays a crucial role in operating and managing various payment systems in India, including the Unified Payments Interface (UPI) system."
+      },
+      {
+        "topic": "Information Technology Act, 2000",
+        "context": "The Information Technology Act, 2000, provides the legal framework for the recognition of electronic records and digital signatures, and is a key legislation that governs the use of technology and digital services in India."
+      }
+    ],
+    "_hash": "d572d1a17ed0",
+    "_fetched": "2026-03-24T13:41:37.016617+00:00",
+    "_relevance": 69,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "analyze",
+    "_mcqs": {
+      "q": "Consider the following statements:\n1. The Reserve Bank of India was established in 1935.\n2. The Payment and Settlement Systems Act, 2007, regulates the payment systems in India.\n3. The National Payments Corporation of India (NPCI) operates and manages the Unified Payments Interface (UPI) system.\nWhich of the above is/are correct?",
+      "options": [
+        "1 only",
+        "1 and 2 only",
+        "2 and 3 only",
+        "1, 2 and 3"
+      ],
+      "correct": 3,
+      "explanation": "Statement 1 is correct: The Reserve Bank of India was indeed established in 1935. Statement 2 is correct: The Payment and Settlement Systems Act, 2007, regulates the payment systems in India. Statement 3 is correct: The National Payments Corporation of India (NPCI) operates and manages the Unified Payments Interface (UPI) system.",
+      "trap": "Timeline Confusion"
+    }
+  },
+  {
+    "id": 2127,
+    "title": "West Asia War",
+    "cat": "world",
+    "upsc": true,
+    "time": "2026-03-24T13:41:53.397085+00:00",
+    "summary": "Prime Minister Narendra Modi addressed the Rajya Sabha regarding the ongoing conflict in West Asia, discussing concerns over LPG imports and the safety of stranded Indians. This situation is crucial for UPSC as it involves India's foreign policy and international relations, particularly in the context of energy security and humanitarian assistance. The conflict in West Asia has significant implications for global geopolitics and energy markets, making it a relevant topic for GS2 (Governance, Constitution, Polity, IR).",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": 50,
+        "label": "Percentage of world's proven oil reserves in West Asia"
+      },
+      {
+        "val": 3,
+        "label": "India's ranking as the world's largest oil consumer"
+      },
+      {
+        "val": 2020,
+        "label": "Year of peak oil demand forecast by the International Energy Agency"
+      }
+    ],
+    "src": "LiveMint",
+    "link": "https://www.livemint.com/news/india/narendra-modi-rajya-sabha-address-west-asia-conflict-strait-of-hormuz-stranded-indians-iran-us-israel-11774352899108.html",
+    "prelims": [
+      "<strong>Foreign Policy</strong> of India is shaped by its strategic interests, including energy security, which is heavily dependent on imports from West Asia. The region is home to approximately 50% of the world's proven oil reserves, making it a critical component of India's foreign policy. India's engagement with West Asia is guided by its <strong>Look West Policy</strong>, which aims to strengthen economic and strategic ties with the region.",
+      "The <strong>Geopolitics of West Asia</strong> is complex, with multiple regional and global powers vying for influence. This complexity is exacerbated by the presence of <strong>extra-regional actors</strong> like the United States, which has significant military and economic interests in the region. Understanding the geopolitics of West Asia is essential for analyzing India's foreign policy and its implications for regional and global security.",
+      "The <strong>Organization of the Petroleum Exporting Countries (OPEC)</strong> plays a crucial role in determining global oil prices, which has a direct impact on India's energy security and economy. As the world's third-largest oil consumer, India is heavily influenced by OPEC's production decisions. The <strong>Indian government's initiatives</strong> to diversify its energy sources and reduce dependence on imported oil are critical in this context.",
+      "The <strong>United Nations Security Council (UNSC)</strong> has been involved in various conflicts in West Asia, including the ongoing crises in Syria and Yemen. The UNSC's role in maintaining international peace and security is critical, and its decisions have significant implications for global governance and international relations. India's engagement with the UNSC is guided by its commitment to <strong>multilateralism</strong> and its aspiration for a permanent seat on the Council.",
+      "The <strong>Indian diaspora in West Asia</strong> is significant, with millions of Indian citizens living and working in the region. The Indian government's efforts to protect the rights and interests of its citizens abroad are critical, particularly in times of conflict or crisis. The <strong>Ministry of External Affairs</strong> plays a key role in providing assistance to Indian nationals in distress, highlighting the importance of effective diplomacy and consular services."
+    ],
+    "mains": {
+      "q": "Analyze the implications of the ongoing conflict in West Asia for India's energy security and foreign policy.",
+      "marks": "15 marks · GS2",
+      "directive": "analyze",
+      "hints": [
+        "Introduction (2 marks): Define India's energy security challenges and the significance of West Asia in meeting its energy needs, highlighting the country's dependence on imported oil and the impact of global price fluctuations.",
+        "Body - Energy Security (3 marks): Discuss the impact of the conflict on global oil prices and India's efforts to diversify its energy sources, including the development of renewable energy and strategic petroleum reserves.",
+        "Body - Foreign Policy (3 marks): Examine India's foreign policy responses to the conflict, including its engagement with regional and global powers, and the implications for its relations with key countries like the United States, Saudi Arabia, and Iran.",
+        "Body - Geopolitical Implications (3 marks): Analyze the geopolitical implications of the conflict for the region and beyond, including the role of extra-regional actors and the potential for great power rivalry.",
+        "Conclusion (2 marks): Suggest policy recommendations for India to mitigate the risks associated with the conflict and promote its energy security and foreign policy interests, emphasizing the need for a balanced and nuanced approach."
+      ]
+    },
+    "connect": [
+      {
+        "topic": "Energy Security and Foreign Policy",
+        "context": "The conflict in West Asia highlights the importance of energy security in India's foreign policy, particularly in the context of its relations with key oil-producing countries."
+      },
+      {
+        "topic": "Geopolitics of West Asia",
+        "context": "Understanding the complex geopolitics of West Asia is essential for analyzing India's foreign policy and its implications for regional and global security."
+      },
+      {
+        "topic": "International Relations Theory",
+        "context": "The conflict in West Asia illustrates the application of international relations theories, including realism and liberalism, in understanding the behavior of states and non-state actors in the region."
+      },
+      {
+        "topic": "Global Governance and International Organizations",
+        "context": "The role of international organizations like the United Nations and the International Energy Agency is critical in addressing the challenges posed by the conflict in West Asia, including energy security and humanitarian assistance."
+      },
+      {
+        "topic": "Indian Diaspora and Consular Services",
+        "context": "The Indian government's efforts to protect the rights and interests of its citizens abroad, particularly in times of conflict or crisis, highlight the importance of effective diplomacy and consular services."
+      }
+    ],
+    "_hash": "8b29e3b849f7",
+    "_fetched": "2026-03-24T13:41:53.397085+00:00",
+    "_relevance": 66,
+    "_gs": [
+      "GS2",
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "analyze",
+    "_mcqs": {
+      "q": "Consider the following statements:\n1. The ongoing conflict in West Asia has led to a significant increase in global oil prices.\n2. India's energy security is heavily dependent on imports from West Asia.\n3. The Indian government has not taken any measures to diversify its energy sources.\nWhich of the above is/are correct?",
+      "options": [
+        "1 only",
+        "1 and 2 only",
+        "2 and 3 only",
+        "1, 2 and 3"
+      ],
+      "correct": 1,
+      "explanation": "Statement 1 is correct: The conflict has indeed led to an increase in global oil prices due to supply chain disruptions and geopolitical tensions. Statement 2 is correct: India is heavily dependent on imports from West Asia to meet its energy needs. Statement 3 is incorrect: The Indian government has taken measures to diversify its energy sources, including the development of renewable energy and strategic petroleum reserves.",
+      "trap": "Absolute Language"
+    }
+  },
+  {
+    "id": 2128,
+    "title": "Trans Amendment Bill",
+    "cat": "policy",
+    "upsc": true,
+    "time": "2026-03-24T13:42:10.469060+00:00",
+    "summary": "The Transgender Amendment Bill is set to be discussed in Parliament, aiming to amend an existing progressive act that guarantees better education, healthcare, and self-determination for the transgender community. This bill is crucial for UPSC as it relates to social issues, governance, and constitutional provisions, making it relevant for GS1 and GS2. The bill's discussion also connects to the syllabus area of social justice and empowerment.",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": 2019,
+        "label": "Year the Transgender Persons (Protection of Rights) Act was enacted"
+      },
+      {
+        "val": 14,
+        "label": "Article number of the Constitution that enshrines the Right to Equality"
+      },
+      {
+        "val": 338,
+        "label": "Article number of the Constitution that establishes the National Commission for Scheduled Castes"
+      }
+    ],
+    "src": "The Hindu",
+    "link": "https://www.thehindu.com/news/national/five-queer-voices-explain-the-impact-of-the-trans-amendment-bill-2026/article70779417.ece",
+    "prelims": [
+      "The <strong>Transgender Persons (Protection of Rights) Act, 2019</strong> was enacted to provide for the protection of rights of transgender persons and their welfare. The Act defines a transgender person as one whose gender does not match the gender assigned at birth. It also provides for the establishment of a National Council for Transgender Persons.",
+      "The <strong>National Commission for Scheduled Castes</strong> was established under Article 338 of the Constitution to safeguard the interests of Scheduled Castes. Although it does not directly deal with transgender issues, its mandate to protect the rights of marginalized communities is relevant in the context of social justice.",
+      "The <strong>Right to Equality</strong> enshrined in Article 14 of the Constitution is a fundamental right that applies to all citizens, including transgender persons. This article has been interpreted by the Supreme Court to include the right to non-discrimination based on gender identity.",
+      "The <strong>Yogyakarta Principles</strong>, adopted in 2006, are a set of international principles on the application of international human rights law in relation to sexual orientation and gender identity. These principles, although not legally binding, provide a framework for understanding the human rights of transgender persons.",
+      "The <strong>Supreme Court's judgment in NALSA v. Union of India (2014)</strong> recognized the right of transgender persons to self-identify their gender and directed the government to provide them with equal opportunities and rights. This judgment is significant as it paved the way for the enactment of the Transgender Persons Act, 2019."
+    ],
+    "mains": {
+      "q": "Critically examine the provisions of the Transgender Amendment Bill and its implications for the rights of transgender persons in India.",
+      "marks": "15 marks · GS2",
+      "directive": "critically_examine",
+      "hints": [
+        "Introduction (2 marks): Define the term 'transgender' and the significance of the Transgender Persons (Protection of Rights) Act, 2019, in the context of social justice and empowerment.",
+        "Body - Legislative Framework (3 marks): Discuss the key provisions of the Transgender Persons Act, 2019, and the proposed amendments, highlighting their impact on the rights of transgender persons.",
+        "Body - Social and Economic Implications (3 marks): Analyze the social and economic implications of the Transgender Amendment Bill, including its potential to address discrimination and promote inclusivity.",
+        "Body - Institutional Mechanisms (3 marks): Examine the role of the National Council for Transgender Persons and other institutional mechanisms in implementing the provisions of the Act and addressing the concerns of transgender persons.",
+        "Conclusion (2 marks): Summarize the main arguments and suggest ways to strengthen the legislative framework for the protection of transgender rights in India."
+      ]
+    },
+    "connect": [
+      {
+        "topic": "Article 14 - Right to Equality",
+        "context": "The Transgender Amendment Bill connects to the right to equality, as it aims to address discrimination against transgender persons."
+      },
+      {
+        "topic": "Scheduled Castes and Scheduled Tribes (Prevention of Atrocities) Act, 1989",
+        "context": "Although not directly related, this Act is relevant in the context of social justice and empowerment, which is also a concern for transgender persons."
+      },
+      {
+        "topic": "National Human Rights Commission (NHRC)",
+        "context": "The NHRC has a mandate to protect human rights, including those of marginalized communities like transgender persons."
+      },
+      {
+        "topic": "Yogyakarta Principles",
+        "context": "These principles provide an international framework for understanding the human rights of transgender persons, relevant to the discussion on the Transgender Amendment Bill."
+      },
+      {
+        "topic": "Constitutional Provisions for Social Justice",
+        "context": "The Bill connects to the broader theme of social justice and empowerment, which is a key aspect of the Indian Constitution's Directive Principles of State Policy."
+      }
+    ],
+    "_hash": "574c4609292c",
+    "_fetched": "2026-03-24T13:42:10.469060+00:00",
+    "_relevance": 65,
+    "_gs": [
+      "GS1",
+      "GS2"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "critically_examine",
+    "_mcqs": {
+      "q": "Consider the following statements:\n1. The Transgender Persons (Protection of Rights) Act, 2019, defines a transgender person as one whose gender matches the gender assigned at birth.\n2. The National Commission for Scheduled Castes has the mandate to protect the rights of transgender persons.\n3. The Supreme Court's judgment in NALSA v. Union of India (2014) recognized the right of transgender persons to self-identify their gender.\nWhich of the above is/are correct?",
+      "options": [
+        "1 only",
+        "1 and 2 only",
+        "2 and 3 only",
+        "1, 2 and 3"
+      ],
+      "correct": 3,
+      "explanation": "Statement 1 is incorrect: The Act defines a transgender person as one whose gender does not match the gender assigned at birth. Statement 2 is incorrect: The National Commission for Scheduled Castes does not have a direct mandate to protect transgender rights. Statement 3 is correct: The judgment recognized the right to self-identify gender.",
+      "trap": "Absolute Language"
+    }
+  },
+  {
+    "id": 2129,
+    "title": "India has sufficient stock of petrol and diesel: Government",
+    "cat": "economy",
+    "upsc": false,
+    "time": "2026-03-24T13:44:22.821482+00:00",
+    "summary": "“Jag Vasant and Pine Gas safely crossed the Strait of Hormuz. Pine Gas is carrying 45,000 metric tonnes of LPG and is expected to reach New Mangalore ",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "The Hindu",
+    "link": "https://www.thehindu.com/news/national/government-briefing-lpg-crisis-sufficient-stock-petrol-diesel-strait-of-hormuz-updates/article70779360.ece",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "df543784c87b",
+    "_fetched": "2026-03-24T13:44:22.821482+00:00",
+    "_relevance": 46,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "ministry",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 2130,
+    "title": "Mystery Bet: Traders move $2 billion just 5 minutes before T",
+    "cat": "economy",
+    "upsc": false,
+    "time": "2026-03-24T13:46:35.117171+00:00",
+    "summary": "Suspicious trades worth billions in S&P 500 and oil futures placed minutes before Trump’s Iran talks announcement have sparked insider trading concern",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "Economic Times",
+    "link": "https://economictimes.indiatimes.com/markets/stocks/news/2-billion-mystery-bet-who-invested-just-five-minutes-before-trumps-comment-on-us-iran-talks/articleshow/129772501.cms",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "bff4df4d281d",
+    "_fetched": "2026-03-24T13:46:35.117171+00:00",
+    "_relevance": 46,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 2131,
+    "title": "Iran arrests 466 people accused of online activity undermini",
+    "cat": "tech",
+    "upsc": false,
+    "time": "2026-03-24T13:48:47.531133+00:00",
+    "summary": "Iranian media have reported more than 1,000 arrests ‌over the course of ​the month, pertaining to ⁠individuals accused of filming sensitive locations,",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "The Hindu International",
+    "link": "https://www.thehindu.com/news/international/iran-arrests-466-people-accused-of-online-activity-undermining-national-security-report/article70779091.ece",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "cb00b303cce9",
+    "_fetched": "2026-03-24T13:48:47.531133+00:00",
+    "_relevance": 45,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 2132,
+    "title": "Parliament Budget Session 2026 Live Updates: Transgender Per",
+    "cat": "policy",
+    "upsc": false,
+    "time": "2026-03-24T13:50:59.847796+00:00",
+    "summary": "",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "Indian Express",
+    "link": "https://indianexpress.com/article/india/budget-session-live-2026-finance-minister-nirmala-sitharaman-corporate-finance-bill-10596080/",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "9a75c509a0ad",
+    "_fetched": "2026-03-24T13:50:59.847796+00:00",
+    "_relevance": 43,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "budget",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 2133,
+    "title": "Telangana DCA cautions against unsupervised semaglutide use ",
+    "cat": "world",
+    "upsc": false,
+    "time": "2026-03-24T13:53:12.136915+00:00",
+    "summary": "The DCA states that improper or unsupervised use of semaglutide can lead to serious health complications including acute pancreatitis, acute kidney in",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "The Hindu",
+    "link": "https://www.thehindu.com/news/national/telangana/telangana-dca-cautions-against-unsupervised-semaglutide-use-amid-rising-drug-demand-for-weight-loss/article70778664.ece",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "a4391d687a1b",
+    "_fetched": "2026-03-24T13:53:12.136915+00:00",
+    "_relevance": 41,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 2134,
+    "title": "Who is Mohammad Bagher Zolghadr? Iran picks powerful IRGC ve",
+    "cat": "world",
+    "upsc": false,
+    "time": "2026-03-24T13:55:24.428424+00:00",
+    "summary": "Iran has appointed Mohammad Bagher Zolghadr as the new head of the Supreme National Security Council, following the assassination of his predecessor, ",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "LiveMint",
+    "link": "https://www.livemint.com/news/world/who-is-mohammad-bagher-zolghadr-iran-names-security-council-chief-ali-larijani-s-replacement-us-iran-war-trump-11774354961523.html",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "af7d2cdad683",
+    "_fetched": "2026-03-24T13:55:24.428424+00:00",
+    "_relevance": 37,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 2135,
+    "title": "Iran-Israel war LIVE: Iran appoints Mohammad Baqer Zolqadr a",
+    "cat": "tech",
+    "upsc": false,
+    "time": "2026-03-24T13:57:36.772915+00:00",
+    "summary": "U.S. President Donald Trump hailed “very good” talks with an Iranian official; Tehran's parliamentary speaker, Mohammad Bagher Ghalibaf, reportedly in",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "The Hindu International",
+    "link": "https://www.thehindu.com/news/international/iran-israel-war-west-asia-conflict-march-24-2026-live-updates/article70778112.ece",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "fd9ed5c0f378",
+    "_fetched": "2026-03-24T13:57:36.772915+00:00",
+    "_relevance": 36,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 2136,
+    "title": "Goldman Sachs cuts India's 2026 growth forecast to 5.9%",
+    "cat": "india",
+    "upsc": false,
+    "time": "2026-03-24T13:59:49.104288+00:00",
+    "summary": "Goldman Sachs has revised India's 2026 growth forecast downwards to 5.9 percent. The firm anticipates a 50 basis point increase in policy rates. This ",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "ET Economy",
+    "link": "https://economictimes.indiatimes.com/news/economy/indicators/goldman-sachs-cuts-indias-2026-growth-forecast-to-5-9/articleshow/129775674.cms",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "e1752879fd34",
+    "_fetched": "2026-03-24T13:59:49.104288+00:00",
+    "_relevance": 36,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 2137,
+    "title": "India's vegetable oil buyers step back, betting Iran war-dri",
+    "cat": "economy",
+    "upsc": false,
+    "time": "2026-03-24T14:02:01.417949+00:00",
+    "summary": "Indian vegetable oil refiners are reducing palm oil, soyoil, and sunflower oil purchases, anticipating an end to the Iran war-driven price surge. They",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "ET Economy",
+    "link": "https://economictimes.indiatimes.com/news/economy/agriculture/indias-vegetable-oil-buyers-step-back-betting-iran-war-driven-rally-will-ease/articleshow/129773913.cms",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "3b962e7fd525",
+    "_fetched": "2026-03-24T14:02:01.417949+00:00",
+    "_relevance": 36,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 2138,
+    "title": "PM Modi Rajya Sabha Speech LIVE: 'Our foreign policy is PM's",
+    "cat": "india",
+    "upsc": false,
+    "time": "2026-03-24T14:04:13.872926+00:00",
+    "summary": "PM Modi Rajya Sabha Speech LIVE: PM Narendra Modi addresses the Upper House today on the Middle East crisis, India's energy security, and the safety o",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "LiveMint",
+    "link": "https://www.livemint.com/news/world/pm-modis-speech-in-rajya-sabha-live-updates-today-us-iran-war-middle-east-donald-trump-israel-netanyahu-11774338975575.html",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "549a368efd8e",
+    "_fetched": "2026-03-24T14:04:13.872926+00:00",
+    "_relevance": 35,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 2139,
+    "title": "Kerala has a little over 2.71 crore voters for April 9 Assem",
+    "cat": "india",
+    "upsc": false,
+    "time": "2026-03-24T14:06:26.211159+00:00",
+    "summary": "Election Commission of India identifies 2,040 ‘critical’ polling stations in Kerala",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "The Hindu",
+    "link": "https://www.thehindu.com/elections/kerala-assembly/kerala-has-a-little-over-271-crore-voters-for-april-9-assembly-polls/article70779290.ece",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "6de49d90c137",
+    "_fetched": "2026-03-24T14:06:26.211159+00:00",
+    "_relevance": 33,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 2140,
+    "title": "PM’s prepared text ‘full of self-praise’, says Congress on h",
+    "cat": "india",
+    "upsc": false,
+    "time": "2026-03-24T14:08:38.534688+00:00",
+    "summary": "Like after his statement in the Lok Sabha yesterday, the Opposition was not allowed to seek any clarifications after Mr. Modi read out his statement i",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "The Hindu",
+    "link": "https://www.thehindu.com/news/national/pms-prepared-text-full-of-self-praise-says-congress-on-his-rs-statement-about-west-asia-war/article70779256.ece",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "02ff942b57b3",
+    "_fetched": "2026-03-24T14:08:38.534688+00:00",
+    "_relevance": 33,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 2141,
+    "title": "Harish Rana, India's first person to be allowed passive euth",
+    "cat": "india",
+    "upsc": false,
+    "time": "2026-03-24T14:10:50.888153+00:00",
+    "summary": "Harish Rana case: In its ruling on 11 March, the Supreme Court had directed AIIMS Delhi to admit Rana and provide all facilities for carrying out the ",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "LiveMint",
+    "link": "https://www.livemint.com/news/india/harish-rana-indias-first-person-to-be-allowed-passive-euthanasia-dies-at-aiims-delhi-report-11774350690701.html",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "c5b85d909d34",
+    "_fetched": "2026-03-24T14:10:50.888153+00:00",
+    "_relevance": 33,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "sc-judgment",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 2142,
+    "title": "Jagan thanks Centre for renewal of FCRA permission of RDT",
+    "cat": "science",
+    "upsc": false,
+    "time": "2026-03-24T14:13:03.170283+00:00",
+    "summary": "The renewal will allow the RDT to continue its services in education, healthcare, environmental protection, and social development sectors",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "The Hindu",
+    "link": "https://www.thehindu.com/news/national/andhra-pradesh/jagan-thanks-centre-for-renewal-of-fcra-permission-of-rdt/article70779850.ece",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "8e8296d53ae9",
+    "_fetched": "2026-03-24T14:13:03.170283+00:00",
+    "_relevance": 31,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 2143,
+    "title": "Trump, PM Modi discuss ‘importance of keeping Strait of Horm",
+    "cat": "economy",
+    "upsc": false,
+    "time": "2026-03-24T14:15:15.606446+00:00",
+    "summary": "Prime Minister Narendra Modi confirmed that he received a call from President Trump and “had a useful exchange of views on the situation in West Asia.",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "LiveMint",
+    "link": "https://www.livemint.com/news/india/trump-pm-modi-discuss-middle-east-crisis-importance-of-keeping-strait-of-hormuz-open-us-envoy-sergio-gor-11774356679424.html",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "d3f1d989fe28",
+    "_fetched": "2026-03-24T14:15:15.606446+00:00",
+    "_relevance": 30,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
   }
 ]
