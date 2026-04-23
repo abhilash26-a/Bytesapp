@@ -21781,5 +21781,537 @@
     "_difficulty": 2,
     "_directive": "discuss",
     "_mcqs": []
+  },
+  {
+    "id": 2113,
+    "title": "India's Road Development",
+    "cat": "economy",
+    "upsc": true,
+    "time": "2026-03-24T19:15:25.789105+00:00",
+    "summary": "India can raise ₹8 lakh crore annually for highway development, but spending pace is a concern. This is crucial for UPSC as it relates to India's economic development and infrastructure growth. The government's aim to raise funds from markets and budgetary allocations connects to the syllabus area of economic development and infrastructure.",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": 800000,
+        "label": "Annual fund mobilization for roads (in crores)"
+      },
+      {
+        "val": 500000,
+        "label": "Target fund raising from markets (in crores)"
+      },
+      {
+        "val": 350000,
+        "label": "Projected toll collection (in crores)"
+      }
+    ],
+    "src": "ET Economy",
+    "link": "https://economictimes.indiatimes.com/news/economy/infrastructure/india-can-mobilise-8-lakh-crore-annually-for-roads-but-spending-lags-transport-minister-nitin-gadkari/articleshow/129785378.cms",
+    "prelims": [
+      "<strong>National Highways Authority of India (NHAI)</strong> was established in 1988 under the NHAI Act, 1988, to improve and maintain national highways. It has its headquarters in New Delhi and is responsible for the development, maintenance, and management of national highways. NHAI is also mandated to collect tolls from users.",
+      "<strong>Public-Private Partnership (PPP) model</strong> is being used to develop India's infrastructure, including roads. The PPP model allows private companies to participate in the development and maintenance of infrastructure projects, providing an opportunity for the government to leverage private sector expertise and resources. The model has been successful in several countries, including the UK and Australia.",
+      "<strong>Article 300A</strong> of the Constitution of India provides that no person shall be deprived of his property save by authority of law. This article is relevant to the development of infrastructure projects, including roads, as it ensures that the government cannot acquire land without following the due process of law. The article has been interpreted by the Supreme Court in several cases, including the <strong>Indra Sawhney case</strong>.",
+      "<strong>Ministry of Road Transport and Highways (MoRTH)</strong> is responsible for the development and maintenance of national highways in India. The ministry was established in 1942 and is headed by the Minister of Road Transport and Highways. MoRTH is also responsible for the implementation of several schemes, including the <strong>Bharatmala Pariyojana</strong> and the <strong>Pradhan Mantri Gram Sadak Yojana</strong>.",
+      "<strong>Toll roads</strong> are an important source of revenue for the government, with toll collection projected to surge to ₹3.5-4 lakh crore soon. The government has introduced a barrier-free, AI-powered toll system to improve efficiency and reduce congestion. The system uses <strong>Radio Frequency Identification (RFID)</strong> technology to collect tolls, eliminating the need for physical toll booths."
+    ],
+    "mains": {
+      "q": "Analyze the role of the government in promoting private sector participation in road development in India.",
+      "marks": "15 marks · GS3",
+      "directive": "analyze",
+      "hints": [
+        "Introduction (2 marks): Define the role of the government in promoting private sector participation in road development, including the use of the PPP model.",
+        "Body - Policy framework (3 marks): Discuss the policy framework for promoting private sector participation in road development, including the NHAI Act, 1988, and the <strong>PPP Policy</strong>.",
+        "Body - Institutional mechanism (3 marks): Analyze the role of institutions such as NHAI and MoRTH in promoting private sector participation in road development.",
+        "Body - Challenges (3 marks): Discuss the challenges faced by the government in promoting private sector participation in road development, including the lack of infrastructure and the need for regulatory reforms.",
+        "Conclusion (2 marks): Summarize the importance of private sector participation in road development and suggest ways to improve the policy framework and institutional mechanism."
+      ]
+    },
+    "connect": [
+      {
+        "topic": "Public-Private Partnership (PPP) model",
+        "context": "The PPP model is being used to develop India's infrastructure, including roads, and is relevant to the syllabus area of economic development and infrastructure."
+      },
+      {
+        "topic": "National Highways Authority of India (NHAI)",
+        "context": "NHAI is responsible for the development and maintenance of national highways and is relevant to the syllabus area of infrastructure and economic development."
+      },
+      {
+        "topic": "Ministry of Road Transport and Highways (MoRTH)",
+        "context": "MoRTH is responsible for the development and maintenance of national highways and is relevant to the syllabus area of infrastructure and economic development."
+      },
+      {
+        "topic": "Toll roads",
+        "context": "Toll roads are an important source of revenue for the government and are relevant to the syllabus area of economic development and infrastructure."
+      },
+      {
+        "topic": "Article 300A",
+        "context": "Article 300A provides that no person shall be deprived of his property save by authority of law and is relevant to the syllabus area of polity and governance."
+      }
+    ],
+    "_hash": "fecfad29d528",
+    "_fetched": "2026-03-24T19:15:25.789105+00:00",
+    "_relevance": 72,
+    "_gs": [
+      "GS2",
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "analyze",
+    "_mcqs": {
+      "q": "Consider the following statements:\n1. The NHAI was established in 1995.\n2. The government aims to raise ₹5 lakh crore from markets for road development.\n3. The toll collection is projected to surge to ₹3.5-4 lakh crore soon.\nWhich of the above is/are correct?",
+      "options": [
+        "1 only",
+        "1 and 2 only",
+        "2 and 3 only",
+        "1, 2 and 3"
+      ],
+      "correct": 2,
+      "explanation": "Statement 1 is incorrect: NHAI was established in 1988. Statement 2 is correct: The government aims to raise ₹5 lakh crore from markets. Statement 3 is correct: Toll collection is projected to surge to ₹3.5-4 lakh crore soon.",
+      "trap": "Wrong Year"
+    }
+  },
+  {
+    "id": 2114,
+    "title": "Delimitation Representation",
+    "cat": "policy",
+    "upsc": true,
+    "time": "2026-03-24T19:15:42.894691+00:00",
+    "summary": "Tamil Nadu Chief Minister Stalin has called for constitutional safeguards to retain the current share of States' representation in delimitation. This statement is significant for UPSC as it relates to the polity and governance of India, particularly the representation of states in the Parliament and Legislative Assemblies. The issue connects to the broader topic of electoral reforms and the need for balanced representation in the democratic process.",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": 1972,
+        "label": "Year of the Parliamentary Constituencies (Delimitation) Act"
+      },
+      {
+        "val": 2022,
+        "label": "Year of the Constitution (One Hundred and Seventh Amendment) Act"
+      },
+      {
+        "val": 82,
+        "label": "Article number under which the Delimitation Commission is established"
+      }
+    ],
+    "src": "The Hindu",
+    "link": "https://www.thehindu.com/news/national/tamil-nadu/tn-cm-stalin-calls-for-constitutional-safeguards-to-retain-current-share-of-states-representation-in-delimitation/article70779665.ece",
+    "prelims": [
+      "The <strong>Delimitation Commission</strong> is a constitutional body that is responsible for redrawing the boundaries of parliamentary and assembly constituencies. It was established under Article 82 of the Constitution and has been constituted several times since India's independence, with the most recent being in 2020. The Commission's work is crucial for ensuring fair representation and maintaining the integrity of the electoral process.",
+      "The <strong>Constitution (One Hundred and Seventh Amendment) Act, 2022</strong>, also known as the OBC reservation bill, has implications for the delimitation process, as it aims to provide reservations for Other Backward Classes (OBCs) in legislative bodies. This amendment highlights the ongoing efforts to refine the electoral system and ensure more inclusive representation. Understanding the nuances of such amendments is essential for comprehending the complexities of Indian polity.",
+      "The concept of <strong>proportional representation</strong> is integral to the discussion on delimitation, as it ensures that the number of seats allocated to each state is proportional to its population. This principle is enshrined in the Constitution and is a cornerstone of democratic representation. However, its implementation can be complex, especially when considering factors like population growth and demographic changes.",
+      "The <strong>Parliamentary Constituencies (Delimitation) Act, 1972</strong>, is a key legislation that governs the delimitation process. It provides the legal framework within which the Delimitation Commission operates, outlining the procedures for redrawing constituency boundaries. Understanding this Act is crucial for grasping the legal and procedural aspects of delimitation.",
+      "The issue of <strong>women's reservation in Parliament and Legislative Assemblies</strong> is another significant aspect of the delimitation debate. The proposal to reserve one-third of the seats for women has been discussed extensively and is seen as a crucial step towards enhancing gender representation in Indian politics. This topic intersects with the broader themes of gender equality and political empowerment."
+    ],
+    "mains": {
+      "q": "Critically examine the role of the Delimitation Commission in ensuring fair representation in the electoral process, with special reference to the challenges posed by population growth and demographic changes.",
+      "marks": "15 marks · GS2",
+      "directive": "critically_examine",
+      "hints": [
+        "Introduction (2 marks): Introduce the Delimitation Commission, its establishment, and its role in the electoral process, highlighting its significance in ensuring fair representation.",
+        "Body - Delimitation Process (3 marks): Explain the process of delimitation, including the criteria used for redrawing constituency boundaries, such as population, geographical factors, and administrative units.",
+        "Body - Challenges (3 marks): Discuss the challenges faced by the Delimitation Commission, such as population growth, urbanization, and demographic changes, and how these factors impact the delimitation process.",
+        "Body - Representation and Reservations (3 marks): Analyze the impact of delimitation on the representation of various groups, including women, OBCs, and SC/STs, and discuss the role of reservations in ensuring inclusive representation.",
+        "Conclusion (2 marks): Summarize the importance of the Delimitation Commission in maintaining the integrity of the electoral process and suggest measures to address the challenges faced by the Commission in ensuring fair and balanced representation."
+      ]
+    },
+    "connect": [
+      {
+        "topic": "Electoral Reforms and Delimitation",
+        "context": "The issue of delimitation is closely linked to broader electoral reforms, including the discussion on proportional representation and the role of the Election Commission of India."
+      },
+      {
+        "topic": "Constitutional Provisions for Representation",
+        "context": "Understanding the constitutional provisions that govern delimitation, such as Articles 81 and 82, is essential for grasping the legal framework of the electoral process."
+      },
+      {
+        "topic": "Women's Reservation in Parliament",
+        "context": "The proposal for women's reservation intersects with the delimitation process, as it would require adjustments in the number of seats allocated to different states and constituencies."
+      },
+      {
+        "topic": "OBC Reservations and the 102nd Amendment",
+        "context": "The discussion on OBC reservations, as per the 102nd Amendment, is relevant to delimitation, as it impacts the representation of OBCs in legislative bodies and could influence future delimitation exercises."
+      },
+      {
+        "topic": "Parliamentary Constituencies (Delimitation) Act, 1972",
+        "context": "This Act provides the legal basis for the delimitation process and understanding its provisions is crucial for analyzing the role of the Delimitation Commission and the challenges it faces."
+      }
+    ],
+    "_hash": "e2d2c4bbff23",
+    "_fetched": "2026-03-24T19:15:42.894691+00:00",
+    "_relevance": 67,
+    "_gs": [
+      "GS2"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "critically_examine",
+    "_mcqs": {
+      "q": "Consider the following statements:\n1. The Delimitation Commission is a statutory body.\n2. The Constitution (One Hundred and Seventh Amendment) Act, 2022, provides for reservations for OBCs in legislative bodies.\n3. The delimitation process is based solely on population criteria.\nWhich of the above is/are correct?",
+      "options": [
+        "1 only",
+        "1 and 2 only",
+        "2 and 3 only",
+        "1, 2 and 3"
+      ],
+      "correct": 1,
+      "explanation": "Statement 1 is incorrect because the Delimitation Commission is a constitutional body, not a statutory one. Statement 2 is correct as the mentioned Act does provide for OBC reservations. Statement 3 is incorrect because, while population is a key factor, the delimitation process also considers geographical and administrative factors.",
+      "trap": "Wrong Ministry / Absolute Language"
+    }
+  },
+  {
+    "id": 2115,
+    "title": "PM on Global Crisis",
+    "cat": "world",
+    "upsc": true,
+    "time": "2026-03-24T19:15:58.891739+00:00",
+    "summary": "PM Modi, in his Parliament speeches, referred to severe conditions that have emerged globally as a result of the Middle East crisis and the fear of a lasting impact. This is relevant for UPSC as it connects to India's role in global governance and international relations. The crisis also has implications for global economic stability and security, which are crucial areas of study in the GS3 syllabus.",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": 1945,
+        "label": "Year the United Nations was established"
+      },
+      {
+        "val": 1961,
+        "label": "Year the Non-Aligned Movement (NAM) was formed"
+      },
+      {
+        "val": 2,
+        "label": "Number of houses in the Indian Parliament"
+      }
+    ],
+    "src": "LiveMint",
+    "link": "https://www.livemint.com/news/world/did-pm-modi-really-mention-lockdown-in-his-address-to-the-parliament-over-middle-east-crisis-donald-trump-covid19-11774368094062.html",
+    "prelims": [
+      "The <strong>United Nations</strong> was established in 1945 with the aim of promoting peace, security, and cooperation among its member states. It has its headquarters in New York and is led by a Secretary-General. The UN plays a crucial role in addressing global crises, including the Middle East conflict.",
+      "The <strong>Non-Aligned Movement (NAM)</strong> was formed in 1961 during the Cold War era, with the primary goal of promoting the interests of developing countries and maintaining their independence from the two superpowers. India has been an active member of NAM and has played a significant role in shaping its policies.",
+      "The <strong>Indian Parliament</strong> is a bicameral legislature consisting of the Lok Sabha and the Rajya Sabha. It has the power to make laws, approve the government's budget, and exercise parliamentary control over the executive. The Parliament also has the authority to discuss and debate important national and international issues, including global crises.",
+      "The <strong>Ministry of External Affairs (MEA)</strong> is responsible for the formulation and implementation of India's foreign policy. It works closely with other ministries, including the Ministry of Defence, to ensure that India's national interests are protected and promoted. The MEA also plays a crucial role in addressing global crises and promoting international cooperation.",
+      "The <strong>Global Governance</strong> refers to the system of rules, norms, and institutions that regulate global interactions and cooperation. It involves a range of actors, including states, international organizations, and non-state actors. Effective global governance is essential for addressing global challenges, including economic instability, security threats, and environmental degradation."
+    ],
+    "mains": {
+      "q": "Analyze the implications of the Middle East crisis on global economic stability and security, and discuss the role of India in promoting international cooperation to address this crisis.",
+      "marks": "15 marks · GS2",
+      "directive": "analyze",
+      "hints": [
+        "Introduction (2 marks): Define the Middle East crisis and its global implications, and explain the importance of international cooperation in addressing this crisis.",
+        "Body - Economic implications (3 marks): Discuss the impact of the crisis on global oil prices, trade, and economic growth, and analyze the potential consequences for India's economy.",
+        "Body - Security implications (3 marks): Examine the security threats posed by the crisis, including terrorism and regional instability, and discuss the role of international organizations in addressing these threats.",
+        "Body - India's role (3 marks): Discuss India's interests in the Middle East and its role in promoting international cooperation to address the crisis, including its participation in regional and global forums.",
+        "Conclusion (2 marks): Summarize the main points and emphasize the need for effective global governance and international cooperation to address the Middle East crisis and promote global stability and security."
+      ]
+    },
+    "connect": [
+      {
+        "topic": "Global Governance and International Relations",
+        "context": "The Middle East crisis highlights the need for effective global governance and international cooperation to address global challenges."
+      },
+      {
+        "topic": "Indian Foreign Policy and Diplomacy",
+        "context": "India's role in promoting international cooperation to address the Middle East crisis is an important aspect of its foreign policy and diplomacy."
+      },
+      {
+        "topic": "Economic Stability and Security",
+        "context": "The Middle East crisis has significant implications for global economic stability and security, and India needs to be prepared to address these challenges."
+      },
+      {
+        "topic": "United Nations and International Organizations",
+        "context": "The United Nations plays a crucial role in addressing global crises, including the Middle East conflict, and India is an active member of the UN."
+      },
+      {
+        "topic": "Non-Aligned Movement (NAM) and Developing Countries",
+        "context": "The Non-Aligned Movement (NAM) was formed to promote the interests of developing countries, and India has been an active member of NAM."
+      }
+    ],
+    "_hash": "ec5399b59fa0",
+    "_fetched": "2026-03-24T19:15:58.891739+00:00",
+    "_relevance": 46,
+    "_gs": [
+      "GS2"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "analyze",
+    "_mcqs": {
+      "q": "Consider the following statements:\n1. The United Nations was established in 1945 to promote peace and security among its member states.\n2. The Non-Aligned Movement (NAM) was formed in 1961 to promote the interests of developed countries.\n3. The Indian Parliament has the power to make laws and approve the government's budget.\nWhich of the above is/are correct?",
+      "options": [
+        "1 only",
+        "1 and 3 only",
+        "2 and 3 only",
+        "1, 2 and 3"
+      ],
+      "correct": 1,
+      "explanation": "Statement 1 is correct: The United Nations was indeed established in 1945 to promote peace and security among its member states. Statement 2 is incorrect: The Non-Aligned Movement (NAM) was formed in 1961 to promote the interests of developing countries, not developed countries. Statement 3 is correct: The Indian Parliament does have the power to make laws and approve the government's budget.",
+      "trap": "Absolute Language"
+    }
+  },
+  {
+    "id": 2116,
+    "title": "CAPF Bill likely in Rajya Sabha on March 25; eight-hour disc",
+    "cat": "india",
+    "upsc": false,
+    "time": "2026-03-24T19:18:11.418452+00:00",
+    "summary": "Retired CAPF officials have opposed the Bill stating that government is discriminating against cadre officers who won the case after 10 years of litig",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "The Hindu",
+    "link": "https://www.thehindu.com/news/national/capf-bill-likely-in-rajya-sabha-on-march-25-eight-hour-discussion-allocated/article70781046.ece",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "3b4be16e5991",
+    "_fetched": "2026-03-24T19:18:11.418452+00:00",
+    "_relevance": 44,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 2117,
+    "title": "Women short-changed yet again as Kerala’s poll fronts refuse",
+    "cat": "india",
+    "upsc": false,
+    "time": "2026-03-24T19:20:23.901658+00:00",
+    "summary": "Although Kerala is the only Indian State where women outnumber men, this demographic strength has never translated into political power; in the 140 As",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "The Hindu",
+    "link": "https://www.thehindu.com/elections/kerala-assembly/women-short-changed-yet-again-as-keralas-poll-fronts-refuse-to-change-course/article70779881.ece",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "f4d3e11f7253",
+    "_fetched": "2026-03-24T19:20:23.901658+00:00",
+    "_relevance": 41,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 2118,
+    "title": "Delta Air Lines scraps priority services for Congress lawmak",
+    "cat": "india",
+    "upsc": false,
+    "time": "2026-03-24T19:22:36.382604+00:00",
+    "summary": "The airline said lawmakers will no longer receive airport escorts, priority rebooking, or complimentary upgrades. However, they will retain access to ",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "LiveMint",
+    "link": "https://www.livemint.com/news/us-news/delta-air-lines-scraps-priority-services-for-congress-lawmakers-citing-shutdown-strain-long-tsa-lines-11774373266591.html",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "f4ebdfcd9be2",
+    "_fetched": "2026-03-24T19:22:36.382604+00:00",
+    "_relevance": 39,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 2119,
+    "title": "Private sector growth hits 3.5-year low in March",
+    "cat": "economy",
+    "upsc": false,
+    "time": "2026-03-24T19:24:48.898806+00:00",
+    "summary": "India's private sector growth slowed to its weakest pace in over three years in March, impacted by the West Asia conflict dampening demand and output.",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "ET Economy",
+    "link": "https://economictimes.indiatimes.com/news/economy/indicators/private-sector-growth-hits-3-5-year-low-in-march/articleshow/129785504.cms",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "347e8ee0ecae",
+    "_fetched": "2026-03-24T19:24:48.898806+00:00",
+    "_relevance": 38,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 2120,
+    "title": "Only Hindus, Buddhists, Sikhs can claim Scheduled Caste stat",
+    "cat": "india",
+    "upsc": false,
+    "time": "2026-03-24T19:27:01.542899+00:00",
+    "summary": "Conversion to any other religion will lead to immediate, complete loss of Scheduled Caste status, regardless of birth, says Bench as it invokes Clause",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "The Hindu",
+    "link": "https://www.thehindu.com/news/national/supreme-court-concludes-only-hindus-sikhs-buddhists-can-claim-scheduled-caste-status/article70778524.ece",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "33d6d4e41ac8",
+    "_fetched": "2026-03-24T19:27:01.542899+00:00",
+    "_relevance": 36,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "sc-judgment",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 2121,
+    "title": "Exports grow at estimated 20 pc CAGR between FY24- 26 due to",
+    "cat": "economy",
+    "upsc": false,
+    "time": "2026-03-24T19:29:14.003435+00:00",
+    "summary": "Exports under the RoDTEP scheme are projected to grow over 20% CAGR from 2023-24 to 2025-26, despite global economic challenges. The scheme has expand",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "ET Economy",
+    "link": "https://economictimes.indiatimes.com/news/economy/foreign-trade/exports-grow-at-estimated-20-pc-cagr-between-fy24-26-due-to-rodtep-scheme-official/articleshow/129783363.cms",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "276340f0dc44",
+    "_fetched": "2026-03-24T19:29:14.003435+00:00",
+    "_relevance": 36,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 2122,
+    "title": "India may see nearly 50% drop in LPG imports in March amid U",
+    "cat": "economy",
+    "upsc": false,
+    "time": "2026-03-24T19:31:26.510368+00:00",
+    "summary": "Traders and ship-tracking data from LSEG reportedly suggest that India is set to import 1.190 million metric tons of LPG this month, down 46% from Feb",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "LiveMint",
+    "link": "https://www.livemint.com/news/india/india-may-see-nearly-50-drop-in-lpg-imports-in-march-amid-iran-war-report-11774372464287.html",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "d6b8607fba0b",
+    "_fetched": "2026-03-24T19:31:26.510368+00:00",
+    "_relevance": 35,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 2123,
+    "title": "Karnataka: Higher Education Dept. cancels event on Deendayal",
+    "cat": "tech",
+    "upsc": false,
+    "time": "2026-03-24T19:33:39.028722+00:00",
+    "summary": "As the objective and subject matter of the conference are found to be inconsistent with the aims and objectives of the university, granting permission",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "The Hindu",
+    "link": "https://www.thehindu.com/news/national/karnataka/karnataka-higher-education-dept-cancels-event-on-deendayal-upadhyay-at-ksou-following-protocol-violation-row/article70780582.ece",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "21afe8ef4231",
+    "_fetched": "2026-03-24T19:33:39.028722+00:00",
+    "_relevance": 33,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 2124,
+    "title": "NHAI-sponsored ‘InvIT gets listed on the BSE",
+    "cat": "india",
+    "upsc": false,
+    "time": "2026-03-24T19:35:51.527726+00:00",
+    "summary": "The public InvIT, regulated by the Securities and Exchange Board of India (SEBI), is aimed at widening investor participation in the country’s highway",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "The Hindu Business",
+    "link": "https://www.thehindu.com/business/nhai-sponsored-invit-gets-listed-on-the-bse/article70779878.ece",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "b5a421d8a9d6",
+    "_fetched": "2026-03-24T19:35:51.527726+00:00",
+    "_relevance": 31,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "ministry",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
   }
 ]
