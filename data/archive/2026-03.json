@@ -29292,5 +29292,761 @@
     "_difficulty": 2,
     "_directive": "discuss",
     "_mcqs": []
+  },
+  {
+    "id": 2055,
+    "title": "Fuel Crisis",
+    "cat": "economy",
+    "upsc": true,
+    "time": "2026-03-26T19:18:59.868180+00:00",
+    "summary": "India is facing a fuel crisis, with the government stating that the country has 60 days of oil stocks and one month of LPG supplies. This crisis matters for UPSC as it relates to India's energy security and economic development. The crisis also connects to the GS3 syllabus area, which covers economic development, infrastructure, and disaster management.",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": 60,
+        "label": "Days of oil stocks available in India"
+      },
+      {
+        "val": 5,
+        "label": "Rupees per liter increase in petrol prices by Nayara Energy"
+      }
+    ],
+    "src": "The Hindu",
+    "link": "https://www.thehindu.com/news/national/lpg-fuel-petrol-crisis-west-asia-strait-of-hormuz-us-israel-iran-live-updates/article70786856.ece",
+    "prelims": [
+      "The <strong>Energy Security</strong> of a nation is crucial for its economic development, and India has been taking various measures to enhance its energy security, including diversifying its energy sources and improving energy efficiency. The country has set a target to reduce its dependence on fossil fuels and increase the share of renewable energy in its energy mix. India has also been exploring new sources of energy, such as nuclear and hydrogen fuel cells.",
+      "The <strong>Public Distribution System (PDS)</strong> in India plays a critical role in ensuring the availability of essential commodities, including LPG, to the population. The PDS is a network of fair price shops that provide subsidized commodities to the poor and vulnerable sections of society. The system has been instrumental in reducing poverty and inequality in the country. However, the PDS has also been criticized for its inefficiencies and corruption.",
+      "The <strong>National Disaster Management Authority (NDMA)</strong> is responsible for coordinating and implementing disaster management efforts in India. The NDMA was established in 2005, and its primary objective is to build a safer and more disaster-resilient India. The authority has been working to enhance the country's disaster preparedness and response capabilities, including conducting regular drills and exercises to prepare for natural disasters.",
+      "The <strong>Ministry of Petroleum and Natural Gas</strong> is responsible for the exploration, production, and distribution of petroleum and natural gas in India. The ministry has been working to enhance the country's energy security by increasing domestic production, improving energy efficiency, and promoting the use of alternative fuels. The ministry has also been implementing policies to reduce the country's dependence on fossil fuels and promote the use of renewable energy sources.",
+      "The <strong>Integrated Energy Policy (IEP)</strong> of India aims to ensure the country's energy security by promoting the use of all forms of energy, including renewable energy sources. The IEP was launched in 2005, and its primary objective is to reduce the country's dependence on fossil fuels and promote sustainable development. The policy has been instrumental in promoting the use of renewable energy sources, such as solar and wind power, and has helped to reduce the country's greenhouse gas emissions."
+    ],
+    "mains": {
+      "q": "Analyze the impact of the fuel crisis on India's economic development and energy security.",
+      "marks": "15 marks · GS3",
+      "directive": "analyze",
+      "hints": [
+        "Introduction (2 marks): Define energy security and its importance for India's economic development.",
+        "Body - Economic Impact (4 marks): Discuss the impact of the fuel crisis on India's GDP, inflation, and employment.",
+        "Body - Energy Security (4 marks): Analyze the measures taken by the government to enhance energy security, including diversifying energy sources and improving energy efficiency.",
+        "Body - Challenges (3 marks): Discuss the challenges faced by the government in addressing the fuel crisis, including infrastructure constraints and geopolitical factors.",
+        "Conclusion (2 marks): Suggest measures to mitigate the impact of the fuel crisis and enhance India's energy security."
+      ]
+    },
+    "connect": [
+      {
+        "topic": "Energy Security",
+        "context": "The fuel crisis highlights the importance of energy security for India's economic development."
+      },
+      {
+        "topic": "Public Distribution System (PDS)",
+        "context": "The PDS plays a critical role in ensuring the availability of essential commodities, including LPG, to the population."
+      },
+      {
+        "topic": "National Disaster Management Authority (NDMA)",
+        "context": "The NDMA is responsible for coordinating and implementing disaster management efforts in India, including responding to natural disasters that may impact energy security."
+      },
+      {
+        "topic": "Integrated Energy Policy (IEP)",
+        "context": "The IEP aims to reduce the country's dependence on fossil fuels and promote sustainable development, which is critical for addressing the fuel crisis."
+      },
+      {
+        "topic": "Ministry of Petroleum and Natural Gas",
+        "context": "The ministry is responsible for the exploration, production, and distribution of petroleum and natural gas in India, and plays a critical role in addressing the fuel crisis."
+      }
+    ],
+    "_hash": "43d0fad66eb6",
+    "_fetched": "2026-03-26T19:18:59.868180+00:00",
+    "_relevance": 57,
+    "_gs": [
+      "GS2",
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "analyze",
+    "_mcqs": {
+      "q": "Consider the following statements:\n1. The Ministry of Petroleum and Natural Gas is responsible for the exploration, production, and distribution of petroleum and natural gas in India.\n2. The National Disaster Management Authority (NDMA) is responsible for coordinating and implementing disaster management efforts in India.\n3. The Integrated Energy Policy (IEP) of India aims to reduce the country's dependence on fossil fuels and promote sustainable development.\nWhich of the above is/are correct?",
+      "options": [
+        "1 only",
+        "1 and 2 only",
+        "2 and 3 only",
+        "1, 2 and 3"
+      ],
+      "correct": 3,
+      "explanation": "Statement 1 is correct: The Ministry of Petroleum and Natural Gas is indeed responsible for the exploration, production, and distribution of petroleum and natural gas in India. Statement 2 is correct: The NDMA is responsible for coordinating and implementing disaster management efforts in India. Statement 3 is correct: The IEP aims to reduce the country's dependence on fossil fuels and promote sustainable development.",
+      "trap": "Wrong Ministry"
+    }
+  },
+  {
+    "id": 2056,
+    "title": "CSR Spends in India",
+    "cat": "economy",
+    "upsc": true,
+    "time": "2026-03-26T19:19:16.869146+00:00",
+    "summary": "Maharashtra attracts almost half of India Inc's corporate social responsibility spending, but aspirational districts are not receiving adequate focus. This is significant for UPSC as it highlights the need for more targeted CSR initiatives to address regional disparities. The trend also underscores the importance of <strong>corporate governance</strong> and <strong>sustainable development</strong> in India's economic growth story.",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": 46,
+        "label": "Percentage of CSR spends in Maharashtra"
+      },
+      {
+        "val": 2013,
+        "label": "Year the Companies Act was enacted"
+      }
+    ],
+    "src": "ET Economy",
+    "link": "https://economictimes.indiatimes.com/news/economy/indicators/46-pc-of-csr-spends-in-maharashtra-aspirational-districts-need-more-attention-crisil/articleshow/129830081.cms",
+    "prelims": [
+      "The <strong>Companies Act, 2013</strong> mandates companies to spend 2% of their net profit on corporate social responsibility (CSR) activities, which has led to increased spending in areas like education and healthcare. The Act also emphasizes the role of <strong>corporate social responsibility</strong> in promoting <strong>sustainable development</strong> and <strong>inclusive growth</strong>. The CSR spending is overseen by the <strong>Ministry of Corporate Affairs</strong>.",
+      "The <strong>Ministry of Corporate Affairs</strong> has been actively promoting CSR initiatives, and companies are increasingly managing CSR projects directly, moving away from non-government organizations. This shift has implications for <strong>governance</strong> and <strong>accountability</strong> in CSR spending. The Ministry has also established the <strong>Indian Institute of Corporate Affairs</strong> to promote <strong>corporate governance</strong> and <strong>CSR</strong>.",
+      "Education and healthcare remain top priorities for corporate giving, with many companies focusing on <strong>skill development</strong> and <strong>healthcare infrastructure</strong> in rural areas. The <strong>National Skill Development Corporation</strong> and the <strong>National Health Mission</strong> are key initiatives in this regard. Companies are also partnering with <strong>NGOs</strong> and <strong>government agencies</strong> to implement these projects.",
+      "The <strong>United Nations Sustainable Development Goals (SDGs)</strong> have also played a significant role in shaping CSR initiatives in India, with many companies aligning their spending with <strong>SDG 4 (Quality Education)</strong> and <strong>SDG 3 (Good Health and Well-being)</strong>. The <strong>Ministry of Statistics and Programme Implementation</strong> is responsible for monitoring India's progress towards the SDGs.",
+      "Aspirational districts, which are the most underdeveloped districts in India, require more attention from companies in terms of CSR spending. The <strong>NITI Aayog</strong> has been working to promote <strong>development</strong> in these districts through various initiatives, including the <strong>Aspirational Districts Programme</strong>."
+    ],
+    "mains": {
+      "q": "Analyze the role of corporate social responsibility in promoting sustainable development and inclusive growth in India, with a focus on the challenges and opportunities in aspirational districts.",
+      "marks": "15 marks · GS3",
+      "directive": "analyze",
+      "hints": [
+        "Introduction (2 marks): Define corporate social responsibility and its significance in India's economic growth story, highlighting the <strong>Companies Act, 2013</strong> and the <strong>Ministry of Corporate Affairs</strong>.",
+        "Body - CSR initiatives (3 marks): Discuss the types of CSR initiatives being undertaken by companies in India, with a focus on education and healthcare, and the role of <strong>NGOs</strong> and <strong>government agencies</strong> in implementing these projects.",
+        "Body - Challenges in aspirational districts (3 marks): Examine the challenges faced by companies in implementing CSR initiatives in aspirational districts, including <strong>infrastructure</strong> and <strong>governance</strong> issues, and the need for <strong>capacity building</strong> and <strong>institutional strengthening</strong>.",
+        "Body - Opportunities for sustainable development (3 marks): Analyze the opportunities for CSR initiatives to promote sustainable development and inclusive growth in aspirational districts, with a focus on <strong>skill development</strong> and <strong>healthcare infrastructure</strong>.",
+        "Conclusion (2 marks): Summarize the importance of CSR initiatives in promoting sustainable development and inclusive growth in India, and the need for companies to prioritize spending in aspirational districts, highlighting the role of <strong>corporate governance</strong> and <strong>accountability</strong>."
+      ]
+    },
+    "connect": [
+      {
+        "topic": "Corporate Governance and CSR",
+        "context": "The article highlights the importance of corporate governance and CSR in promoting sustainable development and inclusive growth in India."
+      },
+      {
+        "topic": "Sustainable Development Goals (SDGs)",
+        "context": "The article mentions the role of SDGs in shaping CSR initiatives in India, particularly in areas like education and healthcare."
+      },
+      {
+        "topic": "Aspirational Districts Programme",
+        "context": "The article discusses the need for more attention from companies in terms of CSR spending in aspirational districts, which is a key initiative of the NITI Aayog."
+      },
+      {
+        "topic": "Ministry of Corporate Affairs",
+        "context": "The article mentions the role of the Ministry of Corporate Affairs in overseeing CSR spending in India and promoting corporate governance."
+      },
+      {
+        "topic": "National Skill Development Corporation",
+        "context": "The article mentions the role of the National Skill Development Corporation in promoting skill development and CSR initiatives in India."
+      }
+    ],
+    "_hash": "540536c8512b",
+    "_fetched": "2026-03-26T19:19:16.869146+00:00",
+    "_relevance": 52,
+    "_gs": [
+      "GS2",
+      "GS3",
+      "GS4"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "analyze",
+    "_mcqs": {
+      "q": "Consider the following statements:\n1. The Companies Act, 2013 mandates companies to spend 1% of their net profit on CSR activities.\n2. The Ministry of Corporate Affairs is responsible for overseeing CSR spending in India.\n3. Aspirational districts are the most developed districts in India.\nWhich of the above is/are correct?",
+      "options": [
+        "1 only",
+        "2 only",
+        "2 and 3 only",
+        "1, 2 and 3"
+      ],
+      "correct": 1,
+      "explanation": "Statement 1 is incorrect: The Companies Act, 2013 mandates companies to spend 2% of their net profit on CSR activities. Statement 2 is correct: The Ministry of Corporate Affairs is indeed responsible for overseeing CSR spending in India. Statement 3 is incorrect: Aspirational districts are the most underdeveloped districts in India.",
+      "trap": "Absolute Language"
+    }
+  },
+  {
+    "id": 2057,
+    "title": "China-India BRICS",
+    "cat": "world",
+    "upsc": true,
+    "time": "2026-03-26T19:19:33.228211+00:00",
+    "summary": "Following a meeting between Foreign Minister Wang Yi and outgoing Indian ambassador Pradeep Kumar Rawat in Beijing, Chinese Foreign Ministry spokesperson Lin Jian says the two sides view each other as development opportunities. This development is significant for UPSC as it highlights the evolving nature of India-China relations, particularly in the context of BRICS and the Global South. It connects to the syllabus area of International Relations, specifically bilateral and multilateral relations.",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": 2006,
+        "label": "Year BRICS was established"
+      },
+      {
+        "val": 2011,
+        "label": "Year South Africa joined BRICS"
+      },
+      {
+        "val": 5,
+        "label": "Number of founding members of BRICS"
+      }
+    ],
+    "src": "The Hindu",
+    "link": "https://www.thehindu.com/news/national/willing-to-work-with-india-for-common-interests-in-global-south-brics-china/article70789158.ece",
+    "prelims": [
+      "The <strong>BRICS</strong> grouping was established in 2006 with the aim of promoting cooperation among emerging economies. It has its secretariat in Shanghai, China, and an annual summit that rotates among member countries. BRICS has expanded to include South Africa in 2011, and its New Development Bank (NDB) was established in 2015.",
+      "The <strong>Global South</strong> refers to countries in the Southern Hemisphere, often used to describe the economic and political realities of developing nations. It is a key concept in understanding international relations, particularly in the context of North-South dialogue and cooperation. The Global South includes countries in Africa, Asia, and Latin America.",
+      "The <strong>Wang Yi</strong> meeting with the Indian ambassador signifies the importance of diplomatic relations between China and India. As the Chinese Foreign Minister, Wang Yi plays a crucial role in shaping China's foreign policy, including its relations with neighboring countries and participation in international organizations like BRICS.",
+      "The <strong>BRICS Summit</strong> is an annual meeting of the BRICS nations, aimed at discussing issues of mutual interest and cooperation. The summit has been instrumental in promoting economic cooperation, cultural exchange, and political dialogue among member countries. It also provides a platform for discussing global issues like climate change, terrorism, and sustainable development.",
+      "The <strong>India-China relations</strong> are complex and multifaceted, involving cooperation in areas like trade, investment, and security, as well as competition in regions like the Indo-Pacific. Understanding these dynamics is crucial for UPSC, as it reflects the evolving nature of international relations and the role of emerging economies in global governance."
+    ],
+    "mains": {
+      "q": "Analyze the significance of the BRICS grouping in the context of India-China relations and its implications for global governance.",
+      "marks": "15 marks · GS2",
+      "directive": "analyze",
+      "hints": [
+        "Introduction (2 marks): Define the BRICS grouping, its establishment, and its objectives. Explain the significance of BRICS in the context of emerging economies and global governance.",
+        "Body - Economic cooperation (3 marks): Discuss the role of BRICS in promoting economic cooperation among member countries, including trade, investment, and the New Development Bank. Analyze the benefits and challenges of economic cooperation within BRICS.",
+        "Body - Political and security aspects (3 marks): Examine the political and security dimensions of BRICS, including cooperation on issues like terrorism, climate change, and regional security. Discuss the implications of BRICS for global governance and the role of emerging economies.",
+        "Body - India-China relations (3 marks): Analyze the significance of the BRICS grouping for India-China relations, including areas of cooperation and competition. Discuss the implications of India-China relations for regional and global security.",
+        "Conclusion (2 marks): Summarize the significance of BRICS in the context of India-China relations and global governance. Suggest ways to strengthen cooperation among BRICS nations and promote a more equitable and just global order."
+      ]
+    },
+    "connect": [
+      {
+        "topic": "International Relations Theory",
+        "context": "Understanding the BRICS grouping requires knowledge of international relations theories, including realism, liberalism, and constructivism, which help explain the behavior of states in the international system."
+      },
+      {
+        "topic": "Economic Development",
+        "context": "The BRICS nations are characterized by their rapid economic growth and development, which has significant implications for global trade, investment, and economic governance."
+      },
+      {
+        "topic": "Regional Security",
+        "context": "The BRICS grouping has implications for regional security, particularly in areas like the Indo-Pacific, where India and China are key players with competing interests and strategies."
+      },
+      {
+        "topic": "Diplomacy and International Organizations",
+        "context": "The BRICS grouping is an example of diplomatic efforts by emerging economies to promote cooperation and shape global governance, reflecting the importance of diplomacy and international organizations in international relations."
+      }
+    ],
+    "_hash": "b871a15d7ec2",
+    "_fetched": "2026-03-26T19:19:33.228211+00:00",
+    "_relevance": 46,
+    "_gs": [
+      "GS2"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "analyze",
+    "_mcqs": {
+      "q": "Consider the following statements:\n1. BRICS was established in 2001.\n2. The BRICS New Development Bank is headquartered in Shanghai.\n3. India and China are the only members of BRICS from Asia.\nWhich of the above is/are correct?",
+      "options": [
+        "1 only",
+        "1 and 2 only",
+        "2 and 3 only",
+        "1, 2 and 3"
+      ],
+      "correct": 1,
+      "explanation": "Statement 1 is incorrect: BRICS was established in 2006, not 2001. Statement 2 is correct: The BRICS New Development Bank is indeed headquartered in Shanghai. Statement 3 is incorrect: Besides India and China, Brazil, Russia, and South Africa are also members of BRICS.",
+      "trap": "Timeline Confusion"
+    }
+  },
+  {
+    "id": 2058,
+    "title": "Lapses in duty by Census officials can invite three years in",
+    "cat": "policy",
+    "upsc": false,
+    "time": "2026-03-26T19:21:45.695512+00:00",
+    "summary": "A letter from the Registrar General and Census Commissioner of India to Chief Secretaries of States highlights penalties under Section 11 of the Censu",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "The Hindu",
+    "link": "https://www.thehindu.com/news/national/lapses-in-duty-by-census-officials-can-invite-three-years-in-prison/article70789369.ece",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "48dea8edcc55",
+    "_fetched": "2026-03-26T19:21:45.695512+00:00",
+    "_relevance": 44,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 2068,
+    "title": "West Asia Conflict",
+    "cat": "economy",
+    "upsc": true,
+    "time": "2026-03-26T16:17:36.825409+00:00",
+    "summary": "The West Asia conflict is expected to strain India's FY27 fiscal math due to rising global oil and gas prices. This development is crucial for UPSC aspirants as it affects India's economic stability and fiscal policy, which are key areas of focus in the GS3 paper. The impact of the conflict on India's economy connects to the syllabus area of economic development and international trade.",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": 80,
+        "label": "Percentage of India's oil imports"
+      },
+      {
+        "val": 15,
+        "label": "Projected increase in fiscal deficit due to the conflict"
+      },
+      {
+        "val": 2027,
+        "label": "Fiscal year in which the conflict's impact is expected to be most significant"
+      }
+    ],
+    "src": "ET Economy",
+    "link": "https://economictimes.indiatimes.com/news/economy/indicators/west-asia-conflict-to-strain-indias-fy27-fiscal-math-says-icra/articleshow/129827792.cms",
+    "prelims": [
+      "The <strong>Economic Stabilisation Fund</strong> is a fiscal tool used by governments to manage economic shocks, including those caused by global conflicts. Established to provide a cushion against economic downturns, it allows for strategic spending to stabilize the economy. The fund's effectiveness is often debated among economists, with some arguing it can lead to fiscal profligacy if not managed carefully.",
+      "The <strong>West Asia conflict</strong> has significant implications for India's energy security, given the country's heavy reliance on imported oil. As the world's third-largest oil consumer, India is vulnerable to price fluctuations, which can impact its trade deficit and overall economic stability. The conflict highlights the need for diversifying energy sources and promoting renewable energy.",
+      "The <strong>fiscal deficit</strong> is a key indicator of a government's fiscal health, representing the difference between its revenue and expenditure. A high fiscal deficit can lead to inflation, higher interest rates, and reduced investor confidence. Managing the fiscal deficit is crucial for maintaining economic stability, especially during times of global uncertainty.",
+      "The <strong>subsidy regime</strong> in India is complex, with various subsidies provided for fuels, fertilizers, and food. While subsidies are intended to support vulnerable populations, they can also lead to inefficiencies and fiscal strain if not managed effectively. The government must balance the need to support citizens with the requirement to maintain fiscal discipline.",
+      "The <strong>International Monetary Fund (IMF)</strong> plays a critical role in promoting global economic stability, providing financial assistance to countries facing economic challenges. The IMF's guidance on fiscal policy and economic reform can be influential in shaping a country's economic strategy, including its response to external shocks like the West Asia conflict."
+    ],
+    "mains": {
+      "q": "Analyze the impact of the West Asia conflict on India's fiscal policy and economic stability, suggesting measures to mitigate its effects.",
+      "marks": "15 marks · GS3",
+      "directive": "analyze",
+      "hints": [
+        "Introduction (2 marks): Define fiscal policy and its role in maintaining economic stability, including the impact of external shocks like the West Asia conflict.",
+        "Body - Fiscal Deficit (3 marks): Discuss how the conflict affects India's fiscal deficit, including the impact on oil prices, subsidy payments, and government revenues.",
+        "Body - Economic Stability (3 marks): Examine the measures the government can take to maintain economic stability, such as using the Economic Stabilisation Fund, adjusting tax policies, and promoting non-oil exports.",
+        "Body - International Cooperation (3 marks): Analyze the role of international organizations like the IMF in promoting global economic stability and how India can leverage these relationships to mitigate the conflict's effects.",
+        "Conclusion (2 marks): Summarize the key challenges posed by the West Asia conflict to India's economy and suggest a balanced approach to fiscal policy that supports both economic stability and growth."
+      ]
+    },
+    "connect": [
+      {
+        "topic": "Fiscal Policy and Economic Stability",
+        "context": "The West Asia conflict highlights the importance of fiscal policy in maintaining economic stability, a key area of focus in GS3."
+      },
+      {
+        "topic": "International Trade and Balance of Payments",
+        "context": "The conflict's impact on oil prices and trade balances connects to the syllabus area of international trade and balance of payments in GS3."
+      },
+      {
+        "topic": "Energy Security and Renewable Energy",
+        "context": "The conflict underscores the need for diversifying energy sources and promoting renewable energy, which is relevant for GS3 and environmental ecology."
+      },
+      {
+        "topic": "IMF and Global Economic Governance",
+        "context": "The IMF's role in promoting global economic stability and providing financial assistance connects to the syllabus area of international organizations and global governance in GS2."
+      },
+      {
+        "topic": "Economic Development and Growth",
+        "context": "The conflict's impact on India's economic growth and development connects to the syllabus area of economic development, poverty, and growth in GS3."
+      }
+    ],
+    "_hash": "5c2c5e7407b5",
+    "_fetched": "2026-03-26T16:17:36.825409+00:00",
+    "_relevance": 69,
+    "_gs": [
+      "GS2",
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "analyze",
+    "_mcqs": {
+      "q": "Consider the following statements:\n1. The West Asia conflict is expected to increase India's fiscal deficit due to higher oil prices.\n2. The Economic Stabilisation Fund can only be used for non-defence expenditures.\n3. The IMF provides financial assistance only to countries facing balance of payments crises.\nWhich of the above is/are correct?",
+      "options": [
+        "1 only",
+        "1 and 2 only",
+        "2 and 3 only",
+        "1, 2 and 3"
+      ],
+      "correct": 0,
+      "explanation": "Statement 1 is correct: Higher oil prices due to the conflict can increase India's import bill, thereby affecting its fiscal deficit. Statement 2 is incorrect: The Economic Stabilisation Fund can be used for various purposes, including defence expenditures, to stabilize the economy. Statement 3 is incorrect: The IMF provides financial assistance to countries facing a range of economic challenges, not just balance of payments crises.",
+      "trap": "Absolute Language"
+    }
+  },
+  {
+    "id": 2069,
+    "title": "India-EU Trade Talks",
+    "cat": "economy",
+    "upsc": true,
+    "time": "2026-03-26T16:17:53.238163+00:00",
+    "summary": "India held bilateral meetings with the European Union, Russia, New Zealand, Peru, and Mexico on the sidelines of the WTO MC14 conference to advance trade agendas and resolve issues concerning trade deals. This development is crucial for UPSC as it reflects India's efforts to strengthen its global trade relationships and navigate complex geopolitical dynamics. The progress on the India-EU Free Trade Agreement is particularly significant, as it connects to the GS2 syllabus area of international relations and economic diplomacy.",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": 27,
+        "label": "Number of EU member states"
+      },
+      {
+        "val": 164,
+        "label": "Number of WTO member countries"
+      },
+      {
+        "val": 100,
+        "label": "Current bilateral trade between India and the EU (in billion USD)"
+      }
+    ],
+    "src": "ET Economy",
+    "link": "https://economictimes.indiatimes.com/news/economy/foreign-trade/india-holds-bilateral-meetings-with-eu-russia-nz-others-on-mc14-sidelines/articleshow/129829307.cms",
+    "prelims": [
+      "The <strong>World Trade Organization (WTO)</strong> was established in 1995 as the successor to the General Agreement on Tariffs and Trade (GATT), with the primary objective of promoting free trade and reducing trade barriers. The WTO has 164 member countries and is headquartered in Geneva, Switzerland. Its main function is to facilitate the implementation of trade agreements and resolve trade disputes between member countries.",
+      "The <strong>European Union (EU)</strong> is a political and economic union of 27 member states, with a combined population of over 500 million people. The EU has a single market with a GDP of over $18 trillion, making it one of the largest economies in the world. The EU's trade policy is governed by the European Commission, which negotiates trade agreements on behalf of the member states.",
+      "The <strong>India-EU Free Trade Agreement (FTA)</strong> has been under negotiation since 2007, with the aim of reducing tariffs and non-tariff barriers to trade between India and the EU. The agreement is expected to increase bilateral trade between the two economies, which currently stands at over $100 billion. The FTA will also provide Indian businesses with greater access to the EU market, which is one of the largest consumer markets in the world.",
+      "The <strong>WTO's Most Favoured Nation (MFN) principle</strong> requires member countries to treat all trading partners equally, without discriminating between them. This principle is a cornerstone of the WTO's rules-based system, which aims to promote fair and transparent trade practices. The MFN principle is also reflected in the EU's trade policy, which seeks to promote free trade and reduce trade barriers with all its trading partners.",
+      "The <strong>Make in India initiative</strong> was launched in 2014 to promote foreign investment and manufacturing in India. The initiative aims to increase India's share of global exports, which currently stands at around 2%. The Make in India initiative is also expected to create jobs and stimulate economic growth, which are critical for India's development."
+    ],
+    "mains": {
+      "q": "Analyze the significance of the India-EU Free Trade Agreement in the context of India's global trade relationships.",
+      "marks": "15 marks · GS2",
+      "directive": "analyze",
+      "hints": [
+        "Introduction (2 marks): Define the India-EU Free Trade Agreement and its objectives, and explain the significance of the agreement in the context of India's global trade relationships.",
+        "Body - Economic benefits (3 marks): Discuss the potential economic benefits of the agreement, including increased trade and investment, and job creation.",
+        "Body - Challenges (3 marks): Examine the challenges facing the agreement, including non-tariff barriers and regulatory differences, and suggest ways to address these challenges.",
+        "Body - Geopolitical implications (3 marks): Analyze the geopolitical implications of the agreement, including its impact on India's relationships with other countries, particularly China.",
+        "Conclusion (2 marks): Summarize the main points and reiterate the significance of the agreement in the context of India's global trade relationships."
+      ]
+    },
+    "connect": [
+      {
+        "topic": "WTO and its Functions",
+        "context": "The WTO plays a critical role in promoting free trade and reducing trade barriers, which is relevant to the India-EU Free Trade Agreement."
+      },
+      {
+        "topic": "EU's Trade Policy",
+        "context": "The EU's trade policy is governed by the European Commission, which negotiates trade agreements on behalf of the member states, including the India-EU Free Trade Agreement."
+      },
+      {
+        "topic": "Make in India Initiative",
+        "context": "The Make in India initiative aims to promote foreign investment and manufacturing in India, which is connected to the India-EU Free Trade Agreement."
+      },
+      {
+        "topic": "India's Foreign Trade Policy",
+        "context": "India's foreign trade policy aims to increase India's share of global exports, which is relevant to the India-EU Free Trade Agreement."
+      },
+      {
+        "topic": "Geopolitics of Trade",
+        "context": "The India-EU Free Trade Agreement has significant geopolitical implications, including its impact on India's relationships with other countries, particularly China."
+      }
+    ],
+    "_hash": "28104e43d803",
+    "_fetched": "2026-03-26T16:17:53.238163+00:00",
+    "_relevance": 55,
+    "_gs": [
+      "GS2",
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "analyze",
+    "_mcqs": {
+      "q": "Consider the following statements:\n1. The India-EU Free Trade Agreement aims to reduce tariffs and non-tariff barriers to trade between India and the EU.\n2. The agreement is expected to increase bilateral trade between India and the EU to over $200 billion.\n3. The agreement will provide Indian businesses with greater access to the EU market, which is one of the largest consumer markets in the world.\nWhich of the above is/are correct?",
+      "options": [
+        "1 only",
+        "1 and 2 only",
+        "2 and 3 only",
+        "1, 2 and 3"
+      ],
+      "correct": 0,
+      "explanation": "Statement 1 is correct: The India-EU Free Trade Agreement aims to reduce tariffs and non-tariff barriers to trade between India and the EU. Statement 2 is incorrect: The agreement is expected to increase bilateral trade, but the exact figure is not specified. Statement 3 is correct: The agreement will provide Indian businesses with greater access to the EU market.",
+      "trap": "Absolute Language"
+    }
+  },
+  {
+    "id": 2070,
+    "title": "Over 8,000 complaints on MCC violations received through cVI",
+    "cat": "india",
+    "upsc": false,
+    "time": "2026-03-26T16:20:05.573354+00:00",
+    "summary": "The app, available for download from the Election Commission of India’s web platform, allows users to upload real-time photographs, short video clips,",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "The Hindu",
+    "link": "https://www.thehindu.com/news/national/kerala/over-8000-complaints-on-mcc-violations-received-through-cvigil-app-in-kozhikode/article70787936.ece",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "8031a1ad3b74",
+    "_fetched": "2026-03-26T16:20:05.573354+00:00",
+    "_relevance": 49,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 2071,
+    "title": "Jaishankar at G7",
+    "cat": "world",
+    "upsc": true,
+    "time": "2026-03-26T16:20:22.431213+00:00",
+    "summary": "External Affairs Minister S. Jaishankar participated in the G7 meetings, signifying France's interest in closely associating India with its G7 presidency. This development is crucial for UPSC as it highlights India's growing importance in global affairs and its potential role in shaping international relations. The meeting's focus on Iran and Hormuz also connects to India's energy security and geopolitical interests, making it relevant to GS2 (Governance, Constitution, Polity, IR) and GS3 (Economy, Science & Tech, Environment, Security).",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": 7,
+        "label": "Number of countries in the G7 grouping"
+      },
+      {
+        "val": 2015,
+        "label": "Year the Iran nuclear deal was signed"
+      },
+      {
+        "val": 20,
+        "label": "% of global oil supply that passes through the Strait of Hormuz"
+      }
+    ],
+    "src": "The Hindu",
+    "link": "https://www.thehindu.com/news/national/jaishankar-in-france-for-g7-meet-west-asia-crisis-tops-agenda/article70786927.ece",
+    "prelims": [
+      "The <strong>G7</strong> is an inter-governmental political forum consisting of seven major countries, which meet annually to discuss global issues. The G7 presidency rotates among member countries, with France holding the presidency this year. The forum's discussions often influence global economic and political trends, making it essential for India to engage with the G7 to protect its national interests.",
+      "The <strong>Strait of Hormuz</strong> is a critical waterway connecting the Persian Gulf to the Gulf of Oman, through which a significant portion of the world's oil passes. Any disruption in the strait could have far-reaching consequences for global energy security, including India, which relies heavily on imported oil. The strait's strategic importance is underscored by the presence of the United States' Fifth Fleet in the region.",
+      "The <strong>BRICS</strong> grouping, comprising Brazil, Russia, India, China, and South Africa, aims to promote cooperation among its member countries in various fields, including economy, trade, and security. As the current BRICS presidency holder, India's participation in the G7 meetings highlights the country's growing influence in global affairs and its ability to engage with multiple international forums.",
+      "The <strong>Iran nuclear deal</strong>, officially known as the Joint Comprehensive Plan of Action (JCPOA), was signed in 2015 between Iran, the United States, and other major world powers. The deal's collapse has significant implications for regional and global security, including the potential for increased tensions between Iran and the United States, which could impact India's energy security and trade interests.",
+      "The <strong>Indo-Pacific</strong> region has become a critical geopolitical hotspot, with multiple countries, including the United States, China, and India, vying for influence. The region's strategic importance is underscored by its vast natural resources, including oil and gas, and its critical trade routes, such as the Strait of Malacca."
+    ],
+    "mains": {
+      "q": "Analyze the significance of India's participation in the G7 meetings, with a focus on its implications for the country's energy security and geopolitical interests.",
+      "marks": "15 marks · GS2",
+      "directive": "analyze",
+      "hints": [
+        "Introduction (2 marks): Define the G7 and its objectives, and explain India's growing importance in global affairs.",
+        "Body - Energy Security (3 marks): Discuss the critical role of the Strait of Hormuz in global energy security and the potential implications of any disruption in the strait for India's energy imports.",
+        "Body - Geopolitical Interests (3 marks): Examine the geopolitical implications of the Iran nuclear deal's collapse and its potential impact on India's trade and security interests in the region.",
+        "Body - International Relations (3 marks): Analyze the significance of the Indo-Pacific region in global geopolitics and India's potential role in shaping the region's future.",
+        "Conclusion (2 marks): Summarize the key points and emphasize the need for India to engage with multiple international forums to protect its national interests and promote its geopolitical influence."
+      ]
+    },
+    "connect": [
+      {
+        "topic": "G7 and Global Governance",
+        "context": "The G7's discussions often influence global economic and political trends, making it essential for India to engage with the G7 to protect its national interests."
+      },
+      {
+        "topic": "Energy Security and Trade",
+        "context": "The Strait of Hormuz's critical role in global energy security underscores the need for India to diversify its energy imports and promote its trade interests in the region."
+      },
+      {
+        "topic": "BRICS and Global South Cooperation",
+        "context": "The BRICS grouping's objectives align with India's goals of promoting cooperation among emerging economies and shaping the global agenda."
+      },
+      {
+        "topic": "Iran Nuclear Deal and Non-Proliferation",
+        "context": "The collapse of the Iran nuclear deal has significant implications for regional and global security, including the potential for increased tensions between Iran and the United States."
+      },
+      {
+        "topic": "Indo-Pacific and Geopolitics",
+        "context": "The Indo-Pacific region's strategic importance underscores the need for India to engage with multiple international forums and promote its geopolitical influence in the region."
+      }
+    ],
+    "_hash": "c511b44e87c3",
+    "_fetched": "2026-03-26T16:20:22.431213+00:00",
+    "_relevance": 46,
+    "_gs": [
+      "GS2",
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "analyze",
+    "_mcqs": {
+      "q": "Consider the following statements:\n1. The G7 is a grouping of seven major countries that meet annually to discuss global issues.\n2. The Strait of Hormuz is a critical waterway connecting the Persian Gulf to the Gulf of Oman.\n3. The BRICS grouping aims to promote cooperation among its member countries in various fields, including economy, trade, and security.\nWhich of the above is/are correct?",
+      "options": [
+        "1 only",
+        "1 and 2 only",
+        "2 and 3 only",
+        "1, 2 and 3"
+      ],
+      "correct": 3,
+      "explanation": "Statement 1 is correct: The G7 is indeed a grouping of seven major countries that meet annually to discuss global issues. Statement 2 is correct: The Strait of Hormuz is a critical waterway connecting the Persian Gulf to the Gulf of Oman. Statement 3 is correct: The BRICS grouping does aim to promote cooperation among its member countries in various fields, including economy, trade, and security.",
+      "trap": "Absolute Language"
+    }
+  },
+  {
+    "id": 2072,
+    "title": "15 women professionals term menstrual leave policy ‘benevole",
+    "cat": "india",
+    "upsc": false,
+    "time": "2026-03-26T16:22:34.739652+00:00",
+    "summary": "Petitioners claim that the policy creates a competitive disadvantage for women in hiring and promotions, discourages employers from placing women in l",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "The Hindu",
+    "link": "https://www.thehindu.com/news/cities/bangalore/15-women-professionals-term-menstrual-leave-policy-benevolent-sexism-move-karnataka-high-court/article70788705.ece",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "213ea2ecaa32",
+    "_fetched": "2026-03-26T16:22:34.739652+00:00",
+    "_relevance": 46,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "sc-judgment",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 2073,
+    "title": "Within a year of getting powers, MHA agency issued 290 taked",
+    "cat": "india",
+    "upsc": false,
+    "time": "2026-03-26T16:24:47.094926+00:00",
+    "summary": "According to MHA report for 2024-25, till March 31, 2025, 1,11,185 suspicious online content has been blocked under Section 79(3)(b) of IT Act. On Mar",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "The Hindu",
+    "link": "https://www.thehindu.com/news/national/within-a-year-of-getting-powers-mha-agency-issued-290-takedown-notices-a-day-on-average-for-online-content/article70788677.ece",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "24d77465fa7f",
+    "_fetched": "2026-03-26T16:24:47.094926+00:00",
+    "_relevance": 44,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 2074,
+    "title": "BJP got highest donations in 2024-25, over 10 times all othe",
+    "cat": "india",
+    "upsc": false,
+    "time": "2026-03-26T16:26:59.426692+00:00",
+    "summary": "The report focuses on donations above ₹20,000 received by the national political parties during 2024-25, as per details submitted to the Election Comm",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "The Hindu",
+    "link": "https://www.thehindu.com/news/national/bjp-got-highest-donations-in-2024-25-over-10-times-all-other-national-parties-combined-adr/article70788090.ece",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "c21750edd741",
+    "_fetched": "2026-03-26T16:26:59.426692+00:00",
+    "_relevance": 44,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 2075,
+    "title": "India has oil stocks for 60 days, LPG supplies for one month",
+    "cat": "economy",
+    "upsc": false,
+    "time": "2026-03-26T16:29:11.756437+00:00",
+    "summary": "The Ministry of Petroleum and Natural Gas said all petrol pumps across the country are adequately stocked and operating normally, with no rationing of",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "The Hindu",
+    "link": "https://www.thehindu.com/business/Economy/west-asia-conflict-india-petrol-diesel-lpg-crisis-ministry-of-petroleum-and-natural-gas/article70787555.ece",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "d87615ce326e",
+    "_fetched": "2026-03-26T16:29:11.756437+00:00",
+    "_relevance": 39,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "ministry",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 2076,
+    "title": "Iran-Israel war LIVE: U.S. proposal to end war is ‘one-sided",
+    "cat": "india",
+    "upsc": false,
+    "time": "2026-03-26T16:31:24.051589+00:00",
+    "summary": "Iran’s Parliament working on Bill to impose fees on ships in Strait of Hormuz; Israel Defence Minister says Iran Guards navy commander Alireza Tangsir",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "The Hindu International",
+    "link": "https://www.thehindu.com/news/international/iran-israel-war-live-updates-west-asia-conflict-march-26-2026/article70786492.ece",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "81f0a47606bd",
+    "_fetched": "2026-03-26T16:31:24.051589+00:00",
+    "_relevance": 33,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 2077,
+    "title": "Derogatory remarks against women: TVK chief Vijay seeks acti",
+    "cat": "tech",
+    "upsc": false,
+    "time": "2026-03-26T16:33:36.366215+00:00",
+    "summary": "Mr. Vijay visits the DGP office to submit a petition demanding action against Mr. Ponraj for speaking against women who support TVK",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "The Hindu",
+    "link": "https://www.thehindu.com/news/national/tamil-nadu/derogatory-remarks-against-women-tvk-chief-vijay-seeks-action-against-kalams-former-advisor-ponraj/article70789243.ece",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "f58290e3cd59",
+    "_fetched": "2026-03-26T16:33:36.366215+00:00",
+    "_relevance": 31,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "sc-judgment",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
   }
 ]
