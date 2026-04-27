@@ -36228,5 +36228,500 @@
     "_difficulty": 2,
     "_directive": "discuss",
     "_mcqs": []
+  },
+  {
+    "id": 2024,
+    "title": "AP Digital Health",
+    "cat": "policy",
+    "upsc": true,
+    "time": "2026-03-28T13:11:33.484595+00:00",
+    "summary": "Andhra Pradesh has launched a digital health portal for adolescents, enabling self-learning on key topics. This initiative is significant for UPSC as it relates to government policies and schemes for healthcare and education. It connects to the syllabus area of governance and policy, particularly in the context of healthcare and adolescent well-being.",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": 2005,
+        "label": "Year National Health Mission was launched"
+      },
+      {
+        "val": 2009,
+        "label": "Year Right to Education Act was enacted"
+      },
+      {
+        "val": 2000,
+        "label": "Year Information Technology Act was enacted"
+      }
+    ],
+    "src": "The Hindu",
+    "link": "https://www.thehindu.com/news/national/andhra-pradesh/andhra-pradesh-launches-digital-health-portal-for-adolescents/article70795769.ece",
+    "prelims": [
+      "The <strong>National Health Mission (NHM)</strong> was launched in 2005, aiming to improve healthcare delivery across India, with a focus on rural areas and vulnerable populations. NHM has two sub-missions: the National Rural Health Mission (NRHM) and the National Urban Health Mission (NUHM). The mission has been instrumental in improving health indicators, such as infant mortality rate and maternal mortality ratio.",
+      "The <strong>Right to Education (RTE) Act, 2009</strong>, makes it mandatory for governments to ensure that all children between 6 and 14 years receive free and compulsory education. This act has implications for the digital health portal, as it emphasizes the importance of education in healthcare and well-being. The RTE Act has been amended to include provisions for children with disabilities and those from disadvantaged backgrounds.",
+      "The <strong>Ministry of Health and Family Welfare</strong> is responsible for implementing various health schemes and programs, including the Ayushman Bharat Yojana and the Pradhan Mantri Jan Arogya Yojana (PMJAY). These schemes aim to provide universal health coverage and improve access to healthcare services, particularly for the poor and vulnerable sections of society. The ministry also oversees the implementation of the National Health Policy, 2017.",
+      "The <strong>Information Technology (IT) Act, 2000</strong>, provides a legal framework for electronic governance and digital services, including healthcare. The act has been amended to include provisions for data protection and privacy, which are critical for digital health initiatives. The IT Act has implications for the digital health portal, as it requires ensuring the security and confidentiality of personal health data.",
+      "The <strong>Constitution of India, Article 21</strong>, guarantees the right to life and personal liberty, which includes the right to health. This article has been interpreted by the Supreme Court to include the right to healthcare and access to medical facilities. The digital health portal can be seen as a step towards realizing this constitutional right, particularly for adolescents and vulnerable populations."
+    ],
+    "mains": {
+      "q": "Analyze the significance of digital health initiatives in improving healthcare outcomes for adolescents in India.",
+      "marks": "15 marks · GS2",
+      "directive": "analyze",
+      "hints": [
+        "Introduction (2 marks): Define digital health and its importance in the context of adolescent healthcare in India.",
+        "Body - Digital Health Initiatives (4 marks): Discuss the various digital health initiatives launched by the government, such as the National Digital Health Mission and the e-Sanjeevani telemedicine platform.",
+        "Body - Benefits and Challenges (4 marks): Examine the benefits of digital health initiatives, such as increased access to healthcare and improved health outcomes, as well as the challenges, such as digital divide and data privacy concerns.",
+        "Body - Role of Governance (3 marks): Analyze the role of governance in ensuring the success of digital health initiatives, including the need for effective policy frameworks and regulatory mechanisms.",
+        "Conclusion (2 marks): Summarize the significance of digital health initiatives in improving healthcare outcomes for adolescents in India and suggest ways to address the challenges and limitations."
+      ]
+    },
+    "connect": [
+      {
+        "topic": "National Health Mission (NHM)",
+        "context": "The digital health portal can be seen as an extension of NHM's efforts to improve healthcare delivery across India."
+      },
+      {
+        "topic": "Right to Education (RTE) Act, 2009",
+        "context": "The RTE Act emphasizes the importance of education in healthcare and well-being, making it relevant to the digital health portal."
+      },
+      {
+        "topic": "Information Technology (IT) Act, 2000",
+        "context": "The IT Act provides a legal framework for electronic governance and digital services, including healthcare, which is critical for the digital health portal."
+      },
+      {
+        "topic": "National Digital Health Mission",
+        "context": "The digital health portal can be seen as a step towards realizing the goals of the National Digital Health Mission, which aims to create a national digital health ecosystem."
+      },
+      {
+        "topic": "Constitution of India, Article 21",
+        "context": "The digital health portal can be seen as a step towards realizing the right to life and personal liberty, which includes the right to healthcare and access to medical facilities, as guaranteed by Article 21 of the Constitution of India."
+      }
+    ],
+    "_hash": "8b331af5eb5b",
+    "_fetched": "2026-03-28T13:11:33.484595+00:00",
+    "_relevance": 52,
+    "_gs": [
+      "GS2"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "analyze",
+    "_mcqs": {
+      "q": "Consider the following statements:\n1. The National Health Mission (NHM) was launched in 2010.\n2. The Right to Education (RTE) Act, 2009, makes education compulsory for children between 6 and 18 years.\n3. The Information Technology (IT) Act, 2000, provides a legal framework for electronic governance and digital services, including healthcare.\nWhich of the above is/are correct?",
+      "options": [
+        "1 only",
+        "2 only",
+        "3 only",
+        "1, 2 and 3"
+      ],
+      "correct": 2,
+      "explanation": "Statement 1 is incorrect: NHM was launched in 2005. Statement 2 is incorrect: RTE Act makes education compulsory for children between 6 and 14 years. Statement 3 is correct: IT Act provides a legal framework for electronic governance and digital services, including healthcare.",
+      "trap": "Wrong Year"
+    }
+  },
+  {
+    "id": 2025,
+    "title": "Kerala Election Reform",
+    "cat": "policy",
+    "upsc": true,
+    "time": "2026-03-28T13:11:50.620907+00:00",
+    "summary": "The Kerala State Election Commission has recommended expanding the postal ballot facility and introducing three additional qualifying dates for voter enrolment. This move is significant for UPSC as it relates to electoral reforms and the functioning of the Election Commission, which is a crucial aspect of Indian polity. The recommendation connects to the broader theme of electoral reforms and voter empowerment, which is a key area of focus in GS2.",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": 1950,
+        "label": "Year the Election Commission of India was established"
+      },
+      {
+        "val": 1951,
+        "label": "Year the Representation of the People Act was enacted"
+      },
+      {
+        "val": 18,
+        "label": "Minimum age for voting in India"
+      }
+    ],
+    "src": "The Hindu",
+    "link": "https://www.thehindu.com/news/national/kerala/kerala-state-election-commission-recommends-expansion-of-postal-ballot-facility-three-additional-qualifying-dates-for-voter-enrolment/article70796210.ece",
+    "prelims": [
+      "The <strong>Election Commission of India</strong> was established in 1950 under Article 324 of the Constitution, with the primary responsibility of conducting free and fair elections in the country. It has its headquarters in New Delhi and is headed by a Chief Election Commissioner and two Election Commissioners. The ECI operates under the principle of independence and impartiality, ensuring the integrity of the electoral process.",
+      "The <strong>Model Code of Conduct</strong> is a set of guidelines that regulates the behavior of political parties and candidates during elections, aiming to maintain a level playing field and prevent the misuse of power. It was first introduced in 1974 and has been revised several times since then. The MCC is enforced by the Election Commission, which has the authority to take action against violators, including the suspension of election campaigns.",
+      "The <strong>Representation of the People Act, 1951</strong> is a key legislation that governs the conduct of elections in India, outlining the qualifications and disqualifications of candidates, the procedure for voting, and the grounds for election petitions. The Act has undergone several amendments since its enactment, with significant changes aimed at strengthening the electoral process and enhancing voter participation. The RP Act is a critical component of India's electoral framework, providing the legal basis for the ECI's operations.",
+      "The <strong>Right to Vote</strong> is a fundamental right enshrined in Article 326 of the Constitution, which guarantees the right to vote to all citizens above the age of 18, subject to certain conditions. The right to vote is a cornerstone of democratic participation, enabling citizens to exercise their franchise and shape the country's governance. The ECI plays a vital role in protecting and promoting this right, ensuring that all eligible citizens can cast their votes freely and fairly.",
+      "The <strong>Electoral Reforms</strong> in India have been an ongoing process, with various initiatives aimed at strengthening the electoral system, enhancing voter participation, and reducing electoral malpractices. Some notable reforms include the introduction of the Electronic Voting Machine (EVM), the implementation of the Voter Verifiable Paper Audit Trail (VVPAT) system, and the expansion of voter registration drives. These reforms have contributed to the improvement of the electoral process, making it more transparent, accountable, and inclusive."
+    ],
+    "mains": {
+      "q": "Analyze the significance of the Election Commission of India in ensuring the integrity of the electoral process, with special reference to the role of the Chief Election Commissioner and the impact of electoral reforms on voter participation.",
+      "marks": "15 marks · GS2",
+      "directive": "analyze",
+      "hints": [
+        "Introduction (2 marks): Define the Election Commission of India, its establishment under Article 324, and its primary responsibilities in conducting free and fair elections.",
+        "Body - ECI's Role (3 marks): Discuss the ECI's role in enforcing the Model Code of Conduct, regulating campaign finance, and ensuring the security of the electoral process.",
+        "Body - Electoral Reforms (3 marks): Examine the impact of electoral reforms, such as the introduction of EVMs and VVPATs, on voter participation and the reduction of electoral malpractices.",
+        "Body - Challenges (3 marks): Analyze the challenges faced by the ECI in maintaining the integrity of the electoral process, including the influence of money power, voter apathy, and the role of social media.",
+        "Conclusion (2 marks): Summarize the significance of the ECI in ensuring the integrity of the electoral process and suggest measures to further strengthen the electoral system, including the expansion of voter registration drives and the promotion of electoral literacy."
+      ]
+    },
+    "connect": [
+      {
+        "topic": "Electoral Reforms in India",
+        "context": "The Kerala State Election Commission's recommendations for expanding the postal ballot facility and introducing additional qualifying dates for voter enrolment are part of the broader discourse on electoral reforms in India, which is a key area of focus in GS2."
+      },
+      {
+        "topic": "Model Code of Conduct",
+        "context": "The MCC is a critical component of India's electoral framework, and its enforcement by the ECI is essential for maintaining the integrity of the electoral process."
+      },
+      {
+        "topic": "Right to Vote",
+        "context": "The right to vote is a fundamental right enshrined in Article 326 of the Constitution, and the ECI plays a vital role in protecting and promoting this right."
+      },
+      {
+        "topic": "Election Commission of India",
+        "context": "The ECI is a constitutional body responsible for conducting free and fair elections in India, and its independence and impartiality are essential for maintaining the integrity of the electoral process."
+      },
+      {
+        "topic": "Representation of the People Act, 1951",
+        "context": "The RP Act is a key legislation that governs the conduct of elections in India, outlining the qualifications and disqualifications of candidates, the procedure for voting, and the grounds for election petitions."
+      }
+    ],
+    "_hash": "e7b577c219fd",
+    "_fetched": "2026-03-28T13:11:50.620907+00:00",
+    "_relevance": 44,
+    "_gs": [
+      "GS2"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "analyze",
+    "_mcqs": {
+      "q": "Consider the following statements:\n1. The Election Commission of India was established in 1950 under Article 324 of the Constitution.\n2. The Model Code of Conduct is enforced by the Ministry of Law and Justice.\n3. The Representation of the People Act, 1951, governs the conduct of elections in India.\nWhich of the above is/are correct?",
+      "options": [
+        "1 only",
+        "1 and 3 only",
+        "2 and 3 only",
+        "1, 2 and 3"
+      ],
+      "correct": 1,
+      "explanation": "Statement 1 is correct: The Election Commission of India was indeed established in 1950 under Article 324. Statement 2 is incorrect: The Model Code of Conduct is enforced by the Election Commission of India, not the Ministry of Law and Justice. Statement 3 is correct: The Representation of the People Act, 1951, does govern the conduct of elections in India.",
+      "trap": "Wrong Ministry"
+    }
+  },
+  {
+    "id": 2026,
+    "title": "India's Oil Reserves",
+    "cat": "economy",
+    "upsc": true,
+    "time": "2026-03-28T13:12:07.599232+00:00",
+    "summary": "India has urged for safe maritime movement through the Strait of Hormuz amid rising tensions in West Asia, emphasizing international law adherence. This development is crucial for UPSC as it connects to India's energy security and geopolitical relations, particularly in the context of international relations and diplomacy. The government's reassurance on fuel supplies highlights the importance of strategic planning and crisis management in the energy sector.",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": 20,
+        "label": "% of world's oil passing through the Strait of Hormuz"
+      },
+      {
+        "val": 5,
+        "label": "Number of days of oil reserves India has, as per the article"
+      },
+      {
+        "val": 70,
+        "label": "% of India's oil imports that come from West Asia"
+      }
+    ],
+    "src": "LiveMint",
+    "link": "https://www.livemint.com/news/india/fact-check-does-india-have-only-5-10-days-of-oil-reserves-left-amid-middle-east-conflict-govt-clarifies-11774693726992.html",
+    "prelims": [
+      "The <strong>Strait of Hormuz</strong> is a critical maritime chokepoint, with approximately 20% of the world's oil passing through it, making it a significant geopolitical flashpoint. India's dependence on imported oil necessitates a stable and secure supply chain. The Strait's location between the Persian Gulf and the Gulf of Oman underscores its strategic importance.",
+      "India's <strong>energy security</strong> is heavily reliant on imported crude oil, with the country aiming to reduce its dependence on fossil fuels through initiatives like the National Solar Mission and the Pradhan Mantri Ujjwala Yojana. The government has set ambitious targets for renewable energy, recognizing the need to diversify its energy mix. This shift towards cleaner energy sources is expected to mitigate the impact of geopolitical tensions on India's energy sector.",
+      "The <strong>International Maritime Organization (IMO)</strong> plays a crucial role in regulating maritime trade, including the safety and security of oil tankers. The IMO's conventions, such as MARPOL and SOLAS, aim to prevent pollution and ensure the safe operation of ships. India's compliance with these international regulations is essential for maintaining the integrity of global maritime trade.",
+      "The <strong>Ministry of Petroleum and Natural Gas</strong> is responsible for formulating policies to ensure India's energy security, including the development of strategic oil reserves. The ministry's initiatives, such as the Indian Strategic Petroleum Reserves Ltd., aim to enhance the country's energy storage capacity and reduce its reliance on imported oil. This strategic planning is critical in the face of geopolitical uncertainties.",
+      "The <strong>Geopolitics of West Asia</strong> is complex, with multiple nations vying for influence in the region. India's diplomatic efforts, including its engagement with the Organization of the Petroleum Exporting Countries (OPEC), are geared towards securing stable oil supplies and promoting regional stability. The country's relationships with key players in the region, such as Iran and Saudi Arabia, are crucial in this context."
+    ],
+    "mains": {
+      "q": "Analyze the implications of geopolitical tensions in West Asia on India's energy security, and discuss the measures that can be taken to mitigate these risks.",
+      "marks": "15 marks · GS2",
+      "directive": "analyze",
+      "hints": [
+        "Introduction (2 marks): Define energy security and its importance for India's economic growth, highlighting the country's dependence on imported oil.",
+        "Body - Geopolitical Risks (3 marks): Discuss the potential impact of conflicts in West Asia on global oil prices and India's energy imports, citing historical examples such as the Iran-Iraq War.",
+        "Body - Strategic Measures (4 marks): Examine the role of strategic oil reserves, diversification of energy sources, and diplomatic engagement in ensuring India's energy security, referencing initiatives like the National Solar Mission.",
+        "Body - International Cooperation (3 marks): Analyze the significance of international organizations like the International Energy Agency (IEA) and OPEC in promoting global energy stability, and discuss India's participation in these forums.",
+        "Conclusion (3 marks): Summarize the key challenges and opportunities for India in maintaining its energy security amidst geopolitical uncertainties, and suggest a comprehensive approach to addressing these challenges."
+      ]
+    },
+    "connect": [
+      {
+        "topic": "Energy Security and Strategic Oil Reserves",
+        "context": "This topic connects to the story as India's energy security is heavily reliant on imported oil, and the development of strategic oil reserves is a key measure to mitigate risks."
+      },
+      {
+        "topic": "Geopolitics of West Asia and Its Impact on Global Oil Prices",
+        "context": "The geopolitical tensions in West Asia have a direct impact on global oil prices, affecting India's energy imports and emphasizing the need for diplomatic engagement in the region."
+      },
+      {
+        "topic": "International Maritime Organization (IMO) and Maritime Security",
+        "context": "The IMO plays a crucial role in regulating maritime trade, including the safety and security of oil tankers, which is essential for India's energy security."
+      },
+      {
+        "topic": "Diversification of Energy Sources and Renewable Energy",
+        "context": "The story highlights the importance of diversifying India's energy sources, including the development of renewable energy, to reduce dependence on fossil fuels and enhance energy security."
+      },
+      {
+        "topic": "India's Foreign Policy and Diplomatic Relations with West Asian Countries",
+        "context": "India's diplomatic efforts in West Asia are critical for securing stable oil supplies and promoting regional stability, underscoring the significance of foreign policy in ensuring energy security."
+      }
+    ],
+    "_hash": "f84c5c5a695f",
+    "_fetched": "2026-03-28T13:12:07.599232+00:00",
+    "_relevance": 39,
+    "_gs": [
+      "GS2",
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "analyze",
+    "_mcqs": {
+      "q": "Consider the following statements:\n1. The Strait of Hormuz is a critical maritime chokepoint through which approximately 20% of the world's oil passes.\n2. India has sufficient oil reserves to last for more than a year in the event of a global supply disruption.\n3. The International Maritime Organization (IMO) is responsible for regulating maritime trade, including the safety and security of oil tankers.\nWhich of the above is/are correct?",
+      "options": [
+        "1 only",
+        "1 and 3 only",
+        "2 and 3 only",
+        "1, 2 and 3"
+      ],
+      "correct": 1,
+      "explanation": "Statement 1 is correct: The Strait of Hormuz is indeed a critical maritime chokepoint. Statement 2 is incorrect: India's oil reserves are not sufficient to last for more than a year. Statement 3 is correct: The IMO does play a crucial role in regulating maritime trade.",
+      "trap": "Absolute Language"
+    }
+  },
+  {
+    "id": 2027,
+    "title": "MEA denies Elon Musk joined Modi-Trump call regarding West A",
+    "cat": "india",
+    "upsc": false,
+    "time": "2026-03-28T13:14:20.238332+00:00",
+    "summary": "India's MEA confirmed that Prime Minister Modi and US President Trump had a private call, refuting claims of Elon Musk's participation. They discussed",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "LiveMint",
+    "link": "https://www.livemint.com/news/india/mea-denies-elon-musk-joined-modi-trump-call-regarding-west-asia-war-refutes-new-york-times-report-11774697382855.html",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "a32122d3ee7a",
+    "_fetched": "2026-03-28T13:14:20.238332+00:00",
+    "_relevance": 39,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 2028,
+    "title": "Noida International Airport Inauguration Highlights: ‘India ",
+    "cat": "india",
+    "upsc": false,
+    "time": "2026-03-28T13:16:32.746385+00:00",
+    "summary": "Noida Jewar International Airport Inauguration Highlights: Prime Minister Narendra Modi inaugurated Phase I of Noida International Airport at Jewar on",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "LiveMint",
+    "link": "https://www.livemint.com/news/india/noida-international-airport-inauguration-live-pm-modi-flight-charges-traffic-advisory-march-28-yogi-adityanath-11774679268951.html",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "53d53908cd04",
+    "_fetched": "2026-03-28T13:16:32.746385+00:00",
+    "_relevance": 37,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 2029,
+    "title": "Dalal Street Week Ahead: Avoid aggressive long positions; fo",
+    "cat": "economy",
+    "upsc": false,
+    "time": "2026-03-28T13:18:45.368226+00:00",
+    "summary": "Indian markets experienced a significant downturn this week, with the Nifty losing over 1.28% and breaching key support levels. Volatility surged as t",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "Economic Times",
+    "link": "https://economictimes.indiatimes.com/markets/stocks/news/dalal-street-week-ahead-avoid-aggressive-long-positions-focus-on-capital-preservation/articleshow/129862281.cms",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "91883b4d354b",
+    "_fetched": "2026-03-28T13:18:45.368226+00:00",
+    "_relevance": 34,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 2030,
+    "title": "Cheyutha Pension Scheme",
+    "cat": "policy",
+    "upsc": true,
+    "time": "2026-03-28T13:20:01.982512+00:00",
+    "summary": "The Panchayat Raj and Rural Development Minister defended the Cheyutha pension scheme in Telangana, stating that nearly 1 lakh new pensions have been sanctioned. This development is crucial for UPSC as it highlights the government's efforts to support vulnerable populations, particularly in the context of social welfare schemes. The scheme's implementation connects to the broader topic of governance and policy-making in India.",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": 1995,
+        "label": "Year the National Social Assistance Programme (NSAP) was launched"
+      },
+      {
+        "val": 2009,
+        "label": "Year the Public Financial Management System (PFMS) was introduced"
+      }
+    ],
+    "src": "The Hindu",
+    "link": "https://www.thehindu.com/news/national/telangana/minister-seethakka-defends-cheyutha-pension-scheme-in-telangana-rejects-oppositions-claims/article70795823.ece",
+    "prelims": [
+      "The <strong>National Social Assistance Programme (NSAP)</strong> is a centrally sponsored scheme that provides financial assistance to the elderly, disabled, and widows. It was launched in 1995 and has undergone several revisions to expand its coverage and benefits. NSAP is a key component of India's social security framework, aiming to support the most vulnerable sections of society.",
+      "The <strong>Right to Social Security</strong> is enshrined in the Directive Principles of State Policy (DPSP) under <strong>Article 41</strong> of the Indian Constitution. This article directs the state to make effective provision for securing the right to social security, particularly for the weaker sections of society. Understanding the constitutional basis of social security is essential for analyzing government schemes like Cheyutha.",
+      "The <strong>Ministry of Rural Development</strong> plays a crucial role in implementing social welfare schemes, including the Cheyutha pension scheme. Established in 1999, the ministry is responsible for formulating and implementing policies aimed at promoting rural development and social inclusion. Its initiatives focus on poverty alleviation, employment generation, and improving the quality of life in rural areas.",
+      "The <strong>Public Financial Management System (PFMS)</strong> is used by the government to monitor and track the flow of funds for various schemes, including social welfare programs. Introduced in 2009, PFMS aims to ensure transparency, efficiency, and accountability in public financial management. It helps in reducing delays and leakages, thereby ensuring that benefits reach the intended beneficiaries.",
+      "The <strong>State Commission for Protection of Child Rights (SCPCR)</strong> and similar bodies at the state level are mandated to protect and promote the rights of children, including those related to social security and welfare. These commissions are established under the <strong>Commissions for Protection of Child Rights Act, 2005</strong>, and they play a vital role in overseeing the implementation of laws and policies affecting children."
+    ],
+    "mains": {
+      "q": "Critically examine the role of social welfare schemes like the Cheyutha pension scheme in promoting social security and reducing poverty in India.",
+      "marks": "15 marks · GS2",
+      "directive": "critically_examine",
+      "hints": [
+        "Introduction (2 marks): Define social welfare schemes and their importance in the Indian context, highlighting the Cheyutha pension scheme as a case study.",
+        "Body - Scheme Details (3 marks): Discuss the key features of the Cheyutha pension scheme, including its eligibility criteria, benefits, and implementation mechanism.",
+        "Body - Impact Analysis (3 marks): Analyze the potential impact of the Cheyutha pension scheme on reducing poverty and promoting social security among vulnerable populations, considering both positive outcomes and challenges.",
+        "Body - Comparative Analysis (3 marks): Compare the Cheyutha pension scheme with other social welfare schemes in India, such as the National Social Assistance Programme (NSAP), to identify best practices and areas for improvement.",
+        "Conclusion (2 marks): Summarize the significance of social welfare schemes like Cheyutha in India's development trajectory, emphasizing the need for effective implementation and continuous evaluation to ensure their success."
+      ]
+    },
+    "connect": [
+      {
+        "topic": "Social Welfare Schemes",
+        "context": "The Cheyutha pension scheme is part of India's broader social welfare framework, which includes schemes like NSAP and others aimed at supporting vulnerable populations."
+      },
+      {
+        "topic": "Constitutional Provisions for Social Security",
+        "context": "Understanding the constitutional basis of social security, as enshrined in the Directive Principles of State Policy, is crucial for analyzing government schemes like Cheyutha."
+      },
+      {
+        "topic": "Public Financial Management",
+        "context": "The implementation of social welfare schemes like Cheyutha involves effective public financial management, including the use of systems like PFMS to track fund allocation and utilization."
+      },
+      {
+        "topic": "Rural Development and Poverty Alleviation",
+        "context": "Schemes like Cheyutha are integral to India's efforts to promote rural development and alleviate poverty, highlighting the interconnectedness of social welfare and economic development goals."
+      },
+      {
+        "topic": "Governance and Policy-Making",
+        "context": "The design, implementation, and evaluation of social welfare schemes like Cheyutha reflect the complexities of governance and policy-making in India, including the roles of various ministries and state governments."
+      }
+    ],
+    "_hash": "89a74199cf87",
+    "_fetched": "2026-03-28T13:20:01.982512+00:00",
+    "_relevance": 33,
+    "_gs": [
+      "GS2"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "critically_examine",
+    "_mcqs": {
+      "q": "Consider the following statements:\n1. The Cheyutha pension scheme is a centrally sponsored scheme.\n2. The scheme is implemented by the Ministry of Social Justice and Empowerment.\n3. The scheme provides financial assistance to the elderly, disabled, and widows.\nWhich of the above is/are correct?",
+      "options": [
+        "1 only",
+        "1 and 3 only",
+        "2 and 3 only",
+        "1, 2 and 3"
+      ],
+      "correct": 1,
+      "explanation": "Statement 1 is correct: The Cheyutha pension scheme is indeed a state-specific scheme but can be considered in the context of broader social welfare initiatives. Statement 2 is INCORRECT: The scheme is more closely associated with the Ministry of Rural Development or similar state-level departments. Statement 3 is correct: The scheme does provide financial assistance to vulnerable populations, including the elderly, disabled, and possibly widows, depending on the specific eligibility criteria.",
+      "trap": "Wrong Ministry"
+    }
+  },
+  {
+    "id": 2031,
+    "title": "Jaishankar meets French President Macron on sidelines of G7 ",
+    "cat": "world",
+    "upsc": false,
+    "time": "2026-03-28T13:22:14.486345+00:00",
+    "summary": "While India is not a G7 member, it has been invited as a partner country by France, the current chair of the powerful bloc",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "The Hindu",
+    "link": "https://www.thehindu.com/news/national/jaishankar-meets-french-president-macron-on-sidelines-of-g7-summit/article70796074.ece",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "09d5ffaac1b6",
+    "_fetched": "2026-03-28T13:22:14.486345+00:00",
+    "_relevance": 33,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 2032,
+    "title": "Sharp divide over e-commerce moratorium on customs duties in",
+    "cat": "india",
+    "upsc": false,
+    "time": "2026-03-28T13:24:27.037607+00:00",
+    "summary": "A significant rift has emerged at the WTO ministerial conference in Cameroon over the e-commerce moratorium on customs duties, with the US advocating ",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "ET Economy",
+    "link": "https://economictimes.indiatimes.com/news/economy/foreign-trade/sharp-divide-over-e-commerce-moratorium-on-customs-duties-in-wto-gtri/articleshow/129863237.cms",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "333b1050fa62",
+    "_fetched": "2026-03-28T13:24:27.037607+00:00",
+    "_relevance": 33,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
   }
 ]
