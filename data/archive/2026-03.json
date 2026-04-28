@@ -38784,5 +38784,530 @@
       "explanation": "Statement 1 is correct: India's energy assistance to Sri Lanka is part of its regional energy security strategy. Statement 2 is incorrect: The energy assistance is not solely aimed at promoting economic development in Sri Lanka. Statement 3 is correct: The energy assistance has significant geopolitical implications for the region.",
       "trap": "Absolute Language"
     }
+  },
+  {
+    "id": 2074,
+    "title": "Fuel Supply Measures",
+    "cat": "economy",
+    "upsc": true,
+    "time": "2026-03-29T13:12:21.355698+00:00",
+    "summary": "The government has cut excise duty on petrol and diesel by ₹10 per litre and imposed export levies of ₹21.50 per litre on diesel and ₹29.50 per litre on aviation turbine fuel (ATF) to boost domestic availability. This move is significant for UPSC as it relates to the government's economic policies and their impact on the domestic market. It also connects to the syllabus area of economic development and energy security.",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": 10,
+        "label": "Reduction in excise duty on petrol and diesel (₹ per litre)"
+      },
+      {
+        "val": 21.5,
+        "label": "Export levy on diesel (₹ per litre)"
+      },
+      {
+        "val": 29.5,
+        "label": "Export levy on aviation turbine fuel (ATF) (₹ per litre)"
+      }
+    ],
+    "src": "The Hindu",
+    "link": "https://www.thehindu.com/news/national/government-ramps-up-measures-to-ensure-fuel-lpg-supplies-amid-hormuz-disruption/article70799281.ece",
+    "prelims": [
+      "The <strong>National Oil Companies</strong> in India, such as Indian Oil Corporation, Bharat Petroleum, and Hindustan Petroleum, play a crucial role in the supply and distribution of petroleum products. These companies are responsible for maintaining the country's energy security and are often involved in the implementation of government policies related to the energy sector.",
+      "The <strong>Petroleum and Natural Gas Regulatory Board (PNGRB)</strong> is the primary regulator of the petroleum and natural gas industry in India, established under the Petroleum and Natural Gas Regulatory Board Act, 2006. The PNGRB is responsible for promoting competition, ensuring consumer protection, and regulating the transportation, distribution, and supply of petroleum and natural gas.",
+      "The <strong>Essential Commodities Act, 1955</strong> is a legislation that enables the government to regulate the production, distribution, and supply of essential commodities, including petroleum products. The Act gives the government the power to control the prices of essential commodities and to prevent their hoarding and black marketing.",
+      "The <strong>Energy Security</strong> of a country is critical to its economic development and national security. India, being a large consumer of energy, needs to ensure a stable and secure supply of energy to meet its growing demands. The government's policies and initiatives, such as the promotion of renewable energy sources and the diversification of energy imports, are aimed at enhancing the country's energy security.",
+      "The <strong>International Energy Agency (IEA)</strong> is an autonomous organization that works to ensure the global energy system is secure, sustainable, and environmentally friendly. The IEA provides a platform for its member countries to share knowledge, coordinate energy policies, and address global energy challenges."
+    ],
+    "mains": {
+      "q": "Analyze the impact of the government's economic policies on the domestic energy market, with a focus on the recent measures to boost fuel and LPG supplies.",
+      "marks": "15 marks · GS3",
+      "directive": "analyze",
+      "hints": [
+        "Introduction (2 marks): Define the key terms related to the energy market, such as energy security, fuel supply, and LPG distribution.",
+        "Body - Economic policies (3 marks): Discuss the government's economic policies, such as the reduction of excise duty on petrol and diesel, and their impact on the domestic energy market.",
+        "Body - Energy security (3 marks): Examine the concept of energy security and its significance for India's economic development and national security.",
+        "Body - Regulatory framework (3 marks): Analyze the role of regulatory bodies, such as the PNGRB, in ensuring the smooth functioning of the energy market.",
+        "Conclusion (2 marks): Summarize the main points and suggest measures to enhance the country's energy security and promote sustainable development."
+      ]
+    },
+    "connect": [
+      {
+        "topic": "Energy Security",
+        "context": "The government's measures to boost fuel and LPG supplies are aimed at enhancing the country's energy security."
+      },
+      {
+        "topic": "Petroleum and Natural Gas Regulatory Board (PNGRB)",
+        "context": "The PNGRB plays a crucial role in regulating the energy market and ensuring the smooth functioning of the supply chain."
+      },
+      {
+        "topic": "Essential Commodities Act, 1955",
+        "context": "The Act enables the government to regulate the production, distribution, and supply of essential commodities, including petroleum products."
+      },
+      {
+        "topic": "International Energy Agency (IEA)",
+        "context": "The IEA provides a platform for its member countries to share knowledge and coordinate energy policies to address global energy challenges."
+      },
+      {
+        "topic": "Renewable Energy Sources",
+        "context": "The promotion of renewable energy sources is critical to reducing the country's dependence on fossil fuels and enhancing its energy security."
+      }
+    ],
+    "_hash": "0703030da370",
+    "_fetched": "2026-03-29T13:12:21.355698+00:00",
+    "_relevance": 62,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "analyze",
+    "_mcqs": {
+      "q": "Consider the following statements:\n1. The government's reduction of excise duty on petrol and diesel is aimed at increasing the domestic supply of these fuels.\n2. The Petroleum and Natural Gas Regulatory Board (PNGRB) is responsible for regulating the prices of petroleum products in India.\n3. The Energy Security of a country is critical to its economic development and national security.\nWhich of the above is/are correct?",
+      "options": [
+        "1 only",
+        "1 and 2 only",
+        "2 and 3 only",
+        "1, 2 and 3"
+      ],
+      "correct": 3,
+      "explanation": "Statement 1 is correct: The government's reduction of excise duty on petrol and diesel is aimed at increasing the domestic supply of these fuels. Statement 2 is incorrect: The PNGRB is responsible for regulating the transportation, distribution, and supply of petroleum and natural gas, but not the prices. Statement 3 is correct: Energy Security is critical to a country's economic development and national security.",
+      "trap": "Wrong Ministry"
+    }
+  },
+  {
+    "id": 2075,
+    "title": "MSME Relief",
+    "cat": "economy",
+    "upsc": true,
+    "time": "2026-03-29T13:12:37.271783+00:00",
+    "summary": "The Indian government is considering additional economic relief measures for vulnerable sectors and MSMEs due to the ongoing West Asia crisis. This move is significant for UPSC as it highlights the government's efforts to mitigate the impact of global events on the domestic economy. The decision connects to the syllabus area of economic development and governance.",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": 20,
+        "label": "Minimum percentage of annual procurement to be made from MSMEs under the Public Procurement Policy"
+      },
+      {
+        "val": 2006,
+        "label": "Year the Micro, Small and Medium Enterprises Development Act was enacted"
+      },
+      {
+        "val": 2012,
+        "label": "Year the Public Procurement Policy for Micro and Small Enterprises (MSMEs) Order was issued"
+      }
+    ],
+    "src": "ET Economy",
+    "link": "https://economictimes.indiatimes.com/news/economy/policy/government-plans-more-relief-packages-for-msmes-amid-west-asia-crisis/articleshow/129880264.cms",
+    "prelims": [
+      "The <strong>Micro, Small and Medium Enterprises Development Act, 2006</strong> defines MSMEs and provides a framework for their development. It has been amended several times to enhance the competitiveness of MSMEs. The Act also establishes the <strong>National Board for Micro, Small and Medium Enterprises (NBMSME)</strong> to promote MSMEs.",
+      "The <strong>Ministry of Micro, Small and Medium Enterprises (MoMSME)</strong> is responsible for the promotion and development of MSMEs in India. It was established in 2007 and has been instrumental in implementing various schemes for MSMEs, including the <strong>Prime Minister's Employment Generation Programme (PMEGP)</strong>.",
+      "The <strong>Public Procurement Policy for Micro and Small Enterprises (MSMEs) Order, 2012</strong> aims to promote the procurement of goods and services from MSMEs by central government ministries and departments. It requires a minimum of 20% of annual procurement to be made from MSMEs. The policy also provides for a <strong>Margin of Preference</strong> to MSMEs in government procurement.",
+      "The <strong>West Asia crisis</strong> has significant implications for India's economy, particularly in terms of <strong>crude oil prices</strong> and <strong>global trade</strong>. India is a major importer of crude oil, and any disruption in supply can have a significant impact on the economy. The government's decision to provide relief to MSMEs is aimed at mitigating the impact of the crisis on the domestic economy.",
+      "The <strong>Excise Duty</strong> on fuel is a significant component of the government's revenue. The government's decision to cut excise duty on fuel is aimed at reducing the burden on consumers and promoting economic growth. The move is also expected to have a positive impact on <strong>inflation</strong> and <strong>economic development</strong>."
+    ],
+    "mains": {
+      "q": "Analyze the impact of the West Asia crisis on India's economy, with a focus on the MSME sector.",
+      "marks": "15 marks · GS3",
+      "directive": "analyze",
+      "hints": [
+        "Introduction (2 marks): Define the West Asia crisis and its implications for India's economy, including the impact on crude oil prices and global trade.",
+        "Body - Economic Impact (4 marks): Discuss the impact of the crisis on India's economy, including the effects on inflation, economic growth, and the MSME sector.",
+        "Body - Government Response (4 marks): Analyze the government's response to the crisis, including the provision of relief to MSMEs and the reduction of excise duty on fuel.",
+        "Body - Challenges and Opportunities (3 marks): Discuss the challenges and opportunities arising from the crisis, including the potential for India to increase its exports and promote economic growth.",
+        "Conclusion (2 marks): Summarize the main points and provide a balanced view of the impact of the West Asia crisis on India's economy and the MSME sector."
+      ]
+    },
+    "connect": [
+      {
+        "topic": "Economic Development and Governance",
+        "context": "The government's decision to provide relief to MSMEs is a key aspect of economic development and governance, highlighting the need for effective policies to promote economic growth and stability."
+      },
+      {
+        "topic": "Global Trade and Commerce",
+        "context": "The West Asia crisis has significant implications for global trade and commerce, and India's response to the crisis will have a major impact on its trade relationships with other countries."
+      },
+      {
+        "topic": "Inflation and Monetary Policy",
+        "context": "The crisis has led to a surge in crude oil prices, which can have a significant impact on inflation and monetary policy in India, making it essential to understand the relationships between these economic variables."
+      },
+      {
+        "topic": "MSME Development and Promotion",
+        "context": "The government's efforts to promote MSMEs are critical to the development of the sector, and understanding the various schemes and policies in place is essential for promoting economic growth and employment."
+      },
+      {
+        "topic": "International Relations and Geopolitics",
+        "context": "The West Asia crisis has significant geopolitical implications, and India's response to the crisis will be influenced by its relationships with other countries in the region, making it essential to understand the complex web of international relations and geopolitics at play."
+      }
+    ],
+    "_hash": "558a488a5a45",
+    "_fetched": "2026-03-29T13:12:37.271783+00:00",
+    "_relevance": 60,
+    "_gs": [
+      "GS2",
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "analyze",
+    "_mcqs": {
+      "q": "Consider the following statements:\n1. The Micro, Small and Medium Enterprises Development Act, 2006 defines MSMEs and provides a framework for their development.\n2. The Ministry of Micro, Small and Medium Enterprises (MoMSME) is responsible for the promotion and development of MSMEs in India.\n3. The Public Procurement Policy for Micro and Small Enterprises (MSMEs) Order, 2012 requires a minimum of 30% of annual procurement to be made from MSMEs.\nWhich of the above is/are correct?",
+      "options": [
+        "1 only",
+        "1 and 2 only",
+        "2 and 3 only",
+        "1, 2 and 3"
+      ],
+      "correct": 1,
+      "explanation": "Statement 1 is correct: The Micro, Small and Medium Enterprises Development Act, 2006 defines MSMEs and provides a framework for their development. Statement 2 is correct: The Ministry of Micro, Small and Medium Enterprises (MoMSME) is responsible for the promotion and development of MSMEs in India. Statement 3 is incorrect: The Public Procurement Policy for Micro and Small Enterprises (MSMEs) Order, 2012 requires a minimum of 20% of annual procurement to be made from MSMEs, not 30%.",
+      "trap": "Absolute Language"
+    }
+  },
+  {
+    "id": 2076,
+    "title": "Fertiliser Stock",
+    "cat": "economy",
+    "upsc": true,
+    "time": "2026-03-29T13:12:52.983725+00:00",
+    "summary": "India's fertiliser supply remains steady despite the West Asia crisis. This is significant for UPSC as it relates to India's food security and economic development. The government's contingency plans and diversified raw material imports have ensured continued availability, which is crucial for the upcoming farming season.",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": 1955,
+        "label": "Year the Essential Commodities Act was enacted"
+      },
+      {
+        "val": 80,
+        "label": "% of fertiliser imports from international markets"
+      }
+    ],
+    "src": "ET Economy",
+    "link": "https://economictimes.indiatimes.com/news/economy/agriculture/adequate-fertiliser-stock-available-farmers-will-not-face-shortage-despite-israel-iran-war-iffco/articleshow/129878377.cms",
+    "prelims": [
+      "India's <strong>fertiliser subsidy</strong> is a significant component of its agricultural support, with the government spending over ₹1.5 lakh crore annually. The subsidy is provided to farmers through various schemes, including the <strong>Urea Subsidy Scheme</strong> and the <strong>Di-ammonium Phosphate (DAP) Subsidy Scheme</strong>. These schemes aim to make fertilisers affordable for farmers, ensuring food security and supporting the agricultural sector.",
+      "The <strong>Essential Commodities Act, 1955</strong>, regulates the production, distribution, and supply of essential commodities, including fertilisers. The Act empowers the central government to control the production, distribution, and supply of essential commodities, ensuring their availability at fair prices. This is particularly relevant in times of crisis, such as the current West Asia conflict.",
+      "The <strong>Ministry of Chemicals and Fertilisers</strong> is responsible for the development and implementation of policies related to the fertiliser sector. The Ministry works to ensure the availability of fertilisers at affordable prices, while also promoting the use of organic and bio-fertilisers. This is in line with the government's goal of promoting sustainable agriculture and reducing the country's dependence on chemical fertilisers.",
+      "India's <strong>fertiliser imports</strong> are significant, with the country relying heavily on international markets to meet its fertiliser needs. The government has taken steps to diversify its fertiliser imports, reducing its dependence on any one country or region. This has helped to mitigate the impact of the West Asia crisis on India's fertiliser supply.",
+      "The <strong>National Policy on Fertilisers</strong> aims to promote the use of fertilisers in a balanced and efficient manner, while also reducing the country's dependence on chemical fertilisers. The policy encourages the use of organic and bio-fertilisers, as well as the development of new, more efficient fertiliser technologies."
+    ],
+    "mains": {
+      "q": "Analyze the impact of the West Asia crisis on India's fertiliser supply, and discuss the government's response to ensure continued availability.",
+      "marks": "15 marks · GS3",
+      "directive": "analyze",
+      "hints": [
+        "Introduction (2 marks): Define the significance of fertilisers in India's agricultural sector and the potential impact of the West Asia crisis on fertiliser supply.",
+        "Body - Fertiliser supply chain (3 marks): Explain the current fertiliser supply chain in India, including production, distribution, and imports. Discuss the challenges posed by the West Asia crisis and the government's response to mitigate these challenges.",
+        "Body - Government policies (3 marks): Analyze the government's policies and initiatives to promote the use of fertilisers in a balanced and efficient manner, such as the National Policy on Fertilisers and the Urea Subsidy Scheme.",
+        "Body - International cooperation (3 marks): Discuss the role of international cooperation in ensuring continued fertiliser availability, including India's relationships with fertiliser-exporting countries and international organisations.",
+        "Conclusion (2 marks): Summarize the key points and reiterate the importance of ensuring continued fertiliser availability for India's agricultural sector and food security."
+      ]
+    },
+    "connect": [
+      {
+        "topic": "Agricultural Subsidies",
+        "context": "Fertiliser subsidies are a significant component of India's agricultural support, ensuring food security and supporting the agricultural sector."
+      },
+      {
+        "topic": "International Trade",
+        "context": "India's fertiliser imports are significant, and the country relies heavily on international markets to meet its fertiliser needs."
+      },
+      {
+        "topic": "Sustainable Agriculture",
+        "context": "The government's policies and initiatives aim to promote the use of fertilisers in a balanced and efficient manner, reducing the country's dependence on chemical fertilisers."
+      },
+      {
+        "topic": "Food Security",
+        "context": "Ensuring continued fertiliser availability is crucial for India's food security, as fertilisers play a critical role in agricultural production."
+      },
+      {
+        "topic": "Economic Development",
+        "context": "The fertiliser sector is significant for India's economic development, with the government spending over ₹1.5 lakh crore annually on fertiliser subsidies."
+      }
+    ],
+    "_hash": "4bcc7b90ed70",
+    "_fetched": "2026-03-29T13:12:52.983725+00:00",
+    "_relevance": 60,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "analyze",
+    "_mcqs": {
+      "q": "Consider the following statements:\n1. The Essential Commodities Act, 1955, regulates the production, distribution, and supply of fertilisers.\n2. The Ministry of Chemicals and Fertilisers is responsible for the development and implementation of policies related to the fertiliser sector.\n3. India is self-sufficient in fertiliser production and does not rely on imports.\nWhich of the above is/are correct?",
+      "options": [
+        "1 only",
+        "1 and 2 only",
+        "2 and 3 only",
+        "1, 2 and 3"
+      ],
+      "correct": 1,
+      "explanation": "Statement 1 is correct: The Essential Commodities Act, 1955, indeed regulates the production, distribution, and supply of fertilisers. Statement 2 is correct: The Ministry of Chemicals and Fertilisers is responsible for the development and implementation of policies related to the fertiliser sector. Statement 3 is incorrect: India relies heavily on fertiliser imports to meet its needs.",
+      "trap": "Absolute Language"
+    }
+  },
+  {
+    "id": 2077,
+    "title": "Tamil Nadu Assembly election 2026: Still waiting for your Vo",
+    "cat": "india",
+    "upsc": false,
+    "time": "2026-03-29T13:15:05.365550+00:00",
+    "summary": "If your name is on the electoral roll and your mobile number is registered with the Election Commission of India and linked to your EPIC, you can down",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "The Hindu",
+    "link": "https://www.thehindu.com/elections/tamil-nadu-assembly/tamil-nadu-assembly-election-2026-still-waiting-for-your-voter-id-download-it-yourself-online/article70799264.ece",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "673a54419efd",
+    "_fetched": "2026-03-29T13:15:05.365550+00:00",
+    "_relevance": 41,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 2078,
+    "title": "Ahead of market: 10 things that will decide stock market act",
+    "cat": "economy",
+    "upsc": false,
+    "time": "2026-03-29T13:17:17.720434+00:00",
+    "summary": "Indian markets ended a two-day rally as Iran-US tensions and elevated energy prices weighed on investor sentiment. Nifty fell 2.09% to 22,819.60, Sens",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "Economic Times",
+    "link": "https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-stock-market-action-on-monday/articleshow/129879482.cms",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "f6d79c94ac73",
+    "_fetched": "2026-03-29T13:17:17.720434+00:00",
+    "_relevance": 40,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 2079,
+    "title": "Amit Shah says curbing ‘infiltration not enough’, every ille",
+    "cat": "economy",
+    "upsc": false,
+    "time": "2026-03-29T13:19:30.059679+00:00",
+    "summary": "Claiming that \"Assam State Congress president Gaurav Gogoi wants to protect infiltrators\", Amit Shah asked him to clarify his stand on the issue.",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "The Hindu",
+    "link": "https://www.thehindu.com/elections/amit-shah-says-curbing-infiltration-not-enough-every-illegal-immigrant-must-be-deported-from-assam/article70799150.ece",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "36f958f014f8",
+    "_fetched": "2026-03-29T13:19:30.059679+00:00",
+    "_relevance": 36,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 2080,
+    "title": "Government to fill up 8,000 vacant posts in police departmen",
+    "cat": "tech",
+    "upsc": false,
+    "time": "2026-03-29T13:21:42.412601+00:00",
+    "summary": "Calling upon the police officials to serve the society with integrity and honesty, Mr Siddaramaiah said the officers need not worry about their family",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "The Hindu",
+    "link": "https://www.thehindu.com/news/national/karnataka/government-to-fill-up-8000-vacant-posts-in-police-department-this-year-siddaramaiah/article70799005.ece",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "f51165d69ae4",
+    "_fetched": "2026-03-29T13:21:42.412601+00:00",
+    "_relevance": 36,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 2081,
+    "title": "India proposes “new approaches” for farm talks at WTO consis",
+    "cat": "india",
+    "upsc": false,
+    "time": "2026-03-29T13:23:54.791306+00:00",
+    "summary": "India urged the WTO to prioritize the development dimension of the Doha Work Programme, emphasizing mandated issues like Public Stockholding and Speci",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "ET Economy",
+    "link": "https://economictimes.indiatimes.com/news/economy/policy/india-proposes-new-approaches-for-farm-talks-at-wto-consistent-with-doha-mandate-agri-issues/articleshow/129880393.cms",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "ac6560ccf729",
+    "_fetched": "2026-03-29T13:23:54.791306+00:00",
+    "_relevance": 36,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 2082,
+    "title": "Railway Expenses",
+    "cat": "economy",
+    "upsc": true,
+    "time": "2026-03-29T13:25:10.938415+00:00",
+    "summary": "The Railway Board has taken action against unauthorised expenses after audit reports revealed huge unsanctioned expenditure in the last 5 years. This move is significant for UPSC as it highlights the importance of financial management and accountability in public sector undertakings. It also connects to the syllabus area of economic development and infrastructure, which is a crucial part of GS3.",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": 1905,
+        "label": "Year the Railway Board was established"
+      },
+      {
+        "val": 148,
+        "label": "Article of the Constitution that establishes the Comptroller and Auditor General (CAG)"
+      },
+      {
+        "val": 2005,
+        "label": "Year the Right to Information (RTI) Act was passed"
+      }
+    ],
+    "src": "The Hindu",
+    "link": "https://www.thehindu.com/news/national/indian-railways-shows-red-flag-to-unauthorised-expenses/article70799164.ece",
+    "prelims": [
+      "The <strong>Railway Board</strong> is the apex body of the Indian Railways, responsible for framing policies and making key decisions. It was established in 1905 and is headquartered in New Delhi. The Board has seven members, including a Chairman and six other members, each responsible for a different department.",
+      "The <strong>Comptroller and Auditor General (CAG)</strong> of India is responsible for auditing the accounts of the Indian Railways. The CAG is a constitutional authority established under Article 148 of the Constitution. It has the power to examine the accounts of all government departments, including public sector undertakings like the Indian Railways.",
+      "The <strong>Public Accounts Committee (PAC)</strong> is a parliamentary committee that examines the accounts of government departments, including the Indian Railways. The PAC is composed of 22 members, 15 from the Lok Sabha and 7 from the Rajya Sabha. It plays a crucial role in ensuring financial accountability and transparency in government spending.",
+      "The <strong>Indian Railways</strong> is one of the largest public sector undertakings in India, with a vast network of tracks, trains, and stations. It was established in 1853 and has since become a vital part of the country's transportation infrastructure. The Indian Railways is also a major employer, with over 1.3 million employees.",
+      "The <strong>Right to Information (RTI) Act, 2005</strong> is a legislation that provides citizens with the right to access information about government activities and decisions. The Act applies to all public authorities, including the Indian Railways, and requires them to disclose information on request. This has increased transparency and accountability in government decision-making."
+    ],
+    "mains": {
+      "q": "Analyze the role of the Railway Board in ensuring financial accountability and transparency in the Indian Railways.",
+      "marks": "15 marks · GS3",
+      "directive": "analyze",
+      "hints": [
+        "Introduction (2 marks): Define the Railway Board and its role in the Indian Railways, highlighting its importance in ensuring financial accountability and transparency.",
+        "Body - Organizational structure (3 marks): Explain the composition and functions of the Railway Board, including its departments and responsibilities.",
+        "Body - Financial management (3 marks): Discuss the measures taken by the Railway Board to ensure financial accountability and transparency, including budgeting, auditing, and reporting.",
+        "Body - Challenges and reforms (3 marks): Analyze the challenges faced by the Railway Board in ensuring financial accountability and transparency, and discuss the reforms implemented to address these challenges.",
+        "Conclusion (2 marks): Summarize the importance of the Railway Board in ensuring financial accountability and transparency in the Indian Railways, and suggest measures for further improvement."
+      ]
+    },
+    "connect": [
+      {
+        "topic": "Public Sector Undertakings",
+        "context": "The Indian Railways is a public sector undertaking that plays a crucial role in the country's transportation infrastructure, and its financial management is a key aspect of GS3."
+      },
+      {
+        "topic": "Financial Accountability and Transparency",
+        "context": "The Railway Board's measures to ensure financial accountability and transparency are relevant to GS3, which includes topics like economic development and infrastructure."
+      },
+      {
+        "topic": "Parliamentary Committees",
+        "context": "The Public Accounts Committee (PAC) is a parliamentary committee that examines the accounts of government departments, including the Indian Railways, and is relevant to GS2, which includes topics like governance and polity."
+      },
+      {
+        "topic": "Constitutional Authorities",
+        "context": "The Comptroller and Auditor General (CAG) is a constitutional authority established under Article 148 of the Constitution, and its role in auditing government accounts is relevant to GS2."
+      },
+      {
+        "topic": "Right to Information (RTI) Act, 2005",
+        "context": "The RTI Act provides citizens with the right to access information about government activities and decisions, including those related to the Indian Railways, and is relevant to GS2, which includes topics like governance and polity."
+      }
+    ],
+    "_hash": "c0d03925c214",
+    "_fetched": "2026-03-29T13:25:10.938415+00:00",
+    "_relevance": 33,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "analyze",
+    "_mcqs": {
+      "q": "Consider the following statements:\n1. The Railway Board is responsible for framing policies and making key decisions for the Indian Railways.\n2. The Comptroller and Auditor General (CAG) of India is responsible for auditing the accounts of all government departments, including public sector undertakings like the Indian Railways.\n3. The Public Accounts Committee (PAC) is a parliamentary committee that examines the accounts of government departments, including the Indian Railways.\nWhich of the above is/are correct?",
+      "options": [
+        "1 only",
+        "1 and 2 only",
+        "2 and 3 only",
+        "1, 2 and 3"
+      ],
+      "correct": 3,
+      "explanation": "Statement 1 is correct: The Railway Board is indeed responsible for framing policies and making key decisions for the Indian Railways. Statement 2 is correct: The CAG is responsible for auditing the accounts of all government departments, including public sector undertakings like the Indian Railways. Statement 3 is correct: The PAC is a parliamentary committee that examines the accounts of government departments, including the Indian Railways.",
+      "trap": "Absolute Language"
+    }
+  },
+  {
+    "id": 2083,
+    "title": "Bengaluru man slits throats of mother, sister and nephew, at",
+    "cat": "policy",
+    "upsc": false,
+    "time": "2026-03-29T13:27:23.383056+00:00",
+    "summary": "In Bengaluru, a suspected family suicide pact resulted in two deaths and two severe injuries. Police reported financial issues and harassment as contr",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "LiveMint",
+    "link": "https://www.livemint.com/news/india/bengaluru-man-slits-throats-of-mother-sister-and-nephew-attempts-suicide-over-debt-crisis-two-dead-11774778117529.html",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "f29665adbe55",
+    "_fetched": "2026-03-29T13:27:23.383056+00:00",
+    "_relevance": 33,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
   }
 ]
