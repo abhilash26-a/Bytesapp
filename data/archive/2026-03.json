@@ -40600,5 +40600,556 @@
       "explanation": "Statement 1 is correct: The National Education Policy 2020 does emphasize the importance of science education in India. Statement 2 is correct: The Atal Innovation Mission is a flagship initiative of the NITI Aayog that aims to promote innovation and entrepreneurship in India. Statement 3 is correct: The Indian Institute of Science is a premier research institution in India that has made significant contributions to the field of science and technology.",
       "trap": "Absolute Language"
     }
+  },
+  {
+    "id": 2080,
+    "title": "US Fed Chair Hearing",
+    "cat": "economy",
+    "upsc": true,
+    "time": "2026-03-30T03:26:17.953519+00:00",
+    "summary": "The Senate Banking Committee is set to hold a hearing on Kevin Warsh's Federal Reserve chair nomination. This matters for UPSC as it impacts global economic trends and US monetary policy, which can have implications for India's economy. The hearing is significant in the context of rising inflation and uncertainty over US interest rate policy.",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": 1913,
+        "label": "Year the Federal Reserve was established"
+      },
+      {
+        "val": 2,
+        "label": "Number of main goals of US monetary policy (maximum employment and price stability)"
+      },
+      {
+        "val": 12,
+        "label": "Number of Federal Reserve Districts in the United States"
+      }
+    ],
+    "src": "LiveMint",
+    "link": "https://www.livemint.com/news/us-news/kevin-warsh-fed-chair-hearing-set-for-mid-april-as-inflation-and-rate-cut-tensions-rise-report-11774829384890.html",
+    "prelims": [
+      "The <strong>Federal Reserve</strong> is the central bank of the United States, established in 1913. It has a Federal Open Market Committee (FOMC) that sets monetary policy, including interest rates. The Fed's actions have significant implications for global financial markets and economies.",
+      "The <strong>Senate Banking Committee</strong> is a standing committee of the United States Senate, established in 1913. It has jurisdiction over matters related to banking, finance, and monetary policy, including the oversight of the Federal Reserve. The committee's hearings and decisions can impact the US economy and financial system.",
+      "The <strong>monetary policy</strong> of a country is the process by which its central bank controls the money supply and interest rates to promote economic growth, stability, and low inflation. In the US, the Federal Reserve uses tools like open market operations and the federal funds rate to implement monetary policy. Understanding monetary policy is crucial for analyzing economic trends and making informed decisions.",
+      "The <strong>inflation rate</strong> is a measure of the rate of increase in prices of goods and services in an economy over a period of time. It is typically measured as the percentage change in the Consumer Price Index (CPI) or the Gross Domestic Product (GDP) deflator. Inflation can have significant effects on the economy, including reducing the purchasing power of consumers and increasing the cost of living.",
+      "The <strong>interest rate</strong> is the percentage at which interest is paid on a loan or deposit. In the context of monetary policy, interest rates are used to control inflation and stimulate economic growth. The Federal Reserve sets the federal funds rate, which influences other interest rates in the economy, such as mortgage rates and credit card rates."
+    ],
+    "mains": {
+      "q": "Analyze the implications of the US Federal Reserve's monetary policy decisions on the global economy, with a focus on the potential impact on India's economic growth and stability.",
+      "marks": "15 marks · GS3",
+      "directive": "analyze",
+      "hints": [
+        "Introduction (2 marks): Define monetary policy and its importance in promoting economic growth and stability. Explain the role of the Federal Reserve in setting US monetary policy.",
+        "Body - Global implications (3 marks): Discuss how the Federal Reserve's decisions on interest rates and money supply can affect global financial markets, trade, and economic growth. Provide examples of how these decisions have impacted emerging economies like India in the past.",
+        "Body - Impact on India (3 marks): Examine the potential effects of the Federal Reserve's monetary policy decisions on India's economy, including the impact on inflation, interest rates, and foreign investment. Discuss the role of the Reserve Bank of India in responding to these challenges.",
+        "Body - Policy responses (3 marks): Analyze the policy options available to the Indian government and the Reserve Bank of India to mitigate the negative effects of the Federal Reserve's monetary policy decisions. Discuss the potential benefits and drawbacks of each option.",
+        "Conclusion (2 marks): Summarize the main points and reiterate the importance of understanding the implications of the US Federal Reserve's monetary policy decisions on the global economy, with a focus on India's economic growth and stability."
+      ]
+    },
+    "connect": [
+      {
+        "topic": "Monetary Policy and Central Banks",
+        "context": "The Federal Reserve's monetary policy decisions have significant implications for the US economy and global financial markets, making it a crucial topic for understanding economic trends and policy responses."
+      },
+      {
+        "topic": "International Trade and Finance",
+        "context": "The Federal Reserve's decisions can impact global trade and financial flows, affecting emerging economies like India and making it essential to understand the interconnectedness of the global economy."
+      },
+      {
+        "topic": "Fiscal Policy and Government Spending",
+        "context": "The US government's fiscal policy decisions can interact with the Federal Reserve's monetary policy, influencing the overall economic outlook and making it vital to consider the interplay between these two policy areas."
+      },
+      {
+        "topic": "Global Economic Governance and Institutions",
+        "context": "The Federal Reserve's role in global economic governance and its relationships with other central banks and international institutions, such as the International Monetary Fund, are critical for understanding the global economic landscape."
+      },
+      {
+        "topic": "Economic Growth and Development",
+        "context": "The Federal Reserve's monetary policy decisions can have significant effects on economic growth and development, both in the US and globally, making it essential to consider the potential implications for emerging economies like India."
+      }
+    ],
+    "_hash": "729597b655dd",
+    "_fetched": "2026-03-30T03:26:17.953519+00:00",
+    "_relevance": 50,
+    "_gs": [
+      "GS2",
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "analyze",
+    "_mcqs": {
+      "q": "Consider the following statements:\n1. The Federal Reserve is the central bank of the United States.\n2. The Senate Banking Committee has jurisdiction over matters related to education policy.\n3. The Federal Reserve's monetary policy decisions can impact global financial markets and economies.\nWhich of the above is/are correct?",
+      "options": [
+        "1 only",
+        "1 and 3 only",
+        "2 and 3 only",
+        "1, 2 and 3"
+      ],
+      "correct": 1,
+      "explanation": "Statement 1 is correct: The Federal Reserve is indeed the central bank of the United States. Statement 2 is incorrect: The Senate Banking Committee has jurisdiction over matters related to banking, finance, and monetary policy, not education policy. Statement 3 is correct: The Federal Reserve's monetary policy decisions can have significant effects on global financial markets and economies.",
+      "trap": "Wrong Ministry / Absolute Language"
+    }
+  },
+  {
+    "id": 2081,
+    "title": "Global Market",
+    "cat": "economy",
+    "upsc": true,
+    "time": "2026-03-30T03:26:34.581079+00:00",
+    "summary": "Asian markets tumbled as investors braced for a prolonged Gulf conflict, driving oil prices to record monthly gains and fueling global inflation fears. This development is crucial for UPSC as it impacts India's economy, particularly in terms of energy security and trade. The conflict's impact on energy and commodity prices is expected to persist, pressuring economies worldwide, including India's, which is heavily dependent on oil imports.",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": 1960,
+        "label": "Year OPEC was established"
+      },
+      {
+        "val": 70,
+        "label": "% of India's oil consumption met by imports"
+      },
+      {
+        "val": 2020,
+        "label": "Target year for India to achieve 40% of its electricity from non-fossil fuels"
+      }
+    ],
+    "src": "Economic Times",
+    "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-stocks-dive-in-asia-brent-crude-heads-for-record-monthly-rise/articleshow/129889477.cms",
+    "prelims": [
+      "The <strong>Organization of the Petroleum Exporting Countries (OPEC)</strong> was established in 1960 to coordinate the production and sale of oil on the global market. Its decisions significantly impact the global oil market, affecting oil prices and, consequently, the economies of oil-importing countries like India. OPEC's actions are closely watched by economists and policymakers worldwide.",
+      "The <strong>Gulf Cooperation Council (GCC)</strong> is a political and economic alliance of six Middle Eastern countries, including Saudi Arabia, the United Arab Emirates, and Qatar. The GCC plays a crucial role in regional and global energy security, given the significant oil reserves of its member states. Understanding the GCC is essential for analyzing geopolitical dynamics in the Middle East and their implications for global energy markets.",
+      "The <strong>Indian economy's</strong> heavy dependence on oil imports makes it vulnerable to fluctuations in global oil prices. This vulnerability underscores the need for India to diversify its energy sources and enhance its energy security through strategic investments in renewable energy, improving energy efficiency, and exploring alternative sources of energy. Diversification is crucial for mitigating the impact of oil price volatility on the Indian economy.",
+      "The <strong>International Monetary Fund (IMF)</strong> plays a critical role in promoting global economic stability and providing financial assistance to countries facing economic difficulties. The IMF's policies and recommendations can significantly influence the economic strategies of its member countries, including India, particularly in times of global economic uncertainty. Understanding the IMF's role is essential for analyzing global economic trends and their implications for India.",
+      "The <strong>WTO's Agreement on Sanitary and Phytosanitary Measures (SPS Agreement)</strong> aims to protect human, animal, and plant life and health while promoting free trade. The SPS Agreement is relevant in the context of global trade disputes, including those related to food safety and environmental protection. It highlights the complex interplay between trade liberalization and regulatory measures aimed at protecting public health and the environment."
+    ],
+    "mains": {
+      "q": "Analyze the impact of global oil price fluctuations on the Indian economy, with special reference to the role of OPEC and the implications for India's energy security.",
+      "marks": "15 marks · GS3",
+      "directive": "analyze",
+      "hints": [
+        "Introduction (2 marks): Define the key terms related to the global oil market, including OPEC, oil price volatility, and energy security. Explain the significance of these concepts in the context of the Indian economy.",
+        "Body - Impact on Indian Economy (4 marks): Discuss how fluctuations in global oil prices affect India's trade balance, inflation, and economic growth. Provide examples of past instances where oil price shocks had significant impacts on the Indian economy.",
+        "Body - Role of OPEC (3 marks): Examine the role of OPEC in influencing global oil prices and its implications for oil-importing countries like India. Discuss the strategies OPEC uses to manage oil production and prices.",
+        "Body - Energy Security (3 marks): Analyze India's efforts to enhance its energy security, including diversification of energy sources, improvement in energy efficiency, and exploration of alternative energy sources. Evaluate the effectiveness of these strategies in mitigating the impact of oil price volatility.",
+        "Conclusion (3 marks): Summarize the main points and suggest policy recommendations for the Indian government to address the challenges posed by global oil price fluctuations and to enhance the country's energy security."
+      ]
+    },
+    "connect": [
+      {
+        "topic": "Energy Security and Trade",
+        "context": "The impact of global oil price fluctuations on India's trade balance and economic growth is a critical aspect of energy security and trade policies."
+      },
+      {
+        "topic": "International Relations and Geopolitics",
+        "context": "Understanding the geopolitical dynamics of the Middle East and the role of OPEC in global energy markets is essential for analyzing India's foreign policy and energy security strategies."
+      },
+      {
+        "topic": "Economic Development and Planning",
+        "context": "The Indian government's policies to mitigate the effects of oil price volatility, such as diversifying energy sources and promoting energy efficiency, are crucial for sustainable economic development."
+      },
+      {
+        "topic": "Environmental Impact Assessment",
+        "context": "The exploration and production of oil have significant environmental implications, making environmental impact assessments critical for oil and gas projects."
+      },
+      {
+        "topic": "Global Governance and Institutions",
+        "context": "The role of international institutions like OPEC and the IMF in shaping global energy markets and economic policies is vital for understanding the complexities of global governance and its implications for India's economic and energy security."
+      }
+    ],
+    "_hash": "1713d18f6c2a",
+    "_fetched": "2026-03-30T03:26:34.581079+00:00",
+    "_relevance": 48,
+    "_gs": [
+      "GS2",
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "analyze",
+    "_mcqs": {
+      "q": "Consider the following statements:\n1. OPEC is the primary determinant of global oil prices.\n2. India is self-sufficient in oil production.\n3. The Indian government has implemented policies to reduce dependence on oil imports.\nWhich of the above is/are correct?",
+      "options": [
+        "1 only",
+        "1 and 3 only",
+        "2 only",
+        "1, 2 and 3"
+      ],
+      "correct": 1,
+      "explanation": "Statement 1 is correct: OPEC's decisions significantly influence global oil prices. Statement 2 is incorrect: India is heavily dependent on oil imports. Statement 3 is correct: The Indian government has initiated policies aimed at reducing oil import dependence, such as promoting renewable energy and improving energy efficiency.",
+      "trap": "Absolute Language"
+    }
+  },
+  {
+    "id": 2082,
+    "title": "LPG Price Update",
+    "cat": "economy",
+    "upsc": true,
+    "time": "2026-03-30T03:26:50.617894+00:00",
+    "summary": "The oil ministry has acknowledged that LPG supplies have been impacted by the geopolitical situation. This development is crucial for UPSC aspirants as it relates to the Indian economy and energy security. The information connects to the GS3 syllabus area, covering economic development and energy infrastructure.",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": 80,
+        "label": "Percentage of India's crude oil imports"
+      },
+      {
+        "val": 20,
+        "label": "Percentage of India's LPG production from domestic sources"
+      },
+      {
+        "val": 5,
+        "label": "Number of major oil refineries in India"
+      }
+    ],
+    "src": "LiveMint",
+    "link": "https://www.livemint.com/news/india/lpg-cylinder-price-on-march-30-how-much-does-domestic-and-commercial-gas-cost-in-delhi-bengaluru-hyderabad-today-11774835344060.html",
+    "prelims": [
+      "<strong>National Oil Companies</strong> play a significant role in India's energy security, with the government controlling major oil companies like Indian Oil Corporation, Bharat Petroleum, and Hindustan Petroleum. These companies are responsible for the production, refining, and distribution of petroleum products, including LPG. The government's control over these companies allows it to influence the pricing and availability of these essential commodities.",
+      "<strong>LPG Subsidy</strong> is a significant component of the Indian government's social welfare programs, aiming to provide affordable cooking fuel to the masses. The subsidy is provided to eligible households, and its implementation is overseen by the Ministry of Petroleum and Natural Gas. The subsidy amount is directly transferred to the beneficiary's bank account, ensuring transparency and efficiency in the system.",
+      "<strong>Energy Security</strong> is a critical aspect of India's economic development, with the country being heavily dependent on imported crude oil to meet its energy needs. The government has been actively promoting the use of alternative energy sources, such as solar and wind power, to reduce the country's reliance on fossil fuels. Additionally, the government has implemented policies to improve energy efficiency and reduce energy consumption.",
+      "<strong>Petroleum Planning and Analysis Cell (PPAC)</strong> is a government agency responsible for analyzing data related to the petroleum sector, including production, consumption, and pricing. The PPAC provides critical inputs to the government for policy-making and helps in monitoring the performance of the petroleum sector. The agency's analysis helps the government to make informed decisions regarding the pricing and availability of petroleum products.",
+      "<strong>Public Distribution System (PDS)</strong> is a network of fair price shops that distribute subsidized essential commodities, including LPG, to eligible households. The PDS is overseen by the Ministry of Consumer Affairs, Food and Public Distribution, and its implementation varies across states. The system aims to ensure that essential commodities are available to the masses at affordable prices, thereby reducing poverty and inequality."
+    ],
+    "mains": {
+      "q": "Analyze the impact of geopolitical tensions on India's energy security, with a focus on LPG pricing and availability.",
+      "marks": "15 marks · GS3",
+      "directive": "analyze",
+      "hints": [
+        "Introduction (2 marks): Define energy security and its importance for India's economic development, highlighting the role of LPG in the energy mix.",
+        "Body - Geopolitical tensions (3 marks): Discuss the impact of global events, such as the Russia-Ukraine conflict, on crude oil prices and LPG availability, citing specific examples and data.",
+        "Body - Government policies (3 marks): Examine the Indian government's policies and initiatives to promote energy security, including the use of alternative energy sources, energy efficiency measures, and strategic storage of petroleum products.",
+        "Body - LPG pricing and subsidy (3 marks): Analyze the mechanism of LPG pricing and subsidy in India, discussing the role of the government, oil companies, and regulatory bodies, such as the Petroleum Planning and Analysis Cell (PPAC).",
+        "Conclusion (2 marks): Summarize the key findings and suggest measures to enhance India's energy security, including diversification of energy sources, improvement in energy efficiency, and development of strategic storage facilities."
+      ]
+    },
+    "connect": [
+      {
+        "topic": "Energy Security and India's Economic Development",
+        "context": "The article connects to the broader theme of energy security and its impact on India's economic development, highlighting the need for a diversified energy mix and strategic storage of petroleum products."
+      },
+      {
+        "topic": "LPG Subsidy and Social Welfare Programs",
+        "context": "The LPG subsidy is a critical component of the Indian government's social welfare programs, aiming to provide affordable cooking fuel to the masses and reduce poverty and inequality."
+      },
+      {
+        "topic": "Petroleum Planning and Analysis Cell (PPAC) and Energy Policy",
+        "context": "The PPAC plays a vital role in analyzing data related to the petroleum sector, providing critical inputs to the government for policy-making and helping to monitor the performance of the petroleum sector."
+      },
+      {
+        "topic": "Public Distribution System (PDS) and Essential Commodities",
+        "context": "The PDS is a network of fair price shops that distribute subsidized essential commodities, including LPG, to eligible households, highlighting the importance of an efficient distribution system in ensuring energy security."
+      },
+      {
+        "topic": "Geopolitical Tensions and Global Energy Markets",
+        "context": "The article highlights the impact of geopolitical tensions on global energy markets, including crude oil prices and LPG availability, emphasizing the need for India to diversify its energy sources and develop strategic storage facilities."
+      }
+    ],
+    "_hash": "7dc871665c36",
+    "_fetched": "2026-03-30T03:26:50.617894+00:00",
+    "_relevance": 46,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "analyze",
+    "_mcqs": {
+      "q": "Consider the following statements:\n1. The Indian government controls the pricing of LPG.\n2. The LPG subsidy is provided to all households.\n3. The Petroleum Planning and Analysis Cell (PPAC) is responsible for monitoring the performance of the petroleum sector.\nWhich of the above is/are correct?",
+      "options": [
+        "1 only",
+        "1 and 2 only",
+        "2 and 3 only",
+        "1, 2 and 3"
+      ],
+      "correct": 3,
+      "explanation": "Statement 1 is incorrect: While the government influences LPG pricing, it is not directly controlled. Statement 2 is incorrect: The LPG subsidy is provided to eligible households, not all households. Statement 3 is correct: The PPAC is indeed responsible for monitoring the performance of the petroleum sector.",
+      "trap": "Absolute Language"
+    }
+  },
+  {
+    "id": 2083,
+    "title": "Bond Yields Rise",
+    "cat": "economy",
+    "upsc": true,
+    "time": "2026-03-30T03:27:06.336868+00:00",
+    "summary": "Rising sovereign bond yields are expected to cause significant mark-to-market losses for banks in the March quarter. This development is crucial for UPSC aspirants as it highlights the impact of global economic trends on India's financial sector. The topic connects to the syllabus area of economic development and monetary policy, which is a key aspect of GS3.",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": 12,
+        "label": "12-month high for 10-year government bond yields"
+      },
+      {
+        "val": 1935,
+        "label": "Year the Reserve Bank of India (RBI) was established"
+      },
+      {
+        "val": 6,
+        "label": "Number of members in the Monetary Policy Committee (MPC)"
+      }
+    ],
+    "src": "Economic Times",
+    "link": "https://economictimes.indiatimes.com/markets/bonds/mtm-losses-likely-for-lenders-as-yields-on-govt-bonds-hit-12-month-high/articleshow/129889264.cms",
+    "prelims": [
+      "The <strong>Reserve Bank of India (RBI)</strong> was established in 1935 under the Reserve Bank of India Act, 1934, with its headquarters in Mumbai. It has 31 branches across India and is responsible for regulating the country's monetary policy, including setting interest rates and managing foreign exchange.",
+      "The <strong>Open Market Operations (OMO)</strong> are a key tool used by the RBI to regulate liquidity in the economy. OMOs involve the purchase or sale of government securities to increase or decrease the money supply in the economy, thereby influencing interest rates and inflation.",
+      "The <strong>Monetary Policy Committee (MPC)</strong> is a six-member committee headed by the RBI Governor, responsible for setting the monetary policy of the country. The MPC was established in 2016 under the Reserve Bank of India Act, 1934, and meets at least four times a year to review the economic situation and decide on policy rates.",
+      "The <strong>Government Securities Act, 2006</strong> regulates the issuance, trading, and settlement of government securities in India. The Act provides a framework for the management of public debt and ensures that government securities are issued and traded in a transparent and efficient manner.",
+      "The <strong>Fiscal Responsibility and Budget Management (FRBM) Act, 2003</strong> aims to promote fiscal discipline and transparency in the management of public finances. The Act sets targets for reducing fiscal deficits and debt, and provides a framework for the management of government finances."
+    ],
+    "mains": {
+      "q": "Analyze the impact of rising sovereign bond yields on the Indian economy, with a focus on the banking sector.",
+      "marks": "15 marks · GS3",
+      "directive": "analyze",
+      "hints": [
+        "Introduction (2 marks): Define sovereign bond yields and their significance in the Indian economy, including their impact on the banking sector.",
+        "Body - Impact on banking sector (3 marks): Discuss the potential mark-to-market losses for banks due to rising bond yields, and explain how this could affect their profitability and lending capacity.",
+        "Body - Monetary policy implications (3 marks): Examine the potential response of the RBI to rising bond yields, including the use of open market operations and changes to policy rates.",
+        "Body - Economic implications (3 marks): Analyze the broader economic implications of rising bond yields, including the potential impact on inflation, growth, and the exchange rate.",
+        "Conclusion (2 marks): Summarize the key findings and suggest policy measures to mitigate the negative effects of rising bond yields on the Indian economy."
+      ]
+    },
+    "connect": [
+      {
+        "topic": "Monetary Policy and its Instruments",
+        "context": "The RBI's use of open market operations to regulate liquidity is a key aspect of monetary policy, which is tested in GS3."
+      },
+      {
+        "topic": "Government Securities and their Management",
+        "context": "The management of government securities is crucial for maintaining fiscal discipline and ensuring the stability of the financial system, which is relevant for GS3."
+      },
+      {
+        "topic": "Fiscal Responsibility and Budget Management (FRBM) Act, 2003",
+        "context": "The FRBM Act provides a framework for the management of public finances and promotes fiscal discipline, which is connected to the topic of government securities and monetary policy."
+      },
+      {
+        "topic": "Banking and Financial Institutions",
+        "context": "The impact of rising bond yields on the banking sector is a key aspect of banking and financial institutions, which is tested in GS3."
+      },
+      {
+        "topic": "Economic Development and Policy",
+        "context": "The analysis of the impact of rising bond yields on the economy is a key aspect of economic development and policy, which is relevant for GS3."
+      }
+    ],
+    "_hash": "f7a38b8668d8",
+    "_fetched": "2026-03-30T03:27:06.336868+00:00",
+    "_relevance": 40,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "analyze",
+    "_mcqs": {
+      "q": "Consider the following statements:\n1. The Reserve Bank of India (RBI) is responsible for regulating the money supply in the economy.\n2. The Open Market Operations (OMO) are used by the RBI to reduce liquidity in the economy.\n3. The Monetary Policy Committee (MPC) is headed by the Finance Minister.\nWhich of the above is/are correct?",
+      "options": [
+        "1 only",
+        "1 and 2 only",
+        "2 and 3 only",
+        "1, 2 and 3"
+      ],
+      "correct": 0,
+      "explanation": "Statement 1 is correct: The RBI is responsible for regulating the money supply in the economy. Statement 2 is incorrect: OMOs can be used to increase or decrease liquidity, depending on the economic situation. Statement 3 is incorrect: The MPC is headed by the RBI Governor.",
+      "trap": "Wrong Ministry"
+    }
+  },
+  {
+    "id": 2084,
+    "title": "Basmati Export Disruptions",
+    "cat": "economy",
+    "upsc": true,
+    "time": "2026-03-30T03:27:22.142452+00:00",
+    "summary": "India's basmati rice exports are facing disruptions due to rising freight rates linked to the West Asia conflict. This disruption is significant for UPSC as it affects India's $6 billion trade and has implications for the country's economic development. The issue connects to the syllabus area of international trade and economic development, which is crucial for GS3.",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": 6,
+        "label": "India's basmati rice export trade (billion USD)"
+      },
+      {
+        "val": 2008,
+        "label": "Year the Indian Maritime University (IMU) was established"
+      },
+      {
+        "val": 2009,
+        "label": "Year the Ministry of Ports, Shipping and Waterways was established"
+      }
+    ],
+    "src": "LiveMint Industry",
+    "link": "https://www.livemint.com/industry/basmati-rice-exports-freight-rates-west-asia-war-11774758365955.html",
+    "prelims": [
+      "The <strong>Directorate General of Foreign Trade (DGFT)</strong> is responsible for regulating India's foreign trade, including the export of basmati rice. It was established in 1991 under the Ministry of Commerce and Industry. The DGFT plays a crucial role in implementing the Foreign Trade Policy, which aims to promote India's exports and economic growth.",
+      "The <strong>West Asia conflict</strong> has led to a significant increase in freight rates, affecting India's basmati rice exports. This conflict has also impacted global trade, with many countries facing disruptions in their supply chains. The situation highlights the importance of diversifying trade routes and promoting regional trade agreements.",
+      "The <strong>Indian Maritime University (IMU)</strong> was established in 2008 to promote maritime education and research in India. The university has campuses in several cities, including Chennai, Mumbai, and Visakhapatnam. IMU plays a vital role in developing skilled manpower for the maritime industry, which is critical for India's economic growth.",
+      "The <strong>Maritime Transport Agreement</strong> between India and other countries aims to promote cooperation in the maritime sector, including the development of shipping infrastructure and the facilitation of trade. This agreement is significant for India's economic development, as it enables the country to increase its exports and improve its trade competitiveness.",
+      "The <strong>Ministry of Ports, Shipping and Waterways</strong> is responsible for the development of India's ports and shipping infrastructure. The ministry was established in 2009 and has played a crucial role in promoting India's maritime trade. It has implemented several initiatives to improve the efficiency of ports and reduce logistics costs."
+    ],
+    "mains": {
+      "q": "Analyze the impact of the West Asia conflict on India's basmati rice exports and suggest measures to mitigate the disruptions.",
+      "marks": "15 marks · GS3",
+      "directive": "analyze",
+      "hints": [
+        "Introduction (2 marks): Define the significance of basmati rice exports for India's economy and the impact of the West Asia conflict on global trade.",
+        "Body - Impact on exports (3 marks): Discuss the effects of rising freight rates on India's basmati rice exports and the resulting economic losses.",
+        "Body - Mitigation measures (4 marks): Suggest measures to mitigate the disruptions, including the development of alternative trade routes, the promotion of regional trade agreements, and the improvement of shipping infrastructure.",
+        "Body - Role of government (3 marks): Examine the role of the government in promoting India's maritime trade and the development of the shipping industry.",
+        "Conclusion (3 marks): Summarize the importance of addressing the disruptions in basmati rice exports and the need for a comprehensive strategy to promote India's economic development."
+      ]
+    },
+    "connect": [
+      {
+        "topic": "Foreign Trade Policy",
+        "context": "The policy aims to promote India's exports and economic growth, which is relevant to the disruptions in basmati rice exports."
+      },
+      {
+        "topic": "Maritime Transport Agreement",
+        "context": "The agreement promotes cooperation in the maritime sector, which is significant for India's economic development."
+      },
+      {
+        "topic": "Directorate General of Foreign Trade (DGFT)",
+        "context": "The DGFT regulates India's foreign trade, including the export of basmati rice, which is crucial for India's economic growth."
+      },
+      {
+        "topic": "Indian Maritime University (IMU)",
+        "context": "The university promotes maritime education and research, which is vital for the development of India's shipping industry."
+      },
+      {
+        "topic": "Ministry of Ports, Shipping and Waterways",
+        "context": "The ministry is responsible for the development of India's ports and shipping infrastructure, which is critical for India's economic growth."
+      }
+    ],
+    "_hash": "ae4531f3a114",
+    "_fetched": "2026-03-30T03:27:22.142452+00:00",
+    "_relevance": 36,
+    "_gs": [
+      "GS2",
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "analyze",
+    "_mcqs": {
+      "q": "Consider the following statements:\n1. The Directorate General of Foreign Trade (DGFT) is responsible for regulating India's foreign trade.\n2. The Indian Maritime University (IMU) was established in 2005.\n3. The Maritime Transport Agreement between India and other countries aims to promote cooperation in the maritime sector.\nWhich of the above is/are correct?",
+      "options": [
+        "1 only",
+        "1 and 3 only",
+        "2 and 3 only",
+        "1, 2 and 3"
+      ],
+      "correct": 1,
+      "explanation": "Statement 1 is correct: The DGFT is indeed responsible for regulating India's foreign trade. Statement 2 is incorrect: The IMU was established in 2008, not 2005. Statement 3 is correct: The Maritime Transport Agreement does aim to promote cooperation in the maritime sector.",
+      "trap": "Wrong Year"
+    }
+  },
+  {
+    "id": 2085,
+    "title": "Ukraine Drones Hit Russia",
+    "cat": "world",
+    "upsc": true,
+    "time": "2026-03-30T03:27:37.747153+00:00",
+    "summary": "Ukrainian drones have attacked the southern Russian city of Taganrog, causing damage to homes and industry. This incident is significant for UPSC as it highlights the ongoing conflict between Ukraine and Russia, which has implications for international relations and global security. The conflict also connects to the broader theme of geopolitical tensions and their impact on regional stability.",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": 2014,
+        "label": "Year the Ukraine-Russia conflict began"
+      },
+      {
+        "val": 2,
+        "label": "Number of countries directly involved in the conflict"
+      },
+      {
+        "val": 10000,
+        "label": "Estimated number of civilians displaced by the conflict"
+      }
+    ],
+    "src": "The Hindu International",
+    "link": "https://www.thehindu.com/news/international/ukrainian-drone-strike-in-southern-russias-taganrog/article70800846.ece",
+    "prelims": [
+      "The <strong>Rostov region</strong> is a federal subject of Russia, located in the Southern Federal District. It shares an international border with Ukraine, making it a sensitive area in terms of geopolitical tensions. The region's governor, Yuri Slyusar, has been actively involved in managing the conflict's impact on the local population.",
+      "The <strong>Ukraine-Russia conflict</strong> has its roots in the annexation of Crimea by Russia in 2014, which led to international sanctions and a significant deterioration in relations between the two countries. The conflict has also involved other countries, including the United States and European nations, which have provided military and economic support to Ukraine.",
+      "The <strong>Taganrog city</strong> is an important industrial and cultural center in the Rostov region, with a rich history dating back to the 17th century. The city has been affected by the conflict, with reports of damage to infrastructure and civilian casualties. The city's location near the Ukrainian border makes it vulnerable to cross-border attacks.",
+      "The <strong>International Committee of the Red Cross (ICRC)</strong> has been involved in providing humanitarian assistance to those affected by the conflict, including civilians and prisoners of war. The ICRC has also called for respect for international humanitarian law and the protection of civilians in conflict zones.",
+      "The <strong>Minsk Agreement</strong> was signed in 2015 in an attempt to resolve the conflict in eastern Ukraine, but its implementation has been slow and incomplete. The agreement has been supported by the international community, including the European Union and the United States, which have imposed sanctions on Russia for its role in the conflict."
+    ],
+    "mains": {
+      "q": "Analyze the implications of the Ukraine-Russia conflict on regional stability and global security.",
+      "marks": "15 marks · GS2",
+      "directive": "analyze",
+      "hints": [
+        "Introduction (2 marks): Define the Ukraine-Russia conflict and its historical context, including the annexation of Crimea and the ongoing fighting in eastern Ukraine.",
+        "Body - Regional stability (3 marks): Discuss the impact of the conflict on regional stability, including the role of neighboring countries and international organizations such as the European Union and the United Nations.",
+        "Body - Global security (3 marks): Examine the implications of the conflict for global security, including the potential for escalation and the involvement of other countries such as the United States and China.",
+        "Body - Humanitarian concerns (3 marks): Analyze the humanitarian impact of the conflict, including the displacement of civilians and the need for humanitarian assistance.",
+        "Conclusion (2 marks): Summarize the main points and suggest ways to resolve the conflict and promote regional stability and global security."
+      ]
+    },
+    "connect": [
+      {
+        "topic": "Global Security",
+        "context": "The conflict has raised concerns about global security, including the potential for escalation and the involvement of other countries."
+      },
+      {
+        "topic": "Humanitarian Law",
+        "context": "The conflict has highlighted the importance of humanitarian law, including the protection of civilians and the provision of humanitarian assistance."
+      },
+      {
+        "topic": "Regional Stability",
+        "context": "The conflict has had a significant impact on regional stability, including the involvement of neighboring countries and the potential for further escalation."
+      },
+      {
+        "topic": "European Union Foreign Policy",
+        "context": "The conflict has been a major challenge for European Union foreign policy, including the imposition of sanctions on Russia and the provision of support to Ukraine."
+      }
+    ],
+    "_hash": "5bcfc906a92d",
+    "_fetched": "2026-03-30T03:27:37.747153+00:00",
+    "_relevance": 31,
+    "_gs": [
+      "GS2"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "analyze",
+    "_mcqs": {
+      "q": "Consider the following statements:\n1. The Ukraine-Russia conflict began in 2014 with the annexation of Crimea.\n2. The conflict has been limited to eastern Ukraine and has not affected other countries in the region.\n3. The International Committee of the Red Cross has been involved in providing humanitarian assistance to those affected by the conflict.\nWhich of the above is/are correct?",
+      "options": [
+        "1 only",
+        "1 and 3 only",
+        "2 and 3 only",
+        "1, 2 and 3"
+      ],
+      "correct": 1,
+      "explanation": "Statement 1 is correct: The Ukraine-Russia conflict did begin in 2014 with the annexation of Crimea. Statement 2 is incorrect: The conflict has had a broader impact on the region, including the involvement of other countries. Statement 3 is correct: The International Committee of the Red Cross has been involved in providing humanitarian assistance to those affected by the conflict.",
+      "trap": "Absolute Language"
+    }
+  },
+  {
+    "id": 2086,
+    "title": "Indian energy giants in talks with Angola to secure gas supp",
+    "cat": "india",
+    "upsc": false,
+    "time": "2026-03-30T03:29:50.241344+00:00",
+    "summary": "Indian Oil, BPCL, HPCL, and GAIL are in talks with Angola's state-owned Sonangol LPG and liquefied natural gas LNG as supplies from West Asia remain d",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "LiveMint Industry",
+    "link": "https://www.livemint.com/industry/energy/omcs-in-talks-with-angola-s-state-run-sonangol-for-lpg-and-lng-term-contracts-11774778398551.html",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "497bc08cf7bc",
+    "_fetched": "2026-03-30T03:29:50.241344+00:00",
+    "_relevance": 30,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
   }
 ]
