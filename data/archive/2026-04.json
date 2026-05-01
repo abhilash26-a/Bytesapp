@@ -553,5 +553,653 @@
     "_difficulty": 2,
     "_directive": "discuss",
     "_mcqs": []
+  },
+  {
+    "id": 2043,
+    "title": "India's FII Exodus",
+    "cat": "economy",
+    "upsc": true,
+    "time": "2026-04-01T07:45:32.757946+00:00",
+    "summary": "The equity market has witnessed a record $13 billion FII outflow in March, driven by a surge in oil prices and global trade tensions. This development is crucial for UPSC as it reflects the impact of global economic trends on India's economy and trade policies. The situation connects to the syllabus area of economic development and international trade, which is a key aspect of GS3.",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": 13,
+        "label": "Record FII outflow in March (billion USD)"
+      },
+      {
+        "val": 50,
+        "label": "Percentage surge in oil prices"
+      },
+      {
+        "val": 75,
+        "label": "Percentage of Indian cargo transshipped via foreign ports"
+      }
+    ],
+    "src": "Economic Times",
+    "link": "https://economictimes.indiatimes.com/markets/stocks/news/explained-why-global-brokerages-are-hitting-the-panic-button-on-india-fii-exodus-and-oil-shock-raising-alarms/articleshow/129943613.cms",
+    "prelims": [
+      "The <strong>Foreign Investment Promotion Board (FIPB)</strong> was a national agency responsible for promoting and approving foreign investment in India, which was abolished in 2017 and its functions were transferred to the <strong>Department of Economic Affairs</strong>. The FIPB played a crucial role in facilitating foreign investment, which is essential for India's economic growth.",
+      "The <strong>Securities and Exchange Board of India (SEBI)</strong> is the primary regulator of the securities market in India, established in 1992 under the SEBI Act. SEBI's role is vital in maintaining the stability and integrity of the Indian securities market, which is critical for attracting foreign investment.",
+      "The <strong>Current Account Deficit (CAD)</strong> is a key indicator of a country's trade balance, which is the difference between its exports and imports. A high CAD can lead to a depreciation of the currency, making imports more expensive and potentially fuelling inflation, as seen in the context of the recent oil price surge.",
+      "The <strong>Reserve Bank of India (RBI)</strong> plays a crucial role in managing India's foreign exchange reserves, which are essential for maintaining the stability of the rupee and facilitating international trade. The RBI's monetary policy decisions can significantly impact the economy, including the attractiveness of Indian assets to foreign investors.",
+      "The <strong>Make in India</strong> initiative, launched in 2014, aims to promote India as a manufacturing hub and attract foreign investment. The initiative is critical for boosting economic growth, creating employment opportunities, and enhancing India's competitiveness in the global market."
+    ],
+    "mains": {
+      "q": "Analyze the impact of the recent FII outflow on India's economy, focusing on the implications for trade policies and economic development.",
+      "marks": "15 marks · GS3",
+      "directive": "analyze",
+      "hints": [
+        "Introduction (2 marks): Define Foreign Institutional Investment (FII) and its significance in India's economic development, highlighting the role of FIIs in providing capital for growth.",
+        "Body - Economic Impact (3 marks): Discuss the effects of FII outflow on India's trade balance, currency valuation, and inflation, considering the surge in oil prices and its implications for the Indian economy.",
+        "Body - Policy Implications (3 marks): Examine the potential policy responses to mitigate the adverse effects of FII outflow, including monetary and fiscal measures, and their potential impact on economic growth and stability.",
+        "Body - Global Context (3 marks): Compare the experience of other emerging economies in managing FII flows and their strategies for maintaining economic stability in the face of global economic uncertainties.",
+        "Conclusion (2 marks): Suggest measures to enhance the attractiveness of Indian assets to foreign investors, focusing on structural reforms, improving the business environment, and promoting investment in key sectors."
+      ]
+    },
+    "connect": [
+      {
+        "topic": "Balance of Payments (BoP) and Trade Balance",
+        "context": "The FII outflow affects India's BoP and trade balance, which is a critical aspect of GS3, focusing on economic development and international trade."
+      },
+      {
+        "topic": "Monetary Policy and RBI's Role",
+        "context": "The RBI's monetary policy decisions can impact the attractiveness of Indian assets to foreign investors, which is essential for maintaining economic stability and growth."
+      },
+      {
+        "topic": "Foreign Exchange Reserves and Management",
+        "context": "The management of foreign exchange reserves is crucial for maintaining the stability of the rupee and facilitating international trade, which is directly related to the recent FII outflow."
+      },
+      {
+        "topic": "Economic Reforms and Investment Promotion",
+        "context": "The experience of other emerging economies in managing FII flows and promoting investment can provide valuable lessons for India's economic reforms and investment promotion strategies."
+      },
+      {
+        "topic": "Global Economic Trends and Trade Policies",
+        "context": "The impact of global economic trends on India's economy and trade policies is a key aspect of GS3, requiring an understanding of international trade agreements, economic development, and policy responses to global challenges."
+      }
+    ],
+    "_hash": "059b919d92bb",
+    "_fetched": "2026-04-01T07:45:32.757946+00:00",
+    "_relevance": 62,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "analyze",
+    "_mcqs": {
+      "q": "Consider the following statements:\n1. The recent FII outflow from India is primarily due to the surge in oil prices.\n2. The Securities and Exchange Board of India (SEBI) is responsible for approving foreign investment in India.\n3. The Foreign Investment Promotion Board (FIPB) was abolished in 2017 and its functions were transferred to the Department of Economic Affairs.\nWhich of the above is/are correct?",
+      "options": [
+        "1 only",
+        "1 and 2 only",
+        "2 and 3 only",
+        "1, 2 and 3"
+      ],
+      "correct": 3,
+      "explanation": "Statement 1 is correct: The recent FII outflow is indeed driven by the surge in oil prices, among other factors. Statement 2 is incorrect: SEBI is the primary regulator of the securities market in India but is not directly responsible for approving foreign investment. Statement 3 is correct: The FIPB was abolished in 2017, and its functions were transferred to the Department of Economic Affairs.",
+      "trap": "Wrong Ministry"
+    }
+  },
+  {
+    "id": 2044,
+    "title": "Lok Sabha Proceedings",
+    "cat": "india",
+    "upsc": true,
+    "time": "2026-04-01T07:45:50.011081+00:00",
+    "summary": "The Lok Sabha proceedings resumed after a brief adjournment due to the ruckus over the FCRA Amendment Bill by the Opposition. This matter is crucial for UPSC as it relates to the functioning of the Indian Parliament and the role of the Opposition in ensuring accountability. The discussion on the A.P. Reorganisation (Amendment) Bill also highlights the importance of understanding the nuances of state reorganization and its implications on federalism.",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": 2010,
+        "label": "Year the Foreign Contribution (Regulation) Act was enacted"
+      },
+      {
+        "val": 2014,
+        "label": "Year the Andhra Pradesh Reorganisation Act was enacted"
+      },
+      {
+        "val": 79,
+        "label": "Article of the Indian Constitution providing for the constitution of the Parliament"
+      }
+    ],
+    "src": "The Hindu",
+    "link": "https://www.thehindu.com/news/national/parliament-budget-session-live-updates-april-1-2026-lok-sabha-fcra-amendment-bill-rajya-sabha/article70810005.ece",
+    "prelims": [
+      "The <strong>FCRA Amendment Bill</strong> aims to regulate foreign contributions to Indian organizations, which is crucial for maintaining national security and preventing foreign interference in domestic affairs. The bill has been a subject of controversy, with the Opposition alleging that it is an attempt to stifle dissent and silence critics of the government. The <strong>Foreign Contribution (Regulation) Act, 2010</strong> was enacted to regulate the acceptance and utilization of foreign contribution by certain individuals or associations.",
+      "The <strong>A.P. Reorganisation Act, 2014</strong> was enacted to facilitate the creation of the new state of Telangana from the existing state of Andhra Pradesh. The Act also provided for the reorganization of the territories of the existing states of Andhra Pradesh and Telangana. The <strong>Article 3 of the Indian Constitution</strong> empowers the Parliament to form a new state by separating territory from any existing state, which is relevant in this context.",
+      "The <strong>Andhra Pradesh Reorganisation (Amendment) Bill</strong> seeks to amend the Andhra Pradesh Reorganisation Act, 2014, to address certain issues that have arisen since the creation of the new state of Telangana. The bill aims to provide a more equitable distribution of resources and assets between the two states. The <strong>Article 368 of the Indian Constitution</strong> provides the procedure for amendment of the Constitution, which is relevant in the context of this bill.",
+      "The <strong>Parliament of India</strong> is the supreme legislative body of the country, comprising the President and the two Houses of Parliament, namely, the Lok Sabha and the Rajya Sabha. The Parliament has the power to make laws for the country, and its proceedings are crucial for the functioning of the Indian democracy. The <strong>Article 79 of the Indian Constitution</strong> provides for the constitution of the Parliament, which is relevant in this context.",
+      "The <strong>Opposition in the Lok Sabha</strong> plays a crucial role in ensuring accountability of the government and providing an alternative vision for the country. The Opposition has the power to move motions of no confidence, adjournment motions, and other procedural devices to hold the government accountable. The <strong>Rule 55 of the Lok Sabha Rules</strong> provides for the procedure for moving a motion of no confidence, which is relevant in this context."
+    ],
+    "mains": {
+      "q": "Analyze the role of the Opposition in the Lok Sabha in ensuring accountability of the government, with reference to the recent proceedings on the FCRA Amendment Bill and the A.P. Reorganisation (Amendment) Bill.",
+      "marks": "15 marks · GS2",
+      "directive": "analyze",
+      "hints": [
+        "Introduction (2 marks): Define the role of the Opposition in the Lok Sabha and its importance in ensuring accountability of the government.",
+        "Body - Role of Opposition (3 marks): Discuss the various ways in which the Opposition can hold the government accountable, including moving motions of no confidence, adjournment motions, and other procedural devices.",
+        "Body - Recent Proceedings (3 marks): Analyze the recent proceedings on the FCRA Amendment Bill and the A.P. Reorganisation (Amendment) Bill, highlighting the role of the Opposition in these debates.",
+        "Body - Challenges (3 marks): Examine the challenges faced by the Opposition in performing its role effectively, including the limitations imposed by the Rules of the Lok Sabha and the dominance of the ruling party.",
+        "Conclusion (2 marks): Summarize the importance of a strong and effective Opposition in the Lok Sabha for ensuring accountability of the government and providing an alternative vision for the country."
+      ]
+    },
+    "connect": [
+      {
+        "topic": "Parliamentary Proceedings and Rules of Procedure",
+        "context": "The recent proceedings on the FCRA Amendment Bill and the A.P. Reorganisation (Amendment) Bill highlight the importance of understanding the rules of procedure of the Lok Sabha, which is relevant for GS2 (Polity)."
+      },
+      {
+        "topic": "State Reorganisation and Federalism",
+        "context": "The A.P. Reorganisation (Amendment) Bill connects to the topic of state reorganisation and federalism, which is relevant for GS2 (Polity) and GS3 (Security)."
+      },
+      {
+        "topic": "Foreign Contribution (Regulation) Act, 2010",
+        "context": "The FCRA Amendment Bill connects to the topic of foreign contribution regulation, which is relevant for GS2 (Polity) and GS3 (Security)."
+      },
+      {
+        "topic": "Role of the Opposition in the Lok Sabha",
+        "context": "The recent proceedings on the FCRA Amendment Bill and the A.P. Reorganisation (Amendment) Bill highlight the importance of the role of the Opposition in the Lok Sabha, which is relevant for GS2 (Polity)."
+      },
+      {
+        "topic": "Article 3 of the Indian Constitution",
+        "context": "The A.P. Reorganisation (Amendment) Bill connects to the topic of Article 3 of the Indian Constitution, which provides for the formation of new states and alteration of areas, boundaries, or names of existing states."
+      }
+    ],
+    "_hash": "71bcd1bed212",
+    "_fetched": "2026-04-01T07:45:50.011081+00:00",
+    "_relevance": 59,
+    "_gs": [
+      "GS2"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "analyze",
+    "_mcqs": {
+      "q": "Consider the following statements:\n1. The FCRA Amendment Bill aims to regulate foreign contributions to Indian organizations.\n2. The A.P. Reorganisation (Amendment) Bill seeks to amend the Andhra Pradesh Reorganisation Act, 2014, to address issues related to the creation of the new state of Telangana.\n3. The Opposition in the Lok Sabha has the power to move motions of no confidence against the government.\nWhich of the above is/are correct?",
+      "options": [
+        "1 only",
+        "1 and 2 only",
+        "2 and 3 only",
+        "1, 2 and 3"
+      ],
+      "correct": 3,
+      "explanation": "Statement 1 is correct: The FCRA Amendment Bill indeed aims to regulate foreign contributions to Indian organizations. Statement 2 is correct: The A.P. Reorganisation (Amendment) Bill seeks to amend the Andhra Pradesh Reorganisation Act, 2014, to address issues related to the creation of the new state of Telangana. Statement 3 is correct: The Opposition in the Lok Sabha has the power to move motions of no confidence against the government.",
+      "trap": "Absolute Language"
+    }
+  },
+  {
+    "id": 2045,
+    "title": "RoDTEP Scheme Extension",
+    "cat": "economy",
+    "upsc": true,
+    "time": "2026-04-01T07:46:06.120366+00:00",
+    "summary": "The Indian government has extended the RoDTEP scheme benefits for exporters until September 30. This move is crucial for UPSC as it highlights the government's efforts to support the export sector, which is a significant contributor to the country's economy. The scheme's extension will help exporters manage rising freight costs and trade risks, making it an important topic for GS3 (Economy) and GS2 (Governance) papers.",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": 2020,
+        "label": "Year the RoDTEP scheme was introduced"
+      },
+      {
+        "val": 2023,
+        "label": "Year the current Foreign Trade Policy (FTP) was introduced"
+      }
+    ],
+    "src": "ET Economy",
+    "link": "https://economictimes.indiatimes.com/news/economy/foreign-trade/govt-extends-rodtep-benefits-for-exporters-till-september-30/articleshow/129942857.cms",
+    "prelims": [
+      "The <strong>Remission of Duties and Taxes on Exported Products (RoDTEP)</strong> scheme was introduced to refund duties and taxes to exporters, making Indian exports more competitive in the global market. The scheme is a part of the government's efforts to increase exports and reduce the trade deficit. The RoDTEP scheme replaced the <strong>Merchandise Exports from India Scheme (MEIS)</strong> in 2020.",
+      "The <strong>Foreign Trade Policy (FTP)</strong> is a set of guidelines and regulations that govern India's foreign trade. The FTP is formulated by the Ministry of Commerce and Industry and is updated every five years. The current FTP (2023-2028) aims to increase India's exports to $2 trillion by 2028. The RoDTEP scheme is a part of the FTP and plays a crucial role in achieving this goal.",
+      "The <strong>World Trade Organization (WTO)</strong> is an international organization that regulates global trade. The WTO has set rules and guidelines for countries to follow in their trade policies. The RoDTEP scheme is in compliance with the WTO rules and regulations, making it an important topic for UPSC students to understand the nuances of international trade.",
+      "The <strong>Ministry of Commerce and Industry</strong> is responsible for formulating and implementing the government's trade policies. The ministry plays a crucial role in promoting India's exports and reducing the trade deficit. The RoDTEP scheme is one of the initiatives taken by the ministry to support exporters and increase exports.",
+      "The <strong>Export-Import Bank of India (Exim Bank)</strong> is a financial institution that provides financial assistance to exporters and importers. The Exim Bank plays a crucial role in promoting India's foreign trade by providing financing options to exporters and importers. The RoDTEP scheme is also linked to the Exim Bank, making it an important topic for UPSC students to understand the role of financial institutions in promoting foreign trade."
+    ],
+    "mains": {
+      "q": "Critically examine the impact of the RoDTEP scheme on India's export sector and its relevance to the country's economic growth.",
+      "marks": "15 marks · GS3",
+      "directive": "critically_examine",
+      "hints": [
+        "Introduction (2 marks): Define the RoDTEP scheme and its objectives, and explain its relevance to India's export sector.",
+        "Body - Benefits of RoDTEP (4 marks): Discuss the benefits of the RoDTEP scheme for exporters, including the refund of duties and taxes, and its impact on India's export competitiveness.",
+        "Body - Challenges and limitations (4 marks): Analyze the challenges and limitations of the RoDTEP scheme, including its compliance with WTO rules and regulations, and its impact on the government's revenue.",
+        "Body - Comparison with other schemes (3 marks): Compare the RoDTEP scheme with other export promotion schemes, such as the MEIS, and explain its advantages and disadvantages.",
+        "Conclusion (2 marks): Summarize the main points and explain the significance of the RoDTEP scheme for India's economic growth and export sector."
+      ]
+    },
+    "connect": [
+      {
+        "topic": "Foreign Trade Policy (FTP)",
+        "context": "The RoDTEP scheme is a part of the FTP, which is a set of guidelines and regulations that govern India's foreign trade."
+      },
+      {
+        "topic": "World Trade Organization (WTO)",
+        "context": "The RoDTEP scheme is in compliance with the WTO rules and regulations, making it an important topic for UPSC students to understand the nuances of international trade."
+      },
+      {
+        "topic": "Export-Import Bank of India (Exim Bank)",
+        "context": "The Exim Bank plays a crucial role in promoting India's foreign trade by providing financing options to exporters and importers, and is linked to the RoDTEP scheme."
+      },
+      {
+        "topic": "Merchandise Exports from India Scheme (MEIS)",
+        "context": "The RoDTEP scheme replaced the MEIS in 2020, making it an important topic for UPSC students to understand the evolution of India's export promotion schemes."
+      },
+      {
+        "topic": "Make in India Initiative",
+        "context": "The RoDTEP scheme is a part of the Make in India initiative, which aims to promote India as a manufacturing hub and increase the country's exports."
+      }
+    ],
+    "_hash": "c8f5424cf474",
+    "_fetched": "2026-04-01T07:46:06.120366+00:00",
+    "_relevance": 50,
+    "_gs": [
+      "GS2",
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "critically_examine",
+    "_mcqs": {
+      "q": "Consider the following statements:\n1. The RoDTEP scheme is a part of the Foreign Trade Policy (FTP) 2023-2028.\n2. The scheme is only applicable to exporters of manufactured goods.\n3. The RoDTEP scheme is in compliance with the WTO rules and regulations.\nWhich of the above is/are correct?",
+      "options": [
+        "1 only",
+        "1 and 3 only",
+        "2 and 3 only",
+        "1, 2 and 3"
+      ],
+      "correct": 1,
+      "explanation": "Statement 1 is correct: The RoDTEP scheme is indeed a part of the FTP 2023-2028. Statement 2 is incorrect: The scheme is applicable to all exporters, not just manufactured goods. Statement 3 is correct: The RoDTEP scheme is in compliance with the WTO rules and regulations.",
+      "trap": "Absolute Language"
+    }
+  },
+  {
+    "id": 2046,
+    "title": "Iran’s Parliament commission approves Hormuz toll plan: stat",
+    "cat": "tech",
+    "upsc": false,
+    "time": "2026-04-01T07:48:18.596240+00:00",
+    "summary": "A member of Parliament’s security commission reported that the plan includes “financial arrangements and rial toll systems”, “implementing Iran’s sove",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "The Hindu International",
+    "link": "https://www.thehindu.com/news/international/irans-parliament-commission-approves-hormuz-toll-plan-state-tv/article70809915.ece",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "70020c989039",
+    "_fetched": "2026-04-01T07:48:18.596240+00:00",
+    "_relevance": 48,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 2047,
+    "title": "U.S. report flags high import duties, non-tariff barriers in",
+    "cat": "economy",
+    "upsc": false,
+    "time": "2026-04-01T07:50:31.081094+00:00",
+    "summary": "The report also alleged that India's tariff rates are announced with the annual budget and are modified on an ad hoc basis through notifications in th",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "The Hindu",
+    "link": "https://www.thehindu.com/news/national/us-report-flags-high-import-duties-non-tariff-barriers-in-india/article70810239.ece",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "f7eff4660879",
+    "_fetched": "2026-04-01T07:50:31.081094+00:00",
+    "_relevance": 46,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "budget",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 2048,
+    "title": "Alert! Gurugram sets up 24×7 control room to address LPG com",
+    "cat": "tech",
+    "upsc": false,
+    "time": "2026-04-01T07:52:43.673737+00:00",
+    "summary": "Gurugram district administration has established a 24×7 control room to address LPG complaints, and ensure a steady supply. Citizens can report issues",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "LiveMint",
+    "link": "https://www.livemint.com/news/india/alert-gurugram-sets-up-24-7-control-room-to-address-lpg-complaints-check-helpline-number-11775022534915.html",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "ab6765a83f3f",
+    "_fetched": "2026-04-01T07:52:43.673737+00:00",
+    "_relevance": 46,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 2049,
+    "title": "John Brittas slams government for treating FCRA data as ‘Nat",
+    "cat": "policy",
+    "upsc": false,
+    "time": "2026-04-01T07:54:56.175865+00:00",
+    "summary": "CPI(M) MP alleges Parliament is being denied basic regulatory information on FCRA licence cancellations and dashboard access ahead of the new amendmen",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "The Hindu",
+    "link": "https://www.thehindu.com/news/national/john-brittas-slams-government-for-treating-fcra-data-as-national-secrecy-says-all-his-queries-were-disallowed-in-rs/article70810144.ece",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "811536c8e6c6",
+    "_fetched": "2026-04-01T07:54:56.175865+00:00",
+    "_relevance": 41,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 2050,
+    "title": "Oil slides 4% to below $100/bbl as Middle East uncertainty k",
+    "cat": "economy",
+    "upsc": false,
+    "time": "2026-04-01T07:57:08.673243+00:00",
+    "summary": "Oil prices experienced a significant drop of over 4% as Middle East tensions continued to influence markets, despite indications of a potential easing",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "Economic Times",
+    "link": "https://economictimes.indiatimes.com/markets/commodities/news/oil-slides-over-3-as-middle-east-uncertainty-keeps-markets-on-edge/articleshow/129944323.cms",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "e8daafdf0501",
+    "_fetched": "2026-04-01T07:57:08.673243+00:00",
+    "_relevance": 38,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 2051,
+    "title": "India's GST collections rise 8.2% to Rs 1.78 lakh crore in M",
+    "cat": "economy",
+    "upsc": false,
+    "time": "2026-04-01T07:59:21.141618+00:00",
+    "summary": "India's Goods and Services Tax (GST) collection surged to Rs 1.78 lakh crore in March 2026, marking an 8.2% increase from the previous month. Overall ",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "ET Economy",
+    "link": "https://economictimes.indiatimes.com/news/economy/finance/indias-gst-collections-rise-8-2-to-rs-1-78-lakh-crore-in-march/articleshow/129943463.cms",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "bc2e1366370e",
+    "_fetched": "2026-04-01T07:59:21.141618+00:00",
+    "_relevance": 38,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 2052,
+    "title": "PM Modi visits tea garden in poll-bound Assam, interacts wit",
+    "cat": "india",
+    "upsc": false,
+    "time": "2026-04-01T08:01:33.615889+00:00",
+    "summary": "Prime Minister Narendra Modi is on a day-long visit to the State to address two campaign rallies for BJP candidates",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "The Hindu",
+    "link": "https://www.thehindu.com/elections/assam-assembly/pm-modi-in-assam-rallies-for-bjp-candidates-tea-garden-women-workers-april-1-2026/article70810383.ece",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "7aa7d960422f",
+    "_fetched": "2026-04-01T08:01:33.615889+00:00",
+    "_relevance": 36,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 2053,
+    "title": "Government proposing to up Lok Sabha size by 50%; move will ",
+    "cat": "india",
+    "upsc": false,
+    "time": "2026-04-01T08:03:46.070944+00:00",
+    "summary": "Congress leader Jairam Ramesh said Telangana Chief Minister Revanth Reddy has already raised an alarm over the issue and others may very well follow a",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "The Hindu",
+    "link": "https://www.thehindu.com/news/national/government-proposing-to-up-lok-sabha-size-by-50-move-will-disadvantage-southern-states-congress/article70810203.ece",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "93969aa25bc6",
+    "_fetched": "2026-04-01T08:03:46.070944+00:00",
+    "_relevance": 36,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 2054,
+    "title": "Kalaburagi City Corporation projects ₹5.92 crore deficit in ",
+    "cat": "economy",
+    "upsc": false,
+    "time": "2026-04-01T08:05:58.536109+00:00",
+    "summary": "Major revenue sources are ₹37.89 crore from corporation-owned properties, ₹6.73 crore from building licence fees, ₹2.29 crore from trade licences, ₹2.",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "The Hindu",
+    "link": "https://www.thehindu.com/news/national/karnataka/kalaburagi-city-corporation-projects-592-crore-deficit-in-215-crore-budget/article70807996.ece",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "4ee557f7e981",
+    "_fetched": "2026-04-01T08:05:58.536109+00:00",
+    "_relevance": 33,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "budget",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 2055,
+    "title": "Mumbai sees flat growth in property registrations in March 2",
+    "cat": "economy",
+    "upsc": false,
+    "time": "2026-04-01T08:08:11.072122+00:00",
+    "summary": "“This marks the highest monthly registration volume for the month of March in the past 14 years, surpassing previous years high observed in March 2025",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "The Hindu Business",
+    "link": "https://www.thehindu.com/business/mumbai-sees-flat-growth-in-property-registrations-in-march-2026/article70806828.ece",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "316541fdcda5",
+    "_fetched": "2026-04-01T08:08:11.072122+00:00",
+    "_relevance": 33,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 2056,
+    "title": "Looking into the continuing costs of India’s COVID-19 policy",
+    "cat": "india",
+    "upsc": false,
+    "time": "2026-04-01T08:10:23.522422+00:00",
+    "summary": "Six years since the COVID-19 pandemic, the question that three books collectively pose is not whether India’s response succeeded or failed; the eviden",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "The Hindu",
+    "link": "https://www.thehindu.com/news/national/looking-into-the-continuing-costs-of-indias-covid-19-policy/article70808627.ece",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "532e5b50ba37",
+    "_fetched": "2026-04-01T08:10:23.522422+00:00",
+    "_relevance": 31,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 2057,
+    "title": "Russian military plane crashes in annexed Crimea, killing 29",
+    "cat": "world",
+    "upsc": false,
+    "time": "2026-04-01T08:12:35.970071+00:00",
+    "summary": "\"The search and rescue team has located the crash site of the An-26 aircraft. According to reports from the scene, the six crew members and 23 passeng",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "The Hindu International",
+    "link": "https://www.thehindu.com/news/international/russian-military-plane-crashes-in-crimea-29-dead-tass/article70809016.ece",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "58e808c59bc6",
+    "_fetched": "2026-04-01T08:12:35.970071+00:00",
+    "_relevance": 31,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 2058,
+    "title": "Will your air ticket prices rise after jet fuel rate hike? G",
+    "cat": "world",
+    "upsc": false,
+    "time": "2026-04-01T08:14:48.463172+00:00",
+    "summary": "The government said that to insulate domestic travel costs from the substantial increase in international prices, OMCs of the Ministry of Petroleum, i",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "LiveMint",
+    "link": "https://www.livemint.com/news/india/jet-fuel-prices-hiked-to-record-high-foreign-routes-to-pay-full-increased-rates-says-govt-domestic-airlines-shielded-11775018641635.html",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "81ddec0bb844",
+    "_fetched": "2026-04-01T08:14:48.463172+00:00",
+    "_relevance": 30,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "ministry",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
   }
 ]
