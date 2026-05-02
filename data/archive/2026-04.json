@@ -4550,5 +4550,92 @@
     "_difficulty": 2,
     "_directive": "discuss",
     "_mcqs": []
+  },
+  {
+    "id": 2015,
+    "title": "India's GDP Growth",
+    "cat": "economy",
+    "upsc": true,
+    "time": "2026-04-02T10:06:39.345239+00:00",
+    "summary": "Rising crude oil prices due to the West Asia conflict pose a threat to India's economy. This development is crucial for UPSC aspirants as it connects to India's economic growth, inflation, and the impact of global events on the domestic economy. The situation also highlights the importance of energy security and the need for diversified energy sources.",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": 6.5,
+        "label": "Projected GDP growth rate of India in FY27"
+      },
+      {
+        "val": 100,
+        "label": "Crude oil price in USD that may impact India's GDP growth"
+      },
+      {
+        "val": 2016,
+        "label": "Year the Monetary Policy Committee (MPC) was established"
+      }
+    ],
+    "src": "ET Economy",
+    "link": "https://economictimes.indiatimes.com/news/economy/indicators/indias-gdp-may-come-down-to-6-5-in-fy27-if-crude-remains-at-usd-100-careedge/articleshow/129973749.cms",
+    "prelims": [
+      "The <strong>Monetary Policy Committee (MPC)</strong> of the Reserve Bank of India plays a crucial role in managing inflation and economic growth. Established in 2016, the MPC is responsible for setting the repo rate, which in turn affects the money supply in the economy. The MPC's decisions have a direct impact on the country's GDP growth and inflation rate.",
+      "The <strong>Organisation of the Petroleum Exporting Countries (OPEC)</strong> is a cartel of oil-producing countries that aims to coordinate the production and sale of oil on the global market. OPEC's decisions can significantly impact the global oil prices, which in turn affect the economies of oil-importing countries like India. Understanding OPEC's role is essential for analyzing the impact of global events on India's economy.",
+      "The <strong>Foreign Exchange Management Act, 1999</strong>, regulates the foreign exchange market in India. The Act enables the government to maintain a balance between the demand and supply of foreign exchange, which is critical for managing the country's trade deficit and maintaining economic stability. The Act also empowers the Reserve Bank of India to intervene in the foreign exchange market to stabilize the rupee.",
+      "The <strong>National Institution for Transforming India (NITI) Aayog</strong> is a think tank that provides strategic and technical advice to the government on economic policy matters. NITI Aayog plays a crucial role in formulating policies that promote economic growth, improve governance, and enhance the overall quality of life for citizens. Its recommendations often have a significant impact on the country's economic trajectory.",
+      "The <strong>Index of Industrial Production (IIP)</strong> is a statistical measure that tracks the growth of various sectors of the economy, including mining, manufacturing, and electricity. The IIP is an important indicator of the country's economic performance and is closely watched by policymakers, economists, and industry experts. It helps in understanding the trends and patterns in the economy and informs policy decisions."
+    ],
+    "mains": {
+      "q": "Analyze the impact of rising crude oil prices on India's economic growth and inflation rate. What measures can the government take to mitigate the adverse effects of high oil prices?",
+      "marks": "15 marks · GS3",
+      "directive": "analyze",
+      "hints": [
+        "Introduction (2 marks): Define the key terms, such as crude oil prices, economic growth, and inflation rate, and explain their interrelationship.",
+        "Body - Impact on economic growth (3 marks): Discuss how rising crude oil prices can affect the country's GDP growth, including the impact on various sectors like transportation, manufacturing, and construction.",
+        "Body - Impact on inflation (3 marks): Explain how high oil prices can lead to higher inflation, including the impact on food prices, transportation costs, and overall cost of living.",
+        "Body - Government measures (4 marks): Suggest measures that the government can take to mitigate the adverse effects of high oil prices, such as reducing taxes on petroleum products, increasing the production of domestic oil, and promoting the use of alternative energy sources.",
+        "Conclusion (3 marks): Summarize the main points and emphasize the need for a comprehensive approach to manage the impact of rising crude oil prices on the economy."
+      ]
+    },
+    "connect": [
+      {
+        "topic": "Monetary Policy and Fiscal Policy",
+        "context": "Understanding the difference between monetary and fiscal policy is crucial for analyzing the impact of government decisions on the economy."
+      },
+      {
+        "topic": "Organisation of the Petroleum Exporting Countries (OPEC)",
+        "context": "OPEC's decisions can significantly impact the global oil prices, which in turn affect the economies of oil-importing countries like India."
+      },
+      {
+        "topic": "Foreign Exchange Management Act, 1999",
+        "context": "The Act regulates the foreign exchange market in India and is critical for managing the country's trade deficit and maintaining economic stability."
+      },
+      {
+        "topic": "Index of Industrial Production (IIP)",
+        "context": "The IIP is an important indicator of the country's economic performance and is closely watched by policymakers, economists, and industry experts."
+      },
+      {
+        "topic": "National Institution for Transforming India (NITI) Aayog",
+        "context": "NITI Aayog plays a crucial role in formulating policies that promote economic growth, improve governance, and enhance the overall quality of life for citizens."
+      }
+    ],
+    "_hash": "80542beb10b3",
+    "_fetched": "2026-04-02T10:06:39.345239+00:00",
+    "_relevance": 72,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "analyze",
+    "_mcqs": {
+      "q": "Consider the following statements:\n1. The Monetary Policy Committee (MPC) is responsible for setting the fiscal policy of the government.\n2. The Organisation of the Petroleum Exporting Countries (OPEC) is a cartel of oil-producing countries that aims to coordinate the production and sale of oil on the global market.\n3. The Foreign Exchange Management Act, 1999, regulates the foreign exchange market in India.\nWhich of the above is/are correct?",
+      "options": [
+        "1 only",
+        "2 and 3 only",
+        "1 and 2 only",
+        "1, 2 and 3"
+      ],
+      "correct": 1,
+      "explanation": "Statement 1 is incorrect: The MPC is responsible for setting the monetary policy, not the fiscal policy. Statement 2 is correct: OPEC is indeed a cartel of oil-producing countries that aims to coordinate the production and sale of oil on the global market. Statement 3 is correct: The Foreign Exchange Management Act, 1999, does regulate the foreign exchange market in India.",
+      "trap": "Wrong Ministry"
+    }
   }
 ]
