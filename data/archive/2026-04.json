@@ -6896,5 +6896,240 @@
     "_difficulty": 2,
     "_directive": "discuss",
     "_mcqs": []
+  },
+  {
+    "id": 1989,
+    "title": "India's Oil Imports",
+    "cat": "economy",
+    "upsc": true,
+    "time": "2026-04-02T21:47:06.989879+00:00",
+    "summary": "India imports nearly 85% of its oil, making it vulnerable to global supply chain disruptions. This has significant implications for India's energy security and economy, particularly in the context of the Ukraine war. The country's high dependence on oil imports also highlights the need for diversification of energy sources and development of alternative energy infrastructure.",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": 85,
+        "label": "Percentage of India's oil imports"
+      },
+      {
+        "val": 2022,
+        "label": "Year of the Ukraine war"
+      },
+      {
+        "val": 4,
+        "label": "Number of regional oil refining hubs in India"
+      }
+    ],
+    "src": "The Hindu",
+    "link": "https://www.thehindu.com/news/national/tamil-nadu/power-petroleum-and-policy-in-focus-at-future-career-conversations/article70817070.ece",
+    "prelims": [
+      "India's <strong>energy security</strong> is a critical concern due to its high dependence on imported oil, with the country aiming to reduce this dependence through measures such as increasing domestic production and promoting alternative energy sources. The <strong>Ministry of Petroleum and Natural Gas</strong> plays a key role in formulating policies to achieve this goal. India's energy security is also closely linked to its <strong>geopolitical relationships</strong> with major oil-producing countries.",
+      "The <strong>Ukraine war</strong> has disrupted global oil supply chains, leading to increased prices and highlighting the need for <strong>diversification of energy sources</strong>. This disruption has also underscored the importance of <strong>energy diplomacy</strong> in maintaining stable oil supplies. The war has led to a significant increase in oil prices, affecting <strong>inflation rates</strong> and <strong>economic growth</strong> in oil-importing countries like India.",
+      "India's <strong>oil import bill</strong> is a significant component of its <strong>trade deficit</strong>, and efforts to reduce this bill can have a positive impact on the country's <strong>balance of payments</strong>. The <strong>Reserve Bank of India</strong> monitors the oil import bill closely due to its implications for the country's <strong>foreign exchange reserves</strong>. Reducing the oil import bill can also help in <strong>reducing the current account deficit</strong>.",
+      "The <strong>International Energy Agency (IEA)</strong> plays a crucial role in promoting <strong>energy security</strong> and <strong>sustainable energy development</strong> globally. The IEA provides <strong>energy policy recommendations</strong> to its member countries, including India, to help them achieve their energy security and sustainability goals. The agency also <strong>monitors global energy trends</strong> and provides <strong>energy market analysis</strong>.",
+      "India's <strong>National Energy Policy</strong> aims to ensure <strong>energy security</strong> while promoting <strong>sustainable development</strong> and <strong>environmental protection</strong>. The policy emphasizes the need for <strong>diversification of energy sources</strong>, including <strong>renewable energy</strong>, to reduce dependence on imported oil. It also focuses on <strong>improving energy efficiency</strong> and <strong>promoting energy conservation</strong>."
+    ],
+    "mains": {
+      "q": "Analyze the impact of the Ukraine war on India's energy security and suggest measures to mitigate this impact.",
+      "marks": "15 marks · GS3",
+      "directive": "analyze",
+      "hints": [
+        "Introduction (2 marks): Define energy security and its importance for India's economic growth and development.",
+        "Body - Impact of the Ukraine war (3 marks): Discuss how the war has affected global oil supply chains and prices, and its implications for India's oil import bill and trade deficit.",
+        "Body - Measures to mitigate the impact (4 marks): Suggest ways to reduce India's dependence on imported oil, such as increasing domestic production, promoting alternative energy sources, and improving energy efficiency.",
+        "Body - Role of energy diplomacy (3 marks): Explain the importance of energy diplomacy in maintaining stable oil supplies and promoting India's energy security interests.",
+        "Conclusion (3 marks): Summarize the key points and emphasize the need for a comprehensive approach to ensure India's energy security."
+      ]
+    },
+    "connect": [
+      {
+        "topic": "Energy Security and Diplomacy",
+        "context": "The Ukraine war has highlighted the importance of energy diplomacy in maintaining stable oil supplies and promoting India's energy security interests."
+      },
+      {
+        "topic": "International Energy Agency (IEA)",
+        "context": "The IEA plays a crucial role in promoting energy security and sustainable energy development globally, and its recommendations are important for India's energy policy."
+      },
+      {
+        "topic": "National Energy Policy",
+        "context": "India's National Energy Policy aims to ensure energy security while promoting sustainable development and environmental protection, and its implementation is critical for reducing the country's dependence on imported oil."
+      },
+      {
+        "topic": "Renewable Energy and Energy Efficiency",
+        "context": "Promoting renewable energy and improving energy efficiency are key measures to reduce India's dependence on imported oil and mitigate the impact of the Ukraine war on the country's energy security."
+      },
+      {
+        "topic": "Geopolitics and Global Energy Markets",
+        "context": "The Ukraine war has disrupted global oil supply chains, and understanding the geopolitics of global energy markets is essential for developing effective energy security strategies."
+      }
+    ],
+    "_hash": "dac816700282",
+    "_fetched": "2026-04-02T21:47:06.989879+00:00",
+    "_relevance": 49,
+    "_gs": [
+      "GS2",
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "analyze",
+    "_mcqs": {
+      "q": "Consider the following statements:\n1. India imports over 80% of its oil requirements.\n2. The Ukraine war has led to a significant decrease in global oil prices.\n3. The International Energy Agency (IEA) provides energy policy recommendations to its member countries.\nWhich of the above is/are correct?",
+      "options": [
+        "1 only",
+        "1 and 3 only",
+        "2 and 3 only",
+        "1, 2 and 3"
+      ],
+      "correct": 1,
+      "explanation": "Statement 1 is correct: India imports nearly 85% of its oil. Statement 2 is incorrect: The Ukraine war has led to an increase in global oil prices. Statement 3 is correct: The IEA provides energy policy recommendations to its member countries.",
+      "trap": "Absolute Language"
+    }
+  },
+  {
+    "id": 1990,
+    "title": "Petrochemical Import Duty Relief",
+    "cat": "economy",
+    "upsc": true,
+    "time": "2026-04-02T21:47:22.896798+00:00",
+    "summary": "The Indian government has waived customs duty on key petrochemical imports until June 30 to provide relief to sectors like pharmaceuticals, chemicals, and textiles. This move is significant for UPSC as it highlights the government's efforts to ensure stable domestic supplies and control prices, which is a crucial aspect of economic policy-making. The exemption is a temporary measure to support industries and consumers, and its impact will be closely watched by policymakers and economists.",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": 30,
+        "label": "Number of days for which the import duty exemption is valid"
+      },
+      {
+        "val": 1950,
+        "label": "Year the Directorate General of Foreign Trade (DGFT) was established"
+      },
+      {
+        "val": 80,
+        "label": "Percentage of India's pharmaceutical exports that go to the US and EU markets"
+      }
+    ],
+    "src": "ET Economy",
+    "link": "https://economictimes.indiatimes.com/news/economy/foreign-trade/key-petrochemical-products-get-3-month-import-duty-relief/articleshow/129987867.cms",
+    "prelims": [
+      "The <strong>Directorate General of Foreign Trade (DGFT)</strong> is the primary agency responsible for implementing India's foreign trade policy, which includes measures like import duty exemptions. Established in 1950, the DGFT plays a crucial role in facilitating trade and ensuring compliance with international trade agreements.",
+      "The <strong>Chemical and Petrochemicals Department</strong> under the Ministry of Chemicals and Fertilizers is responsible for the development of the petrochemical sector in India. The department was established in 1989 and has been instrumental in promoting the growth of the sector through various initiatives and policies.",
+      "The <strong>Import-Export Policy</strong> of India is formulated by the Ministry of Commerce and Industry, which aims to promote exports and regulate imports to achieve a stable trade balance. The policy is reviewed and updated periodically to reflect changing economic conditions and trade agreements.",
+      "The <strong>Pharmaceuticals Export Promotion Council (PHARMEXCIL)</strong> is a trade promotion organization that works to promote the export of pharmaceutical products from India. Established in 2004, PHARMEXCIL has played a significant role in promoting the Indian pharmaceutical industry and increasing its global competitiveness.",
+      "The <strong>World Trade Organization (WTO)</strong> is an international organization that regulates global trade and provides a framework for countries to negotiate trade agreements. India is a member of the WTO and has to comply with its rules and regulations, which can impact the country's trade policies and decisions."
+    ],
+    "mains": {
+      "q": "Analyze the impact of the recent import duty exemption on key petrochemical products on the Indian economy, with a focus on the pharmaceutical, chemical, and textile sectors.",
+      "marks": "15 marks · GS3",
+      "directive": "analyze",
+      "hints": [
+        "Introduction (2 marks): Define the concept of import duty exemption and its significance in the context of India's foreign trade policy.",
+        "Body - Economic Impact (3 marks): Discuss the potential benefits of the import duty exemption on the Indian economy, including the impact on the pharmaceutical, chemical, and textile sectors.",
+        "Body - Sectoral Analysis (3 marks): Examine the specific challenges and opportunities faced by each sector and how the import duty exemption is likely to affect their growth and competitiveness.",
+        "Body - Policy Implications (3 marks): Analyze the policy implications of the import duty exemption, including its potential impact on India's trade balance, fiscal deficit, and inflation rate.",
+        "Conclusion (2 marks): Summarize the main findings and suggest recommendations for policymakers to maximize the benefits of the import duty exemption and minimize its potential drawbacks."
+      ]
+    },
+    "connect": [
+      {
+        "topic": "Foreign Trade Policy",
+        "context": "The import duty exemption is a part of India's foreign trade policy, which aims to promote exports and regulate imports."
+      },
+      {
+        "topic": "Pharmaceuticals Export Promotion Council (PHARMEXCIL)",
+        "context": "The pharmaceutical sector is a significant contributor to India's exports, and the import duty exemption is expected to benefit this sector."
+      },
+      {
+        "topic": "World Trade Organization (WTO) Agreements",
+        "context": "India's trade policies, including the import duty exemption, must comply with WTO agreements and regulations."
+      },
+      {
+        "topic": "Chemical and Petrochemicals Department",
+        "context": "The department is responsible for promoting the growth of the petrochemical sector, which is expected to benefit from the import duty exemption."
+      },
+      {
+        "topic": "Economic Survey Chapter on Trade",
+        "context": "The Economic Survey provides an overview of India's trade performance and policy, including the impact of import duty exemptions on the economy."
+      }
+    ],
+    "_hash": "1471f2d11d80",
+    "_fetched": "2026-04-02T21:47:22.896798+00:00",
+    "_relevance": 45,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "analyze",
+    "_mcqs": {
+      "q": "Consider the following statements:\n1. The import duty exemption on key petrochemical products is a permanent measure.\n2. The exemption is expected to benefit the pharmaceutical, chemical, and textile sectors.\n3. The Directorate General of Foreign Trade (DGFT) is responsible for implementing India's foreign trade policy.\nWhich of the above is/are correct?",
+      "options": [
+        "1 only",
+        "1 and 2 only",
+        "2 and 3 only",
+        "1, 2 and 3"
+      ],
+      "correct": 2,
+      "explanation": "Statement 1 is incorrect: The import duty exemption is a temporary measure until June 30. Statement 2 is correct: The exemption is expected to benefit the pharmaceutical, chemical, and textile sectors. Statement 3 is correct: The DGFT is responsible for implementing India's foreign trade policy.",
+      "trap": "Absolute Language"
+    }
+  },
+  {
+    "id": 1991,
+    "title": "Election Commission asks NIA to probe Malda violence",
+    "cat": "india",
+    "upsc": false,
+    "time": "2026-04-02T21:49:35.361382+00:00",
+    "summary": "The Supreme Court has asked the Election Commission to hand over the probe either to CBI or NIA",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "The Hindu",
+    "link": "https://www.thehindu.com/elections/west-bengal-assembly/eci-asks-nia-to-probe-malda-violence/article70817108.ece",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "daf67556355a",
+    "_fetched": "2026-04-02T21:49:35.361382+00:00",
+    "_relevance": 39,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "sc-judgment",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 1992,
+    "title": "T.N. Assembly election: Stalin challenges Prime Minister Mod",
+    "cat": "india",
+    "upsc": false,
+    "time": "2026-04-02T21:51:47.799087+00:00",
+    "summary": "Asserting that Tamil Nadu has been a haven of peace for people of diverse cultures, the Chief Minister hits out at Mr. Modi for alleging ill-treatment",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "The Hindu",
+    "link": "https://www.thehindu.com/elections/tamil-nadu-assembly/tn-assembly-election-stalin-challenges-prime-minister-modi-to-repeat-bihar-poll-jibe-during-tn-campaign/article70814552.ece",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "d41158d1d785",
+    "_fetched": "2026-04-02T21:51:47.799087+00:00",
+    "_relevance": 39,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
   }
 ]
