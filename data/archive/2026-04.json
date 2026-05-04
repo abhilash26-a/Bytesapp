@@ -12076,5 +12076,180 @@
     "_difficulty": 2,
     "_directive": "discuss",
     "_mcqs": []
+  },
+  {
+    "id": 1970,
+    "title": "Light Pollution Crisis",
+    "cat": "science",
+    "upsc": true,
+    "time": "2026-04-04T21:38:46.611023+00:00",
+    "summary": "The increasing use of artificial lighting at night is causing a crisis for wildlife, with many species struggling to adapt to the changing light environment. This issue is relevant to UPSC as it connects to environmental conservation and the need for sustainable development. The Environmental (Protection) Act, 1986, and other policies play a crucial role in addressing this issue.",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": 2010,
+        "label": "Year the National Green Tribunal (NGT) was established"
+      },
+      {
+        "val": 1972,
+        "label": "Year the Wildlife (Protection) Act was enacted"
+      },
+      {
+        "val": 1986,
+        "label": "Year the Environmental (Protection) Act was enacted"
+      }
+    ],
+    "src": "The Hindu Op-Ed",
+    "link": "https://www.thehindu.com/opinion/op-ed/lost-in-the-glow-navigating-the-crisis-of-light-and-wildlife/article70824641.ece",
+    "prelims": [
+      "The <strong>National Green Tribunal (NGT)</strong> was established in 2010 under the National Green Tribunal Act, 2010, to dispose of environmental cases, including those related to light pollution. It has its principal bench in New Delhi and four regional benches. NGT is mandated to dispose of cases within 6 months, making it one of the fastest environmental courts globally.",
+      "The <strong>Environmental (Protection) Act, 1986</strong>, is a key legislation that aims to protect the environment, including from pollution caused by artificial lighting. The Act empowers the Central Government to take measures to protect the environment and imposes penalties for non-compliance. The Act has been amended several times to include new provisions and regulations.",
+      "The <strong>Coastal Regulation Zone (CRZ) Notification, 2019</strong>, regulates development activities in coastal areas, including those that may contribute to light pollution. The notification classifies the coast into different zones, including CRZ-I, which is ecologically sensitive, and CRZ-IV, which is the water area up to 12 nautical miles. The notification prohibits new construction in CRZ-I except for strategic projects cleared by the MoEFCC.",
+      "The <strong>Wildlife (Protection) Act, 1972</strong>, is a key legislation that aims to protect wildlife, including those species affected by light pollution. The Act regulates the hunting of wild animals, the trade in wildlife products, and the establishment of protected areas. The Act has been amended several times to include new provisions and regulations.",
+      "The <strong>Article 48A</strong> of the Indian Constitution directs the State to protect and improve the environment and safeguard forests and wildlife. Read with <strong>Article 51A(g)</strong>, which makes it every citizen's duty to protect the natural environment. Together, these form the constitutional basis for environmental jurisprudence in India."
+    ],
+    "mains": {
+      "q": "Critically examine the impact of artificial lighting on wildlife and the measures that can be taken to mitigate this issue.",
+      "marks": "15 marks · GS3",
+      "directive": "critically_examine",
+      "hints": [
+        "Introduction (2 marks): Define light pollution and its impact on wildlife, including the disruption of natural behaviors and habitats.",
+        "Body - Environmental concerns (3 marks): Discuss the effects of artificial lighting on different species, including nocturnal animals, migratory birds, and coral reefs.",
+        "Body - Policy and regulatory framework (3 marks): Examine the existing policies and regulations related to light pollution, including the Environmental (Protection) Act, 1986, and the Wildlife (Protection) Act, 1972.",
+        "Body - Mitigation measures (3 marks): Discuss the measures that can be taken to mitigate the impact of artificial lighting on wildlife, including the use of energy-efficient lighting, shielding, and scheduling.",
+        "Conclusion (2 marks): Summarize the main points and suggest a way forward for addressing the issue of light pollution and its impact on wildlife."
+      ]
+    },
+    "connect": [
+      {
+        "topic": "Environmental Impact Assessment (EIA) Process",
+        "context": "The EIA process is crucial in assessing the impact of development projects, including those that contribute to light pollution, on the environment."
+      },
+      {
+        "topic": "Wildlife Conservation and Management",
+        "context": "The conservation and management of wildlife, including those species affected by light pollution, is a critical aspect of environmental protection."
+      },
+      {
+        "topic": "Sustainable Development and Environment",
+        "context": "The issue of light pollution highlights the need for sustainable development and environmental protection, including the use of energy-efficient lighting and mitigation measures."
+      },
+      {
+        "topic": "Constitutional Provisions for Environmental Protection",
+        "context": "The Indian Constitution, including Article 48A and Article 51A(g), provides a framework for environmental protection and conservation."
+      },
+      {
+        "topic": "Regulatory Framework for Environmental Protection",
+        "context": "The regulatory framework, including the Environmental (Protection) Act, 1986, and the Wildlife (Protection) Act, 1972, plays a crucial role in protecting the environment and mitigating the impact of light pollution."
+      }
+    ],
+    "_hash": "99416ae6628d",
+    "_fetched": "2026-04-04T21:38:46.611023+00:00",
+    "_relevance": 50,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "critically_examine",
+    "_mcqs": {
+      "q": "Consider the following statements:\n1. The National Green Tribunal (NGT) was established in 2010 to address environmental cases, including those related to light pollution.\n2. The Environmental (Protection) Act, 1986, empowers the Central Government to take measures to protect the environment, including from pollution caused by artificial lighting.\n3. The Wildlife (Protection) Act, 1972, regulates the hunting of wild animals, but does not address the issue of light pollution.\nWhich of the above is/are correct?",
+      "options": [
+        "1 only",
+        "1 and 2 only",
+        "2 and 3 only",
+        "1, 2 and 3"
+      ],
+      "correct": 1,
+      "explanation": "Statement 1 is correct: NGT was indeed established in 2010. Statement 2 is correct: The Environmental (Protection) Act, 1986, does empower the Central Government to take measures to protect the environment. Statement 3 is incorrect: The Wildlife (Protection) Act, 1972, does address the issue of light pollution indirectly by regulating the protection of wildlife habitats.",
+      "trap": "Absolute Language"
+    }
+  },
+  {
+    "id": 1971,
+    "title": "FCRA Bill Concerns",
+    "cat": "policy",
+    "upsc": true,
+    "time": "2026-04-04T21:39:02.711534+00:00",
+    "summary": "The Foreign Contribution (Regulation) Amendment Bill, 2026, has raised concerns over the regulation of foreign donations to NGOs in India. This is significant for UPSC as it relates to governance, polity, and the role of NGOs in Indian society. The Bill's provisions and implications connect to the syllabus areas of GS2 (Governance, Constitution, Polity) and GS1 (History, Art & Culture, Society).",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": 2010,
+        "label": "Year the FCRA was enacted"
+      },
+      {
+        "val": 20,
+        "label": "Percentage of administrative expenses allowed under the FCRA Amendment Bill, 2026"
+      },
+      {
+        "val": 180,
+        "label": "Number of days for which the government can suspend the registration of an NGO under the FCRA Amendment Bill, 2026"
+      }
+    ],
+    "src": "The Hindu",
+    "link": "https://www.thehindu.com/news/national/what-are-the-concerns-over-the-fcra-bill/article70824614.ece",
+    "prelims": [
+      "The <strong>Foreign Contribution (Regulation) Act, 2010</strong>, was enacted to regulate the acceptance and utilization of foreign contribution or foreign hospitality by certain individuals or associations or companies. It has undergone several amendments, with the latest being the Foreign Contribution (Regulation) Amendment Bill, 2026. The Act is crucial for maintaining the sovereignty and integrity of India.",
+      "The <strong>Ministry of Home Affairs</strong> is responsible for the regulation of foreign contributions to NGOs in India. The Ministry has the power to cancel the registration of an NGO under the FCRA if it is found to be violating the provisions of the Act. This highlights the importance of regulatory oversight in ensuring compliance with legal requirements.",
+      "The <strong>FCRA Amendment Bill, 2026</strong>, proposes several key changes, including the reduction of administrative expenses from 50% to 20%, and the introduction of a new provision that allows the government to suspend the registration of an NGO for up to 180 days. These changes aim to enhance transparency and accountability in the use of foreign contributions.",
+      "The <strong>Right to Association</strong> under <strong>Article 19(1)(c)</strong> of the Indian Constitution is subject to reasonable restrictions, which include the regulation of foreign contributions to NGOs. This balance between the right to association and the need for regulation is crucial for maintaining national security and public order.",
+      "The <strong>role of NGOs in Indian society</strong> is significant, with many organizations working in areas such as education, healthcare, and environmental conservation. However, the regulation of foreign contributions to NGOs is necessary to prevent the misuse of funds and to ensure that these organizations operate in a transparent and accountable manner."
+    ],
+    "mains": {
+      "q": "Analyze the implications of the Foreign Contribution (Regulation) Amendment Bill, 2026, on the functioning of NGOs in India.",
+      "marks": "15 marks · GS2",
+      "directive": "analyze",
+      "hints": [
+        "Introduction (2 marks): Define the FCRA and its significance in regulating foreign contributions to NGOs in India.",
+        "Body - Regulatory Framework (3 marks): Discuss the key provisions of the FCRA Amendment Bill, 2026, and their implications for NGOs.",
+        "Body - Impact on NGOs (3 marks): Examine the potential impact of the Bill on the functioning of NGOs in India, including the reduction of administrative expenses and the introduction of a new provision for suspension of registration.",
+        "Body - Constitutional Perspective (3 marks): Analyze the balance between the right to association under Article 19(1)(c) and the need for regulation of foreign contributions to NGOs.",
+        "Conclusion (2 marks): Discuss the importance of striking a balance between regulating foreign contributions and allowing NGOs to operate effectively in India."
+      ]
+    },
+    "connect": [
+      {
+        "topic": "Article 19(1)(c) - Right to Association",
+        "context": "The FCRA regulates foreign contributions to NGOs, which is subject to reasonable restrictions under Article 19(1)(c)."
+      },
+      {
+        "topic": "Ministry of Home Affairs",
+        "context": "The Ministry is responsible for regulating foreign contributions to NGOs under the FCRA."
+      },
+      {
+        "topic": "NGO Regulation",
+        "context": "The FCRA Amendment Bill, 2026, aims to enhance transparency and accountability in the use of foreign contributions by NGOs."
+      },
+      {
+        "topic": "Constitutional Provisions for Governance",
+        "context": "The FCRA is an example of a regulatory framework that balances individual rights with national security concerns."
+      },
+      {
+        "topic": "Governance and Polity",
+        "context": "The FCRA Amendment Bill, 2026, highlights the importance of effective governance and regulatory oversight in ensuring compliance with legal requirements."
+      }
+    ],
+    "_hash": "77cc83ffac6e",
+    "_fetched": "2026-04-04T21:39:02.711534+00:00",
+    "_relevance": 39,
+    "_gs": [
+      "GS1",
+      "GS2"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "analyze",
+    "_mcqs": {
+      "q": "Consider the following statements:\n1. The FCRA Amendment Bill, 2026, reduces administrative expenses from 50% to 20%.\n2. The Bill introduces a new provision that allows the government to suspend the registration of an NGO for up to 180 days.\n3. The FCRA is regulated by the Ministry of Finance.\nWhich of the above is/are correct?",
+      "options": [
+        "1 only",
+        "1 and 2 only",
+        "2 and 3 only",
+        "1, 2 and 3"
+      ],
+      "correct": 1,
+      "explanation": "Statement 1 is correct: The FCRA Amendment Bill, 2026, indeed reduces administrative expenses from 50% to 20%. Statement 2 is correct: The Bill introduces a new provision that allows the government to suspend the registration of an NGO for up to 180 days. Statement 3 is incorrect: The FCRA is regulated by the Ministry of Home Affairs, not the Ministry of Finance.",
+      "trap": "Wrong Ministry"
+    }
   }
 ]
