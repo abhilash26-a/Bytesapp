@@ -10493,5 +10493,379 @@
     "_difficulty": 2,
     "_directive": "discuss",
     "_mcqs": []
+  },
+  {
+    "id": 1955,
+    "title": "Renewables Lead",
+    "cat": "economy",
+    "upsc": true,
+    "time": "2026-04-04T07:10:49.964004+00:00",
+    "summary": "Siddarth Bhamre expects renewables and defence to lead market performance in FY27, supported by structural tailwinds. This matters for UPSC as it connects to India's economic development and energy security. The growth in renewables also relates to the country's commitments under the Paris Agreement and its efforts to reduce carbon emissions.",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": 2025,
+        "label": "Target year for India to achieve 40% non-fossil fuel capacity"
+      },
+      {
+        "val": 33,
+        "label": "% reduction in greenhouse gas emissions intensity below 2005 levels by 2030"
+      },
+      {
+        "val": 100,
+        "label": "GW target for solar power capacity by 2022"
+      }
+    ],
+    "src": "Economic Times",
+    "link": "https://economictimes.indiatimes.com/markets/stocks/news/etmarkets-smart-talk-renewables-defence-to-lead-in-fy27-infra-and-gas-stocks-offer-high-risk-opportunities-siddarth-bhamre/articleshow/129994961.cms",
+    "prelims": [
+      "The <strong>National Action Plan on Climate Change (NAPCC)</strong> was launched in 2008 to coordinate climate change actions across India, focusing on eight national missions. It aims to promote sustainable development and reduce the country's vulnerability to climate change. The plan also emphasizes the importance of renewable energy in achieving these goals.",
+      "The <strong>Ministry of New and Renewable Energy (MNRE)</strong> was established in 1992 as the Department of Non-Conventional Energy Sources and was later renamed in 2006. It is responsible for the development and deployment of renewable energy technologies, including solar, wind, and bioenergy. The ministry also provides incentives and subsidies to promote the adoption of renewable energy sources.",
+      "The <strong>Renewable Energy Certificate (REC) mechanism</strong> was introduced in 2010 to promote the use of renewable energy sources and reduce greenhouse gas emissions. It allows renewable energy generators to sell their excess energy to the grid and trade it with other entities, providing a financial incentive for the production of renewable energy. The REC mechanism has been instrumental in increasing the share of renewables in India's energy mix.",
+      "The <strong>Paris Agreement</strong> aims to limit global warming to well below 2°C and pursue efforts to limit it to 1.5°C above pre-industrial levels. India has committed to reducing its greenhouse gas emissions intensity by 33-35% below 2005 levels by 2030 and increasing the share of non-fossil fuels in its energy mix to 40%. The country's growth in renewables is crucial to achieving these targets.",
+      "The <strong>Intended Nationally Determined Contribution (INDC)</strong> of India outlines its post-2020 climate actions, including the promotion of renewable energy, energy efficiency, and sustainable land use. The INDC also emphasizes the importance of international cooperation and technology transfer in achieving India's climate goals. The document serves as a roadmap for the country's low-carbon development pathway."
+    ],
+    "mains": {
+      "q": "Analyze the role of renewable energy in India's energy security and economic development.",
+      "marks": "15 marks · GS3",
+      "directive": "analyze",
+      "hints": [
+        "Introduction (2 marks): Define energy security and its importance for India's economic development, highlighting the role of renewable energy.",
+        "Body - Renewable energy potential (3 marks): Discuss India's renewable energy potential, including solar, wind, and hydro energy, and the current status of their development.",
+        "Body - Policy and regulatory framework (3 marks): Examine the policy and regulatory framework supporting the growth of renewables in India, including the National Action Plan on Climate Change and the Renewable Energy Certificate mechanism.",
+        "Body - Challenges and opportunities (3 marks): Analyze the challenges facing the renewable energy sector in India, such as intermittency and grid integration, and the opportunities for innovation and investment.",
+        "Conclusion (2 marks): Summarize the importance of renewable energy for India's energy security and economic development, and suggest ways to address the challenges and capitalize on the opportunities."
+      ]
+    },
+    "connect": [
+      {
+        "topic": "Energy Security",
+        "context": "Renewable energy is crucial for reducing India's dependence on imported fossil fuels and enhancing energy security."
+      },
+      {
+        "topic": "Climate Change",
+        "context": "The growth of renewables in India is essential for achieving its climate change mitigation targets and reducing greenhouse gas emissions."
+      },
+      {
+        "topic": "National Action Plan on Climate Change (NAPCC)",
+        "context": "The NAPCC outlines India's strategy for addressing climate change, including the promotion of renewable energy and energy efficiency."
+      },
+      {
+        "topic": "Renewable Energy Certificate (REC) Mechanism",
+        "context": "The REC mechanism provides a financial incentive for the production of renewable energy and helps to increase the share of renewables in India's energy mix."
+      }
+    ],
+    "_hash": "a5fd7eb5e912",
+    "_fetched": "2026-04-04T07:10:49.964004+00:00",
+    "_relevance": 46,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "analyze",
+    "_mcqs": {
+      "q": "Consider the following statements:\n1. The National Action Plan on Climate Change (NAPCC) was launched in 2008 to promote sustainable development and reduce India's vulnerability to climate change.\n2. The Ministry of New and Renewable Energy (MNRE) was established in 1992 as the Department of Non-Conventional Energy Sources.\n3. The Renewable Energy Certificate (REC) mechanism was introduced in 2015 to promote the use of renewable energy sources.\nWhich of the above is/are correct?",
+      "options": [
+        "1 only",
+        "1 and 2 only",
+        "2 and 3 only",
+        "1, 2 and 3"
+      ],
+      "correct": 1,
+      "explanation": "Statement 1 is correct: The NAPCC was indeed launched in 2008. Statement 2 is correct: The MNRE was established in 1992. Statement 3 is incorrect: The REC mechanism was introduced in 2010, not 2015.",
+      "trap": "Timeline Confusion"
+    }
+  },
+  {
+    "id": 1956,
+    "title": "China Regulates Digital Humans",
+    "cat": "tech",
+    "upsc": true,
+    "time": "2026-04-04T07:11:07.080521+00:00",
+    "summary": "China has introduced new rules to regulate digital humans, aiming to fill the governance gap in the sector. This move is significant for UPSC as it highlights the growing importance of digital governance and its implications on international relations and global technology policies. The regulation of digital humans connects to the broader discussion on artificial intelligence, data protection, and cybersecurity, which are crucial areas of study for GS3.",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": 2013,
+        "label": "Year of National Cyber Security Policy"
+      },
+      {
+        "val": 2016,
+        "label": "Year of MeitY Establishment"
+      },
+      {
+        "val": 2019,
+        "label": "Year of Personal Data Protection Bill"
+      }
+    ],
+    "src": "The Hindu International",
+    "link": "https://www.thehindu.com/sci-tech/technology/china-moves-to-regulate-digital-humans-bans-addictive-services-for-children/article70822258.ece",
+    "prelims": [
+      "The <strong>National Cyber Security Policy 2013</strong> aims to protect information and communication technology (ICT) infrastructure in India, which includes digital humans and related technologies. It was formulated to build a secure and resilient cyberspace for citizens, businesses, and governments. The policy outlines strategies for the development of cyber security technologies and their deployment.",
+      "The <strong>Ministry of Electronics and Information Technology (MeitY)</strong> plays a crucial role in regulating and promoting the use of digital technologies in India, including digital humans. Established in 2016, MeitY is responsible for formulating and implementing policies related to IT and electronics. It also oversees the development of e-governance applications and promotes the use of IT in various sectors.",
+      "The concept of <strong>digital humans</strong> is closely related to <strong>artificial intelligence (AI)</strong>, as it involves the creation of digital entities that can simulate human-like intelligence and behavior. AI has numerous applications in areas such as healthcare, finance, and education, and its development is a key focus area for many countries, including India. The Indian government has launched initiatives like the <strong>National AI Mission</strong> to promote the development and adoption of AI technologies.",
+      "The regulation of digital humans raises important questions about <strong>data protection and privacy</strong>, as these entities often rely on vast amounts of personal data to function effectively. The <strong>Personal Data Protection Bill, 2019</strong>, is a proposed legislation in India that aims to regulate the collection, storage, and processing of personal data. It outlines the rights of individuals and the obligations of data fiduciaries, which are entities that collect and process personal data.",
+      "The development and regulation of digital humans also have implications for <strong>international relations and global governance</strong>, as countries may have different approaches to regulating these technologies. The <strong>World Trade Organization (WTO)</strong> and other international organizations play a crucial role in promoting cooperation and setting standards for the development and use of digital technologies, including digital humans."
+    ],
+    "mains": {
+      "q": "Analyze the implications of regulating digital humans on international relations and global technology policies.",
+      "marks": "15 marks · GS2",
+      "directive": "analyze",
+      "hints": [
+        "Introduction (2 marks): Define digital humans and their significance in the context of international relations and global technology policies.",
+        "Body - Regulatory Frameworks (3 marks): Discuss the different approaches to regulating digital humans across countries, highlighting the challenges and opportunities for international cooperation.",
+        "Body - Economic and Social Implications (3 marks): Examine the potential economic and social impacts of digital humans, including job displacement, data privacy concerns, and access to digital services.",
+        "Body - Global Governance (3 marks): Analyze the role of international organizations, such as the WTO and the ITU, in promoting cooperation and setting standards for the development and use of digital humans.",
+        "Conclusion (2 marks): Summarize the key implications of regulating digital humans and suggest ways for countries to balance their regulatory approaches with the need for international cooperation and standardization."
+      ]
+    },
+    "connect": [
+      {
+        "topic": "National Cyber Security Policy 2013",
+        "context": "This policy is relevant for understanding the regulatory framework for digital security in India, which includes aspects related to digital humans."
+      },
+      {
+        "topic": "Ministry of Electronics and Information Technology (MeitY)",
+        "context": "MeitY's role in promoting digital technologies makes it a key player in the development and regulation of digital humans in India."
+      },
+      {
+        "topic": "Artificial Intelligence (AI) and Digital Humans",
+        "context": "Understanding the connection between AI and digital humans is crucial for analyzing the implications of these technologies on society and governance."
+      },
+      {
+        "topic": "Data Protection and Privacy",
+        "context": "The regulation of digital humans raises significant questions about data protection and privacy, making this a critical area of study for understanding the implications of these technologies."
+      },
+      {
+        "topic": "International Relations and Global Governance",
+        "context": "The development and regulation of digital humans have international implications, making it essential to consider global governance frameworks and international cooperation in this area."
+      }
+    ],
+    "_hash": "650b565d4ab6",
+    "_fetched": "2026-04-04T07:11:07.080521+00:00",
+    "_relevance": 36,
+    "_gs": [
+      "GS2",
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "analyze",
+    "_mcqs": {
+      "q": "Consider the following statements:\n1. The National Cyber Security Policy 2013 is the primary policy framework for regulating digital humans in India.\n2. The Ministry of Electronics and Information Technology (MeitY) is responsible for promoting the use of digital humans in India.\n3. The regulation of digital humans is primarily a concern of national governments, with little role for international organizations.\nWhich of the above is/are correct?",
+      "options": [
+        "1 only",
+        "1 and 2 only",
+        "2 and 3 only",
+        "1, 2 and 3"
+      ],
+      "correct": 1,
+      "explanation": "Statement 1 is correct: The National Cyber Security Policy 2013 does address aspects related to digital security, which can encompass digital humans. Statement 2 is correct: MeitY does play a role in promoting digital technologies, which could include digital humans. Statement 3 is incorrect: International organizations do have a role in regulating digital humans, especially in terms of setting global standards and promoting cooperation.",
+      "trap": "Absolute Language"
+    }
+  },
+  {
+    "id": 1957,
+    "title": "Drone, missile strike kills one in Russia’s Rostov: Governor",
+    "cat": "world",
+    "upsc": false,
+    "time": "2026-04-04T07:13:19.459969+00:00",
+    "summary": "Falling drone debris also hit a foreign-flagged cargo vessel in the Sea of Azov, causing a fire, while air defences destroyed drones over Taganrog Bay",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "The Hindu International",
+    "link": "https://www.thehindu.com/news/international/drone-missile-strike-in-russias-rostov/article70822452.ece",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "3c54f4ac0239",
+    "_fetched": "2026-04-04T07:13:19.459969+00:00",
+    "_relevance": 36,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 1958,
+    "title": "India’s pharma exports near $29 billion by February in FY26,",
+    "cat": "economy",
+    "upsc": false,
+    "time": "2026-04-04T07:15:31.840423+00:00",
+    "summary": "Indian pharmaceutical exports reached nearly $29 billion up to February this financial year, showing a 5% growth. The sector, valued at around $60 bil",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "LiveMint Industry",
+    "link": "https://www.livemint.com/industry/manufacturing/indias-pharma-exports-near-29-billion-by-february-in-fy26-maintain-steady-growth-11775285181505.html",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "33f6fdf9badc",
+    "_fetched": "2026-04-04T07:15:31.840423+00:00",
+    "_relevance": 36,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 1959,
+    "title": "Rethinking the role of AI in investing: What retail investor",
+    "cat": "economy",
+    "upsc": false,
+    "time": "2026-04-04T07:17:44.258246+00:00",
+    "summary": "AI in investing is often built for stable markets, limiting its usefulness during volatility. This piece argues that AI should enhance decision-making",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "Economic Times",
+    "link": "https://economictimes.indiatimes.com/markets/stocks/news/rethinking-the-role-of-ai-in-investing-what-retail-investors-need-in-volatile-markets/articleshow/130013054.cms",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "ee21bdf56e75",
+    "_fetched": "2026-04-04T07:17:44.258246+00:00",
+    "_relevance": 32,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "sc-judgment",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 1960,
+    "title": "Supreme Court Judge recuses from case after prior counsel ro",
+    "cat": "india",
+    "upsc": false,
+    "time": "2026-04-04T07:19:56.674272+00:00",
+    "summary": "In view of the development, the bench recalled its March 17 order and directed that the matter be listed before another bench, as may be directed by t",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "The Hindu",
+    "link": "https://www.thehindu.com/news/national/supreme-court-judge-recuses-from-case-after-prior-counsel-role-comes-to-light/article70822500.ece",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "393d21788a18",
+    "_fetched": "2026-04-04T07:19:56.674272+00:00",
+    "_relevance": 31,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "sc-judgment",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 1961,
+    "title": "US Economy",
+    "cat": "economy",
+    "upsc": true,
+    "time": "2026-04-04T04:58:14.953190+00:00",
+    "summary": "The US economy is closely watching the impact of the Middle East war on oil prices and inflation. This is crucial for UPSC as it affects global economic trends and can have implications for India's trade and economic policies. The situation connects to the syllabus area of international trade and economic development.",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": 13,
+        "label": "Number of OPEC member countries"
+      },
+      {
+        "val": 1913,
+        "label": "Year the Federal Reserve was established"
+      }
+    ],
+    "src": "Economic Times",
+    "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/wall-street-week-ahead-inflation-in-focus-for-markets-jostled-by-middle-east-war-signals/articleshow/130012703.cms",
+    "prelims": [
+      "The <strong>Federal Reserve</strong> plays a crucial role in managing inflation in the US economy through monetary policy tools. Established in 1913, it has a dual mandate to promote maximum employment and price stability. The Fed's actions have significant implications for global economic trends.",
+      "The <strong>Consumer Price Index (CPI)</strong> is a key indicator of inflation in the US economy, measuring the average change in prices of a basket of goods and services consumed by households. The CPI is calculated by the Bureau of Labor Statistics and is used by the Federal Reserve to inform its monetary policy decisions.",
+      "The <strong>Organization of the Petroleum Exporting Countries (OPEC)</strong> has a significant impact on global oil prices, which in turn affect inflation in the US economy. OPEC was established in 1960 and has 13 member countries, with its headquarters in Vienna, Austria. OPEC's production decisions can influence global oil prices and have far-reaching consequences for the world economy.",
+      "The <strong>US inflation rate</strong> is closely watched by investors and policymakers, as high inflation can erode the purchasing power of consumers and reduce the value of investments. The inflation rate is calculated using various indicators, including the CPI and the Personal Consumption Expenditures (PCE) price index. The Federal Reserve aims to keep inflation at a target rate of 2%.",
+      "The <strong>global economic slowdown</strong> can have significant implications for the US economy, including reduced demand for exports and lower economic growth. The slowdown can be caused by various factors, including trade tensions, geopolitical uncertainty, and monetary policy decisions. The US economy is closely integrated with the global economy, making it vulnerable to external shocks."
+    ],
+    "mains": {
+      "q": "Analyze the impact of the Middle East war on the US economy, with a focus on oil prices and inflation.",
+      "marks": "15 marks · GS3",
+      "directive": "analyze",
+      "hints": [
+        "Introduction (2 marks): Define the key terms, including oil prices, inflation, and the Middle East war, and provide an overview of the US economy.",
+        "Body - Oil prices (3 marks): Explain how the Middle East war affects oil prices, including the role of OPEC and the impact of supply chain disruptions.",
+        "Body - Inflation (3 marks): Discuss how oil prices influence inflation in the US economy, including the impact on consumer prices and the Federal Reserve's monetary policy response.",
+        "Body - Economic implications (3 marks): Analyze the broader economic implications of the Middle East war for the US economy, including the impact on trade, investment, and economic growth.",
+        "Conclusion (2 marks): Summarize the key findings and provide policy recommendations for managing the economic implications of the Middle East war."
+      ]
+    },
+    "connect": [
+      {
+        "topic": "Monetary Policy and Inflation Control",
+        "context": "The Federal Reserve's monetary policy decisions have significant implications for inflation control in the US economy, making this a crucial topic for GS3."
+      },
+      {
+        "topic": "Global Trade and Economic Development",
+        "context": "The Middle East war's impact on oil prices and inflation has far-reaching consequences for global trade and economic development, connecting to GS3 and international trade."
+      },
+      {
+        "topic": "Energy Security and Geopolitics",
+        "context": "The role of OPEC in influencing global oil prices highlights the importance of energy security and geopolitics in shaping the global economy, relevant for GS2 and international relations."
+      },
+      {
+        "topic": "Economic Indicators and Data Analysis",
+        "context": "Understanding the US inflation rate and its calculation using various indicators, such as the CPI and PCE, is essential for data analysis and economic decision-making, connecting to GS3 and economic development."
+      },
+      {
+        "topic": "Central Banking and Financial Regulation",
+        "context": "The Federal Reserve's actions in response to the Middle East war demonstrate the critical role of central banking and financial regulation in maintaining economic stability, relevant for GS3 and financial governance."
+      }
+    ],
+    "_hash": "dea9349a6e93",
+    "_fetched": "2026-04-04T04:58:14.953190+00:00",
+    "_relevance": 36,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "analyze",
+    "_mcqs": {
+      "q": "Consider the following statements:\n1. The Federal Reserve has a dual mandate to promote maximum employment and price stability.\n2. OPEC is responsible for setting global oil prices.\n3. The US inflation rate is calculated using only the Consumer Price Index (CPI).\nWhich of the above is/are correct?",
+      "options": [
+        "1 only",
+        "1 and 2 only",
+        "2 and 3 only",
+        "1, 2 and 3"
+      ],
+      "correct": 0,
+      "explanation": "Statement 1 is correct: The Federal Reserve has a dual mandate to promote maximum employment and price stability. Statement 2 is incorrect: While OPEC has significant influence over global oil prices, it does not set prices unilaterally. Statement 3 is incorrect: The US inflation rate is calculated using various indicators, including the CPI and the Personal Consumption Expenditures (PCE) price index.",
+      "trap": "Absolute Language"
+    }
   }
 ]
