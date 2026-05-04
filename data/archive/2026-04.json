@@ -10117,5 +10117,381 @@
     "_difficulty": 2,
     "_directive": "discuss",
     "_mcqs": []
+  },
+  {
+    "id": 1954,
+    "title": "Rupee at 100",
+    "cat": "economy",
+    "upsc": true,
+    "time": "2026-04-04T02:48:08.029098+00:00",
+    "summary": "The Indian rupee has been experiencing a steep decline, echoing previous economic upheavals. This decline affects everyday expenses for citizens and the financial burden of education, making it a crucial issue for UPSC aspirants to understand the implications on the country's economy. The rupee's depreciation also has significant implications for India's trade balance and fiscal health, connecting to GS3 topics such as economic development and international trade.",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": 100,
+        "label": "Rupee value against the US dollar"
+      },
+      {
+        "val": 1999,
+        "label": "Year the Foreign Exchange Management Act (FEMA) was enacted"
+      },
+      {
+        "val": 6,
+        "label": "Number of members in the Monetary Policy Committee (MPC)"
+      }
+    ],
+    "src": "ET Economy",
+    "link": "https://economictimes.indiatimes.com/news/economy/finance/rupee-at-100-will-be-a-harsh-check-on-indias-ambitions/articleshow/130011662.cms",
+    "prelims": [
+      "The <strong>Foreign Exchange Management Act (FEMA), 1999</strong> regulates foreign exchange transactions in India, which has been impacted by the rupee's decline. FEMA replaced the Foreign Exchange Regulation Act (FERA), 1973, and is crucial for understanding India's exchange rate management. The Reserve Bank of India (RBI) is the primary agency responsible for managing India's foreign exchange under FEMA.",
+      "The <strong>Monetary Policy Committee (MPC)</strong> of the Reserve Bank of India (RBI) plays a crucial role in managing inflation and maintaining financial stability, including responding to currency fluctuations. The MPC is a six-member committee that decides on key interest rates, which can influence the value of the rupee. Understanding the MPC's role is essential for analyzing the impact of monetary policy on the economy.",
+      "India's <strong>Current Account Deficit (CAD)</strong> is affected by the rupee's depreciation, as a weaker currency makes imports more expensive. The CAD is a key component of the balance of payments, and managing it is crucial for maintaining economic stability. A high CAD can lead to a decrease in foreign exchange reserves, making it challenging for the government to service its external debt.",
+      "The <strong>Exchange Rate Mechanism</strong> in India involves the RBI intervening in the foreign exchange market to manage the value of the rupee. This mechanism is critical for maintaining economic stability and preventing excessive volatility in the currency market. The RBI uses various tools, such as buying or selling dollars, to influence the exchange rate and stabilize the currency.",
+      "The <strong>International Monetary Fund (IMF)</strong> provides a framework for international monetary cooperation and exchange rate stability, which is relevant in the context of the rupee's decline. The IMF offers guidance on exchange rate management and provides financial assistance to countries facing balance of payments difficulties. Understanding the IMF's role is essential for analyzing the global implications of currency fluctuations."
+    ],
+    "mains": {
+      "q": "Analyze the impact of the rupee's depreciation on India's trade balance and fiscal health, and discuss the policy measures that can be taken to mitigate these effects.",
+      "marks": "15 marks · GS3",
+      "directive": "analyze",
+      "hints": [
+        "Introduction (2 marks): Define the terms depreciation, trade balance, and fiscal health, and explain their interrelationship in the context of the Indian economy.",
+        "Body - Impact on Trade Balance (3 marks): Discuss how a depreciating rupee affects India's imports and exports, and explain the potential impact on the trade deficit.",
+        "Body - Impact on Fiscal Health (3 marks): Analyze how the rupee's depreciation can influence the government's revenue and expenditure, including the impact on subsidies, loans, and interest payments.",
+        "Body - Policy Measures (4 marks): Examine the monetary and fiscal policy tools available to the government to mitigate the effects of the rupee's depreciation, such as interest rate adjustments, tariff changes, and foreign exchange intervention.",
+        "Conclusion (3 marks): Summarize the key findings and suggest a comprehensive policy approach to manage the challenges posed by the rupee's depreciation, including the need for coordination between monetary and fiscal authorities."
+      ]
+    },
+    "connect": [
+      {
+        "topic": "Balance of Payments",
+        "context": "The rupee's depreciation affects India's balance of payments, making it essential to understand the components of the balance of payments and their impact on the economy."
+      },
+      {
+        "topic": "Monetary Policy and Inflation",
+        "context": "The RBI's monetary policy decisions, including interest rates and money supply, influence the value of the rupee and inflation, connecting to GS3 topics such as economic development and monetary policy."
+      },
+      {
+        "topic": "International Trade and Tariffs",
+        "context": "The rupee's depreciation impacts India's trade balance, making it crucial to understand the principles of international trade, including tariffs, quotas, and trade agreements."
+      },
+      {
+        "topic": "Fiscal Policy and Public Finance",
+        "context": "The government's fiscal policy decisions, including taxation and expenditure, are influenced by the rupee's value, connecting to GS3 topics such as public finance and fiscal policy."
+      },
+      {
+        "topic": "Exchange Rate Mechanism",
+        "context": "Understanding the exchange rate mechanism is essential for analyzing the impact of the rupee's depreciation on the economy, including the role of the RBI in managing the exchange rate."
+      }
+    ],
+    "_hash": "bc82150aa491",
+    "_fetched": "2026-04-04T02:48:08.029098+00:00",
+    "_relevance": 45,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "analyze",
+    "_mcqs": {
+      "q": "Consider the following statements:\n1. The rupee's depreciation always leads to an increase in India's exports.\n2. The Reserve Bank of India (RBI) is responsible for managing India's foreign exchange reserves.\n3. A weak rupee can lead to higher import prices, which can contribute to inflation.\nWhich of the above is/are correct?",
+      "options": [
+        "1 only",
+        "1 and 2 only",
+        "2 and 3 only",
+        "1, 2 and 3"
+      ],
+      "correct": 2,
+      "explanation": "Statement 1 is incorrect because while a depreciating rupee can make exports cheaper and more competitive, it is not a guarantee that exports will increase. Statement 2 is correct because the RBI is indeed responsible for managing India's foreign exchange reserves. Statement 3 is correct because a weak rupee can lead to higher import prices, which can contribute to inflation.",
+      "trap": "Absolute Language"
+    }
+  },
+  {
+    "id": 1955,
+    "title": "Bank Holiday",
+    "cat": "economy",
+    "upsc": true,
+    "time": "2026-04-04T02:48:23.226909+00:00",
+    "summary": "All banks in India will operate today, April 4, as it is the first Saturday of the month. This is relevant for UPSC as it pertains to the banking system and its operational norms. The Reserve Bank of India (RBI) plays a crucial role in regulating these norms, which is an important aspect of the Indian economy.",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": 1935,
+        "label": "Year the Reserve Bank of India was established"
+      },
+      {
+        "val": 1949,
+        "label": "Year the Banking Regulation Act was enacted"
+      },
+      {
+        "val": 1946,
+        "label": "Year the Indian Banks' Association was established"
+      }
+    ],
+    "src": "LiveMint Industry",
+    "link": "https://www.livemint.com/industry/banking/bank-holiday-today-are-banks-open-or-closed-on-saturday-april-4-check-rbi-calendar-here-11775263173225.html",
+    "prelims": [
+      "The <strong>Reserve Bank of India (RBI)</strong> was established in 1935 under the Reserve Bank of India Act, 1934. It has its headquarters in Mumbai and is responsible for regulating the banking system in India. The RBI plays a crucial role in maintaining the stability of the Indian economy.",
+      "The <strong>Banking Regulation Act, 1949</strong> empowers the RBI to regulate and supervise the banking system in India. The Act gives the RBI the authority to issue licenses to banks, inspect their books, and impose penalties for non-compliance. This is an important aspect of the Indian banking system.",
+      "The <strong>Indian Banks' Association (IBA)</strong> is a voluntary organization of banks in India. It was established in 1946 and is headquartered in Mumbai. The IBA plays a crucial role in promoting the interests of the banking industry and providing a platform for discussion and cooperation among banks.",
+      "The <strong>Payment and Settlement Systems Act, 2007</strong> regulates the payment and settlement systems in India. The Act empowers the RBI to regulate and supervise these systems, ensuring their safety and efficiency. This is an important aspect of the Indian economy, as it facilitates the smooth functioning of financial transactions.",
+      "The <strong>Financial Stability and Development Council (FSDC)</strong> is a high-level body that oversees the stability of the Indian financial system. It was established in 2010 and is chaired by the Finance Minister. The FSDC plays a crucial role in promoting financial stability and development in India."
+    ],
+    "mains": {
+      "q": "Analyze the role of the Reserve Bank of India in regulating the banking system in India.",
+      "marks": "15 marks · GS3",
+      "directive": "analyze",
+      "hints": [
+        "Introduction (2 marks): Define the Reserve Bank of India and its role in regulating the banking system in India.",
+        "Body - Regulatory framework (3 marks): Discuss the Banking Regulation Act, 1949, and its provisions for regulating banks in India.",
+        "Body - Supervisory role (3 marks): Explain the RBI's supervisory role in ensuring the stability of the banking system in India.",
+        "Body - Monetary policy (3 marks): Analyze the RBI's monetary policy framework and its impact on the banking system in India.",
+        "Conclusion (2 marks): Summarize the importance of the RBI's role in regulating the banking system in India and its impact on the economy."
+      ]
+    },
+    "connect": [
+      {
+        "topic": "Banking Regulation Act, 1949",
+        "context": "The Act empowers the RBI to regulate and supervise the banking system in India, which is an important aspect of the Indian economy."
+      },
+      {
+        "topic": "Payment and Settlement Systems Act, 2007",
+        "context": "The Act regulates the payment and settlement systems in India, ensuring their safety and efficiency."
+      },
+      {
+        "topic": "Financial Stability and Development Council (FSDC)",
+        "context": "The FSDC oversees the stability of the Indian financial system, which includes the banking system."
+      },
+      {
+        "topic": "Monetary Policy Framework",
+        "context": "The RBI's monetary policy framework has a significant impact on the banking system in India, influencing interest rates and credit availability."
+      },
+      {
+        "topic": "Indian Financial System",
+        "context": "The Indian financial system includes the banking system, which is regulated by the RBI, and is an important aspect of the Indian economy."
+      }
+    ],
+    "_hash": "6ff71aa19f27",
+    "_fetched": "2026-04-04T02:48:23.226909+00:00",
+    "_relevance": 34,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 1,
+    "_directive": "analyze",
+    "_mcqs": {
+      "q": "Consider the following statements:\n1. The Reserve Bank of India was established in 1935.\n2. The Banking Regulation Act, 1949, empowers the RBI to regulate and supervise the banking system in India.\n3. The Indian Banks' Association is a regulatory body that oversees the banking system in India.\nWhich of the above is/are correct?",
+      "options": [
+        "1 only",
+        "1 and 2 only",
+        "2 and 3 only",
+        "1, 2 and 3"
+      ],
+      "correct": 1,
+      "explanation": "Statement 1 is correct: The Reserve Bank of India was indeed established in 1935. Statement 2 is correct: The Banking Regulation Act, 1949, does empower the RBI to regulate and supervise the banking system in India. Statement 3 is incorrect: The Indian Banks' Association is a voluntary organization of banks in India, not a regulatory body.",
+      "trap": "Wrong Ministry"
+    }
+  },
+  {
+    "id": 1956,
+    "title": "Mailam Demands",
+    "cat": "india",
+    "upsc": true,
+    "time": "2026-04-04T02:48:40.456794+00:00",
+    "summary": "Residents of Mailam are demanding institutions for higher education and better civic amenities. This demand is significant for UPSC as it highlights the issues of rural development and the need for inclusive growth. The story connects to the syllabus area of GS2 (governance) and GS3 (economy and development).",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": 50,
+        "label": "Target Gross Enrolment Ratio (GER) by 2035"
+      },
+      {
+        "val": 1992,
+        "label": "Year of the 73rd Amendment to the Constitution"
+      },
+      {
+        "val": 2013,
+        "label": "Year of launch of Rashtriya Uchchatar Shiksha Abhiyan (RUSA)"
+      }
+    ],
+    "src": "The Hindu",
+    "link": "https://www.thehindu.com/elections/tamil-nadu-assembly/residents-demand-institutions-for-higher-education-better-civic-amenities-in-mailam/article70818972.ece",
+    "prelims": [
+      "<strong>National Education Policy (NEP) 2020</strong> emphasizes the importance of higher education institutions in rural areas, aiming to increase the Gross Enrolment Ratio (GER) to 50% by 2035. NEP 2020 also focuses on promoting vocational training and skill development. The policy has been formulated to address the challenges faced by rural students in accessing quality higher education.",
+      "<strong>Article 21A</strong> of the Indian Constitution makes education a fundamental right for all children between the ages of 6 and 14. However, the implementation of this article in rural areas remains a challenge due to inadequate infrastructure and lack of qualified teachers. The Right to Education Act, 2009, has been enacted to give effect to this constitutional provision.",
+      "The <strong>73rd Amendment to the Constitution</strong> (1992) added Part IX to the Constitution, which deals with the powers and responsibilities of Panchayati Raj institutions. This amendment aimed to strengthen local self-governance and promote decentralization. However, the effectiveness of Panchayati Raj institutions in delivering basic services, including education, varies across states.",
+      "<strong>Rashtriya Uchchatar Shiksha Abhiyan (RUSA)</strong> is a centrally sponsored scheme launched in 2013 to improve the quality of higher education in India. RUSA focuses on strengthening state universities and colleges, promoting research and innovation, and enhancing faculty development. The scheme has been instrumental in supporting the establishment of new universities and colleges in rural areas.",
+      "<strong>Unnat Bharat Abhiyan (UBA)</strong> is a flagship program of the Ministry of Education, launched in 2014, which aims to link higher education institutions with rural development. UBA focuses on identifying developmental needs and gaps in rural areas and leveraging the knowledge and resources of higher education institutions to address these gaps. The program has been successful in promoting community engagement and social responsibility among students and faculty."
+    ],
+    "mains": {
+      "q": "Critically examine the challenges faced by rural areas in India in accessing quality higher education and suggest measures to address these challenges.",
+      "marks": "15 marks · GS2",
+      "directive": "critically_examine",
+      "hints": [
+        "Introduction (2 marks): Define the concept of higher education and its significance in rural development, highlighting the objectives of the National Education Policy 2020.",
+        "Body - Challenges (3 marks): Discuss the infrastructure and resource constraints faced by rural higher education institutions, including inadequate funding, lack of qualified faculty, and limited access to technology.",
+        "Body - Policy initiatives (3 marks): Analyze the role of schemes like Rashtriya Uchchatar Shiksha Abhiyan (RUSA) and Unnat Bharat Abhiyan (UBA) in promoting higher education in rural areas, including their strengths and limitations.",
+        "Body - Community engagement (3 marks): Examine the potential of community-led initiatives and public-private partnerships in enhancing access to higher education in rural areas, citing examples of successful models.",
+        "Conclusion (2 marks): Summarize the key challenges and suggest a comprehensive approach to addressing these challenges, including policy reforms, institutional capacity building, and community participation."
+      ]
+    },
+    "connect": [
+      {
+        "topic": "National Education Policy (NEP) 2020",
+        "context": "The policy's emphasis on higher education in rural areas is a key aspect of the story, connecting to GS2 (governance) and GS3 (economy and development)."
+      },
+      {
+        "topic": "Panchayati Raj Institutions",
+        "context": "The 73rd Amendment to the Constitution, which deals with the powers and responsibilities of Panchayati Raj institutions, is relevant to the story, highlighting the importance of local self-governance in rural development."
+      },
+      {
+        "topic": "Rashtriya Uchchatar Shiksha Abhiyan (RUSA)",
+        "context": "RUSA's focus on improving the quality of higher education in India, particularly in rural areas, connects to the story, emphasizing the need for targeted interventions to address educational disparities."
+      },
+      {
+        "topic": "Unnat Bharat Abhiyan (UBA)",
+        "context": "UBA's objective of linking higher education institutions with rural development is relevant to the story, underscoring the potential of community-led initiatives in promoting social change and development."
+      },
+      {
+        "topic": "Article 21A of the Indian Constitution",
+        "context": "The article's provision for free and compulsory education for all children between the ages of 6 and 14 is a fundamental right, and its implementation in rural areas is a challenge that the story highlights, connecting to GS2 (governance) and GS3 (economy and development)."
+      }
+    ],
+    "_hash": "9a27bfb9bd9e",
+    "_fetched": "2026-04-04T02:48:40.456794+00:00",
+    "_relevance": 33,
+    "_gs": [
+      "GS2",
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "critically_examine",
+    "_mcqs": {
+      "q": "Consider the following statements:\n1. The National Education Policy 2020 aims to increase the Gross Enrolment Ratio (GER) to 50% by 2030.\n2. The 73rd Amendment to the Constitution deals with the powers and responsibilities of urban local bodies.\n3. Rashtriya Uchchatar Shiksha Abhiyan (RUSA) is a centrally sponsored scheme to improve the quality of school education in India.\nWhich of the above is/are correct?",
+      "options": [
+        "1 only",
+        "1 and 2 only",
+        "2 and 3 only",
+        "1, 2 and 3"
+      ],
+      "correct": 0,
+      "explanation": "Statement 1 is incorrect: The National Education Policy 2020 aims to increase the GER to 50% by 2035, not 2030. Statement 2 is incorrect: The 73rd Amendment deals with the powers and responsibilities of Panchayati Raj institutions, not urban local bodies. Statement 3 is incorrect: RUSA is a scheme to improve the quality of higher education, not school education.",
+      "trap": "Wrong Timeline"
+    }
+  },
+  {
+    "id": 1957,
+    "title": "India's Nuclear Submarine",
+    "cat": "science",
+    "upsc": true,
+    "time": "2026-04-04T02:48:56.539112+00:00",
+    "summary": "India has inducted its third nuclear-powered ballistic missile submarine, INS Aridaman, to strengthen its deterrence capabilities. This development is crucial for UPSC as it relates to India's strategic security and technological advancements. It connects to the GS3 syllabus area, specifically science and technology, and national security.",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": 3,
+        "label": "Number of nuclear-powered ballistic missile submarines inducted into the Indian Navy"
+      },
+      {
+        "val": 100,
+        "label": "Percentage of India's nuclear triad that is now operational"
+      }
+    ],
+    "src": "Indian Express",
+    "link": "https://indianexpress.com/article/india/india-inducts-nuclear-powered-ballistic-missile-submarine-ins-aridhaman-10616916/",
+    "prelims": [
+      "<strong>Nuclear-powered ballistic missile submarines</strong> are a critical component of a nation's nuclear triad, providing a second-strike capability in the event of a nuclear attack. The development of such submarines requires significant technological expertise and resources. India's nuclear submarine program is overseen by the <strong>Atomic Energy Commission</strong> and the <strong>Defence Research and Development Organisation</strong>.",
+      "<strong>INS Aridaman</strong> is the third nuclear-powered ballistic missile submarine to be inducted into the Indian Navy, after INS Arihant and INS Arighat. These submarines are equipped with <strong>Ballistic Missile Defence</strong> systems, which provide a layered defence against incoming ballistic missiles. The development of these submarines is a significant milestone in India's defence modernization efforts.",
+      "The <strong>Indo-Pacific region</strong> is a critical area of operation for India's nuclear-powered ballistic missile submarines, given the presence of other nuclear-armed states in the region. The <strong>Quadrilateral Security Dialogue</strong> (Quad) between India, the United States, Japan, and Australia is a key forum for discussing regional security issues, including the proliferation of nuclear weapons. India's nuclear submarine program is seen as a key component of its <strong>Act East policy</strong>.",
+      "<strong>Article 51</strong> of the Indian Constitution directs the state to promote international peace and security, which includes the development of nuclear-powered ballistic missile submarines as a deterrent against potential threats. The <strong>National Security Advisory Board</strong> provides advice to the government on matters related to national security, including the development of nuclear-powered ballistic missile submarines. The <strong>Defence Acquisition Procedure</strong> outlines the process for acquiring defence equipment, including nuclear-powered ballistic missile submarines.",
+      "<strong>Nuclear-powered ballistic missile submarines</strong> require significant investment in <strong>infrastructure</strong>, including dockyards, maintenance facilities, and training programs for personnel. The <strong>Indian Navy's</strong> submarine fleet is based at the <strong>Eastern Naval Command</strong> in Visakhapatnam, which has been upgraded to support the operation of nuclear-powered ballistic missile submarines."
+    ],
+    "mains": {
+      "q": "Analyze the significance of India's nuclear-powered ballistic missile submarines in the context of its national security and strategic deterrence.",
+      "marks": "15 marks · GS3",
+      "directive": "analyze",
+      "hints": [
+        "Introduction (2 marks): Define the concept of nuclear triad and the role of nuclear-powered ballistic missile submarines in it, highlighting their importance in national security.",
+        "Body - Strategic significance (3 marks): Discuss the strategic significance of India's nuclear-powered ballistic missile submarines in the Indo-Pacific region, including their potential impact on regional security dynamics.",
+        "Body - Technological advancements (3 marks): Examine the technological advancements required for the development of nuclear-powered ballistic missile submarines, including the role of the Atomic Energy Commission and the Defence Research and Development Organisation.",
+        "Body - International implications (3 marks): Analyze the international implications of India's nuclear-powered ballistic missile submarines, including their potential impact on regional security agreements and the non-proliferation regime.",
+        "Conclusion (2 marks): Summarize the significance of India's nuclear-powered ballistic missile submarines in the context of its national security and strategic deterrence, highlighting the need for continued investment in this area."
+      ]
+    },
+    "connect": [
+      {
+        "topic": "Nuclear Triad and Strategic Deterrence",
+        "context": "India's nuclear-powered ballistic missile submarines are a critical component of its nuclear triad, providing a second-strike capability in the event of a nuclear attack."
+      },
+      {
+        "topic": "Indo-Pacific Security Dynamics",
+        "context": "The Indo-Pacific region is a critical area of operation for India's nuclear-powered ballistic missile submarines, given the presence of other nuclear-armed states in the region."
+      },
+      {
+        "topic": "National Security and Defence Modernization",
+        "context": "The development of nuclear-powered ballistic missile submarines is a significant milestone in India's defence modernization efforts, highlighting the need for continued investment in this area."
+      },
+      {
+        "topic": "Quadrilateral Security Dialogue",
+        "context": "The Quadrilateral Security Dialogue is a key forum for discussing regional security issues, including those related to nuclear-powered ballistic missile submarines."
+      },
+      {
+        "topic": "Article 51 and National Security",
+        "context": "Article 51 of the Indian Constitution directs the state to promote international peace and security, which includes the development of nuclear-powered ballistic missile submarines as a deterrent against potential threats."
+      }
+    ],
+    "_hash": "93fc142a74f7",
+    "_fetched": "2026-04-04T02:48:56.539112+00:00",
+    "_relevance": 33,
+    "_gs": [
+      "GS2",
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "analyze",
+    "_mcqs": {
+      "q": "Consider the following statements:\n1. India's nuclear-powered ballistic missile submarines are equipped with Ballistic Missile Defence systems.\n2. The development of nuclear-powered ballistic missile submarines is overseen by the Ministry of Defence.\n3. The Quadrilateral Security Dialogue is a key forum for discussing regional security issues related to nuclear-powered ballistic missile submarines.\nWhich of the above is/are correct?",
+      "options": [
+        "1 only",
+        "1 and 2 only",
+        "2 and 3 only",
+        "1, 2 and 3"
+      ],
+      "correct": 0,
+      "explanation": "Statement 1 is correct: India's nuclear-powered ballistic missile submarines are indeed equipped with Ballistic Missile Defence systems. Statement 2 is incorrect: The development of nuclear-powered ballistic missile submarines is overseen by the Atomic Energy Commission and the Defence Research and Development Organisation, not the Ministry of Defence. Statement 3 is correct: The Quadrilateral Security Dialogue is a key forum for discussing regional security issues, including those related to nuclear-powered ballistic missile submarines.",
+      "trap": "Wrong Ministry"
+    }
+  },
+  {
+    "id": 1958,
+    "title": "Jan Vishwas Bill: Commerce Ministry wants departments to con",
+    "cat": "tech",
+    "upsc": false,
+    "time": "2026-04-04T02:51:09.143644+00:00",
+    "summary": "Piyush Goyal said as per estimates, there are five crore pending court cases relating to minor offences, majority of which should have never gone to t",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "The Hindu",
+    "link": "https://www.thehindu.com/news/national/jan-vishwas-bill-commerce-ministry-wants-departments-to-consider-withdrawing-cases-involving-minor-offences/article70822191.ece",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "ffc41f57f5e6",
+    "_fetched": "2026-04-04T02:51:09.143644+00:00",
+    "_relevance": 31,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
   }
 ]
