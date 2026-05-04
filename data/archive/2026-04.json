@@ -11689,5 +11689,392 @@
     "_difficulty": 2,
     "_directive": "discuss",
     "_mcqs": []
+  },
+  {
+    "id": 1964,
+    "title": "Great Nicobar Dispute",
+    "cat": "policy",
+    "upsc": true,
+    "time": "2026-04-04T18:54:47.841361+00:00",
+    "summary": "The Congress has criticized the BJP-led government over the Great Nicobar draft relocation plan, citing concerns of local communities being ignored. This issue is relevant for UPSC as it involves the intersection of environmental and tribal rights, which are critical aspects of Indian polity and governance. The controversy surrounding the project connects to the broader themes of sustainable development, environmental protection, and the rights of indigenous communities, making it a significant topic for GS2 and GS3.",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": 1045,
+        "label": "Area of Great Nicobar Island (sq km)"
+      },
+      {
+        "val": 2010,
+        "label": "Year NGT was established"
+      },
+      {
+        "val": 75,
+        "label": "% of Indian cargo transshipped via foreign ports"
+      }
+    ],
+    "src": "The Hindu",
+    "link": "https://www.thehindu.com/news/national/centres-claim-of-no-displacement-of-tribals-a-lie-congress-on-great-nicobar-project/article70823371.ece",
+    "prelims": [
+      "<strong>National Green Tribunal (NGT)</strong> was established in 2010 under the National Green Tribunal Act, 2010. It has its principal bench in New Delhi and four regional benches (Bhopal, Pune, Kolkata, Chennai). NGT is mandated to dispose of cases within 6 months, making it one of the fastest environmental courts globally.",
+      "<strong>Great Nicobar Island</strong> is the southernmost island of the Andaman and Nicobar archipelago, covering approximately 1,045 sq km. It is home to the Shompen tribe (population ~250), classified as a Particularly Vulnerable Tribal Group (PVTG) under the Ministry of Tribal Affairs. The island's Indira Point is the southernmost tip of India.",
+      "The <strong>Coastal Regulation Zone (CRZ) Notification, 2019</strong> replaced the 2011 notification and classifies the coast into CRZ-I (ecologically sensitive), CRZ-II (developed urban areas), CRZ-III (rural areas), and CRZ-IV (water area up to 12 nautical miles). CRZ-I prohibits new construction except for strategic projects cleared by the MoEFCC.",
+      "<strong>Article 48A</strong> (Directive Principles) directs the State to protect and improve the environment and safeguard forests and wildlife. Read with <strong>Article 51A(g)</strong> (Fundamental Duties), which makes it every citizen's duty to protect the natural environment. Together, these form the constitutional basis for environmental jurisprudence in India.",
+      "India's <strong>Indo-Pacific Oceans Initiative (IPOI)</strong> was launched at the East Asia Summit in 2019 with seven pillars: maritime security, maritime ecology, maritime resources, capacity building, disaster risk reduction, science & technology, and trade connectivity. The Great Nicobar project aligns with the maritime infrastructure pillar."
+    ],
+    "mains": {
+      "q": "Critically examine the implications of the Great Nicobar project on the environment and the rights of indigenous communities, and discuss the role of the National Green Tribunal in balancing development with sustainability.",
+      "marks": "15 marks · GS2",
+      "directive": "critically_examine",
+      "hints": [
+        "Introduction (2 marks): Define the National Green Tribunal, its establishment under the NGT Act 2010, and its constitutional basis in Article 48A and Article 51A(g).",
+        "Body - Environmental concerns (3 marks): Discuss CRZ-I violations, mangrove destruction, impact on Shompen PVTG, coral reef ecosystems, and the Galathea National Park within the project zone.",
+        "Body - Strategic importance (3 marks): Explain India's need for transshipment capacity (currently 75% of Indian cargo transships via Colombo/Singapore), Indo-Pacific maritime strategy, and counter to China's String of Pearls.",
+        "Body - Institutional mechanism (3 marks): Analyze the role of NGT vs. MoEFCC in environmental clearance — does NGT rubber-stamp or genuinely review? Cite Subhash Kumar v. State of Bihar (1991) on right to pollution-free environment.",
+        "Conclusion (2 marks): Balance development with sustainability — suggest conditional clearance with mandatory biodiversity offsets, tribal consent (FPIC under UN Declaration), and independent monitoring."
+      ]
+    },
+    "connect": [
+      {
+        "topic": "CRZ Notification 2019 & Coastal Zone Management",
+        "context": "The project required CRZ clearance — a frequently tested topic in Environment & Ecology prelims and GS3 mains."
+      },
+      {
+        "topic": "Particularly Vulnerable Tribal Groups (PVTGs)",
+        "context": "The Shompen tribe of Great Nicobar is one of India's 75 PVTGs — connects to GS1 (society) and tribal rights under Fifth/Sixth Schedule."
+      },
+      {
+        "topic": "Environmental Impact Assessment (EIA) Process",
+        "context": "The project's EIA was challenged — understand the 4-stage EIA process (screening, scoping, public hearing, appraisal) for GS3."
+      },
+      {
+        "topic": "India's Indo-Pacific Strategy & Maritime Infrastructure",
+        "context": "Great Nicobar's strategic location near the Malacca Strait makes it key to India's Indo-Pacific maritime posture — relevant for GS2 (IR)."
+      },
+      {
+        "topic": "Article 48A & 51A(g) — Constitutional Environmental Provisions",
+        "context": "These Directive Principle and Fundamental Duty articles form the constitutional basis for environmental protection — tested in Polity prelims."
+      }
+    ],
+    "_hash": "e6acb9705036",
+    "_fetched": "2026-04-04T18:54:47.841361+00:00",
+    "_relevance": 52,
+    "_gs": [
+      "GS1",
+      "GS2",
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "critically_examine",
+    "_mcqs": {
+      "q": "Consider the following statements:\n1. The Great Nicobar project requires CRZ clearance from the MoEFCC.\n2. The National Green Tribunal has the power to review environmental clearances granted by the MoEFCC.\n3. The Shompen tribe is a Scheduled Tribe under the Constitution of India.\nWhich of the above is/are correct?",
+      "options": [
+        "1 only",
+        "1 and 2 only",
+        "2 and 3 only",
+        "1, 2 and 3"
+      ],
+      "correct": 1,
+      "explanation": "Statement 1 is correct: The project indeed requires CRZ clearance. Statement 2 is correct: NGT can review environmental clearances. Statement 3 is incorrect: The Shompen are a Particularly Vulnerable Tribal Group (PVTG), not a Scheduled Tribe.",
+      "trap": "Wrong Ministry"
+    }
+  },
+  {
+    "id": 1965,
+    "title": "RBI Curbs Mis-Selling",
+    "cat": "economy",
+    "upsc": true,
+    "time": "2026-04-04T18:55:03.801442+00:00",
+    "summary": "The RBI is set to issue guidelines to curb mis-selling in the insurance sector, as total commissions in life insurance have risen to ₹60,800 crore in FY25. This development is crucial for UPSC as it relates to the regulation of the financial sector and consumer protection. The issue of mis-selling also connects to the broader topic of financial inclusion and stability, which is a key area of focus in the Indian economy.",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": 60800,
+        "label": "Total commissions in life insurance (₹ crore)"
+      },
+      {
+        "val": 18,
+        "label": "Year-on-year growth in total commissions"
+      },
+      {
+        "val": 1999,
+        "label": "Year IRDAI was established"
+      }
+    ],
+    "src": "The Hindu Business",
+    "link": "https://www.thehindu.com/business/as-rbi-gears-up-to-issue-guidelines-to-curb-mis-selling-review-of-commissions-mooted/article70823770.ece",
+    "prelims": [
+      "The <strong>Insurance Regulatory and Development Authority of India (IRDAI)</strong> was established in 1999 to regulate and develop the insurance industry in India. It has the power to frame regulations and guidelines for the insurance sector, including the regulation of commissions and fees. IRDAI's role is crucial in ensuring that insurance companies operate fairly and transparently.",
+      "The <strong>Reserve Bank of India (RBI)</strong> plays a critical role in regulating the financial sector, including the insurance industry. The RBI's guidelines on mis-selling are aimed at protecting consumers and promoting financial stability. The RBI's regulatory framework is based on the <strong>Reserve Bank of India Act, 1934</strong>, which gives it the power to regulate banks and other financial institutions.",
+      "The <strong>Financial Sector Legislative Reforms Commission (FSLRC)</strong> was set up in 2011 to review and reform the financial sector regulatory framework in India. The FSLRC's recommendations have led to significant changes in the regulatory framework, including the establishment of new regulatory bodies and the strengthening of existing ones. The FSLRC's report is an important resource for understanding the regulatory framework of the financial sector in India.",
+      "The <strong>Insurance Act, 1938</strong> is the primary legislation governing the insurance industry in India. The Act regulates the establishment and operation of insurance companies, including the payment of commissions and fees. The Act has been amended several times to reflect changes in the insurance industry and to strengthen regulatory oversight.",
+      "The <strong>Consumer Protection Act, 2019</strong> provides a framework for protecting consumers from unfair and deceptive practices, including mis-selling. The Act establishes a consumer protection authority and provides for penalties for companies that engage in unfair practices. The Act is an important tool for protecting consumers in the insurance sector."
+    ],
+    "mains": {
+      "q": "Analyze the role of regulatory bodies in preventing mis-selling in the insurance sector.",
+      "marks": "15 marks · GS3",
+      "directive": "analyze",
+      "hints": [
+        "Introduction (2 marks): Define mis-selling and its impact on consumers in the insurance sector.",
+        "Body - Regulatory framework (3 marks): Discuss the role of IRDAI and RBI in regulating the insurance sector and preventing mis-selling.",
+        "Body - Consumer protection (3 marks): Examine the provisions of the Consumer Protection Act, 2019, and their relevance to preventing mis-selling in the insurance sector.",
+        "Body - Challenges and limitations (3 marks): Analyze the challenges and limitations faced by regulatory bodies in preventing mis-selling, including the lack of awareness among consumers and the complexity of insurance products.",
+        "Conclusion (2 marks): Suggest measures to strengthen regulatory oversight and prevent mis-selling in the insurance sector."
+      ]
+    },
+    "connect": [
+      {
+        "topic": "Financial Regulation and Supervision",
+        "context": "The RBI's guidelines on mis-selling are part of a broader effort to strengthen financial regulation and supervision in India."
+      },
+      {
+        "topic": "Consumer Protection and Awareness",
+        "context": "The issue of mis-selling highlights the need for greater consumer awareness and protection in the insurance sector."
+      },
+      {
+        "topic": "Insurance Sector Reforms",
+        "context": "The IRDAI's regulatory framework is an important part of the insurance sector reforms aimed at promoting transparency and fairness in the industry."
+      },
+      {
+        "topic": "Financial Inclusion and Stability",
+        "context": "The prevention of mis-selling is crucial for promoting financial inclusion and stability, as it helps to build trust in the financial system."
+      },
+      {
+        "topic": "Regulatory Bodies and their Roles",
+        "context": "The RBI and IRDAI play critical roles in regulating the financial sector, including the insurance industry, and their coordination is essential for effective regulation."
+      }
+    ],
+    "_hash": "f8221c02d07c",
+    "_fetched": "2026-04-04T18:55:03.801442+00:00",
+    "_relevance": 48,
+    "_gs": [
+      "GS2",
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "analyze",
+    "_mcqs": {
+      "q": "Consider the following statements:\n1. The IRDAI is responsible for regulating the insurance sector in India.\n2. The RBI has the power to regulate insurance companies.\n3. The Consumer Protection Act, 2019, provides a framework for protecting consumers from mis-selling in the insurance sector.\nWhich of the above is/are correct?",
+      "options": [
+        "1 only",
+        "1 and 2 only",
+        "2 and 3 only",
+        "1, 2 and 3"
+      ],
+      "correct": 3,
+      "explanation": "Statement 1 is correct: IRDAI is responsible for regulating the insurance sector. Statement 2 is incorrect: RBI regulates banks and other financial institutions, but not insurance companies directly. Statement 3 is correct: The Consumer Protection Act, 2019, provides a framework for protecting consumers from mis-selling.",
+      "trap": "Wrong Ministry"
+    }
+  },
+  {
+    "id": 1966,
+    "title": "Seats in government universities should be increased to purs",
+    "cat": "economy",
+    "upsc": false,
+    "time": "2026-04-04T18:57:16.148266+00:00",
+    "summary": "Stressing the importance of faculty, G. Viswanathan notes that teachers contribute 90 per cent to the success of educational institutions, with the re",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "The Hindu",
+    "link": "https://www.thehindu.com/news/national/tamil-nadu/seats-in-government-universities-should-be-increased-to-pursue-higher-education-vit-chancellor/article70823533.ece",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "ee18a4d9b24e",
+    "_fetched": "2026-04-04T18:57:16.148266+00:00",
+    "_relevance": 46,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 1967,
+    "title": "Assam town rides BJP’s development showcase",
+    "cat": "tech",
+    "upsc": false,
+    "time": "2026-04-04T18:59:28.443579+00:00",
+    "summary": "The semiconductor plant, coming up on the space where a large paper mill once stood, has made Jagiroad hope again, but some are not sure how it would ",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "The Hindu",
+    "link": "https://www.thehindu.com/elections/assam-assembly/assam-town-rides-bjps-development-showcase/article70823910.ece",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "9883412d1219",
+    "_fetched": "2026-04-04T18:59:28.443579+00:00",
+    "_relevance": 44,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 1968,
+    "title": "Rajasthan High Court upholds cancellation of 2021 police Sub",
+    "cat": "india",
+    "upsc": false,
+    "time": "2026-04-04T19:01:40.803848+00:00",
+    "summary": "The Division Bench says there should be ‘no political appointments’ within the Rajasthan Public Service Commission, directs the State government to en",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "The Hindu",
+    "link": "https://www.thehindu.com/news/national/rajasthan/rajasthan-high-court-upholds-cancellation-of-2021-policesub-inspector-exam-over-paper-leak/article70823951.ece",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "09f6303656d3",
+    "_fetched": "2026-04-04T19:01:40.803848+00:00",
+    "_relevance": 44,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "sc-judgment",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 1969,
+    "title": "States that stabilised population will not lose Lok Sabha se",
+    "cat": "india",
+    "upsc": false,
+    "time": "2026-04-04T19:03:53.092184+00:00",
+    "summary": "Prime Minister Modi addresses concerns over proposed delimitation exercise for the first time, says seats will not be reduced without specifying if it",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "The Hindu",
+    "link": "https://www.thehindu.com/news/national/states-that-stabilised-population-will-not-lose-lok-sabha-seats-modi/article70824178.ece",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "d90733a75806",
+    "_fetched": "2026-04-04T19:03:53.092184+00:00",
+    "_relevance": 41,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 1970,
+    "title": "Plea in Supreme Court challenges transgender law amendments ",
+    "cat": "policy",
+    "upsc": false,
+    "time": "2026-04-04T19:06:05.476918+00:00",
+    "summary": "Activists Laxminarayan Tripathi and Zainab Javid Patel challenge the validity of the Act for disregarding transgender identity as an ‘authentic human ",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "The Hindu",
+    "link": "https://www.thehindu.com/news/national/plea-in-supreme-court-challenges-transgender-law-amendments-as-breach-of-right-to-self-determined-gender-identity/article70823895.ece",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "727321d867ee",
+    "_fetched": "2026-04-04T19:06:05.476918+00:00",
+    "_relevance": 41,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "sc-judgment",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 1971,
+    "title": "Defence Ministry pushes indigenous design for development of",
+    "cat": "world",
+    "upsc": false,
+    "time": "2026-04-04T19:08:17.833476+00:00",
+    "summary": "At present, Mk-84 class general-purpose bombs are procured from foreign original equipment manufacturers and are in service with the IAF",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "The Hindu",
+    "link": "https://www.thehindu.com/news/national/defence-ministry-pushes-indigenous-design-for-development-of-1000-kg-aerial-bomb-for-iaf/article70823445.ece",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "6cad26d31bc5",
+    "_fetched": "2026-04-04T19:08:17.833476+00:00",
+    "_relevance": 36,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 1972,
+    "title": "Tribal adolescents in Odisha introduced to smokeless tobacco",
+    "cat": "india",
+    "upsc": false,
+    "time": "2026-04-04T19:10:30.148097+00:00",
+    "summary": "A study by the Odisha chapter of the Indian Council of Medical Research finds the prevalence of smokeless tobacco consumption at 61% among men and 35%",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "The Hindu",
+    "link": "https://www.thehindu.com/news/national/odisha/tribal-adolescents-in-odisha-introduced-to-smokeless-tobacco-without-family-control-study-finds/article70823546.ece",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "12aedc546529",
+    "_fetched": "2026-04-04T19:10:30.148097+00:00",
+    "_relevance": 36,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
   }
 ]
