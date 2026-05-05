@@ -14503,5 +14503,299 @@
     "_difficulty": 2,
     "_directive": "discuss",
     "_mcqs": []
+  },
+  {
+    "id": 1995,
+    "title": "Agri Losses",
+    "cat": "economy",
+    "upsc": true,
+    "time": "2026-04-05T21:40:09.205609+00:00",
+    "summary": "Union Agriculture Minister Shivraj Singh Chouhan has directed officials to assess crop losses due to heavy rainfall and hailstorms across several states. This is crucial for UPSC as it relates to the government's response to natural disasters and its impact on the agricultural sector, which is a significant part of India's economy. The assessment and subsequent actions will also connect to various syllabus areas, including disaster management and economic development.",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": 2016,
+        "label": "Year Pradhan Mantri Fasal Bima Yojana was launched"
+      },
+      {
+        "val": 2005,
+        "label": "Year the Disaster Management Act was enacted"
+      },
+      {
+        "val": 10,
+        "label": "Percentage of SDRF allocation for disaster prevention and mitigation"
+      }
+    ],
+    "src": "ET Economy",
+    "link": "https://economictimes.indiatimes.com/news/economy/agriculture/agri-minister-takes-stock-of-crop-losses-from-hailstorm-heavy-rainfall-as-fresh-western-disturbance-looms/articleshow/130045804.cms",
+    "prelims": [
+      "The <strong>National Disaster Management Authority (NDMA)</strong> was established in 2005 under the Disaster Management Act, 2005, to coordinate disaster response efforts across the country. It has a broad mandate that includes framing policies, laying down guidelines, and bestowing awards for disaster management. NDMA works closely with state disaster management authorities to ensure a unified response to disasters.",
+      "The <strong>Indian Meteorological Department (IMD)</strong> is the principal agency responsible for meteorological observations, weather forecasting, and seismology in India. Established in 1875, it plays a critical role in predicting weather patterns, including hailstorms and heavy rainfall, which are essential for agricultural planning and disaster management. IMD's forecasts are used by various government agencies, including those involved in agriculture and disaster response.",
+      "The <strong>Pradhan Mantri Fasal Bima Yojana (PMFBY)</strong> is a crop insurance scheme launched in 2016 to provide financial support to farmers in the event of crop failure due to natural calamities. It aims to stabilize the income of farmers and encourage them to adopt innovative and modern agricultural practices. The scheme is a significant component of the government's efforts to make agriculture more resilient to disasters.",
+      "The <strong>National Crop Forecast Centre (NCFC)</strong> uses remote sensing and GIS technology to provide crop forecasts and monitor crop condition. Established under the Ministry of Agriculture and Farmers Welfare, it helps in assessing crop yields and in making informed decisions regarding agricultural production and food security. NCFC's data is crucial for policymakers to respond effectively to crop losses and plan for future agricultural production.",
+      "The <strong>State Disaster Response Fund (SDRF)</strong> is the primary fund available with state governments to respond to disasters. As per the guidelines of the Ministry of Home Affairs, 10% of the SDRF allocation can be used for disaster prevention and mitigation measures, which can include measures to protect crops from hailstorms and heavy rainfall. Effective utilization of SDRF is critical for timely and adequate disaster response."
+    ],
+    "mains": {
+      "q": "Analyze the role of the government in mitigating the impact of natural disasters on agriculture, with a focus on the assessment and compensation of crop losses.",
+      "marks": "15 marks · GS3",
+      "directive": "analyze",
+      "hints": [
+        "Introduction (2 marks): Define the significance of agriculture in India's economy and the impact of natural disasters on agricultural productivity.",
+        "Body - Government Response (4 marks): Discuss the role of the Ministry of Agriculture and Farmers Welfare, NDMA, and state governments in assessing and responding to crop losses due to natural disasters.",
+        "Body - Policy and Schemes (4 marks): Examine the provisions of the Pradhan Mantri Fasal Bima Yojana and how it supports farmers in the event of crop failure.",
+        "Body - Technological Interventions (3 marks): Analyze the use of technology, such as remote sensing and GIS, in crop forecasting and monitoring, and its potential to enhance disaster response.",
+        "Conclusion (2 marks): Summarize the importance of a coordinated and technology-driven approach to mitigate the impact of natural disasters on agriculture, ensuring food security and supporting farmers."
+      ]
+    },
+    "connect": [
+      {
+        "topic": "Disaster Management",
+        "context": "Understanding the role of NDMA and state disaster management authorities in responding to natural disasters is crucial for GS3."
+      },
+      {
+        "topic": "Crop Insurance Schemes",
+        "context": "Knowledge of the Pradhan Mantri Fasal Bima Yojana and its provisions is essential for understanding government support to farmers."
+      },
+      {
+        "topic": "Agricultural Productivity",
+        "context": "The impact of natural disasters on agricultural productivity connects to broader themes of economic development and food security in GS3."
+      },
+      {
+        "topic": "Remote Sensing and GIS in Agriculture",
+        "context": "The use of technology in crop forecasting and monitoring is a significant aspect of modern agriculture and disaster management, relevant for GS3."
+      },
+      {
+        "topic": "State Disaster Response Fund (SDRF)",
+        "context": "Understanding the allocation and utilization of SDRF is vital for analyzing disaster response mechanisms at the state level, connecting to GS2 and GS3."
+      }
+    ],
+    "_hash": "fc505068211b",
+    "_fetched": "2026-04-05T21:40:09.205609+00:00",
+    "_relevance": 52,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "analyze",
+    "_mcqs": {
+      "q": "Consider the following statements:\n1. The National Disaster Management Authority (NDMA) is responsible for coordinating disaster response efforts across the country.\n2. The Pradhan Mantri Fasal Bima Yojana (PMFBY) provides insurance coverage to farmers against crop loss due to natural calamities and is mandatory for all farmers.\n3. The Indian Meteorological Department (IMD) predicts weather patterns but does not have a role in disaster management.\nWhich of the above is/are correct?",
+      "options": [
+        "1 only",
+        "1 and 2 only",
+        "2 and 3 only",
+        "1, 2 and 3"
+      ],
+      "correct": 0,
+      "explanation": "Statement 1 is correct: NDMA is indeed responsible for coordinating disaster response efforts. Statement 2 is incorrect: While PMFBY does provide insurance coverage, it is not mandatory for all farmers. Statement 3 is incorrect: IMD's weather forecasts are crucial for disaster management.",
+      "trap": "Absolute Language"
+    }
+  },
+  {
+    "id": 1996,
+    "title": "NeSL in Insolvency",
+    "cat": "economy",
+    "upsc": true,
+    "time": "2026-04-05T21:40:25.862007+00:00",
+    "summary": "NeSL is providing instant access to digital default records for insolvency cases, enabling authorities to quickly verify debt and claims. This development is crucial for UPSC as it relates to the Insolvency and Bankruptcy Code and its amendments, which have significant implications for the Indian economy. The Insolvency and Bankruptcy Code connects to the GS3 syllabus area, specifically economic development and infrastructure.",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": 2016,
+        "label": "Year the Insolvency and Bankruptcy Code was enacted"
+      },
+      {
+        "val": 2021,
+        "label": "Year the Insolvency and Bankruptcy Code (Amendment) Act was passed"
+      },
+      {
+        "val": 100,
+        "label": "Number of insolvency cases resolved under the IBC (approximate)"
+      }
+    ],
+    "src": "ET Economy",
+    "link": "https://economictimes.indiatimes.com/news/economy/policy/nesl-enabling-real-time-access-to-digital-debt-claims-data-in-insolvency-cases/articleshow/130045648.cms",
+    "prelims": [
+      "The <strong>Insolvency and Bankruptcy Code (IBC)</strong> was enacted in 2016 to consolidate and amend the laws relating to reorganization and insolvency resolution of corporate persons, partnership firms, and individuals in a time-bound manner. The IBC has undergone several amendments since its enactment, with the most recent being the Insolvency and Bankruptcy Code (Amendment) Act, 2021. The IBC provides a framework for the resolution of insolvency cases, including the establishment of the Insolvency and Bankruptcy Board of India (IBBI).",
+      "The <strong>Insolvency and Bankruptcy Board of India (IBBI)</strong> was established in 2016 under the IBC to regulate and oversee the insolvency resolution process in India. The IBBI is responsible for regulating insolvency professionals, insolvency professional agencies, and information utilities, and for ensuring that the insolvency resolution process is conducted in a fair and transparent manner. The IBBI has played a crucial role in implementing the IBC and has issued several regulations and guidelines to facilitate the insolvency resolution process.",
+      "The <strong>National Company Law Tribunal (NCLT)</strong> was established in 2016 under the Companies Act, 2013, to adjudicate matters related to companies, including insolvency cases. The NCLT has been designated as the adjudicating authority for insolvency cases under the IBC, and it has the power to hear and dispose of applications related to the insolvency resolution process. The NCLT has played a crucial role in resolving insolvency cases in a timely and efficient manner.",
+      "The <strong>Insolvency and Bankruptcy Code (Amendment) Act, 2021</strong> introduced several significant changes to the IBC, including the introduction of a pre-packaged insolvency resolution process for micro, small, and medium-sized enterprises (MSMEs). The amendment also provided for the establishment of a committee of creditors to oversee the insolvency resolution process and to ensure that the interests of all stakeholders are protected. The amendment has helped to streamline the insolvency resolution process and has provided a more efficient framework for resolving insolvency cases.",
+      "The <strong>digital debt and claims data</strong> provided by NeSL is expected to improve the efficiency of the insolvency resolution process by providing instant access to digital default records. This will enable authorities to quickly verify debt and claims, reducing the time and cost associated with the insolvency resolution process. The use of digital debt and claims data is also expected to reduce the risk of fraud and errors, and to improve the overall transparency and accountability of the insolvency resolution process."
+    ],
+    "mains": {
+      "q": "Analyze the impact of the Insolvency and Bankruptcy Code on the Indian economy, with a focus on the role of NeSL in providing digital debt and claims data.",
+      "marks": "15 marks · GS3",
+      "directive": "analyze",
+      "hints": [
+        "Introduction (2 marks): Define the Insolvency and Bankruptcy Code and its objectives, and explain the role of NeSL in providing digital debt and claims data.",
+        "Body - Economic impact (3 marks): Discuss the impact of the IBC on the Indian economy, including its effects on credit availability, job creation, and economic growth.",
+        "Body - Role of NeSL (3 marks): Analyze the role of NeSL in providing digital debt and claims data, and explain how this has improved the efficiency of the insolvency resolution process.",
+        "Body - Challenges and limitations (3 marks): Discuss the challenges and limitations of the IBC, including the need for further reforms to improve the insolvency resolution process.",
+        "Conclusion (2 marks): Summarize the main points and provide a conclusion on the impact of the IBC on the Indian economy, with a focus on the role of NeSL in providing digital debt and claims data."
+      ]
+    },
+    "connect": [
+      {
+        "topic": "Insolvency and Bankruptcy Code",
+        "context": "The IBC has significant implications for the Indian economy, and its implementation has been a key area of focus for the government."
+      },
+      {
+        "topic": "Digital India Initiative",
+        "context": "The use of digital debt and claims data by NeSL is an example of the Digital India Initiative, which aims to promote the use of technology to improve governance and efficiency."
+      },
+      {
+        "topic": "Ease of Doing Business",
+        "context": "The IBC and the use of digital debt and claims data by NeSL are expected to improve the ease of doing business in India, by providing a more efficient and transparent insolvency resolution process."
+      },
+      {
+        "topic": "Financial Inclusion",
+        "context": "The IBC and the use of digital debt and claims data by NeSL are expected to promote financial inclusion, by providing access to credit and other financial services for MSMEs and other stakeholders."
+      },
+      {
+        "topic": "Corporate Governance",
+        "context": "The IBC and the use of digital debt and claims data by NeSL are expected to improve corporate governance, by promoting transparency and accountability in the insolvency resolution process."
+      }
+    ],
+    "_hash": "8f7a12002bcf",
+    "_fetched": "2026-04-05T21:40:25.862007+00:00",
+    "_relevance": 48,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "analyze",
+    "_mcqs": {
+      "q": "Consider the following statements:\n1. The Insolvency and Bankruptcy Code was enacted in 2015.\n2. NeSL provides digital debt and claims data for insolvency cases.\n3. The Insolvency and Bankruptcy Board of India is responsible for regulating insolvency professionals.\nWhich of the above is/are correct?",
+      "options": [
+        "1 only",
+        "2 only",
+        "2 and 3 only",
+        "1, 2 and 3"
+      ],
+      "correct": 2,
+      "explanation": "Statement 1 is incorrect: The Insolvency and Bankruptcy Code was enacted in 2016. Statement 2 is correct: NeSL provides digital debt and claims data for insolvency cases. Statement 3 is correct: The Insolvency and Bankruptcy Board of India is responsible for regulating insolvency professionals.",
+      "trap": "Timeline Confusion"
+    }
+  },
+  {
+    "id": 1997,
+    "title": "Record run for Co, LLP floats in FY26 despite a bump in Marc",
+    "cat": "world",
+    "upsc": false,
+    "time": "2026-04-05T21:42:38.260599+00:00",
+    "summary": "India achieved record company and Limited Liability Partnership registrations in the fiscal year 2025-26. This surge reflects strong investor confiden",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "ET Economy",
+    "link": "https://economictimes.indiatimes.com/news/economy/indicators/record-run-for-co-llp-floats-in-fy26-despite-a-bump-in-march/articleshow/130045531.cms",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "2da67fdcc9ea",
+    "_fetched": "2026-04-05T21:42:38.260599+00:00",
+    "_relevance": 45,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 1998,
+    "title": "Transforming India’s nuclear power landscape",
+    "cat": "india",
+    "upsc": false,
+    "time": "2026-04-05T21:44:50.598858+00:00",
+    "summary": "Realising the 100 GW target requires SHANTI Act implementation alongside transparent resolution of tariffs, fuel ownership, waste management, insuranc",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "The Hindu",
+    "link": "https://www.thehindu.com/opinion/lead/transforming-indias-nuclear-power-landscape/article70827256.ece",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "9d5bdf4febbb",
+    "_fetched": "2026-04-05T21:44:50.598858+00:00",
+    "_relevance": 44,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 1999,
+    "title": "Development, welfare, and civic problems shape the poll mood",
+    "cat": "tech",
+    "upsc": false,
+    "time": "2026-04-05T21:47:03.003162+00:00",
+    "summary": "Residents say their struggle for basic amenities in some areas still persist; night food stalls and commercial activity have encroached road space and",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "The Hindu",
+    "link": "https://www.thehindu.com/elections/tamil-nadu-assembly/development-welfare-and-civic-problems-shape-the-poll-mood-in-thiru-vi-ka-nagar/article70823399.ece",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "4a15178669b4",
+    "_fetched": "2026-04-05T21:47:03.003162+00:00",
+    "_relevance": 41,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 2000,
+    "title": "The World Trade Organization is flailing",
+    "cat": "economy",
+    "upsc": false,
+    "time": "2026-04-05T21:49:15.381596+00:00",
+    "summary": "The WTO’s fourteenth Ministerial Conference has showed up the cracks in the rules-based system",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "The Hindu Op-Ed",
+    "link": "https://www.thehindu.com/opinion/op-ed/the-world-trade-organization-is-flailing/article70827294.ece",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "908c109ac7d9",
+    "_fetched": "2026-04-05T21:49:15.381596+00:00",
+    "_relevance": 33,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
   }
 ]
