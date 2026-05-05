@@ -12685,5 +12685,473 @@
       "explanation": "Statement 1 is incorrect: The National Science Foundation (NSF) is a US-based organization, not an Indian one. Statement 2 is correct: The IPCC does provide scientific advice on climate change. Statement 3 is correct: ISRO is indeed responsible for India's space program and has significant implications for environmental monitoring.",
       "trap": "Wrong Ministry"
     }
+  },
+  {
+    "id": 1962,
+    "title": "RBI Rate Hold",
+    "cat": "economy",
+    "upsc": true,
+    "time": "2026-04-05T07:18:15.999375+00:00",
+    "summary": "The Reserve Bank of India is expected to hold interest rates steady due to global conflicts creating economic uncertainty. This decision is crucial for UPSC as it reflects the central bank's role in managing the economy. The RBI's cautious approach aims to navigate geopolitical risks and currency volatility, which is a key concept in GS3.",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": 1935,
+        "label": "Year the Reserve Bank of India was established"
+      },
+      {
+        "val": 2016,
+        "label": "Year the Monetary Policy Committee was established"
+      }
+    ],
+    "src": "ET Economy",
+    "link": "https://economictimes.indiatimes.com/news/economy/policy/rbi-expected-to-hold-rates-steady-in-first-monetary-policy-since-west-asia-conflict-sbi-report/articleshow/130034076.cms",
+    "prelims": [
+      "The <strong>Reserve Bank of India (RBI)</strong> was established in 1935 under the Reserve Bank of India Act, 1934. It has its headquarters in Mumbai and is responsible for regulating the monetary policy of the Indian rupee. The RBI is also the banker to the government and plays a crucial role in maintaining financial stability.",
+      "The <strong>Monetary Policy Committee (MPC)</strong> is a six-member committee that decides on the monetary policy of India. It was established in 2016 under the Reserve Bank of India Act, 1934, and is responsible for setting the repo rate, reverse repo rate, and other monetary policy tools. The MPC meets at least four times a year to review the monetary policy.",
+      "The <strong>repo rate</strong> is the rate at which the RBI lends money to commercial banks. It is a key monetary policy tool used by the RBI to regulate the money supply in the economy. A reduction in the repo rate leads to an increase in the money supply, while an increase in the repo rate leads to a decrease in the money supply.",
+      "The <strong>reverse repo rate</strong> is the rate at which the RBI borrows money from commercial banks. It is another key monetary policy tool used by the RBI to regulate the money supply in the economy. The reverse repo rate is typically lower than the repo rate and is used to absorb excess liquidity from the system.",
+      "The <strong>inflation targeting framework</strong> is a monetary policy framework that aims to keep inflation within a target range. In India, the inflation targeting framework was adopted in 2016, and the target range is between 2% and 6%. The RBI uses monetary policy tools to achieve this target and maintain price stability in the economy."
+    ],
+    "mains": {
+      "q": "Analyze the role of the Reserve Bank of India in managing the economy, with a focus on its monetary policy tools and their impact on inflation and economic growth.",
+      "marks": "15 marks · GS3",
+      "directive": "analyze",
+      "hints": [
+        "Introduction (2 marks): Define the role of the Reserve Bank of India in managing the economy and its monetary policy tools.",
+        "Body - Monetary policy tools (3 marks): Explain the different monetary policy tools used by the RBI, such as the repo rate, reverse repo rate, and open market operations.",
+        "Body - Impact on inflation (3 marks): Analyze the impact of monetary policy tools on inflation, including the transmission mechanism and the role of expectations.",
+        "Body - Impact on economic growth (3 marks): Discuss the impact of monetary policy tools on economic growth, including the role of credit channels and the impact on aggregate demand.",
+        "Conclusion (2 marks): Summarize the role of the RBI in managing the economy and the impact of its monetary policy tools on inflation and economic growth."
+      ]
+    },
+    "connect": [
+      {
+        "topic": "Monetary Policy and its Tools",
+        "context": "The RBI's decision to hold interest rates steady reflects its role in managing the economy through monetary policy tools."
+      },
+      {
+        "topic": "Inflation Targeting Framework",
+        "context": "The inflation targeting framework is a key concept in GS3, and the RBI's decision to hold interest rates steady is influenced by its target range."
+      },
+      {
+        "topic": "Fiscal Policy and its Impact on the Economy",
+        "context": "The RBI's decision to hold interest rates steady has implications for fiscal policy and the overall economy."
+      },
+      {
+        "topic": "Economic Growth and Development",
+        "context": "The RBI's decision to hold interest rates steady is influenced by its impact on economic growth and development."
+      },
+      {
+        "topic": "International Trade and Finance",
+        "context": "The RBI's decision to hold interest rates steady has implications for international trade and finance, particularly in the context of global conflicts and economic uncertainty."
+      }
+    ],
+    "_hash": "7873cacea24a",
+    "_fetched": "2026-04-05T07:18:15.999375+00:00",
+    "_relevance": 100,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "analyze",
+    "_mcqs": {
+      "q": "Consider the following statements:\n1. The Reserve Bank of India was established in 1935.\n2. The Monetary Policy Committee is responsible for setting the fiscal policy of India.\n3. The inflation targeting framework aims to keep inflation within a target range of 2% to 6%.\nWhich of the above is/are correct?",
+      "options": [
+        "1 only",
+        "1 and 3 only",
+        "2 and 3 only",
+        "1, 2 and 3"
+      ],
+      "correct": 1,
+      "explanation": "Statement 1 is correct: The Reserve Bank of India was indeed established in 1935. Statement 2 is incorrect: The Monetary Policy Committee is responsible for setting the monetary policy of India, not the fiscal policy. Statement 3 is correct: The inflation targeting framework does aim to keep inflation within a target range of 2% to 6%.",
+      "trap": "Wrong Ministry"
+    }
+  },
+  {
+    "id": 1963,
+    "title": "CII's Policy Agenda",
+    "cat": "economy",
+    "upsc": true,
+    "time": "2026-04-05T07:18:32.129642+00:00",
+    "summary": "The Confederation of Indian Industry has proposed a 20-point policy agenda to support industries, especially MSMEs, amid the West Asia conflict. This agenda is crucial for UPSC as it highlights the need for a coordinated fiscal, financial, and trade response to external shocks, which is a key aspect of economic development and stability. The agenda's focus on credit lines, moratoriums, and trade cost management connects to the syllabus area of economic development and trade policies.",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": 30,
+        "label": "Percentage of India's GDP accounted for by the MSME sector"
+      },
+      {
+        "val": 1935,
+        "label": "Year the Reserve Bank of India was established"
+      },
+      {
+        "val": 1895,
+        "label": "Year the Confederation of Indian Industry was established"
+      }
+    ],
+    "src": "ET Economy",
+    "link": "https://economictimes.indiatimes.com/news/economy/indicators/ciis-20-point-policy-agenda-calls-for-coordinated-fiscal-financial-and-trade-response-to-west-asia-crisis/articleshow/130034590.cms",
+    "prelims": [
+      "The <strong>Confederation of Indian Industry (CII)</strong> was established in 1895, with its headquarters in New Delhi, and has been playing a significant role in promoting Indian industry and trade. CII has over 9,000 members, including small and medium enterprises, and has been instrumental in shaping India's economic policies. The organization has also been actively involved in promoting sustainable development and environmental protection.",
+      "The <strong>Micro, Small, and Medium Enterprises (MSME) sector</strong> is a crucial component of the Indian economy, accounting for over 30% of the country's GDP and providing employment to millions of people. The sector has been facing several challenges, including access to credit, technology, and markets, which the CII's policy agenda aims to address. The MSME sector is also critical for India's export-led growth strategy.",
+      "The <strong>Reserve Bank of India (RBI)</strong> has been taking several measures to support the economy, including reducing interest rates and providing liquidity to the banking system. The RBI's monetary policy decisions have a significant impact on the Indian economy, and its role in regulating the banking system is critical for maintaining financial stability. The RBI's establishment in 1935, under the Reserve Bank of India Act, 1934, marked a significant milestone in India's economic development.",
+      "The <strong>Foreign Trade Policy (FTP)</strong> of India aims to promote the country's exports and reduce its trade deficit. The FTP provides several incentives and schemes to exporters, including duty-free imports, tax exemptions, and subsidies. The policy also aims to promote India's trade with other countries, including those in West Asia, and to increase the country's share in global trade.",
+      "The <strong>Make in India initiative</strong>, launched in 2014, aims to promote India as a manufacturing hub and to increase the country's share in global trade. The initiative has been successful in attracting foreign investment and promoting domestic manufacturing, and has also led to the creation of several new jobs. The initiative is also critical for India's economic development and stability, as it aims to reduce the country's dependence on imports and promote exports."
+    ],
+    "mains": {
+      "q": "Analyze the impact of the West Asia conflict on India's economy, and discuss the role of the Confederation of Indian Industry in promoting economic stability and development.",
+      "marks": "15 marks · GS3",
+      "directive": "analyze",
+      "hints": [
+        "Introduction (2 marks): Define the West Asia conflict and its impact on the global economy, and explain the role of the Confederation of Indian Industry in promoting Indian trade and industry.",
+        "Body - Economic impact (3 marks): Discuss the impact of the conflict on India's trade, including the decline in exports and the increase in imports, and explain the measures taken by the government to mitigate the impact.",
+        "Body - CII's role (3 marks): Analyze the role of the Confederation of Indian Industry in promoting economic stability and development, including its policy agenda and its efforts to support MSMEs.",
+        "Body - Government policies (3 marks): Examine the government's policies to promote economic development, including the Make in India initiative and the Foreign Trade Policy, and discuss their effectiveness in promoting exports and reducing the trade deficit.",
+        "Conclusion (2 marks): Summarize the impact of the West Asia conflict on India's economy and the role of the Confederation of Indian Industry in promoting economic stability and development, and suggest measures to promote economic growth and development."
+      ]
+    },
+    "connect": [
+      {
+        "topic": "Economic Development and Trade Policies",
+        "context": "The CII's policy agenda connects to the syllabus area of economic development and trade policies, which is critical for India's economic growth and stability."
+      },
+      {
+        "topic": "Micro, Small, and Medium Enterprises (MSME) sector",
+        "context": "The MSME sector is a crucial component of the Indian economy, and the CII's policy agenda aims to support this sector, which is critical for India's economic development and stability."
+      },
+      {
+        "topic": "Reserve Bank of India (RBI) and Monetary Policy",
+        "context": "The RBI's monetary policy decisions have a significant impact on the Indian economy, and its role in regulating the banking system is critical for maintaining financial stability."
+      },
+      {
+        "topic": "Foreign Trade Policy (FTP) of India",
+        "context": "The FTP aims to promote India's exports and reduce its trade deficit, which is critical for India's economic development and stability."
+      },
+      {
+        "topic": "Make in India initiative",
+        "context": "The Make in India initiative aims to promote India as a manufacturing hub and to increase the country's share in global trade, which is critical for India's economic development and stability."
+      }
+    ],
+    "_hash": "6f5c1d4eca0d",
+    "_fetched": "2026-04-05T07:18:32.129642+00:00",
+    "_relevance": 64,
+    "_gs": [
+      "GS2",
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "analyze",
+    "_mcqs": {
+      "q": "Consider the following statements:\n1. The Confederation of Indian Industry was established in 1895.\n2. The Reserve Bank of India was established in 1935.\n3. The Foreign Trade Policy of India aims to reduce the country's trade deficit.\nWhich of the above is/are correct?",
+      "options": [
+        "1 only",
+        "1 and 2 only",
+        "2 and 3 only",
+        "1, 2 and 3"
+      ],
+      "correct": 3,
+      "explanation": "Statement 1 is correct: The Confederation of Indian Industry was indeed established in 1895. Statement 2 is correct: The Reserve Bank of India was indeed established in 1935. Statement 3 is correct: The Foreign Trade Policy of India does aim to reduce the country's trade deficit.",
+      "trap": "Wrong Ministry"
+    }
+  },
+  {
+    "id": 1964,
+    "title": "Moody's Cuts India's GDP",
+    "cat": "economy",
+    "upsc": true,
+    "time": "2026-04-05T07:18:47.727191+00:00",
+    "summary": "Moody's has cut India's FY27 GDP growth estimates to 6% due to the West Asia conflict. This matters for UPSC as it affects India's economic development and has implications for the country's growth trajectory. The conflict's impact on India's economy connects to the GS3 syllabus area, which covers economic development and international trade.",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": 6,
+        "label": "Moody's cut in India's FY27 GDP growth estimates"
+      },
+      {
+        "val": 1988,
+        "label": "Year Moody's started rating India's sovereign credit"
+      },
+      {
+        "val": 80,
+        "label": "Percentage of India's oil imports from West Asian countries"
+      }
+    ],
+    "src": "The Hindu Business",
+    "link": "https://www.thehindu.com/business/Economy/moodys-cuts-indias-fy27-gdp-growth-estimates-to-6-amid-west-asia-conflict/article70826050.ece",
+    "prelims": [
+      "The <strong>West Asia conflict</strong> has led to a rise in global oil prices, affecting India's trade deficit and current account balance. India's dependence on imported oil makes it vulnerable to price shocks, which can have a significant impact on the country's economic growth. The conflict has also disrupted global supply chains, affecting India's exports and imports.",
+      "The <strong>Moody's rating</strong> is an important indicator of a country's creditworthiness and can affect its ability to attract foreign investment. A lower rating can increase the cost of borrowing for the government and private sector, making it more difficult to finance development projects. Moody's has been rating India's sovereign credit since 1988, and its ratings are closely watched by investors and policymakers.",
+      "The <strong>Indian economy</strong> is heavily dependent on imports, particularly of oil and fertilizers, which makes it vulnerable to global price shocks. The country's trade deficit has been widening in recent years, which can put pressure on the rupee and increase the risk of a balance of payments crisis. The government has been taking steps to reduce the trade deficit, including increasing exports and reducing imports.",
+      "The <strong>conflict in West Asia</strong> has also had a significant impact on global food prices, which can affect India's food security and inflation. India is a major importer of fertilizers and other agricultural inputs, which are essential for the country's agricultural sector. The conflict has disrupted global supply chains, leading to shortages and price increases for these inputs.",
+      "The <strong>Indian government</strong> has been taking steps to mitigate the impact of the conflict on the economy, including increasing imports of oil and fertilizers from other countries. The government has also been promoting the use of alternative energy sources, such as solar and wind power, to reduce the country's dependence on imported oil."
+    ],
+    "mains": {
+      "q": "Analyze the impact of the West Asia conflict on India's economic growth and trade relations.",
+      "marks": "15 marks · GS3",
+      "directive": "analyze",
+      "hints": [
+        "Introduction (2 marks): Define the West Asia conflict and its impact on global oil prices and trade relations.",
+        "Body - Economic impact (3 marks): Discuss the impact of the conflict on India's trade deficit, current account balance, and economic growth.",
+        "Body - Trade relations (3 marks): Examine the impact of the conflict on India's trade relations with West Asian countries and the implications for the country's energy security.",
+        "Body - Government response (3 marks): Analyze the government's response to the conflict, including measures to mitigate its impact on the economy and trade relations.",
+        "Conclusion (2 marks): Summarize the main points and suggest ways to reduce India's dependence on imported oil and promote economic growth."
+      ]
+    },
+    "connect": [
+      {
+        "topic": "Balance of Payments",
+        "context": "The West Asia conflict has affected India's trade deficit and current account balance, which is a critical component of the country's balance of payments."
+      },
+      {
+        "topic": "Foreign Exchange Reserves",
+        "context": "The conflict has also affected India's foreign exchange reserves, which are essential for maintaining the value of the rupee and financing imports."
+      },
+      {
+        "topic": "Energy Security",
+        "context": "The conflict has highlighted the importance of energy security for India, which is heavily dependent on imported oil."
+      },
+      {
+        "topic": "International Trade",
+        "context": "The conflict has affected global trade relations, including India's trade relations with West Asian countries."
+      },
+      {
+        "topic": "Fiscal Policy",
+        "context": "The government's response to the conflict, including measures to mitigate its impact on the economy, is an example of fiscal policy in action."
+      }
+    ],
+    "_hash": "dfaf40064884",
+    "_fetched": "2026-04-05T07:18:47.727191+00:00",
+    "_relevance": 57,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "analyze",
+    "_mcqs": {
+      "q": "Consider the following statements:\n1. The West Asia conflict has led to a decrease in global oil prices.\n2. Moody's has upgraded India's sovereign credit rating.\n3. The Indian government has increased imports of oil and fertilizers from West Asian countries.\nWhich of the above is/are correct?",
+      "options": [
+        "1 only",
+        "2 only",
+        "3 only",
+        "1, 2 and 3"
+      ],
+      "correct": 3,
+      "explanation": "Statement 1 is incorrect: The West Asia conflict has led to an increase in global oil prices. Statement 2 is incorrect: Moody's has cut India's FY27 GDP growth estimates. Statement 3 is correct: The Indian government has increased imports of oil and fertilizers from other countries to mitigate the impact of the conflict.",
+      "trap": "Absolute Language"
+    }
+  },
+  {
+    "id": 1965,
+    "title": "Modi government not listening to anyone: Rahul flags functio",
+    "cat": "india",
+    "upsc": false,
+    "time": "2026-04-05T07:21:00.107278+00:00",
+    "summary": "What was the government's response? That everything is 'satisfactory'. If everything is indeed 'satisfactory', then why are reports of so many problem",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "The Hindu",
+    "link": "https://www.thehindu.com/news/national/modi-government-not-listening-to-anyone-rahul-flags-functional-problems-of-oscs-for-women/article70826034.ece",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "9bd0144d2a6f",
+    "_fetched": "2026-04-05T07:21:00.107278+00:00",
+    "_relevance": 41,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 1966,
+    "title": "The discoverers of radio emissions from Jupiter",
+    "cat": "science",
+    "upsc": false,
+    "time": "2026-04-05T07:23:12.470289+00:00",
+    "summary": "The discovery of Jupiter’s “voice” – the first noise known to have come from a different planet – was announced to the world on April 5-6, 1955. At a ",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "The Hindu Science",
+    "link": "https://www.thehindu.com/sci-tech/science/the-discoverers-of-radio-emissions-from-jupiter/article70775472.ece",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "17b1af7daf12",
+    "_fetched": "2026-04-05T07:23:12.470289+00:00",
+    "_relevance": 41,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 1967,
+    "title": "Kuwait power, water desalination plants damaged by Iranian a",
+    "cat": "tech",
+    "upsc": false,
+    "time": "2026-04-05T07:25:24.813145+00:00",
+    "summary": "Iran’s army said it was targeting “aluminum industries” in the UAE and U.S. military infrastructure in Kuwait, the official IRNA news agency reported",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "The Hindu International",
+    "link": "https://www.thehindu.com/news/international/kuwait-power-water-desalination-plants-damaged-by-iranian-attack-government/article70825856.ece",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "fe615779cc44",
+    "_fetched": "2026-04-05T07:25:24.813145+00:00",
+    "_relevance": 36,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 1968,
+    "title": "BJP will not project CM face in Bengal, will seek votes in M",
+    "cat": "india",
+    "upsc": false,
+    "time": "2026-04-05T07:27:37.215596+00:00",
+    "summary": "We contest elections by putting forward 'vikas purush' Prime Minister Narendra Modi -- the man of development -- whom people from Kashmir to Kanyakuma",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "The Hindu",
+    "link": "https://www.thehindu.com/elections/west-bengal-assembly/bjp-will-not-project-cm-face-in-bengal-will-seek-votes-in-modis-name-samik/article70826117.ece",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "820374e626a0",
+    "_fetched": "2026-04-05T07:27:37.215596+00:00",
+    "_relevance": 33,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 1969,
+    "title": "Raghav Chadha shares video of Parliament interventions, rebu",
+    "cat": "india",
+    "upsc": false,
+    "time": "2026-04-05T07:29:49.685313+00:00",
+    "summary": "To my colleagues in AAP who were forced to issue videos saying that 'Raghav Chadha failed to raise Punjab's issues in Parliament', here is a small tra",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "The Hindu",
+    "link": "https://www.thehindu.com/news/national/raghav-chadha-shares-video-of-parliament-interventions-rebuts-claims-of-ignoring-punjab-issues/article70826073.ece",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "f1fcf8c0478b",
+    "_fetched": "2026-04-05T07:29:49.685313+00:00",
+    "_relevance": 33,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 1970,
+    "title": "Petrol, diesel prices on 5 April: Check fuel rates in your c",
+    "cat": "india",
+    "upsc": false,
+    "time": "2026-04-05T07:32:02.047709+00:00",
+    "summary": "Crude oil prices continue to experience volatility as the US-Iran war enters its second month, with the Strait of Hormuz remaining shut to trade. Howe",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "LiveMint",
+    "link": "https://www.livemint.com/news/india/petrol-diesel-prices-on-5-april-check-fuel-rates-in-your-city-today-delhi-mumbai-bengaluru-kolkata-others-11775366858290.html",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "5d6610ef5c45",
+    "_fetched": "2026-04-05T07:32:02.047709+00:00",
+    "_relevance": 33,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 1971,
+    "title": "‘Picture abhi baaki hai’: Raghav Chadha hits back at AAP, sh",
+    "cat": "india",
+    "upsc": false,
+    "time": "2026-04-05T07:34:14.442883+00:00",
+    "summary": "The video on Saturday came after AAP leaders accused him of failing to highlight Punjab-related matters in Parliament. The story isn’t over yet, Chadh",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "LiveMint Politics",
+    "link": "https://www.livemint.com/politics/news/picture-abhi-baaki-hai-raghav-chadha-hits-back-at-aap-shares-rajya-sabha-speeches-on-punjab-11775364155369.html",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "99505f2e1f06",
+    "_fetched": "2026-04-05T07:34:14.442883+00:00",
+    "_relevance": 31,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
   }
 ]
