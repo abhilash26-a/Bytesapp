@@ -20864,5 +20864,702 @@
     "_difficulty": 2,
     "_directive": "discuss",
     "_mcqs": []
+  },
+  {
+    "id": 1971,
+    "title": "RBI Flags Risks",
+    "cat": "economy",
+    "upsc": true,
+    "time": "2026-04-08T07:46:58.884433+00:00",
+    "summary": "The Reserve Bank of India has flagged five key risks to the Indian economy, warning that ongoing global conflict and uncertainty could impact inflation, growth, and financial conditions. This is crucial for UPSC as it relates to India's economic stability and the role of the RBI in maintaining it. The information connects to the GS3 syllabus area, which covers economic development and related aspects.",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": 1935,
+        "label": "Year the RBI was established"
+      },
+      {
+        "val": 2016,
+        "label": "Year the Monetary Policy Committee was established"
+      }
+    ],
+    "src": "ET Economy",
+    "link": "https://economictimes.indiatimes.com/news/economy/indicators/rbi-mpc-indias-central-bank-sounds-alarm-with-five-risks-as-iran-war-threatens-domestic-stability/articleshow/130102107.cms",
+    "prelims": [
+      "The <strong>Reserve Bank of India (RBI)</strong> was established in 1935 under the Reserve Bank of India Act, 1934, with its headquarters in Mumbai. It is responsible for regulating the monetary policy of the Indian rupee and is a member of the Asian Clearing Union. The RBI plays a crucial role in maintaining the economic stability of the country.",
+      "The <strong>Monetary Policy Committee (MPC)</strong> is a committee of the RBI that is responsible for setting the monetary policy of India, including the repo rate and the reverse repo rate. The MPC was established in 2016 under the Reserve Bank of India Act, 1934, and consists of six members, including the Governor of the RBI. The MPC's decisions have a significant impact on the Indian economy.",
+      "The <strong>current account deficit (CAD)</strong> is the difference between a country's imports and exports, and is an important indicator of a country's economic health. A high CAD can lead to a depreciation of the currency and a decrease in foreign exchange reserves. The CAD is closely monitored by the RBI and the government to ensure that it remains within manageable limits.",
+      "The <strong>inflation targeting framework</strong> is a monetary policy framework that is used by the RBI to set the inflation target for the country. The framework was adopted in 2016 and sets an inflation target of 4% for the country, with a tolerance band of +/- 2%. The RBI uses various tools, including the repo rate and the reverse repo rate, to achieve the inflation target.",
+      "The <strong>External Commercial Borrowings (ECB)</strong> policy is a policy that allows Indian companies to borrow money from foreign lenders. The policy was introduced in 2004 and is regulated by the RBI. The ECB policy allows Indian companies to access foreign capital at competitive interest rates, which can help to reduce their borrowing costs and increase their competitiveness."
+    ],
+    "mains": {
+      "q": "Analyze the role of the Reserve Bank of India in maintaining the economic stability of the country, with a focus on its monetary policy decisions.",
+      "marks": "15 marks · GS3",
+      "directive": "analyze",
+      "hints": [
+        "Introduction (2 marks): Define the role of the RBI in maintaining economic stability and its significance in the Indian economy.",
+        "Body - Monetary policy decisions (3 marks): Discuss the impact of the RBI's monetary policy decisions on the Indian economy, including the effects on inflation, growth, and financial conditions.",
+        "Body - Regulatory framework (3 marks): Explain the regulatory framework that governs the RBI's monetary policy decisions, including the Reserve Bank of India Act, 1934, and the Monetary Policy Committee.",
+        "Body - Challenges (3 marks): Discuss the challenges faced by the RBI in maintaining economic stability, including the impact of global economic trends and the need to balance growth and inflation.",
+        "Conclusion (2 marks): Summarize the importance of the RBI's role in maintaining economic stability and suggest ways in which it can improve its effectiveness."
+      ]
+    },
+    "connect": [
+      {
+        "topic": "Monetary Policy and its Instruments",
+        "context": "The RBI's monetary policy decisions have a significant impact on the Indian economy, and understanding the various instruments used by the RBI is crucial for GS3."
+      },
+      {
+        "topic": "Inflation Targeting Framework",
+        "context": "The inflation targeting framework is an important tool used by the RBI to achieve price stability, and understanding its significance is crucial for GS3."
+      },
+      {
+        "topic": "External Commercial Borrowings (ECB) Policy",
+        "context": "The ECB policy allows Indian companies to access foreign capital at competitive interest rates, which can help to reduce their borrowing costs and increase their competitiveness."
+      },
+      {
+        "topic": "Current Account Deficit (CAD) and its Impact",
+        "context": "The CAD is an important indicator of a country's economic health, and understanding its impact on the Indian economy is crucial for GS3."
+      },
+      {
+        "topic": "Regulatory Framework for Banking and Finance",
+        "context": "The regulatory framework that governs the RBI's monetary policy decisions is crucial for maintaining economic stability, and understanding its significance is crucial for GS3."
+      }
+    ],
+    "_hash": "c7530dc743e5",
+    "_fetched": "2026-04-08T07:46:58.884433+00:00",
+    "_relevance": 100,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "analyze",
+    "_mcqs": {
+      "q": "Consider the following statements:\n1. The RBI was established in 1935.\n2. The Monetary Policy Committee was established in 2016.\n3. The inflation targeting framework sets an inflation target of 5% for the country.\nWhich of the above is/are correct?",
+      "options": [
+        "1 only",
+        "1 and 2 only",
+        "2 and 3 only",
+        "1, 2 and 3"
+      ],
+      "correct": 1,
+      "explanation": "Statement 1 is correct: The RBI was indeed established in 1935. Statement 2 is correct: The Monetary Policy Committee was indeed established in 2016. Statement 3 is incorrect: The inflation targeting framework sets an inflation target of 4% for the country, not 5%.",
+      "trap": "Absolute Language"
+    }
+  },
+  {
+    "id": 1972,
+    "title": "RBI MPC",
+    "cat": "economy",
+    "upsc": true,
+    "time": "2026-04-08T07:47:14.473337+00:00",
+    "summary": "The Reserve Bank of India has maintained its key interest rate at 5.25 percent. This decision is crucial for UPSC aspirants as it reflects the RBI's stance on inflation and economic growth, which is a key aspect of the Indian economy. The RBI's monetary policy decisions have a significant impact on the country's economic development, making it an essential topic for GS3.",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": 5.25,
+        "label": "Current repo rate (%)"
+      },
+      {
+        "val": 1935,
+        "label": "Year of RBI establishment"
+      }
+    ],
+    "src": "ET Economy",
+    "link": "https://economictimes.indiatimes.com/news/economy/policy/rbi-mpc-meeting-2026-key-takeaways-repo-rate-decision-inflation-gdp-growth-outlook-check-major-announcements-by-gov-sanjay-malhotra/articleshow/130100138.cms",
+    "prelims": [
+      "The <strong>Reserve Bank of India (RBI)</strong> was established in 1935 under the Reserve Bank of India Act, 1934. It has its headquarters in Mumbai and is responsible for regulating the country's monetary policy. The RBI is also the banker to the government and plays a crucial role in maintaining the country's financial stability.",
+      "The <strong>Monetary Policy Committee (MPC)</strong> is a six-member committee that is responsible for setting the interest rates in India. It was established in 2016 under the Reserve Bank of India Act, 1934. The MPC is headed by the Governor of the RBI and includes three other members from the RBI and three external members.",
+      "The <strong>repo rate</strong> is the rate at which the RBI lends money to commercial banks. It is an important tool used by the RBI to regulate the money supply in the economy. A reduction in the repo rate can lead to an increase in the money supply, while an increase in the repo rate can lead to a decrease in the money supply.",
+      "The <strong>inflation target</strong> is set by the RBI under the Monetary Policy Framework Agreement, 2015. The agreement sets an inflation target of 4% with a tolerance band of +/- 2%. The RBI uses various tools, including the repo rate, to achieve this target and maintain price stability in the economy.",
+      "The <strong>neutral policy stance</strong> adopted by the RBI indicates that the central bank is not taking any aggressive measures to stimulate or slow down the economy. This stance is often adopted when the economy is growing at a moderate pace and inflation is within the target range."
+    ],
+    "mains": {
+      "q": "Analyze the impact of the RBI's monetary policy decisions on the Indian economy.",
+      "marks": "15 marks · GS3",
+      "directive": "analyze",
+      "hints": [
+        "Introduction (2 marks): Define the monetary policy and its importance in the Indian economy.",
+        "Body - Impact on inflation (3 marks): Explain how the RBI's monetary policy decisions can affect inflation in the economy.",
+        "Body - Impact on economic growth (3 marks): Discuss how the RBI's monetary policy decisions can influence economic growth in the country.",
+        "Body - Role of MPC (3 marks): Analyze the role of the Monetary Policy Committee in setting the interest rates in India.",
+        "Conclusion (2 marks): Summarize the importance of the RBI's monetary policy decisions in maintaining economic stability in the country."
+      ]
+    },
+    "connect": [
+      {
+        "topic": "Monetary Policy Framework Agreement, 2015",
+        "context": "The agreement sets the inflation target and provides a framework for the RBI's monetary policy decisions."
+      },
+      {
+        "topic": "Fiscal Policy and its relationship with Monetary Policy",
+        "context": "The RBI's monetary policy decisions can be influenced by the government's fiscal policy, making it essential to understand the relationship between the two."
+      },
+      {
+        "topic": "Role of the Reserve Bank of India in the Indian economy",
+        "context": "The RBI plays a crucial role in maintaining economic stability in the country, making it essential to understand its functions and responsibilities."
+      },
+      {
+        "topic": "Inflation targeting and its importance in the Indian economy",
+        "context": "Inflation targeting is a key aspect of the RBI's monetary policy framework, and understanding its importance is essential for maintaining price stability in the economy."
+      },
+      {
+        "topic": "Economic growth and its relationship with monetary policy",
+        "context": "The RBI's monetary policy decisions can influence economic growth in the country, making it essential to understand the relationship between the two."
+      }
+    ],
+    "_hash": "a23000499381",
+    "_fetched": "2026-04-08T07:47:14.473337+00:00",
+    "_relevance": 100,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "analyze",
+    "_mcqs": {
+      "q": "Consider the following statements:\n1. The RBI was established in 1935.\n2. The MPC is headed by the Finance Minister.\n3. The inflation target is set at 5% under the Monetary Policy Framework Agreement, 2015.\nWhich of the above is/are correct?",
+      "options": [
+        "1 only",
+        "1 and 2 only",
+        "2 and 3 only",
+        "1, 2 and 3"
+      ],
+      "correct": 0,
+      "explanation": "Statement 1 is correct: The RBI was indeed established in 1935. Statement 2 is INCORRECT: The MPC is headed by the Governor of the RBI. Statement 3 is INCORRECT: The inflation target is set at 4% under the Monetary Policy Framework Agreement, 2015.",
+      "trap": "Wrong Ministry"
+    }
+  },
+  {
+    "id": 1973,
+    "title": "RBI Inflation 2026-27",
+    "cat": "economy",
+    "upsc": true,
+    "time": "2026-04-08T07:47:30.353850+00:00",
+    "summary": "The Reserve Bank of India's Monetary Policy Committee has revised its inflation forecast for fiscal year 2027, maintaining the benchmark repo rate at 5.25 percent. This decision is crucial for UPSC aspirants as it reflects the central bank's aim to stabilise a declining rupee while promoting robust economic growth. The real GDP growth recorded at an impressive 7.6 percent last year is also a significant factor in this context.",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": 5.25,
+        "label": "Benchmark repo rate (%)"
+      },
+      {
+        "val": 7.6,
+        "label": "Real GDP growth rate (%)"
+      }
+    ],
+    "src": "ET Economy",
+    "link": "https://economictimes.indiatimes.com/news/economy/indicators/rbi-inflation-forecast-2026-27-india-reserve-bank-of-india-governor-sanjay-malhotra-cpi-outlook-monetary-policy-report/articleshow/130102134.cms",
+    "prelims": [
+      "The <strong>Monetary Policy Committee (MPC)</strong> was established in 2016 under the Reserve Bank of India Act, 1934, to determine the policy interest rate required to achieve the inflation target set by the Central Government. It has six members, with the Governor of RBI acting as the chairperson. The MPC is mandated to meet at least four times a year.",
+      "The <strong>repo rate</strong> is the rate at which the Reserve Bank of India lends money to commercial banks, playing a crucial role in regulating the money supply in the economy. An increase in the repo rate can help control inflation by reducing borrowing and spending, while a decrease can stimulate economic growth by making borrowing cheaper.",
+      "The <strong>inflation target</strong> for India is set by the Central Government in consultation with the Reserve Bank of India, with the aim of keeping inflation within a specified range. The current inflation target range is between 2% and 6%, with an upper tolerance limit of 6% and a lower tolerance limit of 2%. This range is based on the Consumer Price Index (CPI) inflation.",
+      "The <strong>Gross Domestic Product (GDP) growth rate</strong> is an indicator of the overall health of an economy, measuring the rate of change in the total value of goods and services produced within a country. A high GDP growth rate can indicate a strong and growing economy, while a low or negative growth rate can signal economic stagnation or recession.",
+      "The <strong>Reserve Bank of India (RBI)</strong> was established in 1935 under the Reserve Bank of India Act, 1934, with the primary objective of regulating the issue of banknotes and maintaining the monetary stability of the country. The RBI also acts as a banker to the Central and State Governments, and is responsible for managing the country's foreign exchange and gold reserves."
+    ],
+    "mains": {
+      "q": "Analyze the impact of the Reserve Bank of India's monetary policy decisions on the country's economic growth and inflation rate.",
+      "marks": "15 marks · GS3",
+      "directive": "analyze",
+      "hints": [
+        "Introduction (2 marks): Define the role of the Reserve Bank of India in regulating the economy and explain the significance of monetary policy decisions.",
+        "Body - Monetary policy tools (3 marks): Discuss the different tools used by the RBI to regulate the money supply, such as the repo rate, reverse repo rate, and cash reserve ratio.",
+        "Body - Impact on inflation (3 marks): Explain how changes in the repo rate can affect the inflation rate, and provide examples of how this has played out in the past.",
+        "Body - Impact on economic growth (3 marks): Analyze the impact of monetary policy decisions on economic growth, including the effects on borrowing, spending, and investment.",
+        "Conclusion (2 marks): Summarize the importance of the RBI's monetary policy decisions in maintaining economic stability and promoting growth."
+      ]
+    },
+    "connect": [
+      {
+        "topic": "Monetary Policy and its Instruments",
+        "context": "The RBI's decision to maintain the benchmark repo rate is a crucial aspect of monetary policy, which is a key topic in GS3."
+      },
+      {
+        "topic": "Inflation Targeting and its Implications",
+        "context": "The inflation target range is an important concept in economics, and understanding its implications is essential for GS3."
+      },
+      {
+        "topic": "Gross Domestic Product (GDP) and its Components",
+        "context": "The real GDP growth rate is an indicator of the overall health of the economy, making it a relevant topic for GS3."
+      },
+      {
+        "topic": "Reserve Bank of India (RBI) and its Functions",
+        "context": "The RBI plays a crucial role in regulating the economy, and understanding its functions is essential for GS3."
+      },
+      {
+        "topic": "Fiscal Policy and its Relationship with Monetary Policy",
+        "context": "The relationship between fiscal policy and monetary policy is an important aspect of economics, and understanding this relationship is crucial for GS3."
+      }
+    ],
+    "_hash": "f08a9f792305",
+    "_fetched": "2026-04-08T07:47:30.353850+00:00",
+    "_relevance": 93,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "analyze",
+    "_mcqs": {
+      "q": "Consider the following statements:\n1. The Reserve Bank of India was established in 1935.\n2. The Monetary Policy Committee is responsible for determining the policy interest rate.\n3. The inflation target range for India is between 0% and 4%.\nWhich of the above is/are correct?",
+      "options": [
+        "1 only",
+        "1 and 2 only",
+        "2 and 3 only",
+        "1, 2 and 3"
+      ],
+      "correct": 1,
+      "explanation": "Statement 1 is correct: The Reserve Bank of India was indeed established in 1935. Statement 2 is correct: The Monetary Policy Committee is responsible for determining the policy interest rate. Statement 3 is incorrect: The inflation target range for India is between 2% and 6%, not 0% and 4%.",
+      "trap": "Absolute Language"
+    }
+  },
+  {
+    "id": 1974,
+    "title": "RBI ups crude oil, exchange rate baseline assumptions for FY",
+    "cat": "economy",
+    "upsc": true,
+    "time": "2026-04-08T07:49:42.785736+00:00",
+    "summary": "The Reserve Bank of India said it anticipated crude oil prices to average USD 85 per barrel and the Indian rupee to trade at 94 against the US dollar ",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "ET Economy",
+    "link": "https://economictimes.indiatimes.com/news/economy/policy/rbi-ups-crude-oil-exchange-rate-baseline-assumptions-for-fy27/articleshow/130105901.cms",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "23d6f5c33c04",
+    "_fetched": "2026-04-08T07:49:42.785736+00:00",
+    "_relevance": 88,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 1975,
+    "title": "Iran War Impact",
+    "cat": "economy",
+    "upsc": true,
+    "time": "2026-04-08T07:49:59.176476+00:00",
+    "summary": "The Reserve Bank of India has highlighted the potential risks to India's economy due to the conflict in West Asia, including fluctuating energy prices and market volatility. This is relevant for UPSC as it affects India's economic development and trade relationships. The impact of external disruptions on India's economy is a key area of concern for policymakers and is connected to the syllabus area of international trade and economic development.",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": 80,
+        "label": "Percentage of India's oil requirements met through imports"
+      },
+      {
+        "val": 1935,
+        "label": "Year the Reserve Bank of India was established"
+      },
+      {
+        "val": 20,
+        "label": "Percentage of global oil reserves located in the West Asia region"
+      }
+    ],
+    "src": "ET Economy",
+    "link": "https://economictimes.indiatimes.com/news/economy/indicators/rbi-mpc-meeting-2026-war-impact-measures-strategy-india-inflation-economy-west-asia-oil-exports-remittances/articleshow/130102207.cms",
+    "prelims": [
+      "The <strong>Reserve Bank of India (RBI)</strong> was established in 1935 under the Reserve Bank of India Act, 1934, with its headquarters in Mumbai. The RBI plays a crucial role in regulating India's monetary policy, including managing foreign exchange and maintaining financial stability. The RBI's establishment is rooted in the <strong>British India</strong> era, with the Hilton Young Commission recommending its creation in 1926.",
+      "The <strong>West Asia conflict</strong> has significant implications for global energy markets, as the region is home to several major oil-producing countries, including Iran, Iraq, and Saudi Arabia. The conflict can lead to supply chain disruptions, price volatility, and increased costs for oil-importing countries like India. Understanding the <strong>geopolitics of oil</strong> is essential for analyzing the impact of the conflict on India's economy.",
+      "The <strong>Indian economy</strong> is heavily dependent on crude oil imports, with over 80% of its oil requirements being met through imports. The country's oil import bill is a significant component of its trade deficit, and any disruption to oil supplies can have far-reaching consequences for the economy. The <strong>Ministry of Petroleum and Natural Gas</strong> plays a critical role in managing India's oil imports and ensuring energy security.",
+      "The <strong>International Monetary Fund (IMF)</strong> has warned about the potential risks of the West Asia conflict to the global economy, including increased uncertainty, reduced investment, and lower economic growth. The IMF has also emphasized the need for countries to diversify their economies and reduce their dependence on oil exports. The <strong>IMF's World Economic Outlook</strong> report provides valuable insights into the global economic trends and their implications for India.",
+      "The <strong>Ministry of Commerce and Industry</strong> is responsible for promoting India's exports and managing its trade relationships with other countries. The ministry has been working to diversify India's export basket and increase its share in global trade. The <strong>Foreign Trade Policy</strong> is a key instrument for promoting India's exports and achieving its trade goals."
+    ],
+    "mains": {
+      "q": "Analyze the potential impact of the West Asia conflict on India's economy, with a focus on the oil import bill and trade relationships.",
+      "marks": "15 marks · GS3",
+      "directive": "analyze",
+      "hints": [
+        "Introduction (2 marks): Define the key terms, including the West Asia conflict, oil import bill, and trade relationships, and provide an overview of the topic.",
+        "Body - Oil import bill (3 marks): Discuss the significance of the oil import bill in India's trade deficit and the potential impact of the conflict on oil prices and supplies.",
+        "Body - Trade relationships (3 marks): Examine the implications of the conflict on India's trade relationships with countries in the region, including Iran, Iraq, and Saudi Arabia.",
+        "Body - Economic implications (3 marks): Analyze the potential economic implications of the conflict, including the impact on inflation, economic growth, and employment.",
+        "Conclusion (2 marks): Summarize the key points and provide recommendations for policymakers to mitigate the impact of the conflict on India's economy."
+      ]
+    },
+    "connect": [
+      {
+        "topic": "International Trade and Economic Development",
+        "context": "The West Asia conflict has significant implications for global trade and economic development, and understanding these dynamics is essential for analyzing the impact on India's economy."
+      },
+      {
+        "topic": "Geopolitics of Oil",
+        "context": "The conflict in West Asia highlights the importance of understanding the geopolitics of oil and its impact on global energy markets."
+      },
+      {
+        "topic": "Energy Security",
+        "context": "The conflict underscores the need for countries to diversify their energy sources and reduce their dependence on oil imports."
+      },
+      {
+        "topic": "Foreign Trade Policy",
+        "context": "The Ministry of Commerce and Industry's Foreign Trade Policy is a key instrument for promoting India's exports and achieving its trade goals."
+      },
+      {
+        "topic": "Global Economic Trends",
+        "context": "The International Monetary Fund's World Economic Outlook report provides valuable insights into global economic trends and their implications for India's economy."
+      }
+    ],
+    "_hash": "0a02dc33a4b6",
+    "_fetched": "2026-04-08T07:49:59.176476+00:00",
+    "_relevance": 88,
+    "_gs": [
+      "GS2",
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "analyze",
+    "_mcqs": {
+      "q": "Consider the following statements:\n1. The Reserve Bank of India was established in 1935.\n2. The West Asia conflict has no impact on global energy markets.\n3. India's oil import bill is a significant component of its trade deficit.\nWhich of the above is/are correct?",
+      "options": [
+        "1 only",
+        "1 and 3 only",
+        "2 and 3 only",
+        "1, 2 and 3"
+      ],
+      "correct": 1,
+      "explanation": "Statement 1 is correct: The Reserve Bank of India was indeed established in 1935. Statement 2 is incorrect: The West Asia conflict can lead to supply chain disruptions, price volatility, and increased costs for oil-importing countries like India. Statement 3 is correct: India's oil import bill is a significant component of its trade deficit.",
+      "trap": "Absolute Language"
+    }
+  },
+  {
+    "id": 1976,
+    "title": "RBI holds repo rate, warns of impact of West Asia conflict o",
+    "cat": "economy",
+    "upsc": true,
+    "time": "2026-04-08T07:52:11.573374+00:00",
+    "summary": "The Reserve Bank of India maintained its key interest rate and neutral stance, citing geopolitical risks from the West Asian conflict. While growth fo",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "ET Economy",
+    "link": "https://economictimes.indiatimes.com/news/economy/policy/rbi-holds-repo-rate-warns-of-impact-of-west-asia-conflict-on-economy/articleshow/130105728.cms",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "13ec22714690",
+    "_fetched": "2026-04-08T07:52:11.573374+00:00",
+    "_relevance": 84,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 1977,
+    "title": "MPC Forex Level: India forex reserves rebound to $697.1 bn a",
+    "cat": "economy",
+    "upsc": true,
+    "time": "2026-04-08T07:54:24.050650+00:00",
+    "summary": "MPC Forex Level refers to the impact of Monetary Policy Committee decisions on currency exchange rates. Understand how RBI’s interest rate decisions, ",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "ET Economy",
+    "link": "https://economictimes.indiatimes.com/news/economy/indicators/rbi-monetary-policy-2026-forex-level-impact-currency-trading-forex-market-today-usd-inr-rate-reserves-rebound-to-697-1-bn-as-rbi-flags-volatility-management/articleshow/130102729.cms",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "819951ff5c63",
+    "_fetched": "2026-04-08T07:54:24.050650+00:00",
+    "_relevance": 84,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 1978,
+    "title": "RBI GDP outlook FY26: India retains FY26 GDP at 7.6%, sets F",
+    "cat": "economy",
+    "upsc": true,
+    "time": "2026-04-08T07:56:36.460320+00:00",
+    "summary": "RBI GDP Growth 2026: India's economic growth forecast for FY27 is now projected to slow down. The Reserve Bank of India has maintained its FY26 growth",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "ET Economy",
+    "link": "https://economictimes.indiatimes.com/news/economy/indicators/rbi-gdp-growth-fy-2026-27-mpc-meeting-gdp-forecast-india-eases-growth-forecast-as-iran-war-oil-surge-risks-cloud-growth-trajectory/articleshow/130091660.cms",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "d4a85533c05b",
+    "_fetched": "2026-04-08T07:56:36.460320+00:00",
+    "_relevance": 79,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 1979,
+    "title": "RBI MPC Highlights: What Governor Sanjay Malhotra announced ",
+    "cat": "economy",
+    "upsc": true,
+    "time": "2026-04-08T07:58:48.949756+00:00",
+    "summary": "The Reserve Bank of India has maintained its key repo rate at 5.25 percent. This decision reflects a neutral stance. India's economy shows strong grow",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "ET Economy",
+    "link": "https://economictimes.indiatimes.com/news/economy/policy/rbi-mpc-highlights-what-governor-sanjay-malhotra-announced-today/articleshow/130102402.cms",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "0ff9bbd81279",
+    "_fetched": "2026-04-08T07:58:48.949756+00:00",
+    "_relevance": 79,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 1980,
+    "title": "RBI MPC Repo Rate: Sanjay Malhotra &amp; Co hold rates stead",
+    "cat": "economy",
+    "upsc": true,
+    "time": "2026-04-08T08:01:01.358513+00:00",
+    "summary": "RBI Repo Rate: The Reserve Bank of India kept the repo rate unchanged at 5.25% in its first policy decision since the Iran war, as it balances a weake",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "ET Economy",
+    "link": "https://economictimes.indiatimes.com/news/economy/policy/rbi-repo-rate-8-april-2026-mpc-announcement-economic-impact-sanjay-malhotra-co-hold-repo-rates-steady-at-5-25-as-war-shocks-rattle-outlook/articleshow/130100749.cms",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "b0141cc573a2",
+    "_fetched": "2026-04-08T08:01:01.358513+00:00",
+    "_relevance": 76,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 1981,
+    "title": "RBI MPC 2026: Why Malhotra and Co left rates unchanged?",
+    "cat": "economy",
+    "upsc": true,
+    "time": "2026-04-08T08:03:13.801794+00:00",
+    "summary": "The Reserve Bank of India kept the repo rate unchanged at 5.25% with a neutral stance, as its policy panel voted unanimously in its first decision aft",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "ET Economy",
+    "link": "https://economictimes.indiatimes.com/news/economy/indicators/rbi-repo-rate-2026-reasons-why-rbi-mpc-left-repo-rates-unchanged-geopolitical-uncertainties-iran-war-weaker-rupee/articleshow/130104236.cms",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "50075dc50950",
+    "_fetched": "2026-04-08T08:03:13.801794+00:00",
+    "_relevance": 72,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 1982,
+    "title": "RBI MPC at a glance: Your one-stop guide for all key decisio",
+    "cat": "economy",
+    "upsc": true,
+    "time": "2026-04-08T08:05:26.283995+00:00",
+    "summary": "The Reserve Bank of India has maintained the repo rate at 5.25%. India's economy shows strong growth driven by domestic demand. Inflation is easing bu",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "ET Economy",
+    "link": "https://economictimes.indiatimes.com/news/economy/policy/rbi-mpc-keeting-2026-at-a-glance-rbi-governor-sanjay-malhotra-speech-highlights-repo-rate-policy-decisions/articleshow/130102278.cms",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "f4b53eb7a487",
+    "_fetched": "2026-04-08T08:05:26.283995+00:00",
+    "_relevance": 72,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 1983,
+    "title": "RBI to withdraw investment fluctuation reserve requirement f",
+    "cat": "economy",
+    "upsc": false,
+    "time": "2026-04-08T08:07:38.694553+00:00",
+    "summary": "The Reserve Bank of India plans to remove the investment fluctuation reserve requirement for commercial banks. Existing rules already provide sufficie",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "ET Economy",
+    "link": "https://economictimes.indiatimes.com/news/economy/policy/rbi-to-withdraw-investment-fluctuation-reserve-requirement-for-banks/articleshow/130104545.cms",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "670fe71fe33c",
+    "_fetched": "2026-04-08T08:07:38.694553+00:00",
+    "_relevance": 48,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 1984,
+    "title": "RBI retains FY26 GDP at 7.6%; sets FY27 growth at 6.9%, infl",
+    "cat": "economy",
+    "upsc": false,
+    "time": "2026-04-08T08:09:51.134195+00:00",
+    "summary": "",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "ET Economy",
+    "link": "https://economictimes.indiatimes.com/news/economy/indicators/india-retains-fy26-gdp-at-7-6-sets-fy27-growth-at-6-9-inflation-at-4-6-as-war-risks-mount/videoshow/130103729.cms",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "8fe524b23e91",
+    "_fetched": "2026-04-08T08:09:51.134195+00:00",
+    "_relevance": 45,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 1985,
+    "title": "Abandon fast breeder nuclear reactor project at Kalpakkam, V",
+    "cat": "economy",
+    "upsc": false,
+    "time": "2026-04-08T08:12:03.562798+00:00",
+    "summary": "He said the technology used in this type of reactor to generate power had been tested in several countries, but had been largely abandoned due to safe",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "The Hindu",
+    "link": "https://www.thehindu.com/news/national/tamil-nadu/abandon-fast-breeder-nuclear-reactor-project-at-kalpakkam-vaiko-urges-centre/article70837454.ece",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "c901ba48e370",
+    "_fetched": "2026-04-08T08:12:03.562798+00:00",
+    "_relevance": 44,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 1986,
+    "title": "RBI Governor cautions: West Asia conflict likely to impede g",
+    "cat": "economy",
+    "upsc": false,
+    "time": "2026-04-08T08:14:15.980594+00:00",
+    "summary": "",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "IE Business",
+    "link": "https://indianexpress.com/article/business/rbi-governor-cautions-west-asia-conflict-likely-to-impede-growth-increase-imported-inflation-10625198/",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "76f3d3683546",
+    "_fetched": "2026-04-08T08:14:15.980594+00:00",
+    "_relevance": 44,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
   }
 ]
