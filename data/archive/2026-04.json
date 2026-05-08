@@ -22568,5 +22568,748 @@
     "_difficulty": 2,
     "_directive": "discuss",
     "_mcqs": []
+  },
+  {
+    "id": 1963,
+    "title": "RBI's Economic Decision",
+    "cat": "economy",
+    "upsc": true,
+    "time": "2026-04-08T13:50:30.510034+00:00",
+    "summary": "The Reserve Bank of India has kept its key policy rate unchanged, reflecting a cautious approach amid global economic uncertainties. This decision is crucial for UPSC as it highlights the RBI's role in managing the economy and its impact on inflation and growth. It connects to the syllabus area of economic development and monetary policy.",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": 4,
+        "label": "Number of times the MPC meets in a year"
+      },
+      {
+        "val": 1934,
+        "label": "Year the Reserve Bank of India Act was established"
+      },
+      {
+        "val": 2016,
+        "label": "Year the inflation targeting framework was adopted by the RBI"
+      }
+    ],
+    "src": "ET Economy",
+    "link": "https://economictimes.indiatimes.com/news/economy/policy/rbis-calibrated-decision-aimed-at-strengthening-economic-environment-experts/articleshow/130113499.cms",
+    "prelims": [
+      "<strong>Monetary Policy Committee (MPC)</strong> is a six-member committee that decides on the key policy rates, including the repo rate and reverse repo rate. It was established in 2016 under the Reserve Bank of India Act, 1934, to maintain price stability and promote economic growth. The MPC meets at least four times a year to review the monetary policy.",
+      "<strong>Inflation Targeting</strong> is a monetary policy framework that aims to keep inflation within a target range, currently set at 4% with a tolerance band of +/- 2%. This framework was adopted by the RBI in 2016 to ensure price stability and promote economic growth. The RBI uses various tools, including the repo rate and reverse repo rate, to achieve the inflation target.",
+      "<strong>Repo Rate</strong> is the rate at which the RBI lends money to commercial banks, and it has a direct impact on the borrowing costs of banks and, subsequently, on the overall economy. A reduction in the repo rate can lead to lower borrowing costs and increased lending, thereby stimulating economic growth. The RBI uses the repo rate as a tool to manage liquidity and control inflation.",
+      "<strong>Reverse Repo Rate</strong> is the rate at which the RBI borrows money from commercial banks, and it is used to absorb excess liquidity from the system. An increase in the reverse repo rate can lead to a reduction in liquidity and a decrease in borrowing, thereby helping to control inflation. The RBI uses the reverse repo rate to manage liquidity and maintain financial stability.",
+      "<strong>Fiscal Policy</strong> refers to the use of government spending and taxation to manage the overall level of economic activity. It is used in conjunction with monetary policy to achieve economic growth and stability. The government can use fiscal policy to stimulate economic growth by increasing spending or cutting taxes, while the RBI uses monetary policy to control inflation and manage liquidity."
+    ],
+    "mains": {
+      "q": "Analyze the role of the Reserve Bank of India in managing the economy, with a focus on its monetary policy decisions and their impact on inflation and growth.",
+      "marks": "15 marks · GS3",
+      "directive": "analyze",
+      "hints": [
+        "Introduction (2 marks): Define the role of the RBI in managing the economy and its monetary policy framework.",
+        "Body - Monetary Policy (3 marks): Explain the tools used by the RBI to manage liquidity and control inflation, including the repo rate and reverse repo rate.",
+        "Body - Inflation Targeting (3 marks): Discuss the inflation targeting framework adopted by the RBI and its impact on economic growth and stability.",
+        "Body - Fiscal Policy (3 marks): Analyze the relationship between monetary policy and fiscal policy in managing the economy and achieving economic growth.",
+        "Conclusion (2 marks): Summarize the importance of the RBI's monetary policy decisions in managing the economy and achieving economic growth and stability."
+      ]
+    },
+    "connect": [
+      {
+        "topic": "Monetary Policy and its Instruments",
+        "context": "The RBI's monetary policy decisions have a direct impact on the economy, and understanding the tools used by the RBI is crucial for managing inflation and promoting economic growth."
+      },
+      {
+        "topic": "Inflation Targeting and its Framework",
+        "context": "The inflation targeting framework adopted by the RBI is a key aspect of its monetary policy, and understanding its working is essential for achieving price stability and promoting economic growth."
+      },
+      {
+        "topic": "Fiscal Policy and its Relationship with Monetary Policy",
+        "context": "The relationship between fiscal policy and monetary policy is crucial for managing the economy, and understanding how they interact is essential for achieving economic growth and stability."
+      },
+      {
+        "topic": "Economic Growth and Development",
+        "context": "The RBI's monetary policy decisions have a direct impact on economic growth and development, and understanding the factors that influence economic growth is crucial for achieving stability and prosperity."
+      },
+      {
+        "topic": "Financial Stability and its Importance",
+        "context": "The RBI's monetary policy decisions also have an impact on financial stability, and understanding the importance of financial stability is crucial for achieving economic growth and prosperity."
+      }
+    ],
+    "_hash": "52bd1fc2f412",
+    "_fetched": "2026-04-08T13:50:30.510034+00:00",
+    "_relevance": 96,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "analyze",
+    "_mcqs": {
+      "q": "Consider the following statements:\n1. The RBI's monetary policy decisions are made by the Monetary Policy Committee (MPC).\n2. The inflation targeting framework adopted by the RBI aims to keep inflation below 4%.\n3. The repo rate is the rate at which the RBI borrows money from commercial banks.\nWhich of the above is/are correct?",
+      "options": [
+        "1 only",
+        "1 and 2 only",
+        "2 and 3 only",
+        "1, 2 and 3"
+      ],
+      "correct": 0,
+      "explanation": "Statement 1 is correct: The RBI's monetary policy decisions are made by the Monetary Policy Committee (MPC). Statement 2 is incorrect: The inflation targeting framework adopted by the RBI aims to keep inflation within a target range of 4% with a tolerance band of +/- 2%. Statement 3 is incorrect: The repo rate is the rate at which the RBI lends money to commercial banks.",
+      "trap": "Absolute Language"
+    }
+  },
+  {
+    "id": 1964,
+    "title": "India's Farm Output",
+    "cat": "economy",
+    "upsc": true,
+    "time": "2026-04-08T13:50:46.606518+00:00",
+    "summary": "India is expecting higher farm output this year, driven by advancements in conservation agriculture and climate-resilient wheat research. This is significant for UPSC as it relates to India's food security and sustainable agriculture practices. The topic connects to GS3, which covers economic development, agriculture, and environmental sustainability.",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": 101,
+        "label": "Number of ICAR research institutes"
+      },
+      {
+        "val": 2015,
+        "label": "Year of launch of PMKSY"
+      },
+      {
+        "val": 10,
+        "label": "Million hectares of land covered under PMKSY"
+      }
+    ],
+    "src": "ET Economy",
+    "link": "https://economictimes.indiatimes.com/news/economy/agriculture/india-eyes-higher-farm-output-this-year-confident-of-supporting-global-food-supply-amid-uncertainty-dare-secy-jat/articleshow/130113140.cms",
+    "prelims": [
+      "The <strong>Indian Council of Agricultural Research (ICAR)</strong> was established in 1929 and is headquartered in New Delhi. It plays a crucial role in advancing agricultural research and education in India, with a focus on improving crop yields, water-use efficiency, and farmer incomes. ICAR has 101 research institutes and 71 agricultural universities across the country.",
+      "The <strong>National Food Security Mission (NFSM)</strong> was launched in 2007 to increase the production of rice, wheat, and pulses. The mission aims to bridge the gap between the demand and supply of food grains, ensuring national food security. NFSM has been successful in increasing crop yields and improving the livelihoods of farmers.",
+      "The <strong>Pradhan Mantri Krishi Sinchayee Yojana (PMKSY)</strong> was launched in 2015 to improve water-use efficiency and promote micro-irrigation practices. The scheme aims to 'per drop, more crop' and has been instrumental in reducing water wastage and increasing crop yields. PMKSY has been implemented in over 20 states, covering more than 10 million hectares of land.",
+      "The <strong>Soil Health Card (SHC) scheme</strong> was launched in 2015 to promote soil testing and provide recommendations to farmers for improving soil health. The scheme has been successful in increasing soil testing and promoting balanced fertilization practices. SHC has been implemented in over 20 states, covering more than 10 million farmers.",
+      "The <strong>Minimum Support Price (MSP)</strong> is a critical component of India's agricultural policy, ensuring that farmers receive a minimum price for their produce. The MSP is fixed by the government, taking into account the cost of production, market prices, and other factors. MSP has been instrumental in protecting the interests of farmers and ensuring food security."
+    ],
+    "mains": {
+      "q": "Analyze the role of the Indian Council of Agricultural Research (ICAR) in promoting sustainable agriculture practices and improving farm output in India.",
+      "marks": "15 marks · GS3",
+      "directive": "analyze",
+      "hints": [
+        "Introduction (2 marks): Define sustainable agriculture and its importance in the Indian context, highlighting the role of ICAR in promoting sustainable agriculture practices.",
+        "Body - ICAR's initiatives (4 marks): Discuss ICAR's initiatives in promoting conservation agriculture, climate-resilient wheat research, and water-use efficiency, highlighting their impact on farm output and environmental sustainability.",
+        "Body - Challenges and limitations (4 marks): Analyze the challenges and limitations faced by ICAR in promoting sustainable agriculture practices, including the lack of awareness among farmers, limited access to credit, and inadequate infrastructure.",
+        "Body - Way forward (3 marks): Suggest measures to strengthen ICAR's initiatives, including increasing funding, improving extension services, and promoting public-private partnerships.",
+        "Conclusion (2 marks): Summarize the importance of ICAR's role in promoting sustainable agriculture practices and improving farm output, highlighting the need for a multi-stakeholder approach to achieve sustainable agriculture in India."
+      ]
+    },
+    "connect": [
+      {
+        "topic": "Agricultural Extension Services",
+        "context": "The role of ICAR in promoting sustainable agriculture practices is closely linked to the effectiveness of agricultural extension services, which is a critical component of GS3."
+      },
+      {
+        "topic": "Soil Conservation and Watershed Management",
+        "context": "The Pradhan Mantri Krishi Sinchayee Yojana (PMKSY) promotes micro-irrigation practices, which is closely linked to soil conservation and watershed management, a key aspect of environmental sustainability."
+      },
+      {
+        "topic": "Food Security and Nutrition",
+        "context": "The National Food Security Mission (NFSM) aims to increase the production of rice, wheat, and pulses, which is critical for ensuring food security and nutrition in India, a key aspect of GS2."
+      },
+      {
+        "topic": "Rural Development and Poverty Alleviation",
+        "context": "The Indian Council of Agricultural Research (ICAR) plays a critical role in promoting rural development and poverty alleviation through its initiatives in sustainable agriculture practices, which is closely linked to GS2."
+      },
+      {
+        "topic": "Environmental Sustainability and Climate Change",
+        "context": "The promotion of sustainable agriculture practices by ICAR is closely linked to environmental sustainability and climate change, a key aspect of GS3."
+      }
+    ],
+    "_hash": "c60b8aa755bb",
+    "_fetched": "2026-04-08T13:50:46.606518+00:00",
+    "_relevance": 69,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "analyze",
+    "_mcqs": {
+      "q": "Consider the following statements:\n1. The Indian Council of Agricultural Research (ICAR) was established in 1929.\n2. The National Food Security Mission (NFSM) aims to increase the production of only rice and wheat.\n3. The Pradhan Mantri Krishi Sinchayee Yojana (PMKSY) promotes micro-irrigation practices.\nWhich of the above is/are correct?",
+      "options": [
+        "1 only",
+        "1 and 3 only",
+        "2 and 3 only",
+        "1, 2 and 3"
+      ],
+      "correct": 1,
+      "explanation": "Statement 1 is correct: ICAR was indeed established in 1929. Statement 2 is incorrect: NFSM aims to increase the production of rice, wheat, and pulses. Statement 3 is correct: PMKSY promotes micro-irrigation practices.",
+      "trap": "Absolute Language"
+    }
+  },
+  {
+    "id": 1965,
+    "title": "RBI MPC meeting Highlights: Headline inflation remains our t",
+    "cat": "economy",
+    "upsc": true,
+    "time": "2026-04-08T13:52:59.033998+00:00",
+    "summary": "RBI policy rate will remain unchanged at 5.25%; Developments in West Asia to widen Current Account Deficit (CAD), says RBI Governor Sanjay Malhotra; t",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "The Hindu Business",
+    "link": "https://www.thehindu.com/business/rbi-monetary-policy-meeting-speech-april-8-2026-live-updates/article70837023.ece",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "1dcf4ac29ba0",
+    "_fetched": "2026-04-08T13:52:59.033998+00:00",
+    "_relevance": 64,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 1966,
+    "title": "India doing better than Asian peers, well place to attract m",
+    "cat": "economy",
+    "upsc": true,
+    "time": "2026-04-08T13:55:11.410533+00:00",
+    "summary": "India's economy shows strong resilience, outperforming other Asian nations.  Central bank governor Sanjay Malhotra highlighted attractive valuations a",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "ET Economy",
+    "link": "https://economictimes.indiatimes.com/news/economy/policy/india-doing-better-than-asian-peers-well-place-to-attract-more-foreign-investment-rbi/articleshow/130114665.cms",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "fdae0f51c469",
+    "_fetched": "2026-04-08T13:55:11.410533+00:00",
+    "_relevance": 64,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 1967,
+    "title": "Cabinet clears Rs 1.74 lakh crore projects; major push for H",
+    "cat": "tech",
+    "upsc": true,
+    "time": "2026-04-08T13:57:23.797723+00:00",
+    "summary": "The Union Cabinet has approved significant proposals totaling Rs 1.74 lakh crore. These include substantial fertiliser support for farmers, expansion ",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "ET Economy",
+    "link": "https://economictimes.indiatimes.com/news/economy/policy/cabinet-clears-rs-1-74-lakh-crore-projects-major-push-for-hpcl-rajasthan-refinery-expansion-and-jaipur-metro-phase-2/articleshow/130111010.cms",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "aa78f5f5bf19",
+    "_fetched": "2026-04-08T13:57:23.797723+00:00",
+    "_relevance": 60,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 1968,
+    "title": "Summer heat and oil shock raise concerns for India’s energy ",
+    "cat": "economy",
+    "upsc": true,
+    "time": "2026-04-08T13:59:36.186386+00:00",
+    "summary": "Peak summer electricity demand, rising crude oil prices, and West Asia tensions threaten to push India’s energy demand, import bill and inflation high",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "The Hindu",
+    "link": "https://www.thehindu.com/business/Industry/summer-heat-and-oil-shock-raise-concerns-for-indias-energy-demand/article70814626.ece",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "1d813b4f9ba6",
+    "_fetched": "2026-04-08T13:59:36.186386+00:00",
+    "_relevance": 57,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 1969,
+    "title": "Iran ceasefire taken into account for policy decision: RBI",
+    "cat": "economy",
+    "upsc": true,
+    "time": "2026-04-08T14:01:48.582932+00:00",
+    "summary": "Reserve Bank Governor Sanjay Malhotra expressed optimism over the US-Iran ceasefire, labeling it a welcome piece of news. This event played a role in ",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "ET Economy",
+    "link": "https://economictimes.indiatimes.com/news/economy/policy/iran-ceasefire-taken-into-account-for-policy-decision-rbi/articleshow/130112763.cms",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "c9a665515a8c",
+    "_fetched": "2026-04-08T14:01:48.582932+00:00",
+    "_relevance": 57,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "sc-judgment",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 1970,
+    "title": "Launch date of first uncrewed mission of Gaganyaan to be ann",
+    "cat": "science",
+    "upsc": true,
+    "time": "2026-04-08T14:04:01.014468+00:00",
+    "summary": "The first uncrewed mission of Gaganyaan will demonstrate end-to-end mission, including aerodynamics characterisation of human rated launch vehicle, mi",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "The Hindu",
+    "link": "https://www.thehindu.com/sci-tech/science/launch-date-of-first-uncrewed-mission-of-gaganyaan-to-be-announced-this-week-isro-chairperson/article70837836.ece",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "476d6a304ae4",
+    "_fetched": "2026-04-08T14:04:01.014468+00:00",
+    "_relevance": 54,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 1971,
+    "title": "Rupee surges 47 paise to close at 92.59 per USD on Iran-U.S.",
+    "cat": "economy",
+    "upsc": true,
+    "time": "2026-04-08T14:06:13.400981+00:00",
+    "summary": "The central bank's six-member Monetary Policy Committee voted unanimously to keep the benchmark repurchase rate at 5.25%, flagging heightened uncertai",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "The Hindu Business",
+    "link": "https://www.thehindu.com/business/markets/rupee-surges-47-paise-to-close-on-iran-us-ceasefire-rbi-pause-on-policy-rates/article70838117.ece",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "4a8c80c56299",
+    "_fetched": "2026-04-08T14:06:13.400981+00:00",
+    "_relevance": 50,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "sc-judgment",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 1972,
+    "title": "Women borrowers hold Rs 76 lakh crore credit portfolio: Repo",
+    "cat": "economy",
+    "upsc": true,
+    "time": "2026-04-08T14:08:25.796904+00:00",
+    "summary": "The Aayog, in the report titled 'From Borrowers to Builders: Women and India's Evolving Credit Market', said that between December 2017 and December 2",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "ET Economy",
+    "link": "https://economictimes.indiatimes.com/news/economy/indicators/women-borrowers-hold-rs-76-lakh-crore-credit-portfolio-report/articleshow/130115591.cms",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "d72c60d455ec",
+    "_fetched": "2026-04-08T14:08:25.796904+00:00",
+    "_relevance": 50,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 1973,
+    "title": "Veteran Congress leader Mohsina Kidwai passes away; tributes",
+    "cat": "india",
+    "upsc": false,
+    "time": "2026-04-08T14:10:38.219160+00:00",
+    "summary": "A senior leader of the Congress, Kidwai had a public career spanning more than six decades; after several terms in the Lok Sabha, she entered the Rajy",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "The Hindu",
+    "link": "https://www.thehindu.com/news/national/veteran-congress-leader-mohsina-kidwai-passes-away-at-94/article70837031.ece",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "257a85675dcc",
+    "_fetched": "2026-04-08T14:10:38.219160+00:00",
+    "_relevance": 49,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 1974,
+    "title": "Sabarimala women entry case highlights: Supreme Court asks C",
+    "cat": "tech",
+    "upsc": false,
+    "time": "2026-04-08T14:12:50.599646+00:00",
+    "summary": "The submission was heard by a nine-judge Constitution bench headed by the CJI on the petitions related to discrimination against women at religious pl",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "The Hindu",
+    "link": "https://www.thehindu.com/news/national/sabarimala-supreme-court-nine-judge-bench-hearing-women-entry-live-updates-kerala-april-8-2026/article70837065.ece",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "226288baf8b1",
+    "_fetched": "2026-04-08T14:12:50.599646+00:00",
+    "_relevance": 44,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "sc-judgment",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 1975,
+    "title": "CAG Flags Violations",
+    "cat": "policy",
+    "upsc": true,
+    "time": "2026-04-08T14:13:07.173885+00:00",
+    "summary": "The Comptroller and Auditor General (CAG) has flagged major violations in the Visakhapatnam Rushikonda resort project, including the absence of a Detailed Project Report and judicial preview. This is significant for UPSC as it highlights issues of governance and accountability in public projects. The project's cost surge from ₹164 crore to ₹350 crore also raises questions about fiscal management and transparency.",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": 164,
+        "label": "Initial project cost (₹ crore)"
+      },
+      {
+        "val": 350,
+        "label": "Revised project cost (₹ crore)"
+      },
+      {
+        "val": 148,
+        "label": "Article of the Indian Constitution establishing the CAG"
+      }
+    ],
+    "src": "The Hindu",
+    "link": "https://www.thehindu.com/news/national/andhra-pradesh/cag-flags-major-violations-in-visakhapatnam-rushikonda-resort-project-costs-surge-to-350-crore/article70837178.ece",
+    "prelims": [
+      "The <strong>CAG</strong> is a constitutional body established under Article 148 of the Indian Constitution, responsible for auditing the accounts of the Union and state governments. It has the power to examine the accounts of any authority or body that receives funds from the Consolidated Fund of India.",
+      "The <strong>Visakhapatnam Rushikonda resort project</strong> is located in the state of Andhra Pradesh, which has a long coastline along the Bay of Bengal. The project's proximity to the coast raises concerns about environmental impact and the need for Coastal Regulation Zone (CRZ) clearance.",
+      "The <strong>Coastal Regulation Zone (CRZ) Notification, 2019</strong> is a crucial regulation that governs development activities along India's coastline. It classifies the coast into different zones, including CRZ-I (ecologically sensitive areas), CRZ-II (developed urban areas), and CRZ-III (rural areas).",
+      "The <strong>Right to Information (RTI) Act, 2005</strong> is a key legislation that enables citizens to access information about government projects and activities. In the context of the Rushikonda resort project, RTI can be used to seek information about the project's approval process, environmental clearance, and financial transactions.",
+      "The <strong>Public Accounts Committee (PAC)</strong> is a parliamentary committee that examines the reports of the CAG and investigates cases of financial irregularities. The PAC can play a crucial role in scrutinizing the CAG's report on the Rushikonda resort project and ensuring that those responsible for the violations are held accountable."
+    ],
+    "mains": {
+      "q": "Critically examine the role of the Comptroller and Auditor General (CAG) in ensuring transparency and accountability in public projects, with reference to the Visakhapatnam Rushikonda resort project.",
+      "marks": "15 marks · GS2",
+      "directive": "critically_examine",
+      "hints": [
+        "Introduction (2 marks): Define the role of the CAG and its constitutional mandate, highlighting its importance in ensuring transparency and accountability in public projects.",
+        "Body - CAG's role in auditing public projects (3 marks): Discuss the CAG's powers and functions in auditing public projects, including its ability to examine accounts, conduct performance audits, and report on financial irregularities.",
+        "Body - Issues in the Rushikonda resort project (3 marks): Analyze the CAG's report on the Rushikonda resort project, highlighting the violations and irregularities that were flagged, and discussing the implications of these findings for the project's viability and sustainability.",
+        "Body - Implications for governance and accountability (3 marks): Examine the broader implications of the CAG's report for governance and accountability in public projects, including the need for greater transparency, accountability, and oversight in project planning and implementation.",
+        "Conclusion (2 marks): Summarize the main findings and implications of the CAG's report, highlighting the importance of the CAG's role in ensuring transparency and accountability in public projects, and suggesting ways to strengthen the CAG's mandate and effectiveness."
+      ]
+    },
+    "connect": [
+      {
+        "topic": "Public Financial Management",
+        "context": "The Rushikonda resort project's cost surge raises questions about fiscal management and transparency, highlighting the importance of effective public financial management."
+      },
+      {
+        "topic": "Coastal Regulation Zone (CRZ) Notification, 2019",
+        "context": "The project's proximity to the coast and the need for CRZ clearance connect to the CRZ Notification, 2019, and its provisions for regulating development activities along the coastline."
+      },
+      {
+        "topic": "Right to Information (RTI) Act, 2005",
+        "context": "The RTI Act can be used to seek information about the project's approval process, environmental clearance, and financial transactions, highlighting the importance of transparency and accountability in public projects."
+      },
+      {
+        "topic": "Public Accounts Committee (PAC)",
+        "context": "The PAC can play a crucial role in scrutinizing the CAG's report on the Rushikonda resort project and ensuring that those responsible for the violations are held accountable, highlighting the importance of parliamentary oversight."
+      },
+      {
+        "topic": "Environmental Impact Assessment (EIA) Process",
+        "context": "The project's environmental impact and the need for EIA clearance connect to the EIA process, highlighting the importance of environmental consideration in project planning and implementation."
+      }
+    ],
+    "_hash": "593b443cf47c",
+    "_fetched": "2026-04-08T14:13:07.173885+00:00",
+    "_relevance": 39,
+    "_gs": [
+      "GS2",
+      "GS3",
+      "GS4"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "critically_examine",
+    "_mcqs": {
+      "q": "Consider the following statements:\n1. The CAG is a constitutional body established under Article 148 of the Indian Constitution.\n2. The Visakhapatnam Rushikonda resort project is located in the state of Telangana.\n3. The CRZ Notification, 2019, prohibits all development activities in CRZ-I areas.\nWhich of the above is/are correct?",
+      "options": [
+        "1 only",
+        "1 and 2 only",
+        "1 and 3 only",
+        "1, 2 and 3"
+      ],
+      "correct": 0,
+      "explanation": "Statement 1 is correct: The CAG is indeed a constitutional body established under Article 148. Statement 2 is incorrect: The project is located in Andhra Pradesh, not Telangana. Statement 3 is incorrect: While CRZ-I areas are ecologically sensitive, the notification does not prohibit all development activities, but rather regulates them.",
+      "trap": "Wrong State"
+    }
+  },
+  {
+    "id": 1976,
+    "title": "China's Foreign Minister to visit North Korea between April ",
+    "cat": "world",
+    "upsc": false,
+    "time": "2026-04-08T14:15:19.546739+00:00",
+    "summary": "Beijing has worked to draw Pyongyang back into its orbit, after the COVID-19 pandemic froze exchanges and as North Korean leader Kim Jong ‌Un shored u",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "The Hindu International",
+    "link": "https://www.thehindu.com/news/international/chinas-foreign-minister-to-visit-north-korea-between-april-9-and-10/article70837941.ece",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "6cb61f61b3c2",
+    "_fetched": "2026-04-08T14:15:19.546739+00:00",
+    "_relevance": 36,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 1977,
+    "title": "No systemic risk, says RBI on HDFC Bank chairman's sudden ex",
+    "cat": "economy",
+    "upsc": false,
+    "time": "2026-04-08T14:17:31.957184+00:00",
+    "summary": "RBI deputy governor Swaminathan J. called the development ‘entity-specific’ after Atanu Chakraborty’s departure sparked governance concerns at India’s",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "LiveMint Industry",
+    "link": "https://www.livemint.com/industry/banking/hdfc-bank-chairman-exit-rbi-statement-financial-stability-india-markets-11775645389078.html",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "2871e1a04ae7",
+    "_fetched": "2026-04-08T14:17:31.957184+00:00",
+    "_relevance": 36,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 1978,
+    "title": "Mint Explainer | Has the food processing PLI scheme delivere",
+    "cat": "economy",
+    "upsc": false,
+    "time": "2026-04-08T14:19:44.341927+00:00",
+    "summary": "Early gains from the PLI scheme are visible in the processing and exports segments. However, structural gaps could yet limit the scheme’s long-term su",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "LiveMint Industry",
+    "link": "https://www.livemint.com/industry/pli-scheme-food-processing-india-impact-investment-11775619439576.html",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "35718d66b6bc",
+    "_fetched": "2026-04-08T14:19:44.341927+00:00",
+    "_relevance": 36,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 1979,
+    "title": "Cabinet approves Rs 41,534 cr P&amp;K fertilisers subsidy fo",
+    "cat": "tech",
+    "upsc": false,
+    "time": "2026-04-08T14:21:56.714210+00:00",
+    "summary": "In a strategic move to enhance agricultural output, the government has rolled out a substantial subsidy of Rs 41,534 crore aimed at supporting Phospha",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "ET Economy",
+    "link": "https://economictimes.indiatimes.com/news/economy/agriculture/cabinet-approves-rs-41534-cr-pk-fertilisers-subsidy-for-kharif-2026-season/articleshow/130112372.cms",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "48a8abb5adcd",
+    "_fetched": "2026-04-08T14:21:56.714210+00:00",
+    "_relevance": 36,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "ministry",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 1980,
+    "title": "Bomb threat email to Bengaluru airport turns out to be hoax;",
+    "cat": "tech",
+    "upsc": false,
+    "time": "2026-04-08T14:24:09.134046+00:00",
+    "summary": "The sender of the email, reportedly written in Tamil, claimed to be part of a group from Coimbatore wanting to take revenge against the DMK-led Tamil ",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "The Hindu",
+    "link": "https://www.thehindu.com/news/cities/bangalore/bomb-threat-email-to-bengaluru-airport-turns-out-to-be-hoax-case-registered/article70838185.ece",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "23b7e98a2d33",
+    "_fetched": "2026-04-08T14:24:09.134046+00:00",
+    "_relevance": 33,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "sc-judgment",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 1981,
+    "title": "Trump reveals details of Iran deal: No Uranium enrichment, r",
+    "cat": "tech",
+    "upsc": false,
+    "time": "2026-04-08T14:26:21.493405+00:00",
+    "summary": "Trump reveals details of Iran deal: No Uranium enrichment, remove nuclear dust, sanctions relief",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "LiveMint",
+    "link": "https://www.livemint.com/news/world/trump-reveals-details-of-iran-deal-no-uranium-enrichment-remove-nuclear-dust-sanctions-relief-11775649168529.html",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "af5e2a89f8f7",
+    "_fetched": "2026-04-08T14:26:21.493405+00:00",
+    "_relevance": 30,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
   }
 ]
