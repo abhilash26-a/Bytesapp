@@ -25983,5 +25983,577 @@
     "_difficulty": 2,
     "_directive": "discuss",
     "_mcqs": []
+  },
+  {
+    "id": 1954,
+    "title": "Export Decline",
+    "cat": "economy",
+    "upsc": true,
+    "time": "2026-04-09T14:05:02.909055+00:00",
+    "summary": "Indian merchandise exports are projected to decline by 2-3% in 2025-26 due to global economic uncertainties. This decline is significant for UPSC as it affects India's economic development and trade policies. The situation connects to the GS3 syllabus area of economic development and international trade.",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": 2025,
+        "label": "Year in which the decline in merchandise exports is projected"
+      }
+    ],
+    "src": "ET Economy",
+    "link": "https://economictimes.indiatimes.com/news/economy/foreign-trade/exporters-body-fieo-sees-2-3-pc-fall-in-goods-exports-during-2025-26/articleshow/130140930.cms",
+    "prelims": [
+      "The <strong>Foreign Trade Policy</strong> is formulated by the Ministry of Commerce and Industry, aiming to increase India's exports and promote economic growth. It is reviewed and updated every five years to align with changing global trade scenarios and domestic economic priorities. The policy's effectiveness is crucial for India's economic development and is a significant area of study for UPSC.",
+      "The <strong>World Trade Organization (WTO)</strong> plays a vital role in regulating international trade and resolving trade disputes between countries. Established in 1995, it replaced the General Agreement on Tariffs and Trade (GATT) and has 164 member countries, including India. Understanding the WTO's functions and agreements, such as the General Agreement on Trade in Services (GATS), is essential for analyzing India's trade policies and negotiations.",
+      "The <strong>Make in India</strong> initiative, launched in 2014, aims to promote India as a manufacturing hub and increase the contribution of the manufacturing sector to the country's GDP. It focuses on 25 sectors, including textiles, automotive, and renewable energy, and has led to significant investments and job creation. However, its impact on export growth and the challenges faced by the manufacturing sector are critical areas of analysis for UPSC.",
+      "The <strong>Export-Import Bank of India (Exim Bank)</strong> was established in 1982 to support India's international trade by providing financial assistance to exporters and importers. It offers a range of services, including export credit, lines of credit, and project exports, and plays a crucial role in promoting India's exports, particularly to countries in Africa and Southeast Asia.",
+      "The <strong>Special Economic Zones (SEZs)</strong> in India were established under the SEZ Act, 2005, to provide a conducive business environment and attract foreign investment. These zones offer various incentives, including tax exemptions, simplified procedures, and excellent infrastructure, to promote export-oriented production. However, the effectiveness of SEZs in boosting exports and the challenges they face, such as land acquisition and environmental concerns, are important topics for UPSC analysis."
+    ],
+    "mains": {
+      "q": "Analyze the impact of global economic uncertainties on India's merchandise exports and discuss the measures that can be taken by the government to stabilize the export sector.",
+      "marks": "15 marks · GS3",
+      "directive": "analyze",
+      "hints": [
+        "Introduction (2 marks): Define the significance of merchandise exports in India's economy and the current challenges faced by the export sector due to global economic uncertainties.",
+        "Body - Impact of global economic uncertainties (3 marks): Explain how global economic uncertainties, such as the West Asia crisis, affect India's merchandise exports, including the impact on demand, supply chains, and trade policies.",
+        "Body - Government measures (4 marks): Discuss the measures that can be taken by the government to stabilize the export sector, including policy interventions, infrastructure development, and support for exporters, such as the Merchandise Exports from India Scheme (MEIS).",
+        "Body - Role of institutions (3 marks): Analyze the role of institutions, such as the Ministry of Commerce and Industry, the Reserve Bank of India, and the Export-Import Bank of India, in supporting the export sector and addressing the challenges faced by exporters.",
+        "Conclusion (3 marks): Summarize the importance of a stable export sector for India's economic growth and suggest a comprehensive approach to addressing the challenges faced by the sector, including policy reforms, institutional support, and international cooperation."
+      ]
+    },
+    "connect": [
+      {
+        "topic": "Foreign Trade Policy",
+        "context": "The decline in merchandise exports highlights the need for a review of India's foreign trade policy to address the challenges faced by the export sector."
+      },
+      {
+        "topic": "World Trade Organization (WTO)",
+        "context": "The WTO plays a crucial role in regulating international trade and resolving trade disputes, which is relevant to India's export sector and its negotiations with other countries."
+      },
+      {
+        "topic": "Make in India Initiative",
+        "context": "The Make in India initiative aims to promote India as a manufacturing hub and increase exports, but its effectiveness in achieving these goals is a subject of analysis."
+      },
+      {
+        "topic": "Export-Import Bank of India (Exim Bank)",
+        "context": "The Exim Bank provides financial assistance to exporters and importers, which is critical for supporting India's export sector and addressing the challenges faced by exporters."
+      },
+      {
+        "topic": "Special Economic Zones (SEZs)",
+        "context": "SEZs are established to promote export-oriented production and provide a conducive business environment, but their effectiveness in boosting exports and addressing the challenges faced by the export sector is a topic of discussion."
+      }
+    ],
+    "_hash": "103ef078c263",
+    "_fetched": "2026-04-09T14:05:02.909055+00:00",
+    "_relevance": 60,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "analyze",
+    "_mcqs": {
+      "q": "Consider the following statements:\n1. The decline in India's merchandise exports is primarily due to a decrease in global demand.\n2. The Ministry of Finance is responsible for formulating India's foreign trade policy.\n3. The Export-Import Bank of India provides financial assistance only to exporters.\nWhich of the above is/are correct?",
+      "options": [
+        "1 only",
+        "1 and 2 only",
+        "2 and 3 only",
+        "1, 2 and 3"
+      ],
+      "correct": 0,
+      "explanation": "Statement 1 is correct: The decline in India's merchandise exports can be attributed to various factors, including a decrease in global demand. Statement 2 is incorrect: The Ministry of Commerce and Industry is responsible for formulating India's foreign trade policy. Statement 3 is incorrect: The Export-Import Bank of India provides financial assistance to both exporters and importers.",
+      "trap": "Wrong Ministry"
+    }
+  },
+  {
+    "id": 1955,
+    "title": "India's Economic Buffers",
+    "cat": "economy",
+    "upsc": true,
+    "time": "2026-04-09T14:05:19.134696+00:00",
+    "summary": "The World Bank stated that India has strong buffers like high foreign exchange reserves and fiscal space to handle the global energy shock. This is significant for UPSC as it highlights India's economic resilience and its ability to navigate global headwinds. The concept of buffers and fiscal space is crucial in understanding India's economic development, which is a key area in GS3.",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": 600,
+        "label": "India's foreign exchange reserves (billion USD)"
+      },
+      {
+        "val": 1935,
+        "label": "Year the Reserve Bank of India (RBI) was established"
+      }
+    ],
+    "src": "ET Economy",
+    "link": "https://economictimes.indiatimes.com/news/economy/indicators/india-has-ample-buffers-to-weather-headwinds-from-middle-east-conflict-world-bank/articleshow/130139542.cms",
+    "prelims": [
+      "India's <strong>foreign exchange reserves</strong> are a crucial buffer against external shocks, currently standing at over $600 billion. The Reserve Bank of India (RBI) manages these reserves, which include foreign currency assets, gold, and special drawing rights (SDRs). The RBI was established in 1935 under the Reserve Bank of India Act, 1934.",
+      "The <strong>fiscal space</strong> available to the government is determined by its ability to raise revenue and its existing liabilities. In India, the <strong>Fiscal Responsibility and Budget Management (FRBM) Act, 2003</strong>, aims to reduce the fiscal deficit and improve fiscal discipline. The Act sets targets for the central government to reduce its fiscal deficit to 3% of GDP.",
+      "The <strong>World Bank</strong> provides financial and technical assistance to developing countries, including India, to achieve their development goals. Established in 1944, the World Bank has 189 member countries and is headquartered in Washington, D.C. The World Bank's <strong>International Bank for Reconstruction and Development (IBRD)</strong> lends to middle-income countries, while the <strong>International Development Association (IDA)</strong> provides concessional loans to low-income countries.",
+      "India's <strong>economic growth</strong> has been driven by its large and growing middle class, which is expected to reach 475 million by 2030. The <strong>Eleventh Five-Year Plan (2007-2012)</strong> aimed to achieve an average annual growth rate of 9%, while the <strong>Twelfth Five-Year Plan (2012-2017)</strong> targeted a growth rate of 8%. The <strong>Make in India</strong> initiative, launched in 2014, aims to promote manufacturing and job creation in India.",
+      "The <strong>global energy shock</strong> has significant implications for India's energy security, as the country is heavily dependent on imports to meet its energy needs. The <strong>Integrated Energy Policy (IEP)</strong>, released in 2006, aims to ensure energy security and promote sustainable development. The <strong>National Energy Policy (NEP)</strong>, released in 2017, sets a target of 40% non-fossil fuel-based power generation capacity by 2030."
+    ],
+    "mains": {
+      "q": "Analyze the role of foreign exchange reserves and fiscal space in maintaining India's economic stability in the face of global headwinds.",
+      "marks": "15 marks · GS3",
+      "directive": "analyze",
+      "hints": [
+        "Introduction (2 marks): Define foreign exchange reserves and fiscal space, and explain their significance in maintaining economic stability.",
+        "Body - Foreign Exchange Reserves (3 marks): Discuss the composition of India's foreign exchange reserves, including foreign currency assets, gold, and SDRs, and explain how they are used to manage external shocks.",
+        "Body - Fiscal Space (3 marks): Examine the factors that determine India's fiscal space, including revenue generation, expenditure management, and debt sustainability, and discuss the implications of fiscal space for economic growth and development.",
+        "Body - Global Headwinds (3 marks): Discuss the potential impact of global headwinds, including trade wars, commodity price shocks, and financial market volatility, on India's economy, and explain how foreign exchange reserves and fiscal space can help mitigate these risks.",
+        "Conclusion (2 marks): Summarize the importance of foreign exchange reserves and fiscal space in maintaining India's economic stability, and suggest policy measures to enhance these buffers and promote sustainable economic growth."
+      ]
+    },
+    "connect": [
+      {
+        "topic": "Fiscal Policy and Budgeting",
+        "context": "The concept of fiscal space is crucial in understanding India's economic development, which is a key area in GS3."
+      },
+      {
+        "topic": "International Economic Organizations",
+        "context": "The World Bank provides financial and technical assistance to developing countries, including India, and is a key player in global economic governance."
+      },
+      {
+        "topic": "Economic Growth and Development",
+        "context": "India's economic growth has been driven by its large and growing middle class, and the government has launched initiatives such as Make in India to promote manufacturing and job creation."
+      },
+      {
+        "topic": "Energy Security and Policy",
+        "context": "The global energy shock has significant implications for India's energy security, and the government has launched initiatives such as the Integrated Energy Policy and the National Energy Policy to promote energy security and sustainable development."
+      },
+      {
+        "topic": "Monetary Policy and Banking",
+        "context": "The Reserve Bank of India (RBI) manages India's foreign exchange reserves and plays a key role in maintaining economic stability, which is a key area in GS3."
+      }
+    ],
+    "_hash": "1db80d004197",
+    "_fetched": "2026-04-09T14:05:19.134696+00:00",
+    "_relevance": 60,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "intl-report",
+    "_difficulty": 2,
+    "_directive": "analyze",
+    "_mcqs": {
+      "q": "Consider the following statements:\n1. The World Bank provides financial assistance to developing countries, including India.\n2. The FRBM Act, 2003, aims to reduce the fiscal deficit to 5% of GDP.\n3. India's foreign exchange reserves are managed by the Ministry of Finance.\nWhich of the above is/are correct?",
+      "options": [
+        "1 only",
+        "1 and 2 only",
+        "2 and 3 only",
+        "1, 2 and 3"
+      ],
+      "correct": 0,
+      "explanation": "Statement 1 is correct: The World Bank provides financial assistance to developing countries, including India. Statement 2 is incorrect: The FRBM Act, 2003, aims to reduce the fiscal deficit to 3% of GDP, not 5%. Statement 3 is incorrect: India's foreign exchange reserves are managed by the Reserve Bank of India (RBI), not the Ministry of Finance.",
+      "trap": "Wrong Ministry"
+    }
+  },
+  {
+    "id": 1956,
+    "title": "Israel-Iran war: India rapeseed sales shift to private trade",
+    "cat": "economy",
+    "upsc": true,
+    "time": "2026-04-09T14:07:31.564530+00:00",
+    "summary": "Indian farmers are selling rapeseed to private traders. Market prices are higher than government rates. This is due to a rally in edible oil prices li",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "ET Economy",
+    "link": "https://economictimes.indiatimes.com/news/economy/agriculture/israel-iran-war-india-rapeseed-sales-shift-to-private-traders-as-war-lifts-edible-oil-prices/articleshow/130141005.cms",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "cf74762f3a5e",
+    "_fetched": "2026-04-09T14:07:31.564530+00:00",
+    "_relevance": 55,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 1957,
+    "title": "India-UK FTA",
+    "cat": "economy",
+    "upsc": true,
+    "time": "2026-04-09T14:08:08.638561+00:00",
+    "summary": "High Commissioner Vikram Doraiswami was awarded the Freedom of the City of London, marking a significant moment in India-UK relations, particularly with the conclusion of the India-UK Free Trade Agreement (FTA). This development is crucial for UPSC as it highlights the growing economic ties between India and the UK, which can be expected to feature in both prelims and mains questions. The FTA is expected to boost bilateral trade and investment, connecting to the syllabus area of international trade and economic development.",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": 20,
+        "label": "Number of chapters in the India-UK FTA"
+      }
+    ],
+    "src": "The Hindu",
+    "link": "https://www.thehindu.com/news/national/high-commissioner-vikram-doraiswami-award/article70843213.ece",
+    "prelims": [
+      "The <strong>India-UK Free Trade Agreement (FTA)</strong> aims to enhance bilateral trade and investment by reducing tariffs and non-tariff barriers, promoting economic cooperation, and fostering a more stable and predictable trade environment. The agreement is expected to increase trade in goods and services, creating new opportunities for businesses and industries in both countries. The FTA also includes provisions for cooperation in areas like trade facilitation, customs procedures, and intellectual property rights.",
+      "The <strong>General Agreement on Tariffs and Trade (GATT)</strong> is a multilateral treaty that aims to promote free trade and reduce tariffs among its member countries. As a member of the World Trade Organization (WTO), India is committed to adhering to the principles of GATT, which emphasizes the importance of non-discrimination, transparency, and predictability in trade policies. The India-UK FTA is expected to be consistent with the principles of GATT, ensuring that the agreement does not violate WTO rules and regulations.",
+      "The <strong>Department for International Trade (DIT)</strong> is a UK government department responsible for promoting British trade and investment, as well as negotiating and implementing trade agreements. The DIT played a crucial role in negotiating the India-UK FTA, working closely with the Indian government to finalize the agreement. The department's mandate includes promoting UK exports, attracting foreign investment, and providing support to businesses looking to trade with other countries.",
+      "The <strong>WTO Agreement on Sanitary and Phytosanitary Measures (SPS)</strong> is an international treaty that aims to ensure that food safety and plant and animal health regulations are not used as unjustified trade barriers. The agreement requires countries to base their SPS measures on scientific evidence and to avoid arbitrary or unjustified distinctions between countries. The India-UK FTA is expected to include provisions related to SPS measures, facilitating the trade of agricultural and food products between the two countries.",
+      "The <strong>UK's post-Brexit trade policy</strong> has focused on negotiating new trade agreements with countries around the world, including India. The UK's departure from the EU has created new opportunities for bilateral trade agreements, allowing the UK to pursue its own trade policy and negotiate agreements that are tailored to its specific interests and needs. The India-UK FTA is a key component of the UK's post-Brexit trade strategy, aiming to strengthen economic ties with a major emerging market."
+    ],
+    "mains": {
+      "q": "Analyze the significance of the India-UK Free Trade Agreement (FTA) in the context of India's foreign trade policy and its implications for the country's economic development.",
+      "marks": "15 marks · GS3",
+      "directive": "analyze",
+      "hints": [
+        "Introduction (2 marks): Define the India-UK FTA and its objectives, highlighting the importance of bilateral trade agreements in promoting economic cooperation and development.",
+        "Body - Trade benefits (3 marks): Discuss the potential benefits of the FTA for India, including increased access to the UK market, reduced tariffs, and enhanced trade in goods and services.",
+        "Body - Economic implications (3 marks): Examine the potential economic implications of the FTA, including its impact on India's trade deficit, balance of payments, and overall economic growth.",
+        "Body - Challenges and limitations (3 marks): Analyze the challenges and limitations of the FTA, including potential non-tariff barriers, regulatory differences, and the need for capacity building and trade facilitation.",
+        "Conclusion (2 marks): Summarize the significance of the India-UK FTA and its potential to promote India's economic development, highlighting the need for effective implementation and monitoring to ensure the agreement's success."
+      ]
+    },
+    "connect": [
+      {
+        "topic": "India's Foreign Trade Policy",
+        "context": "The India-UK FTA is a key component of India's foreign trade policy, aiming to promote bilateral trade and investment with a major developed economy."
+      },
+      {
+        "topic": "WTO Agreements",
+        "context": "The India-UK FTA is expected to be consistent with the principles of the General Agreement on Tariffs and Trade (GATT) and other WTO agreements, ensuring that the agreement does not violate WTO rules and regulations."
+      },
+      {
+        "topic": "International Trade Theory",
+        "context": "The India-UK FTA can be analyzed through the lens of international trade theory, including the concepts of comparative advantage, absolute advantage, and the gains from trade."
+      },
+      {
+        "topic": "Economic Development",
+        "context": "The India-UK FTA is expected to contribute to India's economic development by promoting trade, investment, and economic growth, and by creating new opportunities for businesses and industries in both countries."
+      },
+      {
+        "topic": "Brexit and its Implications",
+        "context": "The India-UK FTA is a key component of the UK's post-Brexit trade policy, aiming to strengthen economic ties with a major emerging market and promote the UK's trade and investment interests around the world."
+      }
+    ],
+    "_hash": "4d96255b0750",
+    "_fetched": "2026-04-09T14:08:08.638561+00:00",
+    "_relevance": 52,
+    "_gs": [
+      "GS2",
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "analyze",
+    "_mcqs": {
+      "q": "Consider the following statements:\n1. The India-UK FTA is expected to increase trade in goods and services between the two countries.\n2. The FTA is consistent with the principles of the General Agreement on Tariffs and Trade (GATT).\n3. The UK's post-Brexit trade policy has focused on negotiating new trade agreements with countries around the world, including India.\nWhich of the above is/are correct?",
+      "options": [
+        "1 only",
+        "1 and 2 only",
+        "2 and 3 only",
+        "1, 2 and 3"
+      ],
+      "correct": 3,
+      "explanation": "Statement 1 is correct: The India-UK FTA aims to enhance bilateral trade and investment by reducing tariffs and non-tariff barriers. Statement 2 is correct: The FTA is expected to be consistent with the principles of GATT, ensuring that the agreement does not violate WTO rules and regulations. Statement 3 is correct: The UK's post-Brexit trade policy has focused on negotiating new trade agreements with countries around the world, including India.",
+      "trap": "Absolute Language"
+    }
+  },
+  {
+    "id": 1958,
+    "title": "World Bank slashes India’s 2026-27 growth outlook to 6.6% on",
+    "cat": "tech",
+    "upsc": false,
+    "time": "2026-04-09T14:10:21.015928+00:00",
+    "summary": "The latest report by the World Bank said that, had the war not happened, India’s growth would have been 7.2%",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "The Hindu Business",
+    "link": "https://www.thehindu.com/business/Economy/world-bank-raises-indias-fy27-gdp-growth-projections-to-66-flags-west-asia-conflict/article70841314.ece",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "2161645714fd",
+    "_fetched": "2026-04-09T14:10:21.015928+00:00",
+    "_relevance": 48,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "intl-report",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 1959,
+    "title": "Watch: Crossing the line: How Jewar residents risk their liv",
+    "cat": "world",
+    "upsc": false,
+    "time": "2026-04-09T14:12:33.477799+00:00",
+    "summary": "As the Noida International Airport takes shape in Jewar, billions are being poured into infrastructure that promises to transform the region. But for ",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "The Hindu",
+    "link": "https://www.thehindu.com/videos/watch-crossing-the-line-how-jewar-residents-risk-their-lives-to-catch-a-bus/article70842880.ece",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "25cb9445b919",
+    "_fetched": "2026-04-09T14:12:33.477799+00:00",
+    "_relevance": 44,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 1960,
+    "title": "Venkaiah Naidu advocates girls’ education to drive social ch",
+    "cat": "tech",
+    "upsc": false,
+    "time": "2026-04-09T14:14:45.872610+00:00",
+    "summary": "Addressing the annual convocation of Smt. N.P. Savithramma Government Women’s Degree College (Autonomous), the former Vice-President highlights that e",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "The Hindu",
+    "link": "https://www.thehindu.com/news/national/andhra-pradesh/educating-girls-crucial-for-social-change-says-venkaiah-naidu/article70842898.ece",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "c425fa6c21c9",
+    "_fetched": "2026-04-09T14:14:45.872610+00:00",
+    "_relevance": 41,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 1961,
+    "title": "Iran rules out restrictions on enrichment programme: nuclear",
+    "cat": "science",
+    "upsc": false,
+    "time": "2026-04-09T14:16:58.331282+00:00",
+    "summary": "\"All the conspiracies and actions of our enemies, including this brutal war, have yielded no results. Now they seek to achieve something through negot",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "The Hindu International",
+    "link": "https://www.thehindu.com/news/international/iran-rules-out-restrictions-on-enrichment-programme-nuclear-energy-chief/article70843029.ece",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "1f9f491d264b",
+    "_fetched": "2026-04-09T14:16:58.331282+00:00",
+    "_relevance": 38,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 1962,
+    "title": "Airfare hike fears: What steps has government taken to ease ",
+    "cat": "world",
+    "upsc": false,
+    "time": "2026-04-09T14:19:10.740101+00:00",
+    "summary": "To mitigate the impact of soaring ATF prices on airlines, the government has enacted a 25% cut in airport charges for three months, supporting domesti",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "LiveMint",
+    "link": "https://www.livemint.com/news/india/airfare-hike-fears-what-steps-has-government-taken-to-ease-fuel-price-shock-for-domestic-airlines-11775723973841.html",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "1bc0d8819f84",
+    "_fetched": "2026-04-09T14:19:10.740101+00:00",
+    "_relevance": 37,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 1963,
+    "title": "CPI(M) flags ‘mass disenfranchisement’ in West Bengal, urges",
+    "cat": "india",
+    "upsc": false,
+    "time": "2026-04-09T14:21:23.113997+00:00",
+    "summary": "In a letter to Chief Election Commissioner, CPI(M) General Secretary M.A. Baby alleges that the Special Intensive Revision led to the deletion of over",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "The Hindu",
+    "link": "https://www.thehindu.com/elections/west-bengal-assembly/voter-treated-as-suspect-burdened-to-prove-otherwise-cpim-letter-to-ec-on-bengal-voter-deletions/article70842320.ece",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "051073aa10a3",
+    "_fetched": "2026-04-09T14:21:23.113997+00:00",
+    "_relevance": 33,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 1964,
+    "title": "Panel flags inconsistent accounting practices in health regu",
+    "cat": "tech",
+    "upsc": false,
+    "time": "2026-04-09T14:23:35.586856+00:00",
+    "summary": "Committee says there has been an increase in revenue generated by regulatory bodies through application, inspection and licensing fees following the r",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "The Hindu",
+    "link": "https://www.thehindu.com/news/national/panel-flags-inconsistent-accounting-practices-in-health-regulatory-bodies/article70842396.ece",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "f852c061f944",
+    "_fetched": "2026-04-09T14:23:35.586856+00:00",
+    "_relevance": 31,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 1965,
+    "title": "China denies reports of support to Iran's military during wa",
+    "cat": "world",
+    "upsc": false,
+    "time": "2026-04-09T14:25:47.961103+00:00",
+    "summary": "China's position on the Iran issue is above-board and straightforward. We have always upheld an objective and impartial stance, says Defence Ministry ",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "The Hindu International",
+    "link": "https://www.thehindu.com/news/international/china-denies-reports-of-support-to-irans-military-during-war-with-us/article70842869.ece",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "576a182a91b1",
+    "_fetched": "2026-04-09T14:25:47.961103+00:00",
+    "_relevance": 31,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 1966,
+    "title": "RBI’s exchange rate policy ‘very consistent’, makes a lot of",
+    "cat": "economy",
+    "upsc": false,
+    "time": "2026-04-09T14:28:00.419923+00:00",
+    "summary": "",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "IE Business",
+    "link": "https://indianexpress.com/article/business/world-bank-india-gdp-rbi-rupee-exchange-rate-west-asia-crisis-10627866/",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "143ae24b7014",
+    "_fetched": "2026-04-09T14:28:00.419923+00:00",
+    "_relevance": 30,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "intl-report",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 1967,
+    "title": "EVs drive about 20% of industry growth, lift Mahindra, Tata ",
+    "cat": "economy",
+    "upsc": false,
+    "time": "2026-04-09T14:30:12.869144+00:00",
+    "summary": "With just 4% of the total passenger vehicle market, electric vehicles play an outsized role in boosting the overall growth of top carmakers, especiall",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "LiveMint Industry",
+    "link": "https://www.livemint.com/industry/india-ev-sales-growth-global-ev-sales-decline-mahindra-ev-sales-tata-motors-ev-sales-maruti-suzuki-hyundai-motor-11775710441917.html",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "bcc66887bda5",
+    "_fetched": "2026-04-09T14:30:12.869144+00:00",
+    "_relevance": 30,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
   }
 ]
