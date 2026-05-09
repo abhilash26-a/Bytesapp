@@ -27196,5 +27196,291 @@
     "_difficulty": 2,
     "_directive": "discuss",
     "_mcqs": []
+  },
+  {
+    "id": 1947,
+    "title": "FY26 Export Drop",
+    "cat": "economy",
+    "upsc": true,
+    "time": "2026-04-09T21:51:49.969550+00:00",
+    "summary": "India's goods exports may see a 7-8% drop in March due to the West Asia conflict, potentially leading to a 2-3% lower export for the full fiscal year 2026. This is significant for UPSC as it impacts India's economic development and trade policies. The decline in exports also connects to the syllabus area of economic development and international trade.",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": 7,
+        "label": "Percentage drop in goods exports in March"
+      }
+    ],
+    "src": "ET Economy",
+    "link": "https://economictimes.indiatimes.com/news/economy/foreign-trade/amid-west-asia-war-fy26-goods-exports-may-fall-2-3-fieo/articleshow/130153156.cms",
+    "prelims": [
+      "The <strong>Foreign Trade Policy</strong> is formulated by the Ministry of Commerce and Industry, aiming to increase India's exports and promote economic growth. It has been instrumental in shaping India's trade agreements and export strategies. The policy is revised periodically to adapt to changing global trade scenarios.",
+      "The <strong>Directorate General of Foreign Trade (DGFT)</strong> is the primary agency responsible for implementing India's foreign trade policy, including the administration of export and import policies. Established in 1950, it operates under the Ministry of Commerce and Industry. The DGFT plays a crucial role in facilitating India's international trade.",
+      "The <strong>General Agreement on Tariffs and Trade (GATT)</strong> is a multilateral trade agreement aimed at reducing tariffs and other trade barriers. India is a signatory to GATT, which has been superseded by the World Trade Organization (WTO). Understanding GATT is essential for analyzing India's trade policies and international trade agreements.",
+      "The <strong>Export-Import Bank of India (Exim Bank)</strong> was established in 1982 to facilitate India's international trade by providing financial assistance to exporters and importers. It plays a vital role in promoting India's exports by offering a range of services, including export financing and insurance. Exim Bank's activities are crucial for India's economic development.",
+      "The <strong>Special Economic Zones (SEZs) Act, 2005</strong>, aims to promote exports by creating special economic zones with favorable business conditions. These zones are designed to attract foreign investment, generate employment, and increase India's export competitiveness. The SEZs Act is an important component of India's export promotion strategy."
+    ],
+    "mains": {
+      "q": "Analyze the impact of the West Asia conflict on India's export sector, discussing the potential effects on the country's economic development and trade policies.",
+      "marks": "15 marks · GS3",
+      "directive": "analyze",
+      "hints": [
+        "Introduction (2 marks): Define the significance of the West Asia conflict for India's export sector and outline the potential economic implications.",
+        "Body - Economic Impact (4 marks): Discuss the immediate effects of the conflict on India's exports, including the decline in goods exports and the potential for a 2-3% lower export for the full fiscal year 2026.",
+        "Body - Trade Policies (4 marks): Examine the role of trade policies, such as the Foreign Trade Policy, in mitigating the impact of the conflict on India's exports and promoting economic growth.",
+        "Body - International Trade Agreements (3 marks): Analyze the relevance of international trade agreements, such as GATT and WTO, in shaping India's trade policies and export strategies in the context of the West Asia conflict.",
+        "Conclusion (2 marks): Summarize the key points and suggest measures for the government to support the export sector and promote economic development in the face of global challenges."
+      ]
+    },
+    "connect": [
+      {
+        "topic": "India's Foreign Trade Policy",
+        "context": "The policy's role in promoting exports and economic growth is crucial in the context of the West Asia conflict."
+      },
+      {
+        "topic": "International Trade Agreements (GATT/WTO)",
+        "context": "Understanding these agreements is essential for analyzing India's trade policies and export strategies in the face of global challenges."
+      },
+      {
+        "topic": "Export Promotion Schemes",
+        "context": "Schemes like the Special Economic Zones (SEZs) Act, 2005, are vital for promoting India's exports and attracting foreign investment."
+      },
+      {
+        "topic": "Economic Development and Growth",
+        "context": "The impact of the West Asia conflict on India's export sector has significant implications for the country's economic development and growth."
+      },
+      {
+        "topic": "Global Trade Scenarios and Challenges",
+        "context": "The West Asia conflict highlights the importance of understanding global trade scenarios and challenges for India's economic development and trade policies."
+      }
+    ],
+    "_hash": "d05463247793",
+    "_fetched": "2026-04-09T21:51:49.969550+00:00",
+    "_relevance": 60,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "analyze",
+    "_mcqs": {
+      "q": "Consider the following statements:\n1. The West Asia conflict has led to a significant decline in India's goods exports.\n2. The Foreign Trade Policy is formulated by the Ministry of Finance.\n3. The Directorate General of Foreign Trade (DGFT) is responsible for implementing India's foreign trade policy.\nWhich of the above is/are correct?",
+      "options": [
+        "1 only",
+        "1 and 3 only",
+        "2 and 3 only",
+        "1, 2 and 3"
+      ],
+      "correct": 1,
+      "explanation": "Statement 1 is correct: The West Asia conflict has indeed led to a decline in India's goods exports. Statement 2 is incorrect: The Foreign Trade Policy is formulated by the Ministry of Commerce and Industry, not the Ministry of Finance. Statement 3 is correct: The DGFT is indeed responsible for implementing India's foreign trade policy.",
+      "trap": "Wrong Ministry"
+    }
+  },
+  {
+    "id": 1948,
+    "title": "RBI Holds Repo Rate",
+    "cat": "economy",
+    "upsc": true,
+    "time": "2026-04-09T21:52:06.131703+00:00",
+    "summary": "The RBI has decided to hold the repo rate due to slowing growth and rising inflation. This decision is crucial for UPSC aspirants as it reflects the government's monetary policy and its impact on the economy. The repo rate is a key component of the Indian economy, and understanding its implications is essential for GS3 preparation.",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": 4,
+        "label": "Number of times the RBI has changed the repo rate in the last year"
+      },
+      {
+        "val": 1934,
+        "label": "Year the RBI Act was established"
+      },
+      {
+        "val": 6,
+        "label": "Number of members in the Monetary Policy Committee (MPC)"
+      }
+    ],
+    "src": "The Hindu Editorial",
+    "link": "https://www.thehindu.com/opinion/editorial/timely-inaction-the-hindu-editorial-on-rbis-decision-to-hold-repo-rate/article70844455.ece",
+    "prelims": [
+      "The <strong>Monetary Policy Committee (MPC)</strong> is responsible for setting the repo rate, and its decisions are guided by the RBI Act, 1934. The MPC was established in 2016, and it has six members, including the RBI Governor. The committee's primary objective is to maintain price stability while promoting economic growth.",
+      "The <strong>repo rate</strong> is the rate at which the RBI lends money to commercial banks, and it has a direct impact on the overall interest rate regime in the economy. A change in the repo rate can influence the borrowing costs of banks, which in turn affects the interest rates on loans and deposits. The repo rate is also a key tool for managing inflation and maintaining financial stability.",
+      "The <strong>Reserve Bank of India (RBI)</strong> was established in 1935, and it is responsible for regulating the monetary policy of the country. The RBI is governed by the RBI Act, 1934, and it has a wide range of functions, including maintaining price stability, promoting economic growth, and ensuring financial stability. The RBI also plays a crucial role in managing the foreign exchange market and maintaining the country's foreign exchange reserves.",
+      "The <strong>inflation targeting framework</strong> is a monetary policy framework that aims to keep inflation within a target range. The framework was adopted by the RBI in 2016, and it has been instrumental in maintaining price stability in the economy. The inflation targeting framework is based on the concept of flexible inflation targeting, which allows for some flexibility in achieving the inflation target.",
+      "The <strong>fiscal policy</strong> of the government also plays a crucial role in shaping the economy, and it is closely linked to the monetary policy. The fiscal policy is guided by the Fiscal Responsibility and Budget Management (FRBM) Act, 2003, which aims to reduce the fiscal deficit and promote fiscal discipline. The fiscal policy has a direct impact on the overall economic growth, and it is essential to understand its implications for UPSC preparation."
+    ],
+    "mains": {
+      "q": "Analyze the impact of the RBI's decision to hold the repo rate on the Indian economy, with a focus on its implications for inflation, growth, and financial stability.",
+      "marks": "15 marks · GS3",
+      "directive": "analyze",
+      "hints": [
+        "Introduction (2 marks): Define the repo rate and its significance in the Indian economy, including its impact on inflation and growth.",
+        "Body - Inflation (3 marks): Discuss the impact of the repo rate on inflation, including the transmission mechanism and the role of the inflation targeting framework.",
+        "Body - Growth (3 marks): Examine the impact of the repo rate on economic growth, including its effect on borrowing costs, investment, and consumption.",
+        "Body - Financial Stability (3 marks): Analyze the impact of the repo rate on financial stability, including its effect on the banking system, financial markets, and the overall stability of the economy.",
+        "Conclusion (2 marks): Summarize the main points and provide a balanced view of the RBI's decision to hold the repo rate, including its implications for the Indian economy and the monetary policy framework."
+      ]
+    },
+    "connect": [
+      {
+        "topic": "Monetary Policy and its Instruments",
+        "context": "The RBI's decision to hold the repo rate is a key aspect of monetary policy, and understanding its implications is essential for UPSC preparation."
+      },
+      {
+        "topic": "Inflation Targeting Framework",
+        "context": "The inflation targeting framework is a crucial component of the monetary policy framework, and it has been instrumental in maintaining price stability in the economy."
+      },
+      {
+        "topic": "Fiscal Policy and its Implications",
+        "context": "The fiscal policy of the government has a direct impact on the overall economic growth, and it is closely linked to the monetary policy."
+      },
+      {
+        "topic": "Financial Stability and its Importance",
+        "context": "Financial stability is a critical aspect of the economy, and it is essential to understand its implications for the overall economic growth and development."
+      },
+      {
+        "topic": "Economic Growth and its Determinants",
+        "context": "Economic growth is a key aspect of the economy, and it is essential to understand its determinants, including the role of monetary policy and fiscal policy."
+      }
+    ],
+    "_hash": "dbe251472809",
+    "_fetched": "2026-04-09T21:52:06.131703+00:00",
+    "_relevance": 42,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "analyze",
+    "_mcqs": {
+      "q": "Consider the following statements:\n1. The RBI's decision to hold the repo rate is aimed at promoting economic growth.\n2. The repo rate is the rate at which the RBI borrows money from commercial banks.\n3. The inflation targeting framework is based on the concept of flexible inflation targeting.\nWhich of the above is/are correct?",
+      "options": [
+        "1 only",
+        "1 and 2 only",
+        "2 and 3 only",
+        "1, 2 and 3"
+      ],
+      "correct": 3,
+      "explanation": "Statement 1 is incorrect: The RBI's decision to hold the repo rate is aimed at maintaining price stability, not promoting economic growth. Statement 2 is incorrect: The repo rate is the rate at which the RBI lends money to commercial banks, not borrows. Statement 3 is correct: The inflation targeting framework is based on the concept of flexible inflation targeting.",
+      "trap": "Absolute Language"
+    }
+  },
+  {
+    "id": 1949,
+    "title": "India Inc ramps up exports as Iran ceasefire reopens Middle ",
+    "cat": "economy",
+    "upsc": false,
+    "time": "2026-04-09T21:54:18.572725+00:00",
+    "summary": "Indian businesses are seizing opportunities after the Iran war ceasefire. Exports are resuming, and factories are returning to full capacity. Companie",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "ET Economy",
+    "link": "https://economictimes.indiatimes.com/news/economy/foreign-trade/india-inc-ramps-up-exports-as-iran-ceasefire-reopens-middle-east-trade/articleshow/130152937.cms",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "fcaea689a4b9",
+    "_fetched": "2026-04-09T21:54:18.572725+00:00",
+    "_relevance": 38,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 1950,
+    "title": "Anaicut: Predominantly tribal constituency long plagued by n",
+    "cat": "tech",
+    "upsc": false,
+    "time": "2026-04-09T19:31:38.520590+00:00",
+    "summary": "Civic amenities such as bitumen roads, water supply, electricity connection and government hospital still remain a distant dream for residents of many",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "The Hindu",
+    "link": "https://www.thehindu.com/elections/tamil-nadu-assembly/anaicut-predominantly-tribal-constituency-long-plagued-by-neglect-of-basic-infrastructure/article70843261.ece",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "0768c205170d",
+    "_fetched": "2026-04-09T19:31:38.520590+00:00",
+    "_relevance": 33,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 1951,
+    "title": "61 Railway stations across Karnataka taken up for redevelopm",
+    "cat": "world",
+    "upsc": false,
+    "time": "2026-04-09T19:33:51.014360+00:00",
+    "summary": "The focus of redevelopment will be on providing modern infrastructure, enhanced passenger amenities, and seamless multimodal integration",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "The Hindu",
+    "link": "https://www.thehindu.com/news/national/karnataka/61-railway-stations-across-karnataka-taken-up-for-redevelopment-v-somanna/article70844068.ece",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "673d65465565",
+    "_fetched": "2026-04-09T19:33:51.014360+00:00",
+    "_relevance": 33,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 1952,
+    "title": "Retired personnel, families protest as government notifies C",
+    "cat": "tech",
+    "upsc": false,
+    "time": "2026-04-09T19:36:03.496403+00:00",
+    "summary": "The protesters stated that certain provisions of the Bill undermine the rights and service conditions of the forces that have served for decades as th",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "The Hindu",
+    "link": "https://www.thehindu.com/news/national/retired-personnel-families-protest-as-government-notifies-capf-law/article70844301.ece",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "43f9c8c29260",
+    "_fetched": "2026-04-09T19:36:03.496403+00:00",
+    "_relevance": 31,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
   }
 ]
