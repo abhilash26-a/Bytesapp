@@ -30362,5 +30362,439 @@
     "_difficulty": 2,
     "_directive": "discuss",
     "_mcqs": []
+  },
+  {
+    "id": 1918,
+    "title": "US-India Nuclear Ties",
+    "cat": "world",
+    "upsc": true,
+    "time": "2026-04-11T02:52:29.230224+00:00",
+    "summary": "Foreign Secretary Misri's visit to the US aimed to deepen nuclear ties and explore LPG exports. This development is crucial for UPSC as it highlights the growing strategic partnership between India and the US, particularly in the energy sector. The cooperation in civil nuclear energy and LPG exports connects to India's energy security and foreign policy, which are significant areas of study for GS2 and GS3.",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": 2008,
+        "label": "Year the US-India civil nuclear agreement was signed"
+      },
+      {
+        "val": 2025,
+        "label": "Target year for India to increase its non-fossil fuel energy capacity to 40%"
+      },
+      {
+        "val": 120,
+        "label": "Number of member countries in the International Solar Alliance"
+      }
+    ],
+    "src": "The Hindu",
+    "link": "https://www.thehindu.com/news/national/foreign-secretary-misri-wraps-up-us-visit-with-talks-to-deepen-nuclear-ties-explore-lpg-exports/article70849176.ece",
+    "prelims": [
+      "The <strong>Atomic Energy Act, 1962</strong> regulates the use of nuclear energy in India, including the development of nuclear power plants and the extraction of uranium. The Act also establishes the Atomic Energy Commission, which is responsible for promoting the use of nuclear energy in the country. India has been a member of the <strong>International Atomic Energy Agency (IAEA)</strong> since 1957.",
+      "The <strong>Indo-US Civil Nuclear Agreement</strong> was signed in 2008, allowing for the transfer of civilian nuclear technology between the two countries. This agreement has facilitated cooperation in the development of nuclear power plants and the supply of nuclear fuel. The agreement also marked a significant shift in the US's stance on India's nuclear program, recognizing India as a responsible state with advanced nuclear capabilities.",
+      "The <strong>National Energy Policy (NEP)</strong> aims to increase the share of non-fossil fuels in India's energy mix, including nuclear energy. The policy targets a reduction in greenhouse gas emissions and the promotion of clean energy sources. The NEP also emphasizes the need for energy security and the diversification of energy sources to reduce dependence on imported fuels.",
+      "The <strong>International Solar Alliance (ISA)</strong> is an initiative launched by India to promote the use of solar energy globally. The ISA aims to reduce the cost of solar energy and increase its deployment in developing countries. The alliance has over 120 member countries and has launched several programs to promote solar energy, including the <strong>Vision 2030</strong> plan.",
+      "The <strong>US-India Strategic and Commercial Dialogue</strong> is a platform for discussing strategic and commercial issues between the two countries, including energy cooperation. The dialogue has led to several agreements and partnerships in the energy sector, including the cooperation in civil nuclear energy and LPG exports. The dialogue also covers other areas such as trade, investment, and security."
+    ],
+    "mains": {
+      "q": "Analyze the significance of the US-India civil nuclear agreement in the context of India's energy security and foreign policy.",
+      "marks": "15 marks · GS2",
+      "directive": "analyze",
+      "hints": [
+        "Introduction (2 marks): Define the US-India civil nuclear agreement and its significance in the context of India's energy security.",
+        "Body - Energy Security (3 marks): Discuss the importance of nuclear energy in India's energy mix and how the agreement has facilitated the development of nuclear power plants.",
+        "Body - Foreign Policy (3 marks): Examine the implications of the agreement on India's foreign policy, including its relations with the US and other countries.",
+        "Body - Challenges (3 marks): Analyze the challenges faced by India in implementing the agreement, including the concerns over nuclear safety and non-proliferation.",
+        "Conclusion (2 marks): Summarize the significance of the US-India civil nuclear agreement and its implications for India's energy security and foreign policy."
+      ]
+    },
+    "connect": [
+      {
+        "topic": "Energy Security and Non-Conventional Energy Sources",
+        "context": "The US-India civil nuclear agreement is a significant development in India's energy security, particularly in the context of non-conventional energy sources."
+      },
+      {
+        "topic": "India's Foreign Policy and Relations with the US",
+        "context": "The agreement reflects the growing strategic partnership between India and the US, particularly in the energy sector."
+      },
+      {
+        "topic": "Nuclear Energy and the Atomic Energy Act, 1962",
+        "context": "The agreement has implications for India's nuclear energy sector, including the development of nuclear power plants and the extraction of uranium."
+      },
+      {
+        "topic": "International Organizations and the IAEA",
+        "context": "The agreement has been facilitated by India's membership in the International Atomic Energy Agency (IAEA), which promotes the use of nuclear energy globally."
+      },
+      {
+        "topic": "Environmental Impact Assessment and the National Energy Policy",
+        "context": "The agreement has implications for India's environmental policy, particularly in the context of reducing greenhouse gas emissions and promoting clean energy sources."
+      }
+    ],
+    "_hash": "3044202b7aa3",
+    "_fetched": "2026-04-11T02:52:29.230224+00:00",
+    "_relevance": 49,
+    "_gs": [
+      "GS2",
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "analyze",
+    "_mcqs": {
+      "q": "Consider the following statements:\n1. The US-India civil nuclear agreement was signed in 2008.\n2. The agreement allows for the transfer of nuclear weapons technology between the two countries.\n3. The agreement has facilitated the development of nuclear power plants in India.\nWhich of the above is/are correct?",
+      "options": [
+        "1 only",
+        "1 and 3 only",
+        "2 and 3 only",
+        "1, 2 and 3"
+      ],
+      "correct": 1,
+      "explanation": "Statement 1 is correct: The US-India civil nuclear agreement was indeed signed in 2008. Statement 2 is incorrect: The agreement does not allow for the transfer of nuclear weapons technology. Statement 3 is correct: The agreement has facilitated the development of nuclear power plants in India.",
+      "trap": "Absolute Language"
+    }
+  },
+  {
+    "id": 1919,
+    "title": "RBI NBFC Rule",
+    "cat": "economy",
+    "upsc": true,
+    "time": "2026-04-11T02:52:44.858107+00:00",
+    "summary": "The Reserve Bank of India has proposed a new rule for identifying top Non-Banking Financial Companies (NBFCs) based on an absolute asset size of ₹1 lakh crore. This change is significant for UPSC aspirants as it affects the regulatory framework of the financial sector in India. The new rule may have implications for various stakeholders, including government-owned NBFCs and private players like Tata Sons.",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": 1935,
+        "label": "Year the RBI was established"
+      },
+      {
+        "val": 2013,
+        "label": "Year the Companies Act was enacted"
+      },
+      {
+        "val": 2002,
+        "label": "Year the SARFAESI Act was enacted"
+      }
+    ],
+    "src": "ET Economy",
+    "link": "https://economictimes.indiatimes.com/news/economy/policy/rbi-proposes-upper-layer-nbfcs-to-be-defined-by-absolute-asset-size-of-1-lakh-crore/articleshow/130179385.cms",
+    "prelims": [
+      "The <strong>Reserve Bank of India (RBI)</strong> was established in 1935 under the Reserve Bank of India Act, 1934, with its headquarters in Mumbai. The RBI is responsible for regulating the monetary policy of India, including setting interest rates and managing foreign exchange. Its primary objective is to maintain price stability and promote economic growth.",
+      "The <strong>Non-Banking Financial Companies (NBFCs)</strong> are financial institutions that provide banking services without meeting the legal definition of a bank. NBFCs are regulated by the RBI and play a crucial role in the Indian financial system by providing credit to various sectors, including microfinance, housing finance, and commercial lending.",
+      "The <strong>Financial Stability and Development Council (FSDC)</strong> was established in 2010 to oversee the stability of the Indian financial system. The FSDC is chaired by the Union Finance Minister and includes representatives from various financial sector regulators, including the RBI, SEBI, and IRDAI. Its primary objective is to ensure the stability of the financial system and promote its development.",
+      "The <strong>Companies Act, 2013</strong>, regulates the incorporation, management, and operation of companies in India. The Act provides the framework for the functioning of companies, including NBFCs, and outlines the responsibilities of their directors and management. It also establishes the rules for mergers and acquisitions, as well as the procedures for winding up companies.",
+      "The <strong>Securitisation and Reconstruction of Financial Assets and Enforcement of Security Interest (SARFAESI) Act, 2002</strong>, provides a framework for the securitisation and reconstruction of financial assets in India. The Act enables banks and NBFCs to take possession of secured assets in the event of default and sell them to recover their dues."
+    ],
+    "mains": {
+      "q": "Analyze the implications of the RBI's proposed rule for identifying top NBFCs based on an absolute asset size of ₹1 lakh crore.",
+      "marks": "15 marks · GS3",
+      "directive": "analyze",
+      "hints": [
+        "Introduction (2 marks): Define NBFCs and their role in the Indian financial system, including their regulatory framework.",
+        "Body - Regulatory implications (4 marks): Discuss the potential impact of the RBI's proposed rule on the regulatory framework of NBFCs, including the potential benefits and drawbacks.",
+        "Body - Economic implications (4 marks): Examine the potential economic implications of the RBI's proposed rule, including its impact on credit availability, interest rates, and economic growth.",
+        "Body - Institutional mechanism (3 marks): Analyze the role of the RBI and other financial sector regulators in implementing the proposed rule and ensuring the stability of the financial system.",
+        "Conclusion (2 marks): Summarize the main points and provide a balanced view of the implications of the RBI's proposed rule for identifying top NBFCs."
+      ]
+    },
+    "connect": [
+      {
+        "topic": "Financial Sector Regulation",
+        "context": "The RBI's proposed rule for identifying top NBFCs is part of the broader framework of financial sector regulation in India."
+      },
+      {
+        "topic": "Monetary Policy",
+        "context": "The RBI's regulation of NBFCs is closely linked to its monetary policy objectives, including maintaining price stability and promoting economic growth."
+      },
+      {
+        "topic": "Financial Inclusion",
+        "context": "NBFCs play a crucial role in promoting financial inclusion in India, particularly in rural and semi-urban areas."
+      },
+      {
+        "topic": "Corporate Governance",
+        "context": "The Companies Act, 2013, provides the framework for corporate governance in India, including the regulation of NBFCs."
+      },
+      {
+        "topic": "Financial Stability",
+        "context": "The FSDC oversees the stability of the Indian financial system, including the regulation of NBFCs and the implementation of the RBI's proposed rule."
+      }
+    ],
+    "_hash": "06a63a1c8b53",
+    "_fetched": "2026-04-11T02:52:44.858107+00:00",
+    "_relevance": 45,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "analyze",
+    "_mcqs": {
+      "q": "Consider the following statements:\n1. The RBI was established in 1935.\n2. The Companies Act, 2013, regulates the incorporation of NBFCs.\n3. The SARFAESI Act, 2002, enables banks to take possession of secured assets in the event of default.\nWhich of the above is/are correct?",
+      "options": [
+        "1 only",
+        "1 and 2 only",
+        "2 and 3 only",
+        "1, 2 and 3"
+      ],
+      "correct": 3,
+      "explanation": "Statement 1 is correct: The RBI was indeed established in 1935. Statement 2 is correct: The Companies Act, 2013, does regulate the incorporation of NBFCs. Statement 3 is correct: The SARFAESI Act, 2002, does enable banks to take possession of secured assets in the event of default.",
+      "trap": "Timeline Confusion"
+    }
+  },
+  {
+    "id": 1920,
+    "title": "Agritech Meet",
+    "cat": "tech",
+    "upsc": true,
+    "time": "2026-04-11T02:53:01.526918+00:00",
+    "summary": "The GRAM-2026 will take place in Jaipur from May 23 to 25, aiming to unite farmers, scientists, investors, and policymakers to foster dialogue and help agriculturists access global expertise and modern technologies. This event is crucial for UPSC as it highlights the government's efforts to promote innovation and entrepreneurship in the farm sector, which is a key aspect of India's economic development. The event connects to the syllabus area of GS3, which includes topics such as economic development, agriculture, and science and technology.",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": 3,
+        "label": "Number of days of the GRAM-2026"
+      }
+    ],
+    "src": "The Hindu",
+    "link": "https://www.thehindu.com/news/national/rajasthan/focus-on-innovation-and-entrepreneurship-in-farm-sector-through-agritech-meet-in-rajasthan/article70848059.ece",
+    "prelims": [
+      "The <strong>National Innovation Foundation (NIF)</strong> was established in 2000 to provide institutional support to grassroots innovators and outstanding traditional knowledge holders, which is relevant to the agritech meet. The NIF has its headquarters in Ahmedabad and is mandated to promote and support grassroots innovations. It has a network of over 600,000 innovators across the country.",
+      "The <strong>Indian Council of Agricultural Research (ICAR)</strong> is the apex body for coordinating, guiding, and managing research and education in agriculture in India, which includes agritech. ICAR was established in 1929 and has its headquarters in New Delhi. It has a network of 101 institutes and 71 agricultural universities across the country.",
+      "The <strong>Ministry of Agriculture and Farmers' Welfare</strong> is responsible for the development of the agricultural sector in India, which includes promoting innovation and entrepreneurship in the farm sector. The ministry was established in 1947 and has its headquarters in New Delhi. It has several departments, including the Department of Agriculture, Cooperation and Farmers' Welfare, and the Department of Animal Husbandry, Dairying and Fisheries.",
+      "The <strong>Pradhan Mantri Kisan Samman Nidhi (PM-KISAN)</strong> is a central sector scheme that provides income support to farmers, which is relevant to the agritech meet. The scheme was launched in 2019 and provides an annual income support of Rs 6,000 to eligible farmers. The scheme is implemented by the Ministry of Agriculture and Farmers' Welfare.",
+      "The <strong>Startup India</strong> initiative was launched in 2016 to promote entrepreneurship and innovation in the country, which includes the agritech sector. The initiative provides several benefits to startups, including tax exemptions, funding, and mentorship. It has a network of over 20,000 startups across the country."
+    ],
+    "mains": {
+      "q": "Analyze the role of innovation and entrepreneurship in the development of the farm sector in India.",
+      "marks": "15 marks · GS3",
+      "directive": "analyze",
+      "hints": [
+        "Introduction (2 marks): Define innovation and entrepreneurship in the context of the farm sector and their importance in India's economic development.",
+        "Body - Government initiatives (3 marks): Discuss the government's initiatives to promote innovation and entrepreneurship in the farm sector, such as the Startup India initiative and the Pradhan Mantri Kisan Samman Nidhi (PM-KISAN) scheme.",
+        "Body - Challenges and opportunities (3 marks): Analyze the challenges faced by farmers in adopting innovative and entrepreneurial approaches, such as lack of access to technology and markets, and the opportunities provided by the agritech meet, such as access to global expertise and modern technologies.",
+        "Body - Institutional mechanism (3 marks): Examine the role of institutions, such as the Indian Council of Agricultural Research (ICAR) and the National Innovation Foundation (NIF), in promoting innovation and entrepreneurship in the farm sector.",
+        "Conclusion (2 marks): Summarize the importance of innovation and entrepreneurship in the development of the farm sector in India and suggest ways to promote them, such as providing funding and mentorship to startups and improving access to technology and markets for farmers."
+      ]
+    },
+    "connect": [
+      {
+        "topic": "Agricultural Innovation and Entrepreneurship",
+        "context": "The GRAM-2026 is an example of the government's efforts to promote innovation and entrepreneurship in the farm sector, which is a key aspect of India's economic development."
+      },
+      {
+        "topic": "Indian Council of Agricultural Research (ICAR)",
+        "context": "The ICAR is the apex body for coordinating, guiding, and managing research and education in agriculture in India, which includes promoting innovation and entrepreneurship in the farm sector."
+      },
+      {
+        "topic": "Pradhan Mantri Kisan Samman Nidhi (PM-KISAN) scheme",
+        "context": "The PM-KISAN scheme is a central sector scheme that provides income support to farmers, which is relevant to the GRAM-2026 and the promotion of innovation and entrepreneurship in the farm sector."
+      },
+      {
+        "topic": "Startup India initiative",
+        "context": "The Startup India initiative is a government initiative that promotes entrepreneurship and innovation in the country, which includes the agritech sector and is relevant to the GRAM-2026."
+      },
+      {
+        "topic": "National Innovation Foundation (NIF)",
+        "context": "The NIF is an institution that provides institutional support to grassroots innovators and outstanding traditional knowledge holders, which is relevant to the GRAM-2026 and the promotion of innovation and entrepreneurship in the farm sector."
+      }
+    ],
+    "_hash": "fd961cc92495",
+    "_fetched": "2026-04-11T02:53:01.526918+00:00",
+    "_relevance": 36,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "analyze",
+    "_mcqs": {
+      "q": "Consider the following statements:\n1. The GRAM-2026 is an initiative of the Ministry of Agriculture and Farmers' Welfare.\n2. The Indian Council of Agricultural Research (ICAR) is the apex body for coordinating, guiding, and managing research and education in agriculture in India.\n3. The Pradhan Mantri Kisan Samman Nidhi (PM-KISAN) scheme provides an annual income support of Rs 12,000 to eligible farmers.\nWhich of the above is/are correct?",
+      "options": [
+        "1 only",
+        "1 and 2 only",
+        "2 and 3 only",
+        "1, 2 and 3"
+      ],
+      "correct": 1,
+      "explanation": "Statement 1 is incorrect: The GRAM-2026 is not an initiative of the Ministry of Agriculture and Farmers' Welfare. Statement 2 is correct: The Indian Council of Agricultural Research (ICAR) is indeed the apex body for coordinating, guiding, and managing research and education in agriculture in India. Statement 3 is incorrect: The Pradhan Mantri Kisan Samman Nidhi (PM-KISAN) scheme provides an annual income support of Rs 6,000, not Rs 12,000, to eligible farmers.",
+      "trap": "Wrong Ministry"
+    }
+  },
+  {
+    "id": 1921,
+    "title": "India in final stages of formulating processing value chain ",
+    "cat": "india",
+    "upsc": false,
+    "time": "2026-04-11T02:55:13.894851+00:00",
+    "summary": "“We are in advanced stages for formulating a scheme to develop processing value chains for critical minerals,” Piyush Goyal, Secretary of Ministry of ",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "The Hindu Business",
+    "link": "https://www.thehindu.com/business/Industry/india-in-final-stages-of-formulating-processing-value-chain-for-critical-minerals-mines-secretary/article70848816.ece",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "6e7643c5dcea",
+    "_fetched": "2026-04-11T02:55:13.894851+00:00",
+    "_relevance": 36,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "ministry",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 1922,
+    "title": "Political slugfest between Congress-BJP in Haryana over crop",
+    "cat": "india",
+    "upsc": false,
+    "time": "2026-04-11T02:57:26.232978+00:00",
+    "summary": "Farmers, who sustain the nation through their hard work, are being treated like criminals in the grain markets. It is as if they have arrived carrying",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "The Hindu",
+    "link": "https://www.thehindu.com/news/national/haryana/political-slugfest-between-congress-bjp-in-haryana-over-crop-procurement/article70848374.ece",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "4e973503f38d",
+    "_fetched": "2026-04-11T02:57:26.232978+00:00",
+    "_relevance": 33,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 1923,
+    "title": "Federal court hears new case against Trump's latest global t",
+    "cat": "economy",
+    "upsc": false,
+    "time": "2026-04-10T21:56:00.015694+00:00",
+    "summary": "The judges intensely questioned lawyers for both the plaintiffs and the government about what certain terms mean, including what precisely the term “b",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "The Hindu International",
+    "link": "https://www.thehindu.com/news/international/federal-court-hears-new-case-against-trumps-latest-global-tariffs/article70849022.ece",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "9d319fde9f7f",
+    "_fetched": "2026-04-10T21:56:00.015694+00:00",
+    "_relevance": 38,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 1924,
+    "title": "Wholesale rice prices up 7% as West Asia ceasefire fuels exp",
+    "cat": "economy",
+    "upsc": false,
+    "time": "2026-04-10T21:58:12.420956+00:00",
+    "summary": "Indian rice prices have seen a significant jump at the wholesale level. This surge follows a recent ceasefire between the US and Iran, leading to a ru",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "ET Economy",
+    "link": "https://economictimes.indiatimes.com/news/economy/agriculture/wholesale-rice-prices-up-7-as-west-asia-ceasefire-fuels-export-rush/articleshow/130179168.cms",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "ac494bfec7fa",
+    "_fetched": "2026-04-10T21:58:12.420956+00:00",
+    "_relevance": 38,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 1925,
+    "title": "Rice export rules relaxed for select European countries",
+    "cat": "world",
+    "upsc": false,
+    "time": "2026-04-10T22:00:24.839656+00:00",
+    "summary": "India has eased rice export rules for many European nations. An inspection certificate from EIC/EIAs is now only required for exports to the EU, UK, I",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "ET Economy",
+    "link": "https://economictimes.indiatimes.com/news/economy/foreign-trade/rice-export-rules-relaxed-for-select-european-countries/articleshow/130179164.cms",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "14af358e4491",
+    "_fetched": "2026-04-10T22:00:24.839656+00:00",
+    "_relevance": 33,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 1926,
+    "title": "Draft master plan for Great Nicobar Island projects tourism ",
+    "cat": "tech",
+    "upsc": false,
+    "time": "2026-04-10T22:02:37.262344+00:00",
+    "summary": "Notified for suggestions, plan aims for tourism-led development, targets 3.36 lakh population and one million visitors by 2055.",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "The Hindu",
+    "link": "https://www.thehindu.com/sci-tech/energy-and-environment/tourism-to-be-primary-economic-driver-of-growth-gni-draft-master-plan/article70843480.ece",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "120330d24316",
+    "_fetched": "2026-04-10T22:02:37.262344+00:00",
+    "_relevance": 31,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
   }
 ]
