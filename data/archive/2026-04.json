@@ -38217,5 +38217,415 @@
     "_difficulty": 2,
     "_directive": "discuss",
     "_mcqs": []
+  },
+  {
+    "id": 1975,
+    "title": "Inflation Rise",
+    "cat": "economy",
+    "upsc": true,
+    "time": "2026-04-13T19:23:45.716010+00:00",
+    "summary": "India's retail inflation climbed to 3.4 percent in March due to higher food and fuel costs. This increase is significant for UPSC aspirants as it relates to India's economic development and the impact of global conflicts on the country's economy. The Reserve Bank of India's response to this trend will be crucial in maintaining economic stability.",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": 6,
+        "label": "Target inflation rate as per the Monetary Policy Framework Agreement"
+      },
+      {
+        "val": 1935,
+        "label": "Year the Reserve Bank of India was established"
+      }
+    ],
+    "src": "ET Economy",
+    "link": "https://economictimes.indiatimes.com/news/economy/indicators/food-fuel-prices-push-up-march-retail-inflation-to-3-4/articleshow/130244119.cms",
+    "prelims": [
+      "The <strong>Reserve Bank of India (RBI)</strong> plays a crucial role in managing inflation through monetary policy tools such as interest rates and reserve requirements. Established in 1935, the RBI is responsible for maintaining price stability and ensuring economic growth. Its monetary policy committee reviews inflation trends and adjusts interest rates accordingly.",
+      "The <strong>Consumer Price Index (CPI)</strong> is the most widely used measure of inflation in India, calculated by the National Statistical Office (NSO). It tracks changes in the prices of a basket of goods and services consumed by households. Understanding CPI is essential for analyzing inflation trends and the impact of economic policies on consumer prices.",
+      "The <strong>Monetary Policy Framework Agreement</strong> between the Government of India and the RBI aims to keep inflation below 6 percent. This agreement, signed in 2015, emphasizes the importance of price stability and the need for coordinated monetary and fiscal policies to achieve economic growth. It has been instrumental in shaping India's monetary policy and inflation management strategies.",
+      "The <strong>Food Corporation of India (FCI)</strong> plays a vital role in managing food inflation by maintaining buffer stocks of foodgrains and regulating their supply. Established in 1965, the FCI operates under the Ministry of Consumer Affairs, Food and Public Distribution. Its activities help stabilize food prices and ensure food security, which is critical for controlling inflation.",
+      "The <strong>Wholesale Price Index (WPI)</strong> is another important measure of inflation, focusing on the prices of goods at the wholesale level. It is calculated by the Office of the Economic Adviser, Department of Industrial Policy and Promotion. WPI is useful for analyzing inflation trends in the production sector and understanding the impact of economic policies on businesses."
+    ],
+    "mains": {
+      "q": "Analyze the impact of global conflicts on India's inflation rate, with a focus on the role of the Reserve Bank of India in maintaining economic stability.",
+      "marks": "15 marks · GS3",
+      "directive": "analyze",
+      "hints": [
+        "Introduction (2 marks): Define inflation and its significance in the Indian economy, highlighting the current trends and challenges.",
+        "Body - Global conflicts and inflation (3 marks): Discuss how global conflicts, such as the ongoing Ukraine-Russia conflict, affect global energy prices and subsequently impact India's inflation rate.",
+        "Body - RBI's monetary policy (3 marks): Explain the monetary policy tools used by the RBI to manage inflation, including interest rates and reserve requirements, and their effectiveness in the current economic scenario.",
+        "Body - Food and fuel inflation (3 marks): Analyze the factors contributing to food and fuel inflation in India, including supply chain disruptions and geopolitical tensions, and suggest measures to mitigate these factors.",
+        "Conclusion (2 marks): Summarize the key points and emphasize the need for a coordinated approach between the government and the RBI to manage inflation and ensure economic stability."
+      ]
+    },
+    "connect": [
+      {
+        "topic": "Monetary Policy and Inflation Management",
+        "context": "Understanding the RBI's monetary policy framework is crucial for analyzing India's inflation trends and the impact of global conflicts on the economy."
+      },
+      {
+        "topic": "Food Security and Inflation",
+        "context": "The management of food inflation is closely linked to food security, which is a critical aspect of India's economic development and social welfare policies."
+      },
+      {
+        "topic": "Global Economic Trends and India's Economy",
+        "context": "Global conflicts and economic trends have a significant impact on India's inflation rate, making it essential to understand these dynamics for effective economic policy-making."
+      },
+      {
+        "topic": "Fiscal Policy and Inflation",
+        "context": "The interplay between fiscal policy and monetary policy is vital in managing inflation, as fiscal decisions can influence the money supply and aggregate demand in the economy."
+      },
+      {
+        "topic": "Economic Development and Price Stability",
+        "context": "Achieving price stability is a key objective of economic policy, as it promotes economic growth, stability, and social welfare, which are all critical for India's development."
+      }
+    ],
+    "_hash": "6318b38bf283",
+    "_fetched": "2026-04-13T19:23:45.716010+00:00",
+    "_relevance": 60,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "analyze",
+    "_mcqs": {
+      "q": "Consider the following statements:\n1. The Reserve Bank of India is responsible for managing inflation through monetary policy tools.\n2. The Consumer Price Index is the most widely used measure of inflation in India.\n3. The Food Corporation of India is responsible for regulating the supply of foodgrains to control food inflation.\nWhich of the above is/are correct?",
+      "options": [
+        "1 only",
+        "1 and 2 only",
+        "2 and 3 only",
+        "1, 2 and 3"
+      ],
+      "correct": 3,
+      "explanation": "Statement 1 is correct: The RBI uses monetary policy tools to manage inflation. Statement 2 is correct: The CPI is the most widely used measure of inflation in India. Statement 3 is correct: The FCI plays a crucial role in managing food inflation by regulating the supply of foodgrains.",
+      "trap": "Wrong Ministry"
+    }
+  },
+  {
+    "id": 1976,
+    "title": "Voter Verification",
+    "cat": "policy",
+    "upsc": true,
+    "time": "2026-04-13T19:24:01.499393+00:00",
+    "summary": "The Supreme Court has issued a notice to the Centre and the Election Commission regarding a plea to introduce iris and biometric verification of voters at polling booths. This development is significant for UPSC aspirants as it relates to the electoral process and the use of technology in ensuring the integrity of elections. The issue connects to the broader theme of electoral reforms and the role of technology in enhancing the transparency and accountability of the electoral process.",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": 1950,
+        "label": "Year the Election Commission of India was established"
+      },
+      {
+        "val": 1951,
+        "label": "Year the Representation of the People Act was enacted"
+      },
+      {
+        "val": 18,
+        "label": "Minimum age for voting in India"
+      }
+    ],
+    "src": "The Hindu",
+    "link": "https://www.thehindu.com/elections/supreme-court-notice-to-centre-ec-on-plea-to-bring-in-iris-biometric-verification-of-voters-at-polling-booths/article70858302.ece",
+    "prelims": [
+      "The <strong>Election Commission of India</strong> was established in 1950 under Article 324 of the Constitution, with the primary responsibility of conducting free and fair elections in the country. It has its headquarters in New Delhi and operates under the supervision of the President of India. The ECI is also responsible for delimiting parliamentary and assembly constituencies.",
+      "The <strong>Representation of the People Act, 1951</strong> provides the legal framework for the conduct of elections in India, including the eligibility criteria for voters, the process of voter registration, and the procedures for voting. The Act also outlines the powers and functions of the Election Commission of India. The Act has undergone several amendments since its enactment, reflecting changes in the electoral landscape of the country.",
+      "The <strong>Right to Vote</strong> is a fundamental right enshrined in the Constitution of India under Article 326, which guarantees the right to vote to all citizens above the age of 18. The right to vote is a crucial aspect of democratic participation and is essential for the functioning of a representative democracy. The Election Commission of India is responsible for ensuring that all eligible citizens are able to exercise their right to vote.",
+      "The <strong>Model Code of Conduct</strong> is a set of guidelines issued by the Election Commission of India to regulate the behavior of political parties and candidates during elections. The code prohibits activities such as bribery, intimidation, and the use of government resources for campaign purposes. The code is intended to ensure that elections are conducted in a fair and transparent manner.",
+      "The <strong>Voter Verifiable Paper Audit Trail (VVPAT)</strong> system is an electronic voting system that provides a paper record of each vote cast, allowing voters to verify their votes. The VVPAT system was introduced in India in 2013 and has been used in several elections since then. The system is designed to enhance the transparency and accountability of the electoral process."
+    ],
+    "mains": {
+      "q": "Analyze the potential impact of introducing iris and biometric verification of voters at polling booths on the electoral process in India.",
+      "marks": "15 marks · GS2",
+      "directive": "analyze",
+      "hints": [
+        "Introduction (2 marks): Define the concept of voter verification and its significance in the electoral process.",
+        "Body - Technical feasibility (3 marks): Discuss the technical requirements and challenges of implementing iris and biometric verification systems at polling booths.",
+        "Body - Security and privacy concerns (3 marks): Examine the potential security and privacy risks associated with the use of biometric data in voter verification.",
+        "Body - Impact on voter turnout (3 marks): Analyze the potential impact of voter verification on voter turnout, including the potential for increased voter confidence and reduced voter fraud.",
+        "Conclusion (2 marks): Summarize the potential benefits and challenges of introducing iris and biometric verification of voters at polling booths."
+      ]
+    },
+    "connect": [
+      {
+        "topic": "Electoral Reforms in India",
+        "context": "The introduction of iris and biometric verification of voters at polling booths is a significant electoral reform that can enhance the transparency and accountability of the electoral process."
+      },
+      {
+        "topic": "Right to Vote",
+        "context": "The Right to Vote is a fundamental right enshrined in the Constitution of India, and the introduction of voter verification can help ensure that all eligible citizens are able to exercise this right."
+      },
+      {
+        "topic": "Model Code of Conduct",
+        "context": "The Model Code of Conduct is a set of guidelines issued by the Election Commission of India to regulate the behavior of political parties and candidates during elections, and the introduction of voter verification can help ensure that these guidelines are followed."
+      },
+      {
+        "topic": "Voter Verifiable Paper Audit Trail (VVPAT) System",
+        "context": "The VVPAT system is an electronic voting system that provides a paper record of each vote cast, and the introduction of voter verification can help enhance the transparency and accountability of this system."
+      },
+      {
+        "topic": "Election Commission of India",
+        "context": "The Election Commission of India is responsible for conducting free and fair elections in the country, and the introduction of voter verification can help the Commission achieve this objective."
+      }
+    ],
+    "_hash": "1d86634df95e",
+    "_fetched": "2026-04-13T19:24:01.499393+00:00",
+    "_relevance": 54,
+    "_gs": [
+      "GS2"
+    ],
+    "_sourceType": "sc-judgment",
+    "_difficulty": 2,
+    "_directive": "analyze",
+    "_mcqs": {
+      "q": "Consider the following statements:\n1. The Election Commission of India was established in 1950 under Article 324 of the Constitution.\n2. The Representation of the People Act, 1951 provides the legal framework for the conduct of elections in India.\n3. The Right to Vote is a fundamental right enshrined in the Constitution of India under Article 326.\nWhich of the above is/are correct?",
+      "options": [
+        "1 only",
+        "1 and 2 only",
+        "2 and 3 only",
+        "1, 2 and 3"
+      ],
+      "correct": 3,
+      "explanation": "Statement 1 is correct: The Election Commission of India was indeed established in 1950 under Article 324. Statement 2 is correct: The Representation of the People Act, 1951 provides the legal framework for the conduct of elections. Statement 3 is correct: The Right to Vote is a fundamental right enshrined in the Constitution under Article 326.",
+      "trap": "Absolute Language"
+    }
+  },
+  {
+    "id": 1977,
+    "title": "Qianhai Shenzhen–Hong Kong Youth Innovation and Entrepreneur",
+    "cat": "world",
+    "upsc": false,
+    "time": "2026-04-13T19:26:13.939078+00:00",
+    "summary": "EHub Connects Global Innovation Resources and Engages Singapore’s Innovation Community, with AI and Investment as Core Drivers, Unlocking Internationa",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "The Hindu Science",
+    "link": "https://www.thehindu.com/brandhub/pr-release/qianhai-shenzhenhong-kong-youth-innovation-and-entrepreneur-hub-debuts-at-gitex-ai-asia/article70856658.ece",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "74076df55f32",
+    "_fetched": "2026-04-13T19:26:13.939078+00:00",
+    "_relevance": 39,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 1978,
+    "title": "Locals block highway in J&K after man ‘attacked by cow vigil",
+    "cat": "tech",
+    "upsc": false,
+    "time": "2026-04-13T19:28:26.397060+00:00",
+    "summary": "The Jammu and Kashmir Police registered a First Information Report (FIR) at Ramsoo Police Station; four accused have been detained",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "The Hindu",
+    "link": "https://www.thehindu.com/news/national/jammu-and-kashmir/locals-block-highway-in-jk-after-man-attacked-by-cow-vigilantesgoes-missing/article70858418.ece",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "bca448e27ed2",
+    "_fetched": "2026-04-13T19:28:26.397060+00:00",
+    "_relevance": 33,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 1979,
+    "title": "Ensure hostels are fully equipped before schools reopen, Nai",
+    "cat": "india",
+    "upsc": false,
+    "time": "2026-04-13T19:30:38.791260+00:00",
+    "summary": "Chief Minister reviews the performance of various departments; instructs that crimes against women must be dealt with strictly and without delay; prop",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "The Hindu",
+    "link": "https://www.thehindu.com/news/national/andhra-pradesh/ensure-hostels-are-fully-equipped-before-schools-reopen-naidu-directs-officials/article70858457.ece",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "b5d0760d1dbf",
+    "_fetched": "2026-04-13T19:30:38.791260+00:00",
+    "_relevance": 33,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 1980,
+    "title": "Workers’ protest over wage hike leads to unrest, violent fac",
+    "cat": "economy",
+    "upsc": false,
+    "time": "2026-04-13T19:32:51.409686+00:00",
+    "summary": "U.P. forms high-level committee to resolve industrial discord; U.P. CM Yogi Adityanath appeals to workers to be wary of those attempting to spread ind",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "The Hindu",
+    "link": "https://www.thehindu.com/news/national/uttar-pradesh/noida-workers-protest-violent-updates-delhi-border-april-13-2026/article70856363.ece",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "f7dfe6c98a47",
+    "_fetched": "2026-04-13T19:32:51.409686+00:00",
+    "_relevance": 31,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "sc-judgment",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 1981,
+    "title": "Maoist killed in Bastar; first instance after March 31 deadl",
+    "cat": "tech",
+    "upsc": false,
+    "time": "2026-04-13T19:35:03.818370+00:00",
+    "summary": "The deceased Maoist, Rupi, an area committee level member, hailed from Telangana and police say she is the last active “Telugu Maoist cadre in Bastar”",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "The Hindu",
+    "link": "https://www.thehindu.com/news/national/chhattisgarh/maoist-killed-in-encounter-in-chhattisgarh-kanker/article70856118.ece",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "2ec19d6f4bfe",
+    "_fetched": "2026-04-13T19:35:03.818370+00:00",
+    "_relevance": 31,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 1982,
+    "title": "Traders raise concerns over H-FAST raids in Begum Bazar",
+    "cat": "economy",
+    "upsc": false,
+    "time": "2026-04-13T19:37:16.180650+00:00",
+    "summary": "At a meeting with police and food safety officials, Begum Bazar traders sought proportionate action, better coordination and lab testing before filing",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "The Hindu",
+    "link": "https://www.thehindu.com/news/national/telangana/traders-raise-concerns-over-h-fast-raids-in-begum-bazar/article70858603.ece",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "7356b218054b",
+    "_fetched": "2026-04-13T19:37:16.180650+00:00",
+    "_relevance": 31,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 1983,
+    "title": "UK regulators rush to assess risks of latest Anthropic AI mo",
+    "cat": "tech",
+    "upsc": false,
+    "time": "2026-04-13T19:39:28.568713+00:00",
+    "summary": "Anthropic has said the model is being ‌deployed as part of “Project Glasswing”, a controlled initiative under ​which select organisations are permitte",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "The Hindu Science",
+    "link": "https://www.thehindu.com/sci-tech/technology/uk-regulators-rush-to-assess-risks-of-latest-anthropic-ai-model-report/article70856101.ece",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "280435012f27",
+    "_fetched": "2026-04-13T19:39:28.568713+00:00",
+    "_relevance": 31,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 1984,
+    "title": "India's global Ammonia tender likely ahead to secure fertili",
+    "cat": "economy",
+    "upsc": false,
+    "time": "2026-04-13T19:41:41.049910+00:00",
+    "summary": "India plans a global tender for ammonia, a key fertilizer ingredient. This move aims to secure vital raw material for urea and other fertilizers. The ",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "ET Economy",
+    "link": "https://economictimes.indiatimes.com/news/economy/agriculture/indias-global-ammonia-tender-likely-ahead-to-secure-fertilizer-production/articleshow/130244122.cms",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "2257c2af90fe",
+    "_fetched": "2026-04-13T19:41:41.049910+00:00",
+    "_relevance": 31,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
   }
 ]
