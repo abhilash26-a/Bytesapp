@@ -37269,5 +37269,626 @@
     "_difficulty": 2,
     "_directive": "discuss",
     "_mcqs": []
+  },
+  {
+    "id": 1972,
+    "title": "MSP & Farm Costs",
+    "cat": "economy",
+    "upsc": true,
+    "time": "2026-04-13T13:58:40.546678+00:00",
+    "summary": "The Supreme Court is reviewing an appeal to elevate state-led assessments of farming costs in establishing minimum support prices. This examination is crucial for UPSC as it connects to India's agricultural policies and their impact on farmers' livelihoods. It also relates to the broader topic of economic development and the role of government in supporting farmers.",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": 2004,
+        "label": "Year the National Commission on Farmers (NCF) was established"
+      },
+      {
+        "val": 2013,
+        "label": "Year the Right to Fair Compensation and Transparency in Land Acquisition, Rehabilitation and Resettlement Act was passed"
+      },
+      {
+        "val": 15,
+        "label": "% of India's population engaged in agriculture"
+      }
+    ],
+    "src": "ET Economy",
+    "link": "https://economictimes.indiatimes.com/news/economy/agriculture/sc-seeks-centres-response-on-plea-over-msp-linked-to-cost-of-cultivation/articleshow/130236152.cms",
+    "prelims": [
+      "The <strong>Minimum Support Price (MSP)</strong> is a government-regulated price that ensures farmers receive a minimum return on their produce, helping to stabilize agricultural incomes. The MSP is calculated based on the <strong>Commission for Agricultural Costs and Prices (CACP)</strong> recommendations, which consider factors like production costs, market prices, and international prices.",
+      "The <strong>Agricultural Produce Market Committee (APMC) Act</strong> regulates the marketing of agricultural produce in India, providing a framework for farmers to sell their produce at MSP. However, the Act has been criticized for its limitations in ensuring fair prices for farmers, leading to calls for reform.",
+      "The <strong>National Commission on Farmers (NCF)</strong>, established in 2004, has recommended various measures to improve farmers' livelihoods, including the implementation of MSP and the provision of credit facilities. The NCF has also emphasized the need for agricultural diversification and the promotion of organic farming.",
+      "The <strong>Public Distribution System (PDS)</strong> is a government-run program that provides subsidized food grains to vulnerable populations, using MSP-priced grains. The PDS has been instrumental in reducing poverty and hunger in India, but its effectiveness is often hindered by issues like corruption and inefficiency.",
+      "The <strong>Right to Fair Compensation and Transparency in Land Acquisition, Rehabilitation and Resettlement Act, 2013</strong> aims to provide fair compensation to farmers for land acquired by the government, ensuring that they receive a minimum return on their land. The Act has been amended several times, with the latest amendment in 2015."
+    ],
+    "mains": {
+      "q": "Analyze the impact of the Minimum Support Price (MSP) on farmers' livelihoods in India, with a focus on the role of government policies and market forces.",
+      "marks": "15 marks · GS3",
+      "directive": "analyze",
+      "hints": [
+        "Introduction (2 marks): Define the Minimum Support Price (MSP) and its significance in Indian agriculture, highlighting the government's role in regulating MSP.",
+        "Body - Impact on farmers (3 marks): Discuss the benefits and limitations of MSP for farmers, including its effect on agricultural incomes, production costs, and market prices.",
+        "Body - Government policies (3 marks): Examine the government's policies and initiatives aimed at supporting farmers, such as the APMC Act, NCF recommendations, and PDS, and assess their effectiveness.",
+        "Body - Market forces (3 marks): Analyze the impact of market forces, including international prices, trade agreements, and domestic demand, on MSP and farmers' livelihoods.",
+        "Conclusion (2 marks): Suggest measures to improve the effectiveness of MSP and government policies in supporting farmers, including the need for agricultural diversification, credit facilities, and fair compensation for land acquisition."
+      ]
+    },
+    "connect": [
+      {
+        "topic": "Agricultural Marketing Reforms",
+        "context": "The APMC Act and MSP are crucial components of India's agricultural marketing system, which is a key area of focus for UPSC."
+      },
+      {
+        "topic": "Farmers' Movements and Protests",
+        "context": "The demand for higher MSP and better agricultural policies has led to numerous farmers' movements and protests in India, highlighting the need for effective government intervention."
+      },
+      {
+        "topic": "Rural Development and Poverty Alleviation",
+        "context": "The PDS and other government schemes aim to reduce poverty and hunger in rural India, which is a critical aspect of UPSC's focus on rural development and poverty alleviation."
+      },
+      {
+        "topic": "Agricultural Trade and Commerce",
+        "context": "India's agricultural trade policies, including the MSP, have a significant impact on the country's trade agreements and commerce, which is an important area of study for UPSC."
+      },
+      {
+        "topic": "Land Acquisition and Rehabilitation",
+        "context": "The Right to Fair Compensation and Transparency in Land Acquisition, Rehabilitation and Resettlement Act, 2013, is a critical piece of legislation that affects farmers' livelihoods and is a key area of focus for UPSC."
+      }
+    ],
+    "_hash": "8f30b9d77a1b",
+    "_fetched": "2026-04-13T13:58:40.546678+00:00",
+    "_relevance": 48,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "sc-judgment",
+    "_difficulty": 2,
+    "_directive": "analyze",
+    "_mcqs": {
+      "q": "Consider the following statements:\n1. The Minimum Support Price (MSP) is calculated based on production costs alone.\n2. The Commission for Agricultural Costs and Prices (CACP) recommends MSP to the government.\n3. The Agricultural Produce Market Committee (APMC) Act regulates the marketing of agricultural produce in India.",
+      "options": [
+        "1 only",
+        "1 and 2 only",
+        "2 and 3 only",
+        "1, 2 and 3"
+      ],
+      "correct": 2,
+      "explanation": "Statement 1 is incorrect: MSP is calculated based on production costs, market prices, and international prices. Statement 2 is correct: CACP recommends MSP to the government. Statement 3 is correct: APMC Act regulates the marketing of agricultural produce in India.",
+      "trap": "Absolute Language"
+    }
+  },
+  {
+    "id": 1973,
+    "title": "Rupee Weakens",
+    "cat": "economy",
+    "upsc": true,
+    "time": "2026-04-13T13:58:56.663523+00:00",
+    "summary": "The Indian rupee weakened by 56 paise to settle at 93.39 against the U.S. dollar due to uncertainties over the opening of the Strait of Hormuz. This development is crucial for UPSC as it highlights the impact of global events on India's economy. It connects to the syllabus area of international trade and foreign exchange, which is a part of GS3.",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": 20,
+        "label": "% of world's oil passing through the Strait of Hormuz"
+      },
+      {
+        "val": 1934,
+        "label": "Year the Reserve Bank of India Act was passed"
+      },
+      {
+        "val": 1999,
+        "label": "Year the Foreign Exchange Management Act was enacted"
+      }
+    ],
+    "src": "The Hindu",
+    "link": "https://www.thehindu.com/business/markets/rupee-weakens-by-56-paise-to-settle-at-9339-against-us-dollar/article70857221.ece",
+    "prelims": [
+      "The <strong>Strait of Hormuz</strong> is a vital shipping lane that connects the Persian Gulf to the Gulf of Oman, with approximately 20% of the world's oil passing through it. The strait is about 90 miles wide at its narrowest point and is a critical chokepoint for global oil supplies. The strait's significance is highlighted in the context of international trade and geopolitics.",
+      "The <strong>Foreign Exchange Management Act (FEMA), 1999</strong>, regulates foreign exchange transactions in India, including those related to foreign investment and trade. FEMA replaced the Foreign Exchange Regulation Act (FERA), 1973, and has undergone several amendments to liberalize foreign exchange transactions. Understanding FEMA is essential for analyzing India's foreign exchange policies.",
+      "The <strong>Reserve Bank of India (RBI)</strong> plays a crucial role in managing India's foreign exchange reserves, which are used to settle international transactions. The RBI's monetary policy decisions, including interest rates and money supply, can influence the value of the rupee. The RBI was established in 1935 under the Reserve Bank of India Act, 1934, and is responsible for regulating the banking system in India.",
+      "The <strong>International Monetary Fund (IMF)</strong> provides a framework for international monetary cooperation and exchange rate stability. The IMF was established in 1944 and has 190 member countries, including India. The IMF plays a critical role in promoting global economic stability and providing financial assistance to countries facing balance of payments difficulties.",
+      "The <strong>Exchange Rate Mechanism (ERM)</strong> is a system used to manage exchange rates between countries. The ERM was introduced in 1979 as part of the European Monetary System (EMS) and was used to stabilize exchange rates among European countries. Although the ERM is not directly relevant to India, understanding its principles can help analyze exchange rate management strategies."
+    ],
+    "mains": {
+      "q": "Analyze the impact of global events on India's foreign exchange market, with a focus on the role of the Reserve Bank of India in managing exchange rates.",
+      "marks": "15 marks · GS3",
+      "directive": "analyze",
+      "hints": [
+        "Introduction (2 marks): Define the foreign exchange market and its significance in India's economy, highlighting the role of the RBI in managing exchange rates.",
+        "Body - Global events (3 marks): Discuss the impact of global events, such as the Strait of Hormuz crisis, on India's foreign exchange market, including the effects on oil prices and trade balances.",
+        "Body - RBI's role (3 marks): Analyze the RBI's monetary policy decisions, including interest rates and money supply, and their impact on the value of the rupee, highlighting the challenges of managing exchange rates in a globalized economy.",
+        "Body - Exchange rate management (3 marks): Examine the different exchange rate management strategies, including fixed and floating exchange rates, and their implications for India's economy, discussing the pros and cons of each approach.",
+        "Conclusion (2 marks): Discuss the importance of a stable exchange rate for India's economic growth and development, highlighting the need for effective exchange rate management strategies."
+      ]
+    },
+    "connect": [
+      {
+        "topic": "Foreign Exchange Management",
+        "context": "The FEMA regulates foreign exchange transactions in India, including those related to foreign investment and trade, which is relevant to this news story."
+      },
+      {
+        "topic": "International Trade",
+        "context": "The Strait of Hormuz crisis highlights the importance of international trade and its impact on India's economy, which is a key aspect of GS3."
+      },
+      {
+        "topic": "Monetary Policy",
+        "context": "The RBI's monetary policy decisions, including interest rates and money supply, can influence the value of the rupee, making it a crucial aspect of exchange rate management."
+      },
+      {
+        "topic": "Global Economic Governance",
+        "context": "The IMF provides a framework for international monetary cooperation and exchange rate stability, which is essential for understanding global economic governance and its impact on India's economy."
+      },
+      {
+        "topic": "Exchange Rate Mechanism",
+        "context": "The ERM is a system used to manage exchange rates between countries, and understanding its principles can help analyze exchange rate management strategies, including those used by the RBI."
+      }
+    ],
+    "_hash": "a729732178d0",
+    "_fetched": "2026-04-13T13:58:56.663523+00:00",
+    "_relevance": 46,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "analyze",
+    "_mcqs": {
+      "q": "Consider the following statements:\n1. The Strait of Hormuz is a vital shipping lane that connects the Persian Gulf to the Gulf of Oman.\n2. The Foreign Exchange Management Act (FEMA) regulates foreign investment in India but not foreign exchange transactions.\n3. The Reserve Bank of India (RBI) is responsible for managing India's foreign exchange reserves but not for regulating the banking system.\nWhich of the above is/are correct?",
+      "options": [
+        "1 only",
+        "1 and 2 only",
+        "2 and 3 only",
+        "1, 2 and 3"
+      ],
+      "correct": 0,
+      "explanation": "Statement 1 is correct: The Strait of Hormuz is indeed a vital shipping lane. Statement 2 is incorrect: FEMA regulates both foreign investment and foreign exchange transactions. Statement 3 is incorrect: The RBI is responsible for both managing foreign exchange reserves and regulating the banking system.",
+      "trap": "Wrong Ministry / Absolute Language"
+    }
+  },
+  {
+    "id": 1974,
+    "title": "Kerala Assembly Elections 2026: Congress, CPI(M) question de",
+    "cat": "india",
+    "upsc": false,
+    "time": "2026-04-13T14:01:09.015156+00:00",
+    "summary": "Leader of the Opposition V.D. Satheesan writes to Chief Election Commissioner of India, drawing his attention to the fact that there is inordinate del",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "The Hindu",
+    "link": "https://www.thehindu.com/elections/kerala-assembly/kerala-assembly-elections-2026-congress-cpim-question-delay-in-poll-data-publication/article70856762.ece",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "6a58634b2664",
+    "_fetched": "2026-04-13T14:01:09.015156+00:00",
+    "_relevance": 41,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "sc-judgment",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 1975,
+    "title": "Edible oil imports in March rise 12% to 11.73 lakh tonne: SE",
+    "cat": "economy",
+    "upsc": false,
+    "time": "2026-04-13T14:03:21.387982+00:00",
+    "summary": "India's edible oil imports saw a 12 percent jump in March. This increase was driven by more crude palm oil shipments. However, future imports may decr",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "ET Economy",
+    "link": "https://economictimes.indiatimes.com/news/economy/foreign-trade/edible-oil-imports-in-march-rise-12-to-11-73-lakh-tonne-sea/articleshow/130236468.cms",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "596464e06b8f",
+    "_fetched": "2026-04-13T14:03:21.387982+00:00",
+    "_relevance": 40,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 1976,
+    "title": "IMD flags below-normal monsoon for 2026; rainfall seen at 92",
+    "cat": "economy",
+    "upsc": false,
+    "time": "2026-04-13T14:05:33.833458+00:00",
+    "summary": "India faces a potential challenge in 2026 with forecasts indicating below-average monsoon rainfall. The India Meteorological Department predicts preci",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "ET Economy",
+    "link": "https://economictimes.indiatimes.com/news/economy/indicators/imd-flags-below-normal-monsoon-for-2026-rainfall-seen-at-92-of-long-term-average/articleshow/130234970.cms",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "359733e90952",
+    "_fetched": "2026-04-13T14:05:33.833458+00:00",
+    "_relevance": 40,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 1977,
+    "title": "College of Agriculture, Vellayani, to strengthen research in",
+    "cat": "science",
+    "upsc": false,
+    "time": "2026-04-13T14:07:46.240400+00:00",
+    "summary": "To also deepen international collaborations to promote innovation-driven agricultural development",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "The Hindu",
+    "link": "https://www.thehindu.com/news/national/kerala/college-of-agriculture-vellayani-to-strengthen-research-in-climate-smart-farming/article70857499.ece",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "0777f45759da",
+    "_fetched": "2026-04-13T14:07:46.240400+00:00",
+    "_relevance": 39,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 1978,
+    "title": "Rajasthan highway modernisation project gets $225 million Wo",
+    "cat": "tech",
+    "upsc": false,
+    "time": "2026-04-13T14:09:58.599932+00:00",
+    "summary": "The World Bank has approved a USD 225 million loan for Rajasthan's highway modernization. This project will benefit over 3 million people by improving",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "ET Economy",
+    "link": "https://economictimes.indiatimes.com/news/economy/infrastructure/rajasthan-highway-modernisation-project-gets-225-million-world-bank-boost-to-benefit-3-million-people/articleshow/130236879.cms",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "dc20b252a74a",
+    "_fetched": "2026-04-13T14:09:58.599932+00:00",
+    "_relevance": 38,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "intl-report",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 1979,
+    "title": "Centre reassures domestic LPG supply normal, says online boo",
+    "cat": "tech",
+    "upsc": false,
+    "time": "2026-04-13T14:12:10.996884+00:00",
+    "summary": "The Indian government confirmed that domestic LPG supply is stable, with 99% online booking. Approximately 70% of commercial supplies are restored, an",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "LiveMint",
+    "link": "https://www.livemint.com/news/india/centre-reassures-domestic-lpg-supply-normal-says-online-booking-reached-almost-99-amid-middle-east-tensions-11776081292709.html",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "cad3ac975e1a",
+    "_fetched": "2026-04-13T14:12:10.996884+00:00",
+    "_relevance": 35,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 1980,
+    "title": "India, Oman discuss ways to boost trade, investments",
+    "cat": "economy",
+    "upsc": false,
+    "time": "2026-04-13T14:14:23.359765+00:00",
+    "summary": "India will reduce tariffs on Omani products such as dates, marbles and petrochemical items, under the Comprehensive Economic Partnership Agreement",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "The Hindu",
+    "link": "https://www.thehindu.com/news/national/india-oman-discuss-ways-to-boost-trade-investments/article70857565.ece",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "e5af931b253e",
+    "_fetched": "2026-04-13T14:14:23.359765+00:00",
+    "_relevance": 33,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 1981,
+    "title": "Israel-Iran war LIVE updates: U.S. aware of Iran’s capabilit",
+    "cat": "tech",
+    "upsc": false,
+    "time": "2026-04-13T14:16:35.728351+00:00",
+    "summary": "Prime Minister Benjamin Netanyahu said that Israel supports U.S. President Donald Trump’s decision to impose a naval blockade on Iran",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "The Hindu International",
+    "link": "https://www.thehindu.com/news/international/iran-israel-us-war-west-asia-conflict-live-updates-on-april-13-2026/article70856044.ece",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "6b592e2ac706",
+    "_fetched": "2026-04-13T14:16:35.728351+00:00",
+    "_relevance": 33,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 1982,
+    "title": "‘Parliament making history’: PM Modi says special session to",
+    "cat": "india",
+    "upsc": false,
+    "time": "2026-04-13T14:18:48.093858+00:00",
+    "summary": "",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "Indian Express",
+    "link": "https://indianexpress.com/article/india/parliament-modi-women-reservation-act-most-significant-21st-century-10633650/",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "0a2df8b31bfc",
+    "_fetched": "2026-04-13T14:18:48.093858+00:00",
+    "_relevance": 33,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 1983,
+    "title": "Farmers to launch indefinite agitation demanding payment of ",
+    "cat": "india",
+    "upsc": false,
+    "time": "2026-04-13T14:21:00.543273+00:00",
+    "summary": "An additional ₹100 per tonne fixed by the State government should be paid immediately to the farmers by Bannari Amman and Mahadeshwara sugar factories",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "The Hindu",
+    "link": "https://www.thehindu.com/news/national/karnataka/farmers-to-launch-indefinite-agitation-demanding-payment-of-sugarcane-dues/article70857560.ece",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "0ffb3a4f38bf",
+    "_fetched": "2026-04-13T14:21:00.543273+00:00",
+    "_relevance": 31,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 1984,
+    "title": "BJP manifestos: 28.73% of promises made by party in poll-bou",
+    "cat": "india",
+    "upsc": false,
+    "time": "2026-04-13T14:23:12.918489+00:00",
+    "summary": "Banking on Modi-led government at the Centre, BJP has made tall promises on infrastructure, health, education in Kerala, Assam, Puducherry and West Be",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "The Hindu",
+    "link": "https://www.thehindu.com/elections/bjpmanifestos2873-of-thepromises-made-by-party-in-poll-bound-states-rely-on-centre/article70857239.ece",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "9359c3f7bd12",
+    "_fetched": "2026-04-13T14:23:12.918489+00:00",
+    "_relevance": 31,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 1985,
+    "title": "Noida Protest",
+    "cat": "india",
+    "upsc": true,
+    "time": "2026-04-13T14:24:28.795919+00:00",
+    "summary": "A workers' protest has blocked the Noida Link Road from Chilla Border, severely affecting traffic in Noida. This incident highlights the need for effective governance and labor laws in India, which is crucial for UPSC aspirants to understand. It also connects to the syllabus area of GS2, focusing on governance, constitution, and polity.",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": 1956,
+        "label": "Year the National Highway Act was enacted"
+      },
+      {
+        "val": 1947,
+        "label": "Year the Industrial Disputes Act was enacted"
+      },
+      {
+        "val": 2006,
+        "label": "Year the National Urban Transport Policy was launched"
+      }
+    ],
+    "src": "The Hindu",
+    "link": "https://www.thehindu.com/news/cities/Delhi/noida-link-road-from-chilla-border-blocked-amid-workers-protests-delhi-traffic-police/article70857082.ece",
+    "prelims": [
+      "The <strong>National Highway Act, 1956</strong> provides the framework for the development and maintenance of national highways in India, which includes the Noida Link Road. The Act empowers the central government to declare certain roads as national highways. The <strong>National Highways Authority of India (NHAI)</strong> is responsible for the development, maintenance, and management of national highways.",
+      "The <strong>Industrial Disputes Act, 1947</strong> is a key legislation that deals with labor disputes and protests in India. It provides a framework for resolving industrial disputes and promotes harmonious relations between employers and employees. The Act also establishes the <strong>Industrial Tribunal</strong> to adjudicate disputes.",
+      "The <strong>Constitution of India</strong> provides certain fundamental rights to citizens, including the right to freedom of speech and expression, and the right to assemble peacefully. However, these rights are subject to reasonable restrictions, which can be imposed by the state in the interest of public order and morality.",
+      "The <strong>Code of Criminal Procedure, 1973</strong> provides the procedure for maintaining public order and dealing with protests and agitations. The Code empowers the police to take necessary actions to maintain law and order, including the use of force in certain circumstances.",
+      "The <strong>National Urban Transport Policy, 2006</strong> aims to promote sustainable urban transport systems in India, which includes the development of efficient road networks and public transport systems. The policy also emphasizes the need for integrated transport planning and management."
+    ],
+    "mains": {
+      "q": "Analyze the role of governance in resolving labor disputes and protests in India, with reference to the Noida Link Road blockade.",
+      "marks": "15 marks · GS2",
+      "directive": "analyze",
+      "hints": [
+        "Introduction (2 marks): Define governance and its significance in resolving labor disputes and protests.",
+        "Body - Labor laws (3 marks): Discuss the key provisions of the Industrial Disputes Act, 1947, and its role in resolving labor disputes.",
+        "Body - Governance mechanisms (3 marks): Analyze the role of the National Highways Authority of India (NHAI) and the state government in maintaining law and order on national highways.",
+        "Body - Constitutional framework (3 marks): Examine the fundamental rights provided by the Constitution of India and their relevance to labor disputes and protests.",
+        "Conclusion (2 marks): Suggest measures to improve governance and resolve labor disputes and protests in India, with reference to the Noida Link Road blockade."
+      ]
+    },
+    "connect": [
+      {
+        "topic": "Industrial Relations and Labor Laws",
+        "context": "The Noida Link Road blockade highlights the need for effective labor laws and industrial relations in India, which is a key aspect of GS2."
+      },
+      {
+        "topic": "Constitutional Framework for Governance",
+        "context": "The Constitution of India provides the framework for governance, including the right to freedom of speech and expression, and the right to assemble peacefully."
+      },
+      {
+        "topic": "National Highways and Transport Infrastructure",
+        "context": "The Noida Link Road is a key national highway that connects Delhi to Noida, and its blockade highlights the need for efficient transport infrastructure in India."
+      },
+      {
+        "topic": "Public Order and Police Administration",
+        "context": "The Noida Link Road blockade requires the police to maintain law and order, which is a key aspect of public order and police administration in India."
+      },
+      {
+        "topic": "Urban Planning and Governance",
+        "context": "The Noida Link Road blockade highlights the need for effective urban planning and governance in India, including the development of efficient road networks and public transport systems."
+      }
+    ],
+    "_hash": "ed889f3dd549",
+    "_fetched": "2026-04-13T14:24:28.795919+00:00",
+    "_relevance": 31,
+    "_gs": [
+      "GS2"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "analyze",
+    "_mcqs": {
+      "q": "Consider the following statements:\n1. The National Highways Authority of India (NHAI) is responsible for the development, maintenance, and management of national highways.\n2. The Industrial Disputes Act, 1947, provides a framework for resolving industrial disputes and promotes harmonious relations between employers and employees.\n3. The Constitution of India provides absolute freedom of speech and expression to citizens.\nWhich of the above is/are correct?",
+      "options": [
+        "1 only",
+        "1 and 2 only",
+        "2 and 3 only",
+        "1, 2 and 3"
+      ],
+      "correct": 1,
+      "explanation": "Statement 1 is correct: NHAI is responsible for the development, maintenance, and management of national highways. Statement 2 is correct: The Industrial Disputes Act, 1947, provides a framework for resolving industrial disputes and promotes harmonious relations between employers and employees. Statement 3 is incorrect: The Constitution of India provides freedom of speech and expression, but it is subject to reasonable restrictions.",
+      "trap": "Absolute Language"
+    }
+  },
+  {
+    "id": 1986,
+    "title": "‘Not in a complete deadlock': Mediators rush to revive US-Ir",
+    "cat": "world",
+    "upsc": false,
+    "time": "2026-04-13T14:26:41.187846+00:00",
+    "summary": "Days after the US-Iran talks failed in Pakistan, mediators are now trying to revive the negotiations before the two-week ceasefire ends on 21 April. T",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "LiveMint",
+    "link": "https://www.livemint.com/news/world/not-in-a-complete-deadlock-mediators-rush-to-revive-us-iran-talks-ahead-of-ceasefire-deadline-report-11776083122122.html",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "e36ce7dd7ef3",
+    "_fetched": "2026-04-13T14:26:41.187846+00:00",
+    "_relevance": 30,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
   }
 ]
