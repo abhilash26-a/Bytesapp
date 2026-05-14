@@ -38824,5 +38824,681 @@
     "_difficulty": 2,
     "_directive": "discuss",
     "_mcqs": []
+  },
+  {
+    "id": 1971,
+    "title": "IMF, WB on Energy",
+    "cat": "economy",
+    "upsc": true,
+    "time": "2026-04-14T03:28:38.448747+00:00",
+    "summary": "The IMF, World Bank, and IEA have urged countries to stop hoarding energy supplies and imposing export controls. This move is significant for UPSC as it highlights the global energy crisis and its implications on the economy. The issue connects to the GS3 syllabus, specifically the topics of economic development, energy security, and international organizations.",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": 1974,
+        "label": "Year the IEA was established"
+      },
+      {
+        "val": 1944,
+        "label": "Year the World Bank and IMF were established"
+      },
+      {
+        "val": 31,
+        "label": "Number of IEA member countries"
+      }
+    ],
+    "src": "The Hindu International",
+    "link": "https://www.thehindu.com/news/international/imf-world-bank-iea-urge-countries-to-stop-hoarding-energy-supplies-imposing-export-controls/article70859291.ece",
+    "prelims": [
+      "The <strong>International Energy Agency (IEA)</strong> was established in 1974 as an autonomous organization within the Organisation for Economic Co-operation and Development (OECD) to promote energy security and mitigate the impact of oil supply disruptions. The IEA has its headquarters in Paris, France, and comprises 31 member countries. The agency's primary goal is to maintain and improve systems for coping with oil supply disruptions.",
+      "The <strong>World Bank</strong> was established in 1944 as part of the Bretton Woods system to provide financing for reconstruction and development projects in countries devastated by World War II. The World Bank has its headquarters in Washington, D.C., and comprises 189 member countries. The bank's primary objective is to reduce poverty and promote sustainable development.",
+      "The <strong>International Monetary Fund (IMF)</strong> was established in 1944 as part of the Bretton Woods system to promote international monetary cooperation, exchange rate stability, and economic growth. The IMF has its headquarters in Washington, D.C., and comprises 190 member countries. The fund's primary objective is to ensure the stability of the international monetary system.",
+      "The <strong>Energy Charter Treaty (ECT)</strong> was established in 1994 as a multilateral agreement to promote energy cooperation, investment, and trade among its member countries. The ECT has its headquarters in Brussels, Belgium, and comprises 54 member countries. The treaty's primary objective is to create a stable and predictable investment climate for the energy sector.",
+      "The <strong>Paris Agreement</strong> was adopted in 2015 as an international agreement to mitigate climate change by reducing greenhouse gas emissions and transitioning to renewable energy sources. The agreement has its headquarters in Bonn, Germany, and comprises 196 member countries. The agreement's primary objective is to limit global warming to well below 2 degrees Celsius and pursue efforts to limit it to 1.5 degrees Celsius."
+    ],
+    "mains": {
+      "q": "Analyze the impact of the global energy crisis on the Indian economy, with a focus on the role of international organizations such as the IMF, World Bank, and IEA.",
+      "marks": "15 marks · GS3",
+      "directive": "analyze",
+      "hints": [
+        "Introduction (2 marks): Define the global energy crisis, its causes, and its implications on the Indian economy.",
+        "Body - Energy Security (3 marks): Discuss the impact of the energy crisis on India's energy security, including the country's dependence on imported oil and gas.",
+        "Body - Economic Implications (3 marks): Analyze the economic implications of the energy crisis on India, including the impact on inflation, trade, and economic growth.",
+        "Body - Role of International Organizations (3 marks): Examine the role of international organizations such as the IMF, World Bank, and IEA in addressing the global energy crisis and its implications on the Indian economy.",
+        "Conclusion (2 marks): Summarize the key findings and suggest policy recommendations for the Indian government to mitigate the impact of the energy crisis."
+      ]
+    },
+    "connect": [
+      {
+        "topic": "Energy Security and International Organizations",
+        "context": "The global energy crisis highlights the importance of energy security and the role of international organizations such as the IEA, World Bank, and IMF in addressing this issue."
+      },
+      {
+        "topic": "Economic Development and Globalization",
+        "context": "The energy crisis has significant implications for economic development and globalization, as it affects trade, investment, and economic growth."
+      },
+      {
+        "topic": "International Relations and Diplomacy",
+        "context": "The energy crisis requires international cooperation and diplomacy to address, highlighting the importance of international relations and diplomacy in resolving global issues."
+      },
+      {
+        "topic": "Environmental Protection and Sustainable Development",
+        "context": "The energy crisis also highlights the need for environmental protection and sustainable development, as the transition to renewable energy sources is critical to mitigating climate change."
+      },
+      {
+        "topic": "Global Governance and Institutional Frameworks",
+        "context": "The energy crisis requires effective global governance and institutional frameworks to address, highlighting the importance of international institutions and agreements in promoting cooperation and stability."
+      }
+    ],
+    "_hash": "5e4601f01864",
+    "_fetched": "2026-04-14T03:28:38.448747+00:00",
+    "_relevance": 72,
+    "_gs": [
+      "GS2",
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "analyze",
+    "_mcqs": {
+      "q": "Consider the following statements:\n1. The IEA was established in 1974 as an autonomous organization within the OECD.\n2. The World Bank was established in 1944 as part of the Bretton Woods system.\n3. The IMF was established in 1960 as a specialized agency of the United Nations.\nWhich of the above is/are correct?",
+      "options": [
+        "1 only",
+        "1 and 2 only",
+        "2 and 3 only",
+        "1, 2 and 3"
+      ],
+      "correct": 1,
+      "explanation": "Statement 1 is correct: The IEA was indeed established in 1974 as an autonomous organization within the OECD. Statement 2 is correct: The World Bank was indeed established in 1944 as part of the Bretton Woods system. Statement 3 is incorrect: The IMF was established in 1944, not 1960.",
+      "trap": "Timeline Confusion"
+    }
+  },
+  {
+    "id": 1972,
+    "title": "Fuel Price Hike",
+    "cat": "economy",
+    "upsc": true,
+    "time": "2026-04-14T03:28:54.621494+00:00",
+    "summary": "The International Monetary Fund (IMF), World Bank, and International Energy Agency (IEA) have warned that fuel and fertiliser prices may remain high for a prolonged period due to the uncertain situation in West Asia. This has significant implications for India's economy, particularly in terms of inflation and fiscal management. The situation highlights the need for India to diversify its energy sources and reduce its dependence on imported fuels.",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": 90,
+        "label": "Narrowest width of the Strait of Hormuz (nautical miles)"
+      },
+      {
+        "val": 1974,
+        "label": "Year the International Energy Agency (IEA) was established"
+      },
+      {
+        "val": 15,
+        "label": "% increase in global energy demand projected by 2030"
+      }
+    ],
+    "src": "The Hindu Business",
+    "link": "https://www.thehindu.com/business/Economy/fuel-fertiliser-prices-may-remain-high-for-prolonged-period-imf-world-bank-iea/article70860001.ece",
+    "prelims": [
+      "The <strong>Strait of Hormuz</strong> is a critical shipping route that connects the Persian Gulf to the Gulf of Oman, and its instability can have significant impacts on global energy markets. The strait is approximately 90 nautical miles wide at its narrowest point and is a vital waterway for international trade. The geopolitical tensions in the region can lead to supply chain disruptions and increased shipping costs.",
+      "The <strong>International Energy Agency (IEA)</strong> was established in 1974 to promote energy security and cooperation among its member countries. The IEA has a mandate to improve the world's energy supply and demand structure by developing alternative energy sources, increasing energy efficiency, and promoting free and open energy markets. The agency plays a crucial role in shaping global energy policies and providing data and analysis on energy trends.",
+      "The <strong>World Bank</strong> provides financial and technical assistance to developing countries to help them achieve their development goals, including energy security and sustainable development. The bank has a range of programs and initiatives aimed at promoting energy access, energy efficiency, and renewable energy development in developing countries. The World Bank's energy sector lending has increased significantly in recent years, reflecting the growing importance of energy in development.",
+      "The <strong>International Monetary Fund (IMF)</strong> has a mandate to promote international monetary cooperation, exchange rate stability, and economic growth. The IMF provides financial assistance to countries facing economic difficulties, including those related to energy price shocks. The fund also provides policy advice and technical assistance to help countries manage their economies and achieve macroeconomic stability.",
+      "The <strong>Energy Security</strong> of a country is critical to its economic growth and development, and it is influenced by a range of factors, including energy imports, energy efficiency, and renewable energy development. Energy security is a key concern for many countries, particularly those that are heavily dependent on imported fuels. The development of alternative energy sources, such as solar and wind power, can help reduce a country's dependence on imported fuels and improve its energy security."
+    ],
+    "mains": {
+      "q": "Analyze the impact of high fuel prices on India's economy, particularly in terms of inflation and fiscal management.",
+      "marks": "15 marks · GS3",
+      "directive": "analyze",
+      "hints": [
+        "Introduction (2 marks): Define the key terms, such as fuel prices, inflation, and fiscal management, and provide an overview of the issue.",
+        "Body - Impact on inflation (3 marks): Discuss how high fuel prices can lead to higher production costs, higher prices for consumers, and increased inflationary pressures.",
+        "Body - Fiscal management (3 marks): Examine the impact of high fuel prices on the government's fiscal management, including the potential for increased subsidies, higher revenue expenditure, and reduced fiscal space.",
+        "Body - Policy responses (3 marks): Discuss the various policy responses that the government can adopt to mitigate the impact of high fuel prices, including fuel subsidies, taxation, and energy efficiency measures.",
+        "Conclusion (2 marks): Summarize the key points and provide a balanced view of the impact of high fuel prices on India's economy."
+      ]
+    },
+    "connect": [
+      {
+        "topic": "Energy Security",
+        "context": "The issue of high fuel prices highlights the importance of energy security for India's economic growth and development."
+      },
+      {
+        "topic": "Fiscal Policy",
+        "context": "The government's fiscal policy responses to high fuel prices, including taxation and subsidies, are critical to managing the impact on the economy."
+      },
+      {
+        "topic": "Inflation Targeting",
+        "context": "The Reserve Bank of India's inflation targeting framework is relevant to understanding the impact of high fuel prices on inflation and the monetary policy response."
+      },
+      {
+        "topic": "Renewable Energy Development",
+        "context": "The development of renewable energy sources, such as solar and wind power, can help reduce India's dependence on imported fuels and improve its energy security."
+      },
+      {
+        "topic": "Global Energy Markets",
+        "context": "The instability in the Strait of Hormuz and its impact on global energy markets highlights the interconnectedness of the global energy system and the need for cooperation among countries to promote energy security."
+      }
+    ],
+    "_hash": "2fd93b24fd18",
+    "_fetched": "2026-04-14T03:28:54.621494+00:00",
+    "_relevance": 48,
+    "_gs": [
+      "GS2",
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "analyze",
+    "_mcqs": {
+      "q": "Consider the following statements:\n1. The International Energy Agency (IEA) was established in 1974 to promote energy security and cooperation among its member countries.\n2. The World Bank provides financial and technical assistance to developing countries to help them achieve their development goals, including energy security and sustainable development.\n3. The Strait of Hormuz is a critical shipping route that connects the Persian Gulf to the Gulf of Oman, and its instability can have significant impacts on global energy markets.\nWhich of the above is/are correct?",
+      "options": [
+        "1 only",
+        "1 and 2 only",
+        "2 and 3 only",
+        "1, 2 and 3"
+      ],
+      "correct": 3,
+      "explanation": "Statement 1 is correct: The IEA was indeed established in 1974 to promote energy security and cooperation among its member countries. Statement 2 is correct: The World Bank does provide financial and technical assistance to developing countries to help them achieve their development goals, including energy security and sustainable development. Statement 3 is correct: The Strait of Hormuz is a critical shipping route that connects the Persian Gulf to the Gulf of Oman, and its instability can have significant impacts on global energy markets.",
+      "trap": "Wrong Ministry"
+    }
+  },
+  {
+    "id": 1973,
+    "title": "Middle Class Vulnerability",
+    "cat": "economy",
+    "upsc": true,
+    "time": "2026-04-14T03:29:10.355853+00:00",
+    "summary": "India is experiencing a rise in middle class vulnerability, with people being lifted out of income-based poverty but not achieving better upward mobility and economic opportunity. This is significant for UPSC as it relates to India's economic development and social welfare policies. The issue connects to the broader theme of inclusive growth and sustainable development, which is a key area of focus in GS3.",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": 2004,
+        "label": "Year NCEUS was established"
+      },
+      {
+        "val": 2025,
+        "label": "Target year for achieving SDG 1 (No Poverty)"
+      }
+    ],
+    "src": "The Hindu",
+    "link": "https://www.thehindu.com/news/national/rise-in-middle-class-vulnerability/article70858958.ece",
+    "prelims": [
+      "The <strong>National Commission for Enterprises in the Unorganised Sector (NCEUS)</strong> was established in 2004 to examine the issues related to the unorganized sector, including the vulnerability of the middle class. It has its headquarters in New Delhi and is mandated to provide recommendations to the government on policies and programs for the unorganized sector.",
+      "The <strong>World Bank's Multidimensional Poverty Index (MPI)</strong> is a measure of poverty that goes beyond income and includes other factors such as education, health, and living standards. India has been using the MPI to track its progress in reducing poverty and improving the well-being of its citizens.",
+      "The <strong>Ministry of Social Justice and Empowerment</strong> is responsible for implementing policies and programs aimed at promoting social justice and empowerment of marginalized groups, including the middle class. It has launched several initiatives, such as the Pradhan Mantri Jan Dhan Yojana, to promote financial inclusion and social security.",
+      "The <strong>Constitution of India's Directive Principles of State Policy (DPSP)</strong> enshrines the principles of social and economic justice, including the right to an adequate means of livelihood and the protection of the interests of the weaker sections of society. The DPSP serves as a guiding framework for the government's policies and programs aimed at promoting the welfare of the middle class.",
+      "The <strong>United Nations' Sustainable Development Goals (SDGs)</strong> include the goal of reducing poverty and promoting sustainable economic growth, which is relevant to the issue of middle class vulnerability in India. The SDGs provide a framework for countries to work towards achieving sustainable development and promoting the well-being of all citizens."
+    ],
+    "mains": {
+      "q": "Critically examine the concept of middle class vulnerability in India, with reference to the challenges and opportunities it presents for the country's economic development and social welfare policies.",
+      "marks": "15 marks · GS3",
+      "directive": "critically_examine",
+      "hints": [
+        "Introduction (2 marks): Define the concept of middle class vulnerability and its significance in the context of India's economic development and social welfare policies.",
+        "Body - Economic challenges (3 marks): Discuss the economic challenges faced by the middle class in India, including the impact of poverty, inequality, and lack of access to education and healthcare.",
+        "Body - Social welfare policies (3 marks): Examine the social welfare policies and programs implemented by the government to address the issues of middle class vulnerability, including the Pradhan Mantri Jan Dhan Yojana and the National Health Mission.",
+        "Body - Opportunities for growth (3 marks): Discuss the opportunities for growth and development presented by the middle class in India, including the potential for increased consumer spending and entrepreneurship.",
+        "Conclusion (2 marks): Summarize the main points and argue that addressing middle class vulnerability is essential for promoting sustainable economic growth and social welfare in India."
+      ]
+    },
+    "connect": [
+      {
+        "topic": "Poverty Alleviation Programs",
+        "context": "The issue of middle class vulnerability is closely related to poverty alleviation programs, such as the Pradhan Mantri Jan Dhan Yojana, which aims to promote financial inclusion and social security."
+      },
+      {
+        "topic": "Social Justice and Empowerment",
+        "context": "The Ministry of Social Justice and Empowerment plays a crucial role in implementing policies and programs aimed at promoting social justice and empowerment of marginalized groups, including the middle class."
+      },
+      {
+        "topic": "Sustainable Development Goals (SDGs)",
+        "context": "The SDGs provide a framework for countries to work towards achieving sustainable development and promoting the well-being of all citizens, including the middle class."
+      },
+      {
+        "topic": "Economic Development and Growth",
+        "context": "The middle class plays a significant role in driving economic growth and development in India, and addressing their vulnerability is essential for promoting sustainable economic growth."
+      },
+      {
+        "topic": "Directive Principles of State Policy (DPSP)",
+        "context": "The DPSP enshrines the principles of social and economic justice, including the right to an adequate means of livelihood and the protection of the interests of the weaker sections of society, which is relevant to the issue of middle class vulnerability."
+      }
+    ],
+    "_hash": "0b3a8775517e",
+    "_fetched": "2026-04-14T03:29:10.355853+00:00",
+    "_relevance": 46,
+    "_gs": [
+      "GS2",
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "critically_examine",
+    "_mcqs": {
+      "q": "Consider the following statements:\n1. The National Commission for Enterprises in the Unorganised Sector (NCEUS) was established in 2004 to examine the issues related to the unorganized sector.\n2. The World Bank's Multidimensional Poverty Index (MPI) is a measure of poverty that only includes income.\n3. The Ministry of Social Justice and Empowerment is responsible for implementing policies and programs aimed at promoting social justice and empowerment of marginalized groups.\nWhich of the above is/are correct?",
+      "options": [
+        "1 only",
+        "1 and 3 only",
+        "2 and 3 only",
+        "1, 2 and 3"
+      ],
+      "correct": 1,
+      "explanation": "Statement 1 is correct: The NCEUS was indeed established in 2004. Statement 2 is incorrect: The MPI includes factors beyond income, such as education, health, and living standards. Statement 3 is correct: The Ministry of Social Justice and Empowerment is responsible for implementing policies and programs aimed at promoting social justice and empowerment of marginalized groups.",
+      "trap": "Absolute Language"
+    }
+  },
+  {
+    "id": 1974,
+    "title": "India's Battery Sector Shield",
+    "cat": "economy",
+    "upsc": true,
+    "time": "2026-04-14T03:29:25.987173+00:00",
+    "summary": "The Indian government is planning to introduce an Approved List of Battery Manufacturers (ALBM) to boost domestic production and reduce reliance on Chinese imports. This move is significant for UPSC as it relates to India's economic development and national security, particularly in the context of the country's ambitious 47 GW storage plans. The ALBM initiative connects to the broader theme of promoting domestic manufacturing and reducing dependence on foreign imports, which is a key aspect of the government's economic policies.",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": 47,
+        "label": "India's ambitious GW storage plans"
+      },
+      {
+        "val": 25,
+        "label": "Share of manufacturing in India's GDP by 2025 (NMP target)"
+      },
+      {
+        "val": 100,
+        "label": "Million additional jobs to be created in the manufacturing sector (NMP target)"
+      }
+    ],
+    "src": "LiveMint Industry",
+    "link": "https://www.livemint.com/industry/energy/india-battery-push-approved-equipment-vendor-list-energy-storage-projects-india-battery-vision-2047-energy-security-albm-11775989474727.html",
+    "prelims": [
+      "The <strong>National Manufacturing Policy (NMP) 2011</strong> aims to increase the share of manufacturing in the country's GDP to 25% by 2025. It also seeks to create 100 million additional jobs in the manufacturing sector. The policy is relevant to the ALBM initiative as it highlights the government's focus on promoting domestic manufacturing.",
+      "The <strong>Make in India</strong> initiative was launched in 2014 to promote India as a manufacturing hub. It has 25 focus sectors, including electronics and automotive, which are key sectors for battery manufacturing. The initiative is connected to the ALBM as it aims to increase domestic production and reduce reliance on imports.",
+      "The <strong>Atmanirbhar Bharat Abhiyan</strong> (Self-Reliant India Mission) was launched in 2020 to promote self-reliance in various sectors, including manufacturing. The mission has a focus on promoting domestic production and reducing dependence on foreign imports, which is in line with the objectives of the ALBM initiative.",
+      "The <strong>Department of Heavy Industry (DHI)</strong> is responsible for promoting the development of the heavy industry sector, including the automotive and electronics sectors. The DHI plays a crucial role in implementing policies related to the ALBM initiative, including providing incentives for domestic battery manufacturers.",
+      "The <strong>Indian Battery Manufacturing Industry</strong> has significant potential for growth, driven by increasing demand for electric vehicles and renewable energy systems. The industry is expected to play a crucial role in achieving the government's targets for reducing greenhouse gas emissions and promoting sustainable development."
+    ],
+    "mains": {
+      "q": "Analyze the significance of the Approved List of Battery Manufacturers (ALBM) initiative in promoting India's economic development and national security.",
+      "marks": "15 marks · GS3",
+      "directive": "analyze",
+      "hints": [
+        "Introduction (2 marks): Define the ALBM initiative and its objectives, including promoting domestic battery manufacturing and reducing reliance on Chinese imports.",
+        "Body - Economic Development (4 marks): Discuss the potential impact of the ALBM initiative on India's economic development, including the creation of jobs and the promotion of domestic manufacturing.",
+        "Body - National Security (4 marks): Examine the significance of the ALBM initiative in promoting national security, including reducing dependence on foreign imports and promoting self-reliance in critical sectors.",
+        "Body - Challenges and Limitations (3 marks): Discuss the challenges and limitations of the ALBM initiative, including the need for significant investment in infrastructure and technology.",
+        "Conclusion (2 marks): Summarize the significance of the ALBM initiative and its potential impact on India's economic development and national security."
+      ]
+    },
+    "connect": [
+      {
+        "topic": "Make in India Initiative",
+        "context": "The ALBM initiative is part of the government's broader efforts to promote domestic manufacturing, which is in line with the Make in India program."
+      },
+      {
+        "topic": "Atmanirbhar Bharat Abhiyan",
+        "context": "The ALBM initiative is connected to the Atmanirbhar Bharat Abhiyan, which aims to promote self-reliance in various sectors, including manufacturing."
+      },
+      {
+        "topic": "Department of Heavy Industry",
+        "context": "The DHI plays a crucial role in implementing policies related to the heavy industry sector, including the ALBM initiative."
+      },
+      {
+        "topic": "National Manufacturing Policy (NMP) 2011",
+        "context": "The NMP 2011 aims to increase the share of manufacturing in the country's GDP to 25% by 2025, which is relevant to the ALBM initiative."
+      },
+      {
+        "topic": "India's Economic Development",
+        "context": "The ALBM initiative is significant for India's economic development, as it aims to promote domestic manufacturing and reduce reliance on foreign imports."
+      }
+    ],
+    "_hash": "088eb5a22842",
+    "_fetched": "2026-04-14T03:29:25.987173+00:00",
+    "_relevance": 44,
+    "_gs": [
+      "GS2",
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "analyze",
+    "_mcqs": {
+      "q": "Consider the following statements:\n1. The ALBM initiative is aimed at promoting domestic battery manufacturing and reducing reliance on Chinese imports.\n2. The initiative is part of the government's Make in India program.\n3. The Department of Heavy Industry is responsible for implementing the ALBM initiative.\nWhich of the above is/are correct?",
+      "options": [
+        "1 only",
+        "1 and 2 only",
+        "2 and 3 only",
+        "1, 2 and 3"
+      ],
+      "correct": 3,
+      "explanation": "Statement 1 is correct: The ALBM initiative is indeed aimed at promoting domestic battery manufacturing and reducing reliance on Chinese imports. Statement 2 is correct: The initiative is part of the government's broader efforts to promote domestic manufacturing, which is in line with the Make in India program. Statement 3 is correct: The Department of Heavy Industry is responsible for implementing policies related to the heavy industry sector, including the ALBM initiative.",
+      "trap": "Absolute Language"
+    }
+  },
+  {
+    "id": 1975,
+    "title": "Crop Procurement",
+    "cat": "economy",
+    "upsc": true,
+    "time": "2026-04-14T03:29:41.354736+00:00",
+    "summary": "Former Haryana CM Hooda has blamed the low procurement of crops on the government's new rules. This issue is relevant for UPSC as it connects to the agricultural sector and the impact of government policies on farmers. It also relates to the syllabus area of economic development and agriculture under GS3.",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": 2004,
+        "label": "Year of establishment of National Commission on Farmers"
+      },
+      {
+        "val": 2016,
+        "label": "Year of launch of Pradhan Mantri Fasal Bima Yojana"
+      },
+      {
+        "val": 1929,
+        "label": "Year of establishment of Indian Council of Agricultural Research"
+      }
+    ],
+    "src": "The Hindu",
+    "link": "https://www.thehindu.com/news/national/haryana/former-haryana-cm-hooda-blames-low-procurement-of-crop-on-governments-arbitrary-new-rules/article70858304.ece",
+    "prelims": [
+      "<strong>National Commission on Farmers (NCF)</strong> was established in 2004 to examine the issues related to farmers and farming. It has submitted several reports, including the 'National Policy for Farmers' in 2007. The NCF has been instrumental in shaping the government's policies for the agricultural sector.",
+      "<strong>Agricultural Produce Market Committee (APMC) Act</strong> regulates the marketing of agricultural produce in India. The Act aims to protect the interests of farmers by ensuring fair prices for their produce. However, the Act has been criticized for its restrictive provisions, which limit the entry of private players in the market.",
+      "<strong>Minimum Support Price (MSP)</strong> is the price at which the government purchases crops from farmers to ensure a minimum income for them. The MSP is fixed by the government based on the recommendations of the Commission for Agricultural Costs and Prices (CACP). The MSP has been a contentious issue, with farmers demanding higher prices and the government trying to balance the prices with the fiscal burden.",
+      "<strong>Pradhan Mantri Fasal Bima Yojana (PMFBY)</strong> is a crop insurance scheme launched by the government in 2016. The scheme aims to provide financial protection to farmers against crop failures due to natural calamities. The scheme has been successful in increasing the coverage of crop insurance, but it has also faced criticism for its complex procedures and delayed payments.",
+      "<strong>Indian Council of Agricultural Research (ICAR)</strong> is the apex body for agricultural research in India. ICAR was established in 1929 and has played a crucial role in the development of Indian agriculture. ICAR has developed several high-yielding varieties of crops, which have contributed to the increase in agricultural production in India."
+    ],
+    "mains": {
+      "q": "Critically examine the impact of government policies on the agricultural sector in India.",
+      "marks": "15 marks · GS3",
+      "directive": "critically_examine",
+      "hints": [
+        "Introduction (2 marks): Define the agricultural sector and its importance in the Indian economy.",
+        "Body - Government policies (4 marks): Discuss the key government policies affecting the agricultural sector, such as the MSP, APMC Act, and PMFBY.",
+        "Body - Impact on farmers (4 marks): Analyze the impact of these policies on farmers, including the benefits and limitations.",
+        "Body - Alternative approaches (3 marks): Examine alternative approaches to agricultural policy, such as contract farming and organic farming.",
+        "Conclusion (2 marks): Summarize the main points and suggest recommendations for improving the agricultural sector in India."
+      ]
+    },
+    "connect": [
+      {
+        "topic": "Agricultural Marketing",
+        "context": "The APMC Act is a key aspect of agricultural marketing in India, and its provisions have a significant impact on the agricultural sector."
+      },
+      {
+        "topic": "Crop Insurance",
+        "context": "The PMFBY is a major crop insurance scheme in India, and its success has implications for the agricultural sector and the economy as a whole."
+      },
+      {
+        "topic": "Agricultural Research",
+        "context": "The ICAR is a premier institution for agricultural research in India, and its work has contributed significantly to the development of Indian agriculture."
+      },
+      {
+        "topic": "Minimum Support Price",
+        "context": "The MSP is a critical component of the agricultural policy in India, and its fixation has significant implications for farmers and the agricultural sector."
+      },
+      {
+        "topic": "Farmers' Welfare",
+        "context": "The National Commission on Farmers has been instrumental in shaping the government's policies for farmers, and its recommendations have had a significant impact on the agricultural sector."
+      }
+    ],
+    "_hash": "0563a1a6f241",
+    "_fetched": "2026-04-14T03:29:41.354736+00:00",
+    "_relevance": 39,
+    "_gs": [
+      "GS2",
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "critically_examine",
+    "_mcqs": {
+      "q": "Consider the following statements:\n1. The National Commission on Farmers was established in 2004.\n2. The APMC Act regulates the marketing of agricultural produce in India.\n3. The MSP is fixed by the government based on the recommendations of the CACP.\nWhich of the above is/are correct?",
+      "options": [
+        "1 only",
+        "1 and 2 only",
+        "2 and 3 only",
+        "1, 2 and 3"
+      ],
+      "correct": 3,
+      "explanation": "Statement 1 is correct: The National Commission on Farmers was indeed established in 2004. Statement 2 is correct: The APMC Act does regulate the marketing of agricultural produce in India. Statement 3 is correct: The MSP is fixed by the government based on the recommendations of the CACP.",
+      "trap": "Absolute Language"
+    }
+  },
+  {
+    "id": 1976,
+    "title": "LPG cylinder price on April 14: Check domestic and commercia",
+    "cat": "india",
+    "upsc": false,
+    "time": "2026-04-14T03:31:53.844285+00:00",
+    "summary": "State-owned oil companies have updated commercial LPG prices due to rising global oil prices, impacting India, which relies heavily on imports. A rece",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "LiveMint",
+    "link": "https://www.livemint.com/news/india/lpg-cylinder-price-on-april-14-check-domestic-and-commercial-gas-rates-in-delhi-bengaluru-mumbai-kolkata-today-11776130765151.html",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "42153c4cd2f0",
+    "_fetched": "2026-04-14T03:31:53.844285+00:00",
+    "_relevance": 39,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 1977,
+    "title": "What Iran offered to do with its nuclear programme? Why did ",
+    "cat": "economy",
+    "upsc": false,
+    "time": "2026-04-14T03:34:06.335411+00:00",
+    "summary": "United States and Iran traded proposals for a suspension of Iranian nuclear activities during weekend negotiations in Pakistan, but remain far apart o",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "LiveMint",
+    "link": "https://www.livemint.com/news/world/iran-offered-to-suspend-its-uranium-enrichment-nuclear-programme-so-why-is-there-still-no-deal-with-us-11776130370369.html",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "3e67fa8e9047",
+    "_fetched": "2026-04-14T03:34:06.335411+00:00",
+    "_relevance": 39,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 1978,
+    "title": "Speaker writes to Commissioner after fresh bomb threat to De",
+    "cat": "india",
+    "upsc": false,
+    "time": "2026-04-14T03:36:18.858380+00:00",
+    "summary": "Earlier, the Assembly had received threatening emails from Khalistan-supporting groups",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "The Hindu",
+    "link": "https://www.thehindu.com/news/cities/Delhi/speaker-writes-to-commissioner-after-fresh-bomb-threat-to-delhi-assembly-seeks-probe-tighter-security/article70858276.ece",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "0844dcf59374",
+    "_fetched": "2026-04-14T03:36:18.858380+00:00",
+    "_relevance": 36,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "sc-judgment",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 1979,
+    "title": "Resisting amendment can be more harmful for southern States",
+    "cat": "india",
+    "upsc": false,
+    "time": "2026-04-14T03:38:31.353692+00:00",
+    "summary": "The BJP’s proposal is to have 50% additional seats in the Lok Sabha, one-third of the new total being reserved for women, nationally and in each State",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "The Hindu",
+    "link": "https://www.thehindu.com/news/national/resisting-delimitation-can-be-more-harmful-for-southern-states/article70858793.ece",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "a456907189c3",
+    "_fetched": "2026-04-14T03:38:31.353692+00:00",
+    "_relevance": 33,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 1980,
+    "title": "Israel-Iran war highlights: Trump vows to destroy Iranian wa",
+    "cat": "tech",
+    "upsc": false,
+    "time": "2026-04-14T03:40:43.819372+00:00",
+    "summary": "Pakistan’s Prime Minister Shehbaz Sharif said a ceasefire between the United States and Iran was “holding” and that efforts were under way to reach an",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "The Hindu International",
+    "link": "https://www.thehindu.com/news/international/iran-israel-us-war-west-asia-conflict-highlights-on-april-13-2026/article70856044.ece",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "b9df012b1d26",
+    "_fetched": "2026-04-14T03:40:43.819372+00:00",
+    "_relevance": 33,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 1981,
+    "title": "Hezbollah chief urges Lebanese government to cancel Washingt",
+    "cat": "tech",
+    "upsc": false,
+    "time": "2026-04-14T03:42:56.288556+00:00",
+    "summary": "Hundreds of Hezbollah supporters protested on Friday (April 10, 2026) and Saturday (April 11, 2026) against the planned talks, accusing Lebanese Prime",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "The Hindu International",
+    "link": "https://www.thehindu.com/news/international/hezbollah-chief-urges-lebanese-government-to-cancel-washington-talks-with-israel/article70859988.ece",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "9baff1b90747",
+    "_fetched": "2026-04-14T03:42:56.288556+00:00",
+    "_relevance": 33,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 1982,
+    "title": "U.S. lawmaker Swalwell resigns over sexual misconduct allega",
+    "cat": "tech",
+    "upsc": false,
+    "time": "2026-04-14T03:45:08.785380+00:00",
+    "summary": "Eric Swalwell's troubles escalated rapidly over the weekend as reports in the San Francisco Chronicle and CNN detailed allegations from four women",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "The Hindu International",
+    "link": "https://www.thehindu.com/news/international/us-lawmaker-swalwell-resigns-over-sexual-misconduct-allegations/article70859299.ece",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "241a9313f987",
+    "_fetched": "2026-04-14T03:45:08.785380+00:00",
+    "_relevance": 31,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 1983,
+    "title": "War-torn to economic miracle: How Vietnam has emerged as a C",
+    "cat": "economy",
+    "upsc": false,
+    "time": "2026-04-14T03:47:21.307339+00:00",
+    "summary": "A look at how Vietnam leverages reforms and foreign investment to become a high-growth, electronics-driven global trade and manufacturing hub.",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "LiveMint",
+    "link": "https://www.livemint.com/news/vietnam-economic-miracle-china-plus-one-global-manufacturing-hub-11776087454965.html",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "60b89522ffaf",
+    "_fetched": "2026-04-14T03:47:21.307339+00:00",
+    "_relevance": 30,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
   }
 ]
