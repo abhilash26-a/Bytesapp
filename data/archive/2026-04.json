@@ -41335,5 +41335,555 @@
     "_difficulty": 2,
     "_directive": "discuss",
     "_mcqs": []
+  },
+  {
+    "id": 1978,
+    "title": "Fertiliser Import",
+    "cat": "economy",
+    "upsc": true,
+    "time": "2026-04-14T19:26:52.449889+00:00",
+    "summary": "India is seeking self-reliance in fertilizers by leveraging artificial intelligence and precision nutrient management. This strategy is crucial for UPSC as it connects to India's economic development and agriculture sector. It also relates to the government's initiatives to promote organic farming and reduce import dependence.",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": 70,
+        "label": "Estimated annual expenditure on Fertilizer Subsidy Bill (thousand crore)"
+      },
+      {
+        "val": 2015,
+        "label": "Year the Soil Health Card scheme was launched"
+      },
+      {
+        "val": 2014,
+        "label": "Year the National Mission on Sustainable Agriculture was launched"
+      }
+    ],
+    "src": "ET Economy",
+    "link": "https://economictimes.indiatimes.com/news/economy/agriculture/india-must-cut-fertiliser-import-dependence-leverage-ai-and-precision-tech-icar-chief/articleshow/130264338.cms",
+    "prelims": [
+      "The <strong>National Mission on Sustainable Agriculture (NMSA)</strong> was launched in 2014 to promote sustainable agriculture practices, including the use of organic fertilizers. It aims to improve the productivity and profitability of farmers while reducing the environmental impact of farming. The mission has four components: soil health, organic farming, crop insurance, and weather insurance.",
+      "The <strong>Soil Health Card (SHC) scheme</strong> was launched in 2015 to provide soil test-based recommendations to farmers. It aims to improve soil health, reduce the use of chemical fertilizers, and promote organic farming practices. The scheme has been successful in increasing the use of organic fertilizers and reducing the use of chemical fertilizers.",
+      "The <strong>Fertilizer Subsidy Bill</strong> is a significant burden on the government's finances, with an estimated annual expenditure of over Rs 70,000 crore. Reducing the subsidy bill is crucial for the government's fiscal consolidation efforts. The government has been exploring options to reduce the subsidy bill, including the use of direct benefit transfer (DBT) and the promotion of organic fertilizers.",
+      "The <strong>Indian Council of Agricultural Research (ICAR)</strong> is the premier agricultural research institution in India, established in 1929. It has played a crucial role in promoting agricultural research and development in the country. ICAR has been working on various initiatives to promote organic farming, including the development of new varieties of crops and the promotion of integrated farming systems.",
+      "The <strong>Pradhan Mantri Kisan Samman Nidhi (PM-KISAN) scheme</strong> was launched in 2019 to provide income support to small and marginal farmers. It aims to provide a minimum income guarantee to farmers and promote agricultural development. The scheme has been successful in providing income support to farmers and promoting agricultural development."
+    ],
+    "mains": {
+      "q": "Critically examine the government's initiatives to promote organic farming and reduce fertiliser import dependence in India.",
+      "marks": "15 marks · GS3",
+      "directive": "critically_examine",
+      "hints": [
+        "Introduction (2 marks): Define organic farming and its importance in India's agricultural sector, including its benefits for soil health, water conservation, and climate change mitigation.",
+        "Body - Government initiatives (3 marks): Discuss the government's initiatives to promote organic farming, including the Soil Health Card scheme, the National Mission on Sustainable Agriculture, and the Pradhan Mantri Kisan Samman Nidhi scheme.",
+        "Body - Challenges and limitations (3 marks): Analyze the challenges and limitations of promoting organic farming in India, including the high cost of organic fertilizers, the lack of awareness among farmers, and the limited availability of organic seeds.",
+        "Body - International best practices (3 marks): Examine international best practices in promoting organic farming, including the use of organic fertilizers, crop rotation, and integrated pest management.",
+        "Conclusion (2 marks): Summarize the importance of promoting organic farming in India and suggest ways to address the challenges and limitations, including the need for increased investment in agricultural research and development."
+      ]
+    },
+    "connect": [
+      {
+        "topic": "Agricultural Marketing and Price Support",
+        "context": "The government's initiatives to promote organic farming are connected to agricultural marketing and price support, as they aim to improve the income of farmers and promote agricultural development."
+      },
+      {
+        "topic": "Soil Conservation and Watershed Management",
+        "context": "The Soil Health Card scheme is connected to soil conservation and watershed management, as it aims to improve soil health and reduce soil erosion."
+      },
+      {
+        "topic": "Agricultural Research and Development",
+        "context": "The Indian Council of Agricultural Research (ICAR) is connected to agricultural research and development, as it plays a crucial role in promoting agricultural research and development in the country."
+      },
+      {
+        "topic": "Environmental Impact Assessment (EIA) Process",
+        "context": "The promotion of organic farming is connected to environmental impact assessment, as it aims to reduce the environmental impact of farming and promote sustainable agriculture practices."
+      },
+      {
+        "topic": "Rural Development and Poverty Alleviation",
+        "context": "The government's initiatives to promote organic farming are connected to rural development and poverty alleviation, as they aim to improve the income of farmers and promote rural development."
+      }
+    ],
+    "_hash": "d9be4aa80ef4",
+    "_fetched": "2026-04-14T19:26:52.449889+00:00",
+    "_relevance": 72,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "critically_examine",
+    "_mcqs": {
+      "q": "Consider the following statements:\n1. The Soil Health Card scheme was launched in 2010.\n2. The National Mission on Sustainable Agriculture was launched in 2014.\n3. The Fertilizer Subsidy Bill is a significant burden on the government's finances.\nWhich of the above is/are correct?",
+      "options": [
+        "1 only",
+        "1 and 2 only",
+        "2 and 3 only",
+        "1, 2 and 3"
+      ],
+      "correct": 2,
+      "explanation": "Statement 1 is incorrect: The Soil Health Card scheme was launched in 2015, not 2010. Statement 2 is correct: The National Mission on Sustainable Agriculture was launched in 2014. Statement 3 is correct: The Fertilizer Subsidy Bill is a significant burden on the government's finances.",
+      "trap": "Timeline Confusion"
+    }
+  },
+  {
+    "id": 1979,
+    "title": "Infra Spend Up",
+    "cat": "economy",
+    "upsc": true,
+    "time": "2026-04-14T19:27:08.976790+00:00",
+    "summary": "Prime Minister Narendra Modi has launched the Delhi-Dehradun Expressway, marking a significant investment in national infrastructure. This development is crucial for UPSC as it reflects the government's focus on infrastructure development, which is a key aspect of economic growth and development. The expressway's inclusion of a wildlife corridor also highlights the importance of balancing development with environmental concerns, a key theme in GS3.",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": 120000,
+        "label": "Cost of the Delhi-Dehradun Expressway (crore)"
+      },
+      {
+        "val": 2014,
+        "label": "Year when infrastructure spending began to increase"
+      },
+      {
+        "val": 6,
+        "label": "Fold increase in infrastructure spending since 2014"
+      }
+    ],
+    "src": "ET Economy",
+    "link": "https://economictimes.indiatimes.com/news/economy/infrastructure/infra-spend-up-six-fold-since-2014-crosses-rs-12-lakh-crore-pm-modi/articleshow/130267637.cms",
+    "prelims": [
+      "<strong>National Highways Authority of India (NHAI)</strong> was established in 1988 and is responsible for the development, maintenance, and management of national highways in India. NHAI plays a crucial role in implementing the government's infrastructure development plans, including the construction of expressways like the Delhi-Dehradun Expressway. The authority's work has a significant impact on the country's economy and environment.",
+      "<strong>Infrastructure development</strong> is a key driver of economic growth, and the government has launched several initiatives to improve the country's infrastructure, including the <strong>National Infrastructure Pipeline (NIP)</strong>. The NIP aims to invest ₹102 lakh crore in infrastructure development by 2025, with a focus on roads, railways, and urban infrastructure. This initiative is expected to have a significant impact on the country's economic growth and development.",
+      "<strong>Wildlife corridors</strong> are essential for maintaining biodiversity and allowing animals to migrate freely. The inclusion of a wildlife corridor in the Delhi-Dehradun Expressway is a positive step towards balancing development with environmental concerns. The <strong>Wildlife Protection Act, 1972</strong>, provides a framework for the conservation of wildlife in India, and the government has launched several initiatives to protect and conserve wildlife habitats.",
+      "<strong>Article 51A(g)</strong> of the Constitution of India emphasizes the importance of protecting and improving the natural environment. This article, read with <strong>Article 48A</strong>, which directs the state to protect and improve the environment, forms the constitutional basis for environmental protection in India. The government's initiatives to balance development with environmental concerns, such as the inclusion of wildlife corridors in infrastructure projects, reflect the importance of these constitutional provisions.",
+      "<strong>Public-Private Partnerships (PPPs)</strong> are being increasingly used to develop infrastructure projects in India, including roads and highways. The <strong>Delhi-Dehradun Expressway</strong> is an example of a PPP project, with the government partnering with private companies to develop and maintain the expressway. PPPs can help leverage private sector expertise and funding to develop infrastructure projects, but they also require careful planning and management to ensure that they are effective and sustainable."
+    ],
+    "mains": {
+      "q": "Analyze the role of infrastructure development in promoting economic growth and development in India, with a focus on the Delhi-Dehradun Expressway project.",
+      "marks": "15 marks · GS3",
+      "directive": "analyze",
+      "hints": [
+        "Introduction (2 marks): Define infrastructure development and its importance in promoting economic growth and development, with a focus on the Delhi-Dehradun Expressway project.",
+        "Body - Economic benefits (3 marks): Discuss the economic benefits of infrastructure development, including the creation of jobs, increase in economic activity, and improvement in the standard of living, with reference to the Delhi-Dehradun Expressway project.",
+        "Body - Environmental concerns (3 marks): Analyze the environmental concerns associated with infrastructure development, including the impact on wildlife habitats and the importance of balancing development with environmental concerns, with reference to the Delhi-Dehradun Expressway project.",
+        "Body - Institutional mechanism (3 marks): Examine the institutional mechanism for infrastructure development in India, including the role of NHAI and the importance of public-private partnerships, with reference to the Delhi-Dehradun Expressway project.",
+        "Conclusion (2 marks): Summarize the importance of infrastructure development in promoting economic growth and development, with a focus on the Delhi-Dehradun Expressway project, and suggest ways to balance development with environmental concerns."
+      ]
+    },
+    "connect": [
+      {
+        "topic": "National Infrastructure Pipeline (NIP)",
+        "context": "The NIP aims to invest ₹102 lakh crore in infrastructure development by 2025, with a focus on roads, railways, and urban infrastructure, which is relevant to the Delhi-Dehradun Expressway project."
+      },
+      {
+        "topic": "Wildlife Protection Act, 1972",
+        "context": "The Act provides a framework for the conservation of wildlife in India, which is relevant to the inclusion of a wildlife corridor in the Delhi-Dehradun Expressway project."
+      },
+      {
+        "topic": "Public-Private Partnerships (PPPs) in infrastructure development",
+        "context": "The Delhi-Dehradun Expressway project is an example of a PPP project, which is relevant to the discussion of infrastructure development in India."
+      },
+      {
+        "topic": "Article 51A(g) and Article 48A of the Constitution of India",
+        "context": "These articles emphasize the importance of protecting and improving the natural environment, which is relevant to the discussion of balancing development with environmental concerns in the Delhi-Dehradun Expressway project."
+      },
+      {
+        "topic": "National Highways Authority of India (NHAI)",
+        "context": "NHAI is responsible for the development and maintenance of national highways in India, including the Delhi-Dehradun Expressway project, which is relevant to the discussion of infrastructure development in India."
+      }
+    ],
+    "_hash": "1eb20dbd87c5",
+    "_fetched": "2026-04-14T19:27:08.976790+00:00",
+    "_relevance": 43,
+    "_gs": [
+      "GS2",
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "analyze",
+    "_mcqs": {
+      "q": "Consider the following statements:\n1. The Delhi-Dehradun Expressway is a fully government-funded project.\n2. The National Highways Authority of India (NHAI) is responsible for the development and maintenance of national highways in India.\n3. The Wildlife Protection Act, 1972, provides a framework for the conservation of wildlife in India.\nWhich of the above is/are correct?",
+      "options": [
+        "1 only",
+        "2 and 3 only",
+        "1 and 2 only",
+        "1, 2 and 3"
+      ],
+      "correct": 1,
+      "explanation": "Statement 1 is incorrect: The Delhi-Dehradun Expressway is a public-private partnership project. Statement 2 is correct: NHAI is responsible for the development and maintenance of national highways in India. Statement 3 is correct: The Wildlife Protection Act, 1972, provides a framework for the conservation of wildlife in India.",
+      "trap": "Wrong Ministry"
+    }
+  },
+  {
+    "id": 1980,
+    "title": "India to Host BRICS, Quad Meetings",
+    "cat": "world",
+    "upsc": true,
+    "time": "2026-04-14T19:27:24.809644+00:00",
+    "summary": "India is set to host foreign ministers-level meetings of BRICS and Quad in May. This development is significant for UPSC as it highlights India's growing role in international relations and multilateral diplomacy. The meetings will provide a platform for India to engage with major world powers and discuss key global issues, which is relevant to the GS2 syllabus area of International Relations.",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": 2006,
+        "label": "Year BRICS was established"
+      },
+      {
+        "val": 2007,
+        "label": "Year Quad was established"
+      },
+      {
+        "val": 5,
+        "label": "Number of member countries in BRICS"
+      }
+    ],
+    "src": "The Hindu",
+    "link": "https://www.thehindu.com/news/national/india-to-host-foreign-ministers-level-meetings-of-brics-and-quad-in-may/article70862474.ece",
+    "prelims": [
+      "<strong>BRICS</strong> is a grouping of five major emerging national economies: Brazil, Russia, India, China, and South Africa, established in 2006. The BRICS grouping has its own development bank, the New Development Bank (NDB), which was established in 2014. The NDB has its headquarters in Shanghai, China.",
+      "<strong>Quad</strong> is a quadrilateral dialogue forum between India, the United States, Japan, and Australia, established in 2007. The Quad has been instrumental in promoting cooperation in the Indo-Pacific region, particularly in areas such as maritime security, counter-terrorism, and disaster management. The Quad has also been seen as a counterbalance to China's growing influence in the region.",
+      "<strong>Article 51</strong> of the Indian Constitution directs the state to promote international peace and security, and to maintain just and honorable relations between nations. This article is relevant to India's engagement with international organizations and multilateral forums, such as BRICS and the Quad. The article also emphasizes the importance of promoting international cooperation and diplomacy.",
+      "<strong>Ministry of External Affairs</strong> is the government agency responsible for the formulation and implementation of India's foreign policy. The ministry plays a crucial role in promoting India's national interests abroad and engaging with international organizations and multilateral forums. The ministry is headed by the Minister of External Affairs, who is a key member of the Cabinet.",
+      "<strong>Indo-Pacific</strong> is a term used to describe the region that spans the Indian and Pacific Oceans, and includes countries such as India, China, Japan, and the United States. The Indo-Pacific region is strategically important due to its location and natural resources, and has become a key focus area for international relations and diplomacy. The region is also home to several major shipping lanes and trade routes."
+    ],
+    "mains": {
+      "q": "Analyze the significance of India hosting foreign ministers-level meetings of BRICS and Quad in the context of its growing role in international relations and multilateral diplomacy.",
+      "marks": "15 marks · GS2",
+      "directive": "analyze",
+      "hints": [
+        "Introduction (2 marks): Define BRICS and Quad, and explain their significance in the context of international relations and multilateral diplomacy.",
+        "Body - BRICS (3 marks): Discuss the objectives and achievements of BRICS, and analyze its role in promoting cooperation among emerging economies.",
+        "Body - Quad (3 marks): Examine the objectives and achievements of Quad, and discuss its role in promoting cooperation in the Indo-Pacific region.",
+        "Body - India's role (3 marks): Analyze India's role in BRICS and Quad, and discuss its significance in the context of its growing role in international relations and multilateral diplomacy.",
+        "Conclusion (2 marks): Summarize the significance of India hosting foreign ministers-level meetings of BRICS and Quad, and discuss its implications for India's foreign policy and international relations."
+      ]
+    },
+    "connect": [
+      {
+        "topic": "Multilateral Diplomacy",
+        "context": "India's participation in BRICS and Quad reflects its commitment to multilateral diplomacy and cooperation, which is an important aspect of its foreign policy."
+      },
+      {
+        "topic": "Indo-Pacific Strategy",
+        "context": "The Quad meeting will focus on promoting cooperation in the Indo-Pacific region, which is a key area of interest for India's foreign policy and national security."
+      }
+    ],
+    "_hash": "6f175b03bbaa",
+    "_fetched": "2026-04-14T19:27:24.809644+00:00",
+    "_relevance": 41,
+    "_gs": [
+      "GS2"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "analyze",
+    "_mcqs": {
+      "q": "Consider the following statements:\n1. BRICS is a grouping of five major emerging national economies.\n2. Quad is a quadrilateral dialogue forum between India, the United States, Japan, and Australia.\n3. The Ministry of External Affairs is responsible for the formulation and implementation of India's foreign policy.\nWhich of the above is/are correct?",
+      "options": [
+        "1 only",
+        "1 and 2 only",
+        "2 and 3 only",
+        "1, 2 and 3"
+      ],
+      "correct": 3,
+      "explanation": "Statement 1 is correct: BRICS is indeed a grouping of five major emerging national economies. Statement 2 is correct: Quad is indeed a quadrilateral dialogue forum between India, the United States, Japan, and Australia. Statement 3 is correct: The Ministry of External Affairs is indeed responsible for the formulation and implementation of India's foreign policy.",
+      "trap": "Wrong Ministry"
+    }
+  },
+  {
+    "id": 1981,
+    "title": "Centre moots inter-State redistribution of Lok Sabha seats b",
+    "cat": "policy",
+    "upsc": false,
+    "time": "2026-04-14T19:29:37.416352+00:00",
+    "summary": "Govt circulates drafts of Constitution Amendment Bill and Delimitation Bill; If proposals are accepted, share of Lok Sabha seats of southern States wi",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "The Hindu",
+    "link": "https://www.thehindu.com/news/national/centre-seeks-inter-state-redistribution-of-lok-sabha-seats-based-on-2011-census/article70862395.ece",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "004d4abce7a8",
+    "_fetched": "2026-04-14T19:29:37.416352+00:00",
+    "_relevance": 41,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 1982,
+    "title": "Opposition support crucial to pass women’s reservation and d",
+    "cat": "policy",
+    "upsc": false,
+    "time": "2026-04-14T19:32:01.637011+00:00",
+    "summary": "Parties across the Opposition, and even some allies, flag concerns over ambiguity on delimitation and federal balance",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "The Hindu",
+    "link": "https://www.thehindu.com/news/national/opposition-support-crucial-to-pass-womens-reservation-and-delimitation-bills/article70862162.ece",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "316ede353ac3",
+    "_fetched": "2026-04-14T19:32:01.637011+00:00",
+    "_relevance": 39,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 1983,
+    "title": "Trump asks UK to 'drill, baby, drill’ in North Sea; pressure",
+    "cat": "world",
+    "upsc": false,
+    "time": "2026-04-14T19:34:14.122410+00:00",
+    "summary": "US President Donald Trump on Tuesday asked UK Prime Minister Keir Starmer to 'drill, baby, drill’ in the North Sea as oil prices spike amid the Iran w",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "LiveMint",
+    "link": "https://www.livemint.com/news/us-news/trump-asks-uk-to-drill-baby-drill-in-north-sea-pressure-mounts-on-starmer-as-iran-war-pushes-oil-prices-higher-11776178169046.html",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "e00edd63fced",
+    "_fetched": "2026-04-14T19:34:14.122410+00:00",
+    "_relevance": 39,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 1984,
+    "title": "Income Tax Dept tightens disclosure norms under presumptive ",
+    "cat": "economy",
+    "upsc": false,
+    "time": "2026-04-14T19:36:26.561497+00:00",
+    "summary": "Starting from the assessment year 2026-27, a new mandate will compel taxpayers utilizing the presumptive taxation system to reveal their bank balances",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "ET Economy",
+    "link": "https://economictimes.indiatimes.com/news/economy/policy/income-tax-dept-tightens-disclosure-norms-under-presumptive-taxation-scheme/articleshow/130267800.cms",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "08c31ce163bc",
+    "_fetched": "2026-04-14T19:36:26.561497+00:00",
+    "_relevance": 36,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 1985,
+    "title": "US enforces Hormuz blockade after Trump's threat; here's why",
+    "cat": "world",
+    "upsc": false,
+    "time": "2026-04-14T19:38:39.138375+00:00",
+    "summary": "The US has begun enforcing a blockade on ships linked to Iranian ports after Donald Trump’s warning, deploying warships and aircraft to intercept vess",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "LiveMint",
+    "link": "https://www.livemint.com/news/us-news/us-enforces-hormuz-blockade-after-trumps-threat-heres-why-and-how-its-being-carried-out-11776191200923.html",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "0ba955dc09be",
+    "_fetched": "2026-04-14T19:38:39.138375+00:00",
+    "_relevance": 33,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 1986,
+    "title": "Why move from Gurugram to Bengaluru? Viral post triggers deb",
+    "cat": "india",
+    "upsc": false,
+    "time": "2026-04-14T19:40:51.650335+00:00",
+    "summary": "A viral post questioning why professionals move from Delhi-NCR to Bengaluru has sparked a broader debate on job mobility, pay disparities, air quality",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "LiveMint",
+    "link": "https://www.livemint.com/news/trends/why-move-from-gurugram-to-bengaluru-viral-post-triggers-debate-on-jobs-aqi-and-work-culture-11776187252773.html",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "33ecdaa608f6",
+    "_fetched": "2026-04-14T19:40:51.650335+00:00",
+    "_relevance": 33,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 1987,
+    "title": "West Asia conflict: India's soybean meal exports fall 63%",
+    "cat": "economy",
+    "upsc": false,
+    "time": "2026-04-14T19:43:04.310664+00:00",
+    "summary": "India’s soybean meal exports dropped nearly 63% to 60,000 tonnes in March, hit by high domestic prices and disruptions from the West Asia conflict, ac",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "ET Economy",
+    "link": "https://economictimes.indiatimes.com/news/economy/foreign-trade/west-asia-conflict-indias-soybean-meal-exports-fall-63/articleshow/130264488.cms",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "0b10d187534c",
+    "_fetched": "2026-04-14T19:43:04.310664+00:00",
+    "_relevance": 33,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 1988,
+    "title": "Rajnath Singh to visit Germany from April 21; submarine deal",
+    "cat": "india",
+    "upsc": false,
+    "time": "2026-04-14T19:45:16.970153+00:00",
+    "summary": "German defence major Thyssenkrupp Marine Systems (TKMS) is close to finalising the deal, estimated to be worth over $8 billion; the submarines are exp",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "The Hindu",
+    "link": "https://www.thehindu.com/news/national/rajnath-singh-germany-april-21-submarine-deal-likely-high-on-agenda/article70862279.ece",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "a6b0c39ad50a",
+    "_fetched": "2026-04-14T19:45:16.970153+00:00",
+    "_relevance": 31,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 1989,
+    "title": "Intense contests brewing in the Cauvery delta, the rice bowl",
+    "cat": "tech",
+    "upsc": false,
+    "time": "2026-04-14T19:47:29.420540+00:00",
+    "summary": "The DMK, which had won 37 of the 41 constituencies in nine districts in 2021, is looking to better its performance.  The  AIADMK, which had suffered h",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "The Hindu",
+    "link": "https://www.thehindu.com/elections/tamil-nadu-assembly/intense-contests-brewing-inthe-cauverydelta-the-rice-bowl-of-tamil-nadu/article70857547.ece",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "6da6df12245e",
+    "_fetched": "2026-04-14T19:47:29.420540+00:00",
+    "_relevance": 31,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 1990,
+    "title": "IMA urges educational institutions to strengthen grievance a",
+    "cat": "india",
+    "upsc": false,
+    "time": "2026-04-14T19:49:42.078118+00:00",
+    "summary": "",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "The Hindu",
+    "link": "https://www.thehindu.com/news/national/kerala/ima-urges-educational-institutions-to-strengthen-grievance-and-mental-health-support/article70861987.ece",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "dcc4386a2b9f",
+    "_fetched": "2026-04-14T19:49:42.078118+00:00",
+    "_relevance": 31,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
   }
 ]
