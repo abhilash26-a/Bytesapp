@@ -42642,5 +42642,536 @@
     "_difficulty": 2,
     "_directive": "discuss",
     "_mcqs": []
+  },
+  {
+    "id": 1978,
+    "title": "Crude Oil Import",
+    "cat": "economy",
+    "upsc": true,
+    "time": "2026-04-15T07:59:49.681123+00:00",
+    "summary": "India's oil import bill is expected to rise by over $70 billion annually due to the ongoing conflict in West Asia. This surge in import bill matters for UPSC as it has significant implications for India's economic development and trade policies. The issue connects to the GS3 syllabus area, which covers economic development, trade, and commerce.",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": 40,
+        "label": "% of global oil production accounted for by OPEC countries"
+      },
+      {
+        "val": 1960,
+        "label": "Year OPEC was established"
+      },
+      {
+        "val": 15,
+        "label": "% increase in India's oil import bill due to the West Asia conflict"
+      }
+    ],
+    "src": "ET Economy",
+    "link": "https://economictimes.indiatimes.com/news/economy/finance/crude-unlikely-to-return-to-pre-war-levels-soon-indias-import-bill-may-rise-70bn-annually-report/articleshow/130275780.cms",
+    "prelims": [
+      "The <strong>Organization of the Petroleum Exporting Countries (OPEC)</strong> was established in 1960 to coordinate the production and sale of oil on the global market. OPEC's decisions significantly impact the global oil market, and its member countries account for approximately 40% of the world's total oil production. The organization's headquarters is located in Vienna, Austria.",
+      "The <strong>West Asia conflict</strong> has led to a significant increase in global oil prices, affecting many countries, including India, which relies heavily on oil imports. The conflict has resulted in the destruction of oil refineries and disruptions to shipping routes, further exacerbating the global oil shortage. The Indian government has been exploring alternative sources of oil to reduce its dependence on West Asian countries.",
+      "India's <strong>foreign exchange reserves</strong> have been impacted by the increase in oil import bills, which could lead to a depreciation of the Indian rupee. The Reserve Bank of India (RBI) has been taking measures to manage the country's foreign exchange reserves and mitigate the impact of the oil price surge on the economy. The RBI's monetary policy decisions, including interest rate changes, can influence the value of the rupee.",
+      "The <strong>Indian economy's</strong> growth rate has been affected by the high oil prices, as it increases the cost of production and transportation. The government has been implementing policies to promote the use of alternative energy sources, such as solar and wind power, to reduce the country's dependence on oil. The Ministry of New and Renewable Energy has set targets for the adoption of renewable energy sources in the country.",
+      "The <strong>International Energy Agency (IEA)</strong> has been monitoring the global oil market and providing forecasts on oil demand and supply. The IEA has warned that the ongoing conflict in West Asia could lead to a global oil shortage, which would have significant implications for the global economy. The IEA's reports and forecasts are closely watched by policymakers and industry experts around the world."
+    ],
+    "mains": {
+      "q": "Analyze the impact of the West Asia conflict on India's oil import bill and discuss the measures that the government can take to mitigate its effects.",
+      "marks": "15 marks · GS3",
+      "directive": "analyze",
+      "hints": [
+        "Introduction (2 marks): Define the significance of the West Asia conflict on the global oil market and its impact on India's oil import bill.",
+        "Body - Economic impact (4 marks): Discuss the effects of the oil price surge on India's foreign exchange reserves, inflation, and economic growth.",
+        "Body - Government measures (4 marks): Examine the policies that the government can implement to reduce the country's dependence on oil imports, such as promoting alternative energy sources and improving energy efficiency.",
+        "Body - International cooperation (3 marks): Analyze the role of international organizations, such as the IEA and OPEC, in addressing the global oil shortage and its implications for India.",
+        "Conclusion (2 marks): Summarize the key points and suggest recommendations for the government to mitigate the effects of the oil price surge on the Indian economy."
+      ]
+    },
+    "connect": [
+      {
+        "topic": "India's Foreign Trade Policy",
+        "context": "The increase in oil import bills has significant implications for India's foreign trade policy, which aims to promote exports and reduce the trade deficit."
+      },
+      {
+        "topic": "Global Oil Market Dynamics",
+        "context": "The West Asia conflict has highlighted the importance of understanding global oil market dynamics, including the role of OPEC and other major oil-producing countries."
+      },
+      {
+        "topic": "Energy Security and Alternative Energy Sources",
+        "context": "The surge in oil prices has emphasized the need for India to diversify its energy sources and promote alternative energy sources, such as solar and wind power."
+      },
+      {
+        "topic": "International Relations and Geopolitics",
+        "context": "The West Asia conflict has significant implications for international relations and geopolitics, particularly in the Middle East region, and requires a nuanced understanding of the complex relationships between countries."
+      },
+      {
+        "topic": "Economic Development and Growth",
+        "context": "The impact of the oil price surge on India's economy highlights the importance of understanding the factors that influence economic development and growth, including the role of energy prices and trade policies."
+      }
+    ],
+    "_hash": "e7c233bdd6d6",
+    "_fetched": "2026-04-15T07:59:49.681123+00:00",
+    "_relevance": 60,
+    "_gs": [
+      "GS2",
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "analyze",
+    "_mcqs": {
+      "q": "Consider the following statements:\n1. The Organization of the Petroleum Exporting Countries (OPEC) was established in 1970.\n2. The West Asia conflict has led to a decrease in global oil prices.\n3. India's foreign exchange reserves have been unaffected by the increase in oil import bills.\nWhich of the above is/are correct?",
+      "options": [
+        "1 only",
+        "2 only",
+        "1 and 2 only",
+        "None of the above"
+      ],
+      "correct": 3,
+      "explanation": "Statement 1 is incorrect: OPEC was established in 1960, not 1970. Statement 2 is incorrect: The West Asia conflict has led to an increase in global oil prices, not a decrease. Statement 3 is incorrect: India's foreign exchange reserves have been impacted by the increase in oil import bills.",
+      "trap": "Wrong Timeline"
+    }
+  },
+  {
+    "id": 1979,
+    "title": "Amazon Buys Globalstar",
+    "cat": "tech",
+    "upsc": true,
+    "time": "2026-04-15T08:00:05.443742+00:00",
+    "summary": "Amazon has announced its intention to acquire Globalstar, a satellite network company, in a cash-and-stock deal worth $90 to shareholders. This acquisition is significant for UPSC as it highlights the growing importance of space technology and satellite communications in the global economy. The deal also raises questions about the regulatory framework governing such acquisitions and the potential implications for India's own space program.",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": 2020,
+        "label": "Year IN–SPACe was established"
+      },
+      {
+        "val": 1969,
+        "label": "Year ISRO was established"
+      },
+      {
+        "val": 1997,
+        "label": "Year TRAI was established"
+      }
+    ],
+    "src": "The Hindu Business",
+    "link": "https://www.thehindu.com/sci-tech/technology/amazon-says-to-buy-globalstar-to-expand-satellite-network/article70863655.ece",
+    "prelims": [
+      "The <strong>Indian National Space Promotion and Authorisation Centre (IN–SPACe)</strong> was established in 2020 to promote private investment in the space sector. It has its headquarters in Ahmedabad and is mandated to regulate and authorize space activities in India. IN–SPACe is also responsible for promoting the use of space technology for societal benefits.",
+      "The <strong>Telecom Regulatory Authority of India (TRAI)</strong> is responsible for regulating the telecommunications sector in India, including satellite communications. TRAI was established in 1997 and has its headquarters in New Delhi. It plays a crucial role in ensuring that satellite communications services are provided in a fair and transparent manner.",
+      "The <strong>Department of Space (DoS)</strong> is the nodal agency responsible for the development of space technology in India. It was established in 1972 and has its headquarters in Bangalore. DoS is responsible for promoting the use of space technology for national development and has played a key role in the development of India's space program.",
+      "The <strong>Indian Space Research Organisation (ISRO)</strong> is India's primary space agency, responsible for the development of space technology and the implementation of India's space program. ISRO was established in 1969 and has its headquarters in Bangalore. It has achieved numerous milestones in space technology, including the successful launch of the Mangalyaan mission to Mars.",
+      "The <strong>Competition Commission of India (CCI)</strong> is responsible for regulating mergers and acquisitions in India, including those in the space sector. CCI was established in 2003 and has its headquarters in New Delhi. It plays a crucial role in ensuring that mergers and acquisitions do not harm competition in the market."
+    ],
+    "mains": {
+      "q": "Analyze the implications of Amazon's acquisition of Globalstar on India's space program and the regulatory framework governing the space sector.",
+      "marks": "15 marks · GS3",
+      "directive": "analyze",
+      "hints": [
+        "Introduction (2 marks): Define the key terms related to space technology and satellite communications, and provide an overview of the Indian space program.",
+        "Body - Regulatory framework (3 marks): Discuss the role of IN–SPACe, TRAI, and DoS in regulating the space sector in India, and analyze the implications of Amazon's acquisition on the regulatory framework.",
+        "Body - Implications for India's space program (3 marks): Examine the potential implications of Amazon's acquisition on India's space program, including the potential for increased investment and collaboration in the space sector.",
+        "Body - Global context (3 marks): Compare the regulatory frameworks governing the space sector in different countries, and discuss the implications of Amazon's acquisition on the global space industry.",
+        "Conclusion (2 marks): Summarize the key points and provide a balanced view on the implications of Amazon's acquisition on India's space program and the regulatory framework governing the space sector."
+      ]
+    },
+    "connect": [
+      {
+        "topic": "Space Technology and its Applications",
+        "context": "The acquisition of Globalstar by Amazon highlights the growing importance of space technology and its applications in the global economy."
+      },
+      {
+        "topic": "Regulatory Framework for Space Sector",
+        "context": "The acquisition raises questions about the regulatory framework governing the space sector in India and the role of IN–SPACe, TRAI, and DoS."
+      },
+      {
+        "topic": "Indian Space Program",
+        "context": "The acquisition has implications for India's space program, including the potential for increased investment and collaboration in the space sector."
+      },
+      {
+        "topic": "Global Space Industry",
+        "context": "The acquisition is part of a larger trend of consolidation in the global space industry, with implications for the regulatory framework and the development of space technology."
+      },
+      {
+        "topic": "Telecom Regulatory Authority of India (TRAI)",
+        "context": "TRAI plays a crucial role in regulating the telecommunications sector, including satellite communications, and its role is relevant to the acquisition of Globalstar by Amazon."
+      }
+    ],
+    "_hash": "cb716d35dee4",
+    "_fetched": "2026-04-15T08:00:05.443742+00:00",
+    "_relevance": 43,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "analyze",
+    "_mcqs": {
+      "q": "Consider the following statements:\n1. The Indian National Space Promotion and Authorisation Centre (IN–SPACe) is responsible for regulating the space sector in India.\n2. The Telecom Regulatory Authority of India (TRAI) is responsible for regulating the telecommunications sector, including satellite communications.\n3. The Department of Space (DoS) is the nodal agency responsible for the development of space technology in India.\nWhich of the above is/are correct?",
+      "options": [
+        "1 only",
+        "1 and 2 only",
+        "2 and 3 only",
+        "1, 2 and 3"
+      ],
+      "correct": 3,
+      "explanation": "Statement 1 is correct: IN–SPACe is indeed responsible for regulating the space sector in India. Statement 2 is correct: TRAI is responsible for regulating the telecommunications sector, including satellite communications. Statement 3 is correct: DoS is the nodal agency responsible for the development of space technology in India.",
+      "trap": "Wrong Ministry"
+    }
+  },
+  {
+    "id": 1980,
+    "title": "Wildlife Conservation",
+    "cat": "science",
+    "upsc": true,
+    "time": "2026-04-15T08:00:22.869641+00:00",
+    "summary": "Koppal's semi-arid landscape has emerged as a key refuge for species such as striped hyena, sloth bear, blackbuck, and Indian Grey Wolf. This discovery is significant for UPSC as it highlights the importance of conservation efforts in non-traditional habitats, which is a crucial aspect of environmental ecology and biodiversity. The study's findings have implications for GS3, particularly in the context of environmental conservation and sustainable development.",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": 1972,
+        "label": "Year the Wildlife (Protection) Act was enacted"
+      },
+      {
+        "val": 2017,
+        "label": "Year the National Wildlife Action Plan was launched"
+      },
+      {
+        "val": 1952,
+        "label": "Year the Indian Board for Wildlife (IBWL) was established"
+      }
+    ],
+    "src": "The Hindu",
+    "link": "https://www.thehindu.com/news/national/karnataka/koppals-semi-arid-landscape-emerges-as-key-wildlife-refuge-study-urges-rethink-of-conservation-and-wasteland-classification/article70860551.ece",
+    "prelims": [
+      "<strong>National Wildlife Action Plan (NWAP)</strong> was launched in 2017 to conserve wildlife and their habitats, with a focus on <strong>ecosystem services</strong> and <strong>biodiversity conservation</strong>. The plan aims to promote <strong>coexistence with wildlife</strong> and <strong>human-wildlife conflict mitigation</strong>.",
+      "<strong>Wildlife (Protection) Act, 1972</strong> is the primary legislation for wildlife conservation in India, providing a framework for <strong>protected areas</strong>, <strong>endangered species</strong>, and <strong>wildlife crime prevention</strong>. The Act has undergone several amendments to strengthen conservation efforts.",
+      "<strong>Indian Board for Wildlife (IBWL)</strong> was established in 1952 to promote <strong>wildlife conservation</strong> and <strong>ecosystem management</strong>. The board plays a crucial role in advising the government on wildlife conservation policies and programmes.",
+      "<strong>United Nations Convention on Biological Diversity (CBD)</strong> is an international agreement aimed at conserving <strong>biodiversity</strong> and promoting <strong>sustainable development</strong>. India is a signatory to the CBD and has committed to achieving the <strong>Aichi Biodiversity Targets</strong>.",
+      "<strong>Environmental Impact Assessment (EIA)</strong> is a process used to assess the potential environmental impacts of development projects, including those related to <strong>wildlife conservation</strong> and <strong>habitat destruction</strong>. The EIA process is crucial for ensuring that development projects are environmentally sustainable."
+    ],
+    "mains": {
+      "q": "Critically examine the role of semi-arid landscapes in wildlife conservation, with reference to the Koppal study.",
+      "marks": "15 marks · GS3",
+      "directive": "critically_examine",
+      "hints": [
+        "Introduction (2 marks): Define semi-arid landscapes and their significance in wildlife conservation, highlighting the Koppal study's findings.",
+        "Body - Conservation efforts (3 marks): Discuss the importance of conservation efforts in semi-arid landscapes, including the role of protected areas, community-based conservation, and ecosystem services.",
+        "Body - Human-wildlife conflict (3 marks): Analyze the challenges of human-wildlife conflict in semi-arid landscapes, including the impact of habitat fragmentation, livestock grazing, and water scarcity.",
+        "Body - Policy and legislative framework (3 marks): Examine the policy and legislative framework for wildlife conservation in India, including the Wildlife (Protection) Act, 1972, and the National Wildlife Action Plan, 2017.",
+        "Conclusion (2 marks): Summarize the importance of semi-arid landscapes in wildlife conservation and suggest strategies for promoting coexistence with wildlife in these ecosystems."
+      ]
+    },
+    "connect": [
+      {
+        "topic": "Wildlife (Protection) Act, 1972",
+        "context": "The Act provides a framework for wildlife conservation in India, including the establishment of protected areas and regulation of wildlife trade."
+      },
+      {
+        "topic": "National Wildlife Action Plan, 2017",
+        "context": "The plan aims to promote coexistence with wildlife and mitigate human-wildlife conflict, with a focus on ecosystem services and biodiversity conservation."
+      },
+      {
+        "topic": "Indian Board for Wildlife (IBWL)",
+        "context": "The board advises the government on wildlife conservation policies and programmes, playing a crucial role in promoting wildlife conservation in India."
+      },
+      {
+        "topic": "Environmental Impact Assessment (EIA)",
+        "context": "The EIA process is used to assess the potential environmental impacts of development projects, including those related to wildlife conservation and habitat destruction."
+      },
+      {
+        "topic": "United Nations Convention on Biological Diversity (CBD)",
+        "context": "The CBD is an international agreement aimed at conserving biodiversity and promoting sustainable development, with implications for wildlife conservation in India."
+      }
+    ],
+    "_hash": "d8c4070bd765",
+    "_fetched": "2026-04-15T08:00:22.869641+00:00",
+    "_relevance": 41,
+    "_gs": [
+      "GS1",
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "critically_examine",
+    "_mcqs": {
+      "q": "Consider the following statements:\n1. The Wildlife (Protection) Act, 1972, provides for the establishment of protected areas for wildlife conservation.\n2. The National Wildlife Action Plan, 2017, focuses exclusively on conservation of endangered species.\n3. The Indian Board for Wildlife (IBWL) is responsible for advising the government on wildlife conservation policies and programmes.\nWhich of the above is/are correct?",
+      "options": [
+        "1 only",
+        "1 and 3 only",
+        "2 and 3 only",
+        "1, 2 and 3"
+      ],
+      "correct": 1,
+      "explanation": "Statement 1 is correct: The Wildlife (Protection) Act, 1972, provides for the establishment of protected areas for wildlife conservation. Statement 2 is incorrect: The National Wildlife Action Plan, 2017, has a broader focus on conservation of wildlife and their habitats, including ecosystem services and human-wildlife conflict mitigation. Statement 3 is correct: The Indian Board for Wildlife (IBWL) is responsible for advising the government on wildlife conservation policies and programmes.",
+      "trap": "Absolute Language"
+    }
+  },
+  {
+    "id": 1981,
+    "title": "India-US Trade Talks",
+    "cat": "economy",
+    "upsc": true,
+    "time": "2026-04-15T08:00:39.097054+00:00",
+    "summary": "An Indian delegation is heading to Washington for crucial trade talks, focusing on an interim trade agreement between India and the US. This pact was delayed due to changes in US tariff policies, which have imposed new tariffs affecting global trade partners. The outcome of these talks will significantly impact India's economic development and its position in global trade.",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": 7,
+        "label": "GDP growth rate of India (%)"
+      },
+      {
+        "val": 2005,
+        "label": "Year the US-India Trade Policy Forum was established"
+      },
+      {
+        "val": 1995,
+        "label": "Year the World Trade Organization was established"
+      }
+    ],
+    "src": "ET Economy",
+    "link": "https://economictimes.indiatimes.com/news/economy/foreign-trade/indian-official-team-to-visit-washington-next-week-for-trade-talks/articleshow/130276325.cms",
+    "prelims": [
+      "The <strong>Generalized System of Preferences (GSP)</strong> is a preferential tariff system that allows developing countries to export goods to developed countries at zero or reduced tariffs. The US has been reviewing India's eligibility for GSP benefits, which could impact India's exports to the US. The GSP scheme was established in 1971 under the US Trade Act.",
+      "The <strong>World Trade Organization (WTO)</strong> is an international organization that regulates global trade, providing a framework for countries to negotiate trade agreements and resolve trade disputes. The WTO was established in 1995, replacing the General Agreement on Tariffs and Trade (GATT). India is a founding member of the WTO and has been actively engaged in WTO negotiations.",
+      "The <strong>US-India Trade Policy Forum (TPF)</strong> is a bilateral trade forum that aims to promote trade and investment between the US and India. The TPF was established in 2005 and is co-chaired by the US Trade Representative and the Indian Minister of Commerce and Industry. The forum provides a platform for both countries to discuss trade issues and identify opportunities for cooperation.",
+      "The <strong>Indian economy</strong> has been growing rapidly, with a GDP growth rate of over 7% in recent years. However, the economy still faces challenges such as a large trade deficit, high inflation, and a significant proportion of the population living below the poverty line. The government has implemented various policies to promote economic growth, including the 'Make in India' initiative and the 'Digital India' program.",
+      "The <strong>tariff policies</strong> of the US have been a major point of contention in trade talks between the US and India. The US has imposed tariffs on various Indian products, including steel and aluminum, which has affected India's exports to the US. India has also imposed retaliatory tariffs on US products, leading to a trade war between the two countries."
+    ],
+    "mains": {
+      "q": "Analyze the impact of the US-India trade talks on India's economic development, with a focus on the potential benefits and challenges of a free trade agreement.",
+      "marks": "15 marks · GS3",
+      "directive": "analyze",
+      "hints": [
+        "Introduction (2 marks): Define the concept of a free trade agreement and its potential benefits for India's economic development.",
+        "Body - Benefits (3 marks): Discuss the potential benefits of a free trade agreement between the US and India, including increased trade, investment, and job creation.",
+        "Body - Challenges (3 marks): Analyze the potential challenges of a free trade agreement, including the impact on India's domestic industries, the potential for trade deficits, and the need for regulatory reforms.",
+        "Body - Negotiation strategy (3 marks): Discuss the negotiation strategy that India should adopt in the trade talks, including the importance of protecting India's domestic industries and promoting India's exports.",
+        "Conclusion (2 marks): Summarize the main points and provide a conclusion on the potential impact of the US-India trade talks on India's economic development."
+      ]
+    },
+    "connect": [
+      {
+        "topic": "WTO and its role in global trade",
+        "context": "The WTO provides a framework for countries to negotiate trade agreements and resolve trade disputes, which is relevant to the US-India trade talks."
+      },
+      {
+        "topic": "India's trade policy and its impact on economic development",
+        "context": "India's trade policy has a significant impact on its economic development, and the US-India trade talks are an important aspect of this policy."
+      },
+      {
+        "topic": "Free trade agreements and their benefits and challenges",
+        "context": "Free trade agreements can have significant benefits, including increased trade and investment, but also pose challenges, such as the potential for trade deficits and job losses."
+      },
+      {
+        "topic": "US-India relations and their impact on global trade",
+        "context": "The US-India relationship has a significant impact on global trade, and the trade talks between the two countries are an important aspect of this relationship."
+      },
+      {
+        "topic": "India's economic development and its position in global trade",
+        "context": "India's economic development is closely tied to its position in global trade, and the US-India trade talks are an important aspect of this development."
+      }
+    ],
+    "_hash": "2e46b0fbf81b",
+    "_fetched": "2026-04-15T08:00:39.097054+00:00",
+    "_relevance": 38,
+    "_gs": [
+      "GS2",
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "analyze",
+    "_mcqs": {
+      "q": "Consider the following statements:\n1. The US-India trade talks are focused on negotiating a free trade agreement.\n2. The US has imposed tariffs on Indian products, including steel and aluminum.\n3. India has imposed retaliatory tariffs on US products, leading to a trade war between the two countries.\nWhich of the above is/are correct?",
+      "options": [
+        "1 only",
+        "1 and 2 only",
+        "2 and 3 only",
+        "1, 2 and 3"
+      ],
+      "correct": 3,
+      "explanation": "Statement 1 is correct: The US-India trade talks are focused on negotiating a free trade agreement. Statement 2 is correct: The US has imposed tariffs on Indian products, including steel and aluminum. Statement 3 is correct: India has imposed retaliatory tariffs on US products, leading to a trade war between the two countries.",
+      "trap": "Absolute Language"
+    }
+  },
+  {
+    "id": 1982,
+    "title": "Supreme Court stays Telangana HC order granting transit anti",
+    "cat": "india",
+    "upsc": false,
+    "time": "2026-04-15T08:02:51.443575+00:00",
+    "summary": "The case arises from a press conference addressed by Mr. Khera on April 4, 2026, in which he alleged that the Assam Chief Minister’s wife held three p",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "The Hindu",
+    "link": "https://www.thehindu.com/news/national/supreme-court-stays-telangana-hc-order-granting-transit-anticipatory-bail-to-pawan-khera/article70864270.ece",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "59ef6fb06c09",
+    "_fetched": "2026-04-15T08:02:51.443575+00:00",
+    "_relevance": 36,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "sc-judgment",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 1983,
+    "title": "India’s clean energy transition moves from technology to exe",
+    "cat": "economy",
+    "upsc": false,
+    "time": "2026-04-15T08:05:03.789911+00:00",
+    "summary": "India's clean energy transition focuses on execution and scaling, with startups and enterprises collaborating. The Schneider Electric India Innovation",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "LiveMint Industry",
+    "link": "https://www.livemint.com/industry/energy/indias-clean-energy-transition-moves-from-technology-to-execution-11776236906536.html",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "1e1f4dffe9c4",
+    "_fetched": "2026-04-15T08:05:03.789911+00:00",
+    "_relevance": 34,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 1984,
+    "title": "How delimitation based on 2011 Census would redraw India’s p",
+    "cat": "india",
+    "upsc": false,
+    "time": "2026-04-15T08:07:16.136053+00:00",
+    "summary": "Southern and North-Eastern States stand to lose the most in seat share; Hindi heartland States gain disproportionately",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "The Hindu",
+    "link": "https://www.thehindu.com/data/how-delimitation-based-on-2011-census-would-redraw-indias-political-map/article70864168.ece",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "4aada9fcd9ce",
+    "_fetched": "2026-04-15T08:07:16.136053+00:00",
+    "_relevance": 31,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 1985,
+    "title": "Two women injured while attempting to disembark from moving ",
+    "cat": "tech",
+    "upsc": false,
+    "time": "2026-04-15T08:09:28.502102+00:00",
+    "summary": "Upon investigation, it was found that the women had overslept in the ladies compartment even after the train had reached their destination",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "The Hindu",
+    "link": "https://www.thehindu.com/news/cities/Madurai/two-women-injured-while-attempting-to-disembark-from-moving-train-at-ramanathapuram-railway-station/article70863622.ece",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "d031051e7a57",
+    "_fetched": "2026-04-15T08:09:28.502102+00:00",
+    "_relevance": 31,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 1986,
+    "title": "Xi Jinping meets Russian FM Sergei Lavrov as Middle East war",
+    "cat": "world",
+    "upsc": false,
+    "time": "2026-04-15T08:11:40.847626+00:00",
+    "summary": "Chinese President Xi Jinping held a meeting with Russia's Foreign Minister Sergei Lavrov in Beijing on April 15, as reported by state media.",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "LiveMint",
+    "link": "https://www.livemint.com/news/chinese-president-xi-jinping-meets-russian-fm-sergei-lavrov-in-beijing-today-11776218101025.html",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "f80e8019c77e",
+    "_fetched": "2026-04-15T08:11:40.847626+00:00",
+    "_relevance": 30,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 1987,
+    "title": "LG Electronics shares rally 9% as lock-in expiry frees up 44",
+    "cat": "economy",
+    "upsc": false,
+    "time": "2026-04-15T08:13:53.216920+00:00",
+    "summary": "LG Electronics India shares are in focus as a six-month lock-in period ends today, freeing over 44 crore shares for trade. The stock, which listed at ",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "Economic Times",
+    "link": "https://economictimes.indiatimes.com/markets/stocks/news/lg-electronics-shares-in-focus-as-lock-in-expiry-frees-up-44-crore-shares-heres-how-they-performed-since-ipo/articleshow/130271662.cms",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "c41ca28bfadd",
+    "_fetched": "2026-04-15T08:13:53.216920+00:00",
+    "_relevance": 30,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
   }
 ]
