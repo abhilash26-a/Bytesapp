@@ -63936,5 +63936,830 @@
     "_difficulty": 2,
     "_directive": "discuss",
     "_mcqs": []
+  },
+  {
+    "id": 1900,
+    "title": "EQT's Asia Fund",
+    "cat": "economy",
+    "upsc": true,
+    "time": "2026-04-21T16:16:26.320309+00:00",
+    "summary": "EQT expects India to remain a top capital destination in its new Asia fund, with roughly one-third allocation historically. This development is significant for UPSC as it highlights the growing importance of foreign investment in India's economy. The focus on healthcare and services also connects to India's growth story and expanding control deal pipeline.",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": 70,
+        "label": "Billions of dollars in FDI received by India in the last financial year"
+      },
+      {
+        "val": 2014,
+        "label": "Year the Make in India initiative was launched"
+      },
+      {
+        "val": 100,
+        "label": "Percentage of FDI allowed in most sectors under the automatic route"
+      }
+    ],
+    "src": "ET Economy",
+    "link": "https://economictimes.indiatimes.com/news/economy/indicators/india-to-attract-major-share-of-eqts-15-6-billion-asia-fund-eqt-india-head/articleshow/130421153.cms",
+    "prelims": [
+      "The <strong>Foreign Direct Investment (FDI) Policy</strong> in India allows for 100% FDI in most sectors, including healthcare and services, under the automatic route. This policy has been instrumental in attracting foreign investment, with India receiving over $70 billion in FDI in the last financial year. The Department for Promotion of Industry and Internal Trade (DPIIT) is responsible for formulating FDI policies.",
+      "The <strong>Make in India</strong> initiative, launched in 2014, aims to promote India as a manufacturing hub and attract foreign investment. The initiative has led to significant investments in various sectors, including healthcare and services. The initiative is overseen by the Department of Industrial Policy and Promotion (DIPP), now known as the Department for Promotion of Industry and Internal Trade (DPIIT).",
+      "The <strong>Insolvency and Bankruptcy Code (IBC)</strong>, enacted in 2016, provides a framework for resolving insolvency and bankruptcy cases in India. This has improved the business environment and attracted foreign investors, including private equity firms like EQT. The IBC has been amended several times to improve its effectiveness, with the most recent amendment being in 2020.",
+      "The <strong>National Investment Promotion and Facilitation Agency (Invest India)</strong> is a non-profit venture under the Department for Promotion of Industry and Internal Trade (DPIIT), which acts as the first point of contact for foreign investors. Invest India provides various services, including investment facilitation and policy advocacy, to attract and retain foreign investment in India. It has been instrumental in promoting India as an investment destination.",
+      "The <strong>ease of doing business</strong> in India has improved significantly over the years, with the country jumping 79 positions in the World Bank's Ease of Doing Business rankings between 2014 and 2019. This improvement is due to various reforms, including simplification of regulatory processes and improvement in the business environment. The government has set a target to be among the top 50 countries in the Ease of Doing Business rankings."
+    ],
+    "mains": {
+      "q": "Analyze the impact of foreign investment on India's economic growth, with a focus on the healthcare and services sectors.",
+      "marks": "15 marks · GS3",
+      "directive": "analyze",
+      "hints": [
+        "Introduction (2 marks): Define foreign direct investment (FDI) and its significance in India's economic growth, highlighting the role of the healthcare and services sectors.",
+        "Body - Economic growth (3 marks): Discuss how FDI has contributed to India's economic growth, including the creation of jobs, increase in GDP, and improvement in the business environment, with a focus on the healthcare and services sectors.",
+        "Body - Healthcare and services (3 marks): Examine the specific impact of FDI on the healthcare and services sectors, including the introduction of new technologies, improvement in the quality of services, and increase in accessibility, with a focus on the benefits and challenges.",
+        "Body - Challenges and limitations (3 marks): Analyze the challenges and limitations of FDI in India, including the regulatory framework, infrastructure constraints, and competition from other countries, with a focus on the healthcare and services sectors.",
+        "Conclusion (2 marks): Summarize the impact of FDI on India's economic growth, highlighting the benefits and challenges, and suggest policy recommendations to promote FDI in the healthcare and services sectors."
+      ]
+    },
+    "connect": [
+      {
+        "topic": "Foreign Direct Investment (FDI) Policy",
+        "context": "The FDI Policy is crucial for attracting foreign investment in India, and its provisions have a significant impact on the country's economic growth."
+      },
+      {
+        "topic": "Make in India Initiative",
+        "context": "The Make in India initiative is a key driver of foreign investment in India, and its success is closely tied to the country's economic growth and development."
+      },
+      {
+        "topic": "Insolvency and Bankruptcy Code (IBC)",
+        "context": "The IBC provides a framework for resolving insolvency and bankruptcy cases in India, which is essential for maintaining a stable business environment and attracting foreign investment."
+      },
+      {
+        "topic": "Ease of Doing Business",
+        "context": "The ease of doing business in India is a critical factor in attracting foreign investment, and the country's improvement in the World Bank's Ease of Doing Business rankings is a significant achievement."
+      },
+      {
+        "topic": "National Investment Promotion and Facilitation Agency (Invest India)",
+        "context": "Invest India plays a vital role in promoting India as an investment destination and providing facilitation services to foreign investors, which is essential for attracting FDI in the healthcare and services sectors."
+      }
+    ],
+    "_hash": "116f112ce306",
+    "_fetched": "2026-04-21T16:16:26.320309+00:00",
+    "_relevance": 62,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "analyze",
+    "_mcqs": {
+      "q": "Consider the following statements:\n1. The Foreign Direct Investment (FDI) Policy in India allows for 100% FDI in most sectors under the automatic route.\n2. The Make in India initiative is overseen by the Ministry of Commerce and Industry.\n3. The Insolvency and Bankruptcy Code (IBC) provides a framework for resolving insolvency and bankruptcy cases in India.\nWhich of the above is/are correct?",
+      "options": [
+        "1 only",
+        "1 and 2 only",
+        "2 and 3 only",
+        "1, 2 and 3"
+      ],
+      "correct": 3,
+      "explanation": "Statement 1 is correct: The FDI Policy in India allows for 100% FDI in most sectors under the automatic route. Statement 2 is incorrect: The Make in India initiative is overseen by the Department for Promotion of Industry and Internal Trade (DPIIT), not the Ministry of Commerce and Industry. Statement 3 is correct: The IBC provides a framework for resolving insolvency and bankruptcy cases in India.",
+      "trap": "Wrong Ministry"
+    }
+  },
+  {
+    "id": 1908,
+    "title": "RBI E-mandate Rules",
+    "cat": "economy",
+    "upsc": true,
+    "time": "2026-04-21T14:00:50.718348+00:00",
+    "summary": "The Reserve Bank of India has brought cross-border transactions under e-mandate rules to enhance digital fraud prevention. This move is significant for UPSC as it highlights the importance of regulatory measures in ensuring secure electronic transactions. It connects to the syllabus area of economic development and digital payments.",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": 1935,
+        "label": "Year the RBI was established"
+      },
+      {
+        "val": 2007,
+        "label": "Year the Payment and Settlement Systems Act was enacted"
+      },
+      {
+        "val": 2016,
+        "label": "Year the Unified Payments Interface (UPI) was launched"
+      }
+    ],
+    "src": "ET Economy",
+    "link": "https://economictimes.indiatimes.com/news/economy/policy/rbi-brings-cross-border-transactions-under-e-mandate-rules-allows-customer-to-opt-out-anytime/articleshow/130418978.cms",
+    "prelims": [
+      "The <strong>Reserve Bank of India (RBI)</strong> was established in 1935 under the Reserve Bank of India Act, 1934. It has its headquarters in Mumbai and is responsible for regulating the country's monetary policy. The RBI plays a crucial role in maintaining the stability of the financial system.",
+      "The <strong>Payment and Settlement Systems Act, 2007</strong> provides the legal framework for the regulation and supervision of payment systems in India. It empowers the RBI to regulate and supervise payment systems, including digital payment systems. The Act also provides for the establishment of the Board for Regulation and Supervision of Payment and Settlement Systems.",
+      "The <strong>Information Technology Act, 2000</strong> is a key legislation that deals with cyber laws and electronic governance in India. It provides for the legal recognition of electronic documents and digital signatures, and also establishes the Cyber Appellate Tribunal to hear appeals against the orders of the Adjudicating Officers. The Act has been amended several times to keep pace with the changing technology landscape.",
+      "The <strong>National Payments Corporation of India (NPCI)</strong> is an organization that operates retail payment and settlement systems in India. It was established in 2008 and is responsible for developing and implementing various payment systems, including the Unified Payments Interface (UPI). The NPCI plays a critical role in promoting digital payments in the country.",
+      "The <strong>Unified Payments Interface (UPI)</strong> is a payment system that allows users to make transactions using their mobile phones. It was launched in 2016 and has become one of the most popular digital payment systems in India. The UPI has been instrumental in promoting financial inclusion and has also contributed to the growth of digital payments in the country."
+    ],
+    "mains": {
+      "q": "Analyze the impact of the RBI's e-mandate rules on cross-border transactions and digital payments in India.",
+      "marks": "15 marks · GS3",
+      "directive": "analyze",
+      "hints": [
+        "Introduction (2 marks): Define the concept of e-mandate and its significance in digital payments. Explain the RBI's role in regulating digital payments in India.",
+        "Body - Regulatory Framework (3 marks): Discuss the Payment and Settlement Systems Act, 2007, and its provisions related to digital payment systems. Analyze the role of the RBI in regulating and supervising payment systems.",
+        "Body - Impact on Cross-Border Transactions (3 marks): Examine the impact of the e-mandate rules on cross-border transactions, including the benefits and challenges. Discuss the potential risks associated with digital payments and the measures taken by the RBI to mitigate them.",
+        "Body - Digital Payments in India (3 marks): Discuss the growth of digital payments in India, including the role of the UPI and other payment systems. Analyze the factors that have contributed to the growth of digital payments in the country.",
+        "Conclusion (2 marks): Summarize the main points and reiterate the significance of the RBI's e-mandate rules in promoting secure digital payments in India."
+      ]
+    },
+    "connect": [
+      {
+        "topic": "Digital Payments and Financial Inclusion",
+        "context": "The RBI's e-mandate rules have significant implications for digital payments and financial inclusion in India, which is a key area of focus for the government."
+      },
+      {
+        "topic": "Payment and Settlement Systems Act, 2007",
+        "context": "The Act provides the legal framework for the regulation and supervision of payment systems in India, including digital payment systems."
+      },
+      {
+        "topic": "Unified Payments Interface (UPI)",
+        "context": "The UPI is a key digital payment system in India, and its growth has been instrumental in promoting financial inclusion and digital payments in the country."
+      },
+      {
+        "topic": "Reserve Bank of India (RBI) and Monetary Policy",
+        "context": "The RBI plays a critical role in regulating the country's monetary policy, and its decisions have significant implications for the economy and digital payments."
+      },
+      {
+        "topic": "Information Technology Act, 2000",
+        "context": "The Act provides the legal framework for cyber laws and electronic governance in India, and has significant implications for digital payments and online transactions."
+      }
+    ],
+    "_hash": "cbcd8de6acf0",
+    "_fetched": "2026-04-21T14:00:50.718348+00:00",
+    "_relevance": 74,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "analyze",
+    "_mcqs": {
+      "q": "Consider the following statements:\n1. The RBI was established in 1935 under the Reserve Bank of India Act, 1934.\n2. The Payment and Settlement Systems Act, 2007, empowers the RBI to regulate and supervise payment systems, including digital payment systems.\n3. The Unified Payments Interface (UPI) was launched in 2016 and has become one of the most popular digital payment systems in India.\nWhich of the above is/are correct?",
+      "options": [
+        "1 only",
+        "1 and 2 only",
+        "2 and 3 only",
+        "1, 2 and 3"
+      ],
+      "correct": 3,
+      "explanation": "Statement 1 is correct: The RBI was indeed established in 1935 under the Reserve Bank of India Act, 1934. Statement 2 is correct: The Payment and Settlement Systems Act, 2007, does empower the RBI to regulate and supervise payment systems, including digital payment systems. Statement 3 is correct: The UPI was launched in 2016 and has become one of the most popular digital payment systems in India.",
+      "trap": "Wrong Ministry"
+    }
+  },
+  {
+    "id": 1909,
+    "title": "Cyber Fraud",
+    "cat": "tech",
+    "upsc": true,
+    "time": "2026-04-21T14:01:07.103812+00:00",
+    "summary": "Hyderabad Police has flagged systemic gaps and KYC lapses as key factors fuelling cyber fraud, urging stricter branch-level accountability. This issue is crucial for UPSC as it relates to the intersection of technology, governance, and security. It connects to the syllabus area of GS3, specifically the topics of science and technology, and internal security.",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": 2000,
+        "label": "Year the Information Technology Act was enacted"
+      },
+      {
+        "val": 2013,
+        "label": "Year the National Cyber Security Policy was introduced"
+      },
+      {
+        "val": 2004,
+        "label": "Year the Indian Computer Emergency Response Team (CERT-In) was established"
+      }
+    ],
+    "src": "The Hindu",
+    "link": "https://www.thehindu.com/news/cities/Hyderabad/mule-accounts-kyc-lapses-fuelling-cyber-fraud-hyderabad-police/article70888665.ece",
+    "prelims": [
+      "The <strong>Information Technology Act, 2000</strong> provides the legal framework for cyber laws in India, including provisions for data protection and privacy. It was amended in 2008 to include stricter penalties for cyber crimes. The Act is enforced by the Ministry of Electronics and Information Technology.",
+      "The <strong>Cybersecurity and Information Security Division</strong> of the Ministry of Electronics and Information Technology is responsible for implementing the National Cyber Security Policy, 2013. This policy aims to create a secure cyber ecosystem in India and to protect the country's critical information infrastructure.",
+      "The <strong>Reserve Bank of India (RBI)</strong> has issued guidelines for banks to prevent cyber fraud, including the implementation of robust security measures and the education of customers on safe banking practices. The RBI has also established a Computer Emergency Response Team (CERT) to respond to cyber security incidents in the banking sector.",
+      "The <strong>Indian Computer Emergency Response Team (CERT-In)</strong> is the national nodal agency for incident response and is responsible for coordinating efforts to prevent and mitigate cyber attacks. CERT-In was established in 2004 and is part of the Ministry of Electronics and Information Technology.",
+      "The <strong>General Data Protection Regulation (GDPR)</strong> is a European Union regulation that provides a framework for data protection and privacy. Although it is not directly applicable in India, it has influenced the development of data protection laws in the country, including the Personal Data Protection Bill, 2019."
+    ],
+    "mains": {
+      "q": "Analyze the role of regulatory bodies in preventing cyber fraud in India, with a focus on the intersection of technology, governance, and security.",
+      "marks": "15 marks · GS3",
+      "directive": "analyze",
+      "hints": [
+        "Introduction (2 marks): Define cyber fraud and its impact on the Indian economy, highlighting the need for effective regulation.",
+        "Body - Regulatory framework (3 marks): Discuss the key provisions of the Information Technology Act, 2000, and the role of the Ministry of Electronics and Information Technology in enforcing cyber laws.",
+        "Body - Institutional mechanisms (3 marks): Examine the role of the Reserve Bank of India and the Indian Computer Emergency Response Team in preventing cyber fraud, including their guidelines and initiatives.",
+        "Body - Challenges and limitations (3 marks): Analyze the challenges faced by regulatory bodies in preventing cyber fraud, including the lack of awareness among citizens and the evolving nature of cyber threats.",
+        "Conclusion (2 marks): Suggest measures to strengthen the regulatory framework and improve coordination among agencies to prevent cyber fraud, including the need for increased awareness and education."
+      ]
+    },
+    "connect": [
+      {
+        "topic": "Cyber Security and Information Security",
+        "context": "The issue of cyber fraud connects to the topic of cyber security and information security, which is a key aspect of internal security and is tested in GS3."
+      },
+      {
+        "topic": "Data Protection and Privacy",
+        "context": "The issue of cyber fraud also connects to the topic of data protection and privacy, which is a critical aspect of information technology and is tested in GS3."
+      },
+      {
+        "topic": "Regulatory Bodies and Governance",
+        "context": "The role of regulatory bodies in preventing cyber fraud connects to the topic of governance and regulatory bodies, which is a key aspect of polity and is tested in GS2."
+      },
+      {
+        "topic": "E-Governance and Digital India",
+        "context": "The issue of cyber fraud also connects to the topic of e-governance and digital India, which is a key aspect of science and technology and is tested in GS3."
+      },
+      {
+        "topic": "International Cooperation and Cyber Security",
+        "context": "The issue of cyber fraud also connects to the topic of international cooperation and cyber security, which is a key aspect of international relations and is tested in GS2."
+      }
+    ],
+    "_hash": "69581aa4ddd1",
+    "_fetched": "2026-04-21T14:01:07.103812+00:00",
+    "_relevance": 59,
+    "_gs": [
+      "GS2",
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "analyze",
+    "_mcqs": {
+      "q": "Consider the following statements:\n1. The Information Technology Act, 2000, provides for the establishment of a national nodal agency for incident response.\n2. The Reserve Bank of India has issued guidelines for banks to prevent cyber fraud, including the implementation of robust security measures.\n3. The General Data Protection Regulation (GDPR) is directly applicable in India.\nWhich of the above is/are correct?",
+      "options": [
+        "1 only",
+        "1 and 2 only",
+        "2 and 3 only",
+        "1, 2 and 3"
+      ],
+      "correct": 1,
+      "explanation": "Statement 1 is correct: The Information Technology Act, 2000, provides for the establishment of a national nodal agency for incident response, which is the Indian Computer Emergency Response Team (CERT-In). Statement 2 is correct: The Reserve Bank of India has issued guidelines for banks to prevent cyber fraud, including the implementation of robust security measures. Statement 3 is incorrect: The General Data Protection Regulation (GDPR) is not directly applicable in India, although it has influenced the development of data protection laws in the country.",
+      "trap": "Absolute Language"
+    }
+  },
+  {
+    "id": 1910,
+    "title": "India's FY27 Growth Forecast",
+    "cat": "economy",
+    "upsc": true,
+    "time": "2026-04-21T14:01:23.571954+00:00",
+    "summary": "Moody's has lowered India's FY27 growth forecast to 6% due to weaker private consumption and industrial activity, driven by higher energy prices from the Iran war. This matters for UPSC as it affects India's economic development and fiscal stability, which are crucial aspects of GS3. The growth forecast is also connected to the government's infrastructure spending and forex reserves, which are vital for the country's economic growth.",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": 6,
+        "label": "India's FY27 growth forecast (%)"
+      },
+      {
+        "val": 4,
+        "label": "Number of times the MPC is required to meet in a year"
+      }
+    ],
+    "src": "ET Economy",
+    "link": "https://economictimes.indiatimes.com/news/economy/indicators/moodys-ratings-cuts-indias-fy27-growth-forecast-to-6-on-higher-energy-costs/articleshow/130416748.cms",
+    "prelims": [
+      "<strong>National Financial Reporting Authority (NFRA)</strong> was established in 2018 under Section 132 of the Companies Act, 2013, to oversee the accounting and auditing standards of companies in India. It has the power to investigate and impose penalties on companies for non-compliance with accounting standards. NFRA is also responsible for maintaining the quality of audits and ensuring that auditors are independent and impartial.",
+      "<strong>Fiscal Responsibility and Budget Management (FRBM) Act, 2003</strong>, aims to introduce transparency in the fiscal operations of the government and make the government accountable for its fiscal actions. The Act sets out the fiscal policy and the government's fiscal strategy, which includes reducing the fiscal deficit and debt burden. The FRBM Act also provides for the creation of a Fiscal Responsibility Council to review the government's fiscal performance.",
+      "<strong>Monetary Policy Committee (MPC)</strong> is a committee of the Reserve Bank of India (RBI) that is responsible for setting the monetary policy of the country. The MPC is composed of six members, including the Governor of the RBI, and is required to meet at least four times a year to review the monetary policy. The MPC's decisions are aimed at achieving the inflation target set by the government, which is currently 4%.",
+      "<strong>Foreign Exchange Management Act (FEMA), 1999</strong>, regulates the foreign exchange transactions in India and is responsible for facilitating the external trade and payments of the country. FEMA also provides for the regulation of foreign investment in India, including foreign direct investment (FDI) and foreign portfolio investment (FPI). The Act is administered by the RBI, which is responsible for ensuring that foreign exchange transactions are conducted in accordance with the provisions of FEMA.",
+      "<strong>India's Foreign Exchange Reserves</strong> are the foreign currency assets held by the RBI, which are used to settle international transactions. The foreign exchange reserves are an important component of a country's balance of payments and are used to maintain the stability of the exchange rate. India's foreign exchange reserves have been increasing over the years, which has helped to maintain the stability of the rupee and has provided a cushion against external shocks."
+    ],
+    "mains": {
+      "q": "Analyze the impact of higher energy prices on India's economic growth and fiscal stability.",
+      "marks": "15 marks · GS3",
+      "directive": "analyze",
+      "hints": [
+        "Introduction (2 marks): Define the terms economic growth and fiscal stability, and explain their importance for a country's development.",
+        "Body - Impact on economic growth (4 marks): Discuss how higher energy prices can affect the cost of production, inflation, and consumer spending, and explain the potential impact on India's GDP growth.",
+        "Body - Impact on fiscal stability (4 marks): Explain how higher energy prices can affect the government's fiscal deficit and debt burden, and discuss the potential impact on the country's credit rating.",
+        "Body - Policy responses (3 marks): Discuss the potential policy responses to mitigate the impact of higher energy prices, including monetary and fiscal policy measures.",
+        "Conclusion (2 marks): Summarize the main points and explain the importance of addressing the impact of higher energy prices on India's economic growth and fiscal stability."
+      ]
+    },
+    "connect": [
+      {
+        "topic": "Fiscal Policy and Budgeting",
+        "context": "The growth forecast is connected to the government's fiscal policy and budgeting, which are crucial aspects of GS3."
+      },
+      {
+        "topic": "Monetary Policy and Inflation",
+        "context": "The impact of higher energy prices on inflation is a key aspect of monetary policy, which is tested in GS3."
+      },
+      {
+        "topic": "Balance of Payments and Foreign Exchange",
+        "context": "The foreign exchange reserves are an important component of a country's balance of payments, which is relevant for GS3."
+      },
+      {
+        "topic": "Economic Development and Growth",
+        "context": "The growth forecast is connected to India's economic development and growth, which are crucial aspects of GS3."
+      },
+      {
+        "topic": "Government Policies and Schemes",
+        "context": "The government's policy responses to mitigate the impact of higher energy prices are relevant for GS3 and GS2."
+      }
+    ],
+    "_hash": "efe3f10cac78",
+    "_fetched": "2026-04-21T14:01:23.571954+00:00",
+    "_relevance": 55,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "analyze",
+    "_mcqs": {
+      "q": "Consider the following statements:\n1. The FRBM Act, 2003, sets a target for the reduction of the fiscal deficit to 3% of GDP.\n2. The RBI is responsible for regulating the foreign exchange transactions in India.\n3. The MPC is required to meet at least six times a year to review the monetary policy.\nWhich of the above is/are correct?",
+      "options": [
+        "1 only",
+        "1 and 2 only",
+        "2 and 3 only",
+        "1, 2 and 3"
+      ],
+      "correct": 1,
+      "explanation": "Statement 1 is correct: The FRBM Act, 2003, sets a target for the reduction of the fiscal deficit to 3% of GDP. Statement 2 is correct: The RBI is responsible for regulating the foreign exchange transactions in India. Statement 3 is incorrect: The MPC is required to meet at least four times a year to review the monetary policy.",
+      "trap": "Timeline Confusion"
+    }
+  },
+  {
+    "id": 1911,
+    "title": "Global palm oil supply to tighten in FY27 amid biodiesel pus",
+    "cat": "economy",
+    "upsc": true,
+    "time": "2026-04-21T14:03:35.957454+00:00",
+    "summary": "In fiscal year 2027, the outlook for palm oil production across the globe appears precarious. Major exporting nations are intensifying their biodiesel",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "ET Economy",
+    "link": "https://economictimes.indiatimes.com/news/economy/agriculture/global-palm-oil-supply-to-tighten-in-fy27-amid-biodiesel-push-and-weather-risks-sea/articleshow/130416396.cms",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "7a9bd771a1dc",
+    "_fetched": "2026-04-21T14:03:35.957454+00:00",
+    "_relevance": 52,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 1912,
+    "title": "APSRTC draws roadmap to shift to electric fleet",
+    "cat": "tech",
+    "upsc": false,
+    "time": "2026-04-21T14:05:48.311791+00:00",
+    "summary": "Despite several operational and financial challenges, the road transport corporation is keen on gradually replacing ageing diesel buses and deploying ",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "The Hindu",
+    "link": "https://www.thehindu.com/news/national/andhra-pradesh/apsrtc-draws-roadmap-to-shift-to-electric-fleet/article70888767.ece",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "dc4c1a1334cb",
+    "_fetched": "2026-04-21T14:05:48.311791+00:00",
+    "_relevance": 44,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 1913,
+    "title": "Telcos, banking, fintech firms warn of AI risks in spam crac",
+    "cat": "tech",
+    "upsc": false,
+    "time": "2026-04-21T14:08:00.708996+00:00",
+    "summary": "The telecom regulator is facing industry pushback over plans to deploy AI as an active enforcer against spam. Banks, fintechs, and telecom firms warn ",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "LiveMint",
+    "link": "https://www.livemint.com/news/telcos-banking-fintech-firms-ai-crackdown-clash-spam-calls-messages-airtel-reliance-phonepe-11776761204980.html",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "6f392ff51d87",
+    "_fetched": "2026-04-21T14:08:00.708996+00:00",
+    "_relevance": 44,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 1914,
+    "title": "Bihar MP Pappu Yadav draws flak for remarks against women in",
+    "cat": "tech",
+    "upsc": false,
+    "time": "2026-04-21T14:10:13.117974+00:00",
+    "summary": "The Independent MP asked to respond within three days as to why the Lok Sabha Speaker should not be approached with a recommendation for his disqualif",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "The Hindu",
+    "link": "https://www.thehindu.com/news/national/bihar/bihar-mp-pappu-yadav-on-women-in-politics-parliament-viral-video/article70888709.ece",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "9a24eacb6e4b",
+    "_fetched": "2026-04-21T14:10:13.117974+00:00",
+    "_relevance": 41,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 1915,
+    "title": "Election Commission replaces Nandigram Police Observer 48 ho",
+    "cat": "india",
+    "upsc": false,
+    "time": "2026-04-21T14:12:25.500047+00:00",
+    "summary": "The move came a day after the Trinamool Congress raised allegations of bias against the Officer-in-Charge of the Nandigram Police Station.",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "The Hindu",
+    "link": "https://www.thehindu.com/elections/west-bengal-assembly/election-commission-replaces-nandigram-police-observer-bengal-election-2026/article70888475.ece",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "e620e1be16cb",
+    "_fetched": "2026-04-21T14:12:25.500047+00:00",
+    "_relevance": 41,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 1916,
+    "title": "International delegates to visit T.N. for observing polling ",
+    "cat": "india",
+    "upsc": false,
+    "time": "2026-04-21T14:14:37.843385+00:00",
+    "summary": "The International Election Visitors’ Programme is a flagship programme of the Election Commission of India for international cooperation and engagemen",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "The Hindu",
+    "link": "https://www.thehindu.com/elections/tamil-nadu-assembly/international-delegates-to-visit-tn-for-observing-polling-process-on-april-23/article70888855.ece",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "cca225f258f9",
+    "_fetched": "2026-04-21T14:14:37.843385+00:00",
+    "_relevance": 39,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 1917,
+    "title": "Explainer: Why US-Iran peace talks are suddenly uncertain ag",
+    "cat": "world",
+    "upsc": false,
+    "time": "2026-04-21T14:16:50.225496+00:00",
+    "summary": "Both sides have been trying to reach an agreement to stop the fighting and reduce the risk of further escalation. But progress has become complicated ",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "LiveMint",
+    "link": "https://www.livemint.com/news/us-news/explainer-why-us-iran-peace-talks-are-suddenly-uncertain-again-11776776277007.html",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "bf2fa62fba26",
+    "_fetched": "2026-04-21T14:16:50.225496+00:00",
+    "_relevance": 37,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 1918,
+    "title": "Quote of the day by Mark Twain: ‘Always do right. This will ",
+    "cat": "tech",
+    "upsc": false,
+    "time": "2026-04-21T14:19:02.655205+00:00",
+    "summary": "Mark Twain rose from printer and river pilot to iconic writer, using humor to expose hypocrisy. His quote “Always do right” highlights that integrity ",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "LiveMint",
+    "link": "https://www.livemint.com/news/us-news/quote-of-the-day-by-mark-twain-always-do-right-this-will-gratify-some-people-and-astonish-the-rest-11776776129223.html",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "927c3099b254",
+    "_fetched": "2026-04-21T14:19:02.655205+00:00",
+    "_relevance": 33,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "sc-judgment",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 1919,
+    "title": "Unpaid cane dues: Farmers’ bid to storm Deputy Commissioner’",
+    "cat": "tech",
+    "upsc": false,
+    "time": "2026-04-21T14:21:15.030270+00:00",
+    "summary": "",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "The Hindu",
+    "link": "https://www.thehindu.com/news/national/karnataka/unpaid-cane-dues-farmers-bid-to-storm-deputy-commissioners-office-foiled/article70888452.ece",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "90fa162f0c28",
+    "_fetched": "2026-04-21T14:21:15.030270+00:00",
+    "_relevance": 31,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 1920,
+    "title": "Ganja worth ₹1.5 lakh seized, 29 arrested in Bapatla",
+    "cat": "tech",
+    "upsc": false,
+    "time": "2026-04-21T14:23:27.447690+00:00",
+    "summary": "Bapatla police conduct simultaneous raids at four locations; prime accused allegedly sourced the contraband from the Vizianagaram-Odisha border and so",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "The Hindu",
+    "link": "https://www.thehindu.com/news/national/andhra-pradesh/ganja-worth-15-lakh-seized-29-arrested-in-bapatla/article70888508.ece",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "6eb37cb5abeb",
+    "_fetched": "2026-04-21T14:23:27.447690+00:00",
+    "_relevance": 31,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 1921,
+    "title": "Watch: Arvind Kejriwal: ‘M.K. Stalin has stood for the count",
+    "cat": "india",
+    "upsc": false,
+    "time": "2026-04-21T10:32:14.719160+00:00",
+    "summary": "Arvind Kejriwal praises the Dravida Munnetra Kazhagam and M. K. Stalin for their strong support, welfare policies, and governance in Tamil Nadu, sayin",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "The Hindu",
+    "link": "https://www.thehindu.com/videos/watch-arvind-kejriwal-mk-stalin-has-stood-for-the-country-for-democracy/article70888140.ece",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "5eebba7a9381",
+    "_fetched": "2026-04-21T10:32:14.719160+00:00",
+    "_relevance": 39,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 1922,
+    "title": "MSC Elsa 3 shipwreck off Kerala: Tamil Nadu seeks ₹1,041.8-c",
+    "cat": "tech",
+    "upsc": false,
+    "time": "2026-04-21T10:34:27.072020+00:00",
+    "summary": "NGT Principal Bench asks Ministry to submit details of States and Union Territories that may have suffered environmental damage owing to the shipwreck",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "The Hindu",
+    "link": "https://www.thehindu.com/news/national/kerala/msc-elsa-3-shipwreck-off-kerala-union-ministry-tells-ngt-that-tamil-nadu-seeks-10418-crore-compensation-for-pollution-impact/article70887636.ece",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "2242a4c98910",
+    "_fetched": "2026-04-21T10:34:27.072020+00:00",
+    "_relevance": 39,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "sc-judgment",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 1923,
+    "title": "Congress MP gives privilege notice against PM in Lok Sabha f",
+    "cat": "india",
+    "upsc": false,
+    "time": "2026-04-21T10:36:39.417093+00:00",
+    "summary": "PM Modi criticised opposition parties for blocking the bill and made direct reflections on the voting pattern of Members of the Opposition and attribu",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "The Hindu",
+    "link": "https://www.thehindu.com/news/national/congress-mp-gives-privilege-notice-against-pm-in-lok-sabha-for-casting-aspersions-on-members/article70888046.ece",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "460a2f9b12ec",
+    "_fetched": "2026-04-21T10:36:39.417093+00:00",
+    "_relevance": 36,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 1924,
+    "title": "Fireflies can never dispel the darkness: Dravidar Kazhagam p",
+    "cat": "tech",
+    "upsc": false,
+    "time": "2026-04-21T10:38:51.755882+00:00",
+    "summary": "They sparkle briefly and vanish. Only electricity gives sustained light. That electricity is the DMK-led alliance. Its path is permanent, according to",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "The Hindu",
+    "link": "https://www.thehindu.com/elections/tamil-nadu-assembly/dravidarkazhagampresident-k-veeramani-interview-fireflies-can-never-dispel-the-darkness/article70884261.ece",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "b0ddbec67b59",
+    "_fetched": "2026-04-21T10:38:51.755882+00:00",
+    "_relevance": 31,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 1925,
+    "title": "Ayanur residents question decision to shut down well-equippe",
+    "cat": "india",
+    "upsc": false,
+    "time": "2026-04-21T10:41:04.933102+00:00",
+    "summary": "Locals are questioning the rationale behind the closure when the facility already has robust infrastructure in place",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "The Hindu",
+    "link": "https://www.thehindu.com/news/national/karnataka/residents-of-ayanur-oppose-decision-to-close-village-community-health-centre-plan-series-of-protests/article70887609.ece",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "1c28b07a5408",
+    "_fetched": "2026-04-21T10:41:04.933102+00:00",
+    "_relevance": 31,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 1926,
+    "title": "Sensex jumps 1,200 points in three days ahead of Iran war ce",
+    "cat": "economy",
+    "upsc": false,
+    "time": "2026-04-21T10:43:17.304753+00:00",
+    "summary": "Indian markets extended gains for a third straight session, supported by easing oil prices and optimism around US-Iran talks. Sensex and Nifty rose sh",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "Economic Times",
+    "link": "https://economictimes.indiatimes.com/markets/stocks/news/sensex-jumps-1200-points-in-three-days-ahead-of-iran-war-ceasefire-expiry-key-factors/articleshow/130411076.cms",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "0dfeea212f2a",
+    "_fetched": "2026-04-21T10:43:17.304753+00:00",
+    "_relevance": 30,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
   }
 ]
