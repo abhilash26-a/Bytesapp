@@ -1,0 +1,40 @@
+name: Regenerate Recent Stories
+
+on:
+  workflow_dispatch:
+    inputs:
+      days:
+        description: 'How many days back to regenerate'
+        required: false
+        default: '7'
+
+jobs:
+  regenerate:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    timeout-minutes: 90
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: pip install -r pipeline/requirements.txt
+
+      - name: Regenerate recent stories
+        working-directory: pipeline
+        env:
+          GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+        run: python -u fetch_news.py --regenerate-recent ${{ inputs.days || '7' }}
+
+      - name: Commit and push
+        run: |
+          git config user.name "Bytes Bot"
+          git config user.email "bot@bytes.app"
+          git add data/
+          git diff --staged --quiet || git commit -m "Regenerate recent stories (${{ inputs.days || '7' }} days) with improved prompt"
+          git push
