@@ -271,6 +271,48 @@ def validate_ai_output(ai_data, article):
 
     issues = []
 
+    # --- Title Validation: enforce minimum quality ---
+    title = (ai_data.get("title") or "").strip()
+    if len(title) < 25:
+        # Too short / cryptic — fall back to article title
+        issues.append(f"Title too short ({len(title)} chars): '{title}' → using article title")
+        ai_data["title"] = article.get("title", title)[:75]
+
+    # --- Summary Validation: strip UPSC meta-commentary ---
+    summary = (ai_data.get("summary") or "").strip()
+    if summary:
+        # Sentences with these phrases are meta-commentary, not content.
+        # Strip them from the summary; if nothing useful remains, fall back to article summary.
+        forbidden_phrases = [
+            r"\bfor UPSC\b",
+            r"\bfor (UPSC )?aspirants\b",
+            r"\bsignificant for UPSC\b",
+            r"\bimportant for UPSC\b",
+            r"\bcrucial for UPSC\b",
+            r"\bmatters for UPSC\b",
+            r"\b(this )?(matters|is significant|is crucial|is important) (because|as) it (highlights|underscores|relates|connects)\b",
+            r"\b(connects? to|relates? to) the syllabus( area)?\b",
+            r"\bsyllabus area of\b",
+            r"\bin the context of GS[1-4]\b",
+            r"\bthis development is crucial\b",
+            r"\bthis development underscores\b",
+            r"\bthis is significant for\b",
+        ]
+        sentences = re.split(r'(?<=[.!?])\s+', summary)
+        kept = []
+        for sent in sentences:
+            if any(re.search(p, sent, re.I) for p in forbidden_phrases):
+                continue
+            kept.append(sent)
+        cleaned = " ".join(kept).strip()
+        if len(cleaned.split()) < 10:
+            # Stripping removed too much — fall back
+            issues.append(f"Summary mostly meta-commentary, falling back to article summary")
+            ai_data["summary"] = (article.get("summary") or summary)[:300]
+        elif cleaned != summary:
+            issues.append("Summary stripped of UPSC meta-commentary")
+            ai_data["summary"] = cleaned
+
     # --- Prelims Validation ---
     prelims = ai_data.get("prelims", [])
     clean_prelims = []
@@ -372,7 +414,21 @@ def validate_ai_output(ai_data, article):
         "environmental protection", "geopolitics", "global uncertainty",
         "digital transformation", "social development", "national security",
     }
+    # Extract bold terms from prelims to detect connect-vs-prelim overlap
+    prelim_bold_terms = set()
+    for p in clean_prelims:
+        for m in re.finditer(r'<strong>(.+?)</strong>', p, re.I):
+            term = m.group(1).strip().lower()
+            # Normalize: drop trailing punctuation, parens
+            term = re.sub(r'\s*\(.+?\)\s*$', '', term).strip()
+            if term:
+                prelim_bold_terms.add(term)
+
+    def norm_topic(t):
+        return re.sub(r'\s*\(.+?\)\s*', '', t).strip().lower()
+
     clean_connect = []
+    seen_topics = set()
     for c in connect:
         if isinstance(c, dict):
             topic = c.get("topic", "")
@@ -383,31 +439,79 @@ def validate_ai_output(ai_data, article):
             if topic.lower().strip() in generic_topics:
                 issues.append(f"Connect rejected (too generic): {topic}")
                 continue
+            norm = norm_topic(topic)
+            # Reject if topic restates a prelim's bold term
+            if norm in prelim_bold_terms or any(norm in pb or pb in norm for pb in prelim_bold_terms if len(pb) > 8):
+                issues.append(f"Connect rejected (restates prelim): {topic}")
+                continue
+            # Reject duplicates within connects
+            if norm in seen_topics:
+                issues.append(f"Connect rejected (duplicate): {topic}")
+                continue
+            seen_topics.add(norm)
             clean_connect.append(c)
         elif isinstance(c, str):
-            # Legacy string format — keep as-is
             clean_connect.append(c)
     if clean_connect:
         ai_data["connect"] = clean_connect
 
     # --- MCQ Validation ---
+    # Canonical trap enum — AI sometimes invents labels; coerce them.
+    TRAP_ENUM = {
+        "wrong body", "wrong ministry", "absolute language", "timeline confusion",
+        "wrong article", "wrong section", "compositional error", "quantitative trap",
+        "scope confusion", "definitional trap", "recent update trap", "reversed causation",
+    }
+    TRAP_CANONICAL = {
+        "wrong body": "Wrong Body",
+        "wrong ministry": "Wrong Body",  # consolidate
+        "absolute language": "Absolute Language",
+        "timeline confusion": "Timeline Confusion",
+        "wrong article": "Wrong Article",
+        "wrong section": "Wrong Article",
+        "compositional error": "Compositional Error",
+        "quantitative trap": "Quantitative Trap",
+        "scope confusion": "Scope Confusion",
+        "definitional trap": "Definitional Trap",
+        "recent update trap": "Recent Update Trap",
+        "reversed causation": "Reversed Causation",
+    }
+    def coerce_trap(raw):
+        if not raw:
+            return None
+        # Split on / and pick first matching enum value, else closest by substring
+        parts = re.split(r'\s*/\s*', str(raw))
+        for part in parts:
+            key = part.strip().lower()
+            if key in TRAP_CANONICAL:
+                return TRAP_CANONICAL[key]
+        # Fallback: substring match on canonical
+        raw_lower = str(raw).lower()
+        for canonical_key, canonical_val in TRAP_CANONICAL.items():
+            if canonical_key in raw_lower:
+                return canonical_val
+        return "Definitional Trap"  # safe default
+
     mcqs = ai_data.get("mcqs", {})
-    # Normalize to array
     if isinstance(mcqs, dict) and mcqs:
         mcqs = [mcqs]
     if not isinstance(mcqs, list):
         mcqs = []
-    # Validate each MCQ
     valid_mcqs = []
     for mcq in mcqs:
         if not isinstance(mcq, dict):
             continue
         opts = mcq.get("options", [])
         correct = mcq.get("correct")
-        if isinstance(opts, list) and len(opts) == 4 and isinstance(correct, int) and 0 <= correct <= 3:
-            valid_mcqs.append(mcq)
-        else:
+        if not (isinstance(opts, list) and len(opts) == 4 and isinstance(correct, int) and 0 <= correct <= 3):
             issues.append("MCQ rejected (malformed options or correct index)")
+            continue
+        # Coerce trap to enum
+        original_trap = mcq.get("trap", "")
+        mcq["trap"] = coerce_trap(original_trap)
+        if original_trap and mcq["trap"] != original_trap:
+            issues.append(f"Trap coerced: '{original_trap}' → '{mcq['trap']}'")
+        valid_mcqs.append(mcq)
     ai_data["mcqs"] = valid_mcqs
 
     # --- Directive Normalization ---
@@ -770,10 +874,71 @@ def backfill_unenriched():
     log(f"\nBackfill complete: {updated}/{len(unenriched)} stories enriched")
 
 
+def regenerate_recent(days=7):
+    """Re-process stories from the last N days using the improved AI prompt.
+    Useful after prompt changes — refreshes the active surface without
+    re-doing the entire archive."""
+    stories = load_existing_stories() if 'load_existing_stories' in globals() else load_existing()
+    if not stories:
+        log("No existing stories.")
+        return
+    cutoff = datetime.now(timezone.utc) - timedelta(days=days)
+    targets = []
+    for s in stories:
+        f = s.get("_fetched", "")
+        try:
+            if datetime.fromisoformat(f.replace('Z', '+00:00')) >= cutoff:
+                targets.append(s)
+        except Exception:
+            pass
+    log(f"Regenerating {len(targets)} stories from the last {days} days "
+        f"(out of {len(stories)} total)")
+    if not targets:
+        return
+
+    existing_directives = [s.get("_directive", "discuss") for s in stories]
+    updated = 0
+    for i, story in enumerate(targets):
+        log(f"\n[{i+1}/{len(targets)}] {story.get('title', '')[:70]}")
+        article = {
+            "title": story.get("title", ""),
+            "summary": story.get("summary", ""),
+            "source": story.get("src", "Unknown"),
+            "published": story.get("_fetched", ""),
+            "link": story.get("link", ""),
+            "hash": story.get("_hash", ""),
+            "relevance_score": story.get("_relevance", 50),
+            "detected_cat": story.get("cat", "india"),
+            "detected_source_type": story.get("_sourceType", "media"),
+        }
+        ai_data = process_article_with_ai(article, existing_directives)
+        if ai_data:
+            ai_data = validate_ai_output(ai_data, article)
+            existing_directives.append(ai_data.get("mains", {}).get("directive", "discuss"))
+            new_story = build_story(article, ai_data, story["id"])
+            new_story["_hash"] = story.get("_hash", "")
+            new_story["_fetched"] = story.get("_fetched", "")
+            new_story["link"] = story.get("link", "")
+            for j, s in enumerate(stories):
+                if s["id"] == story["id"]:
+                    stories[j] = new_story
+                    break
+            updated += 1
+        else:
+            log("  AI failed, keeping original")
+        time.sleep(8)
+
+    save_stories(stories)
+    log(f"\nDone: {updated}/{len(targets)} stories regenerated")
+
+
 if __name__ == "__main__":
     if len(sys.argv) > 1 and sys.argv[1] == "--regenerate":
         regenerate_existing()
     elif len(sys.argv) > 1 and sys.argv[1] == "--backfill-unenriched":
         backfill_unenriched()
+    elif len(sys.argv) > 1 and sys.argv[1] == "--regenerate-recent":
+        days = int(sys.argv[2]) if len(sys.argv) > 2 else 7
+        regenerate_recent(days)
     else:
         run_pipeline()

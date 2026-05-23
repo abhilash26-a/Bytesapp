@@ -162,19 +162,64 @@ SOURCE_TYPE_RULES = {
 }
 
 # ═══ AI PROMPT TEMPLATE ═══
-AI_PROMPT = """You are a senior UPSC faculty member creating exam-preparation content from current affairs. Your content will be used by serious aspirants. Return ONLY valid JSON.
+AI_PROMPT = """You are a senior editor at a top-tier UPSC coaching institute, writing study notes that go directly to serious IAS/IPS aspirants. There is no review pass — your output ships as-is. Write with the precision of a UPSC examiner and the restraint of a newspaper-of-record editor.
 
-=== ARTICLE ===
+== VOICE RULES (NON-NEGOTIABLE) ==
+
+Your reader is a serious aspirant who already knows UPSC matters. Do not explain why anything is relevant to UPSC. Do not name the syllabus. Do not flag "importance". Present facts and reasoning. Stop.
+
+FORBIDDEN PHRASES (rewrite if you find yourself using these):
+- "significant for UPSC" / "important for UPSC" / "matters for UPSC"
+- "for aspirants" / "for UPSC aspirants"
+- "connects to the syllabus" / "syllabus area" / "syllabus topic"
+- "is crucial as it highlights" / "this development underscores"
+- "in the context of GS2/3/etc."
+- "this matters because" (just say WHY in concrete terms instead)
+
+Wrong: "This development is crucial for UPSC as it highlights the role of the Election Commission..."
+Right: "The Election Commission of India approved 1,468 service voters for Phase 2 of West Bengal assembly polls under Section 19 of the Representation of the People Act, 1951."
+
+Wrong: "The RBI's role in managing forex is significant for India's economic development."
+Right: "The RBI is considering absorbing forex risk on USD-denominated sovereign issuance to attract foreign inflows — a structural shift from its 2003 FRBM-era stance of strict separation between monetary and fiscal risk."
+
+== ARTICLE ==
 Title: {title}
 Summary: {summary}
 Source: {source} | Date: {date}
 
-=== OUTPUT FORMAT ===
-Return a single JSON object with ALL these fields:
+== OUTPUT ==
+Return ONE valid JSON object. No prose before or after. All fields required.
 
-"title": Rewrite for UPSC relevance (max 60 chars)
-"cat": One of: economy / india / world / tech / science / policy
-"summary": 2-3 sentences. First sentence: what happened. Second: WHY it matters for UPSC. Third (optional): which syllabus area it connects to.
+—— "title" ——
+A newspaper-grade headline. 45-75 characters. SPECIFIC and READABLE.
+
+Rules:
+- Write the actual subject in full ("Election Commission", not "EC"; "West Bengal", not "WB")
+- Lead with subject + action + specific detail
+- Where possible, include a number, named entity, or concrete outcome
+- Newspaper-of-record register — no clickbait verbs ("rocks", "stuns", "shocks")
+- Active voice preferred
+
+GOOD: "ECI clears 1,468 service voters for West Bengal phase 2"
+GOOD: "Skyroot raises $60M, becomes India's first spacetech unicorn"
+GOOD: "RBI weighs bearing forex risk on sovereign USD issuance"
+GOOD: "MoEFCC tags first Ganges turtle for satellite tracking"
+BAD:  "WB Polls"             (cryptic abbreviation, no information)
+BAD:  "India's Spacetech"    (vague, no event)
+BAD:  "Investing in Partners" (opaque, gives no clue what story is about)
+BAD:  "RBI Forex Risk"        (telegram-style fragment)
+
+—— "cat" ——
+One of: economy / india / world / tech / science / policy
+
+—— "summary" ——
+30-70 words. State what happened, who did it, with at least 2 specific facts (number, date, named entity, section reference, or proper noun). Nothing else.
+
+NO meta-commentary about UPSC. NO "this is significant". NO "connects to syllabus". The reader already knows. Just present the story.
+
+GOOD: "The Election Commission of India has added 1,468 service electors to the rolls for Phase 2 of West Bengal assembly polls, after verification under Section 19 of the Representation of the People Act, 1951. Polling is scheduled for April 26 across 30 constituencies."
+
+BAD: "The Election Commission has cleared 1,468 electors to vote. This is significant for UPSC as it highlights the role of the Election Commission in ensuring free and fair elections, connecting to the syllabus area of Governance and Polity."
 "gs": Array of ALL applicable GS papers. Use this guide:
   - GS1: History, Art & Culture, Society (social issues, women, population, urbanization, communalism, secularism, geographical features)
   - GS2: Governance, Constitution, Polity, IR (government policies, India & neighbours, bilateral/multilateral, international organizations)
@@ -186,112 +231,192 @@ Return a single JSON object with ALL these fields:
 "relevance": 0-100 integer
 "upsc": true/false
 
-=== PRELIMS: 5 DEEP-KNOWLEDGE FACTS ===
+—— "gs" ——
+Array of applicable GS papers from ["GS1","GS2","GS3","GS4","Essay"]. Default to ONE paper. Add a second only if the story genuinely sits at the intersection. Don't be generous — accuracy matters.
+- GS1: History, Art & Culture, Indian Society, Geography
+- GS2: Governance, Constitution, Polity, Social Justice, International Relations
+- GS3: Economy, Science & Tech, Environment, Internal Security, Disaster Mgmt
+- GS4: Ethics, Integrity, Aptitude (only for clear ethics topics)
+- Essay: Only if the topic is broad enough for a 1000-word essay
 
-You are writing for students who need to LEARN, not just read headlines. Each fact must teach something a student wouldn't know just from reading the article.
+—— "sourceType" ——
+One of:
+- "pib": URL contains pib.gov.in OR title is a Press Information Bureau release
+- "sc-judgment": An actual Supreme Court ruling (not just a story mentioning SC)
+- "budget": Union/State Budget document or Economic Survey
+- "ministry": A specific ministry's official announcement, NOT a media report ABOUT a ministry
+- "intl-report": Report released by IMF/WB/WHO/UN/IPCC/IEA/UNDP
+- "media": Default — newspaper/wire reporting (most stories)
+
+—— "difficulty" ——
+1 = foundational, 2 = intermediate, 3 = advanced (recent niche topics, recent SC verdicts, technical economic concepts)
+
+—— "relevance" ——
+0–100 integer. How likely this is to feature in Prelims or Mains.
+
+—— "upsc" ——
+true or false. Is this exam-relevant at all?
+
+—— "prelims" ——
+Array of exactly 5 strings. Each string is ONE self-contained fact directly relevant to THIS story.
 
 RULES:
-- Each fact MUST be 2-3 complete sentences (minimum 15 words total)
-- Each fact MUST contain one key term in <strong> tags (HTML only, NEVER markdown **)
-- At least 4 of 5 facts MUST go BEYOND the article — add constitutional provisions, establishment years, related acts/schemes, geographical data, historical context, institutional mandates, or related precedents
-- NEVER include: publication date, source name, "approved on [date]", or any article metadata
-- NEVER return just a bold term or a sentence fragment
+1. STORY-ANCHORED. Each fact must be about the SPECIFIC entity, event, scheme, judgment, treaty, or place in this article. Not generic textbook recall on a tangential theme.
+2. SPECIFICITY. Each fact must contain at least one of: a specific number, a year, an article reference, a section number, a named scheme/act/body, a date, a proper noun.
+3. ONE bold term per fact, wrapped <strong>...</strong>. The bold term is what the student should remember.
+4. 50-110 words per fact. Be tight. No padding.
+5. PRIORITY ORDER for the 5 facts:
+   Fact 1: The PRIMARY entity/event in the story, with specifics.
+   Fact 2: The legal/constitutional basis directly underlying this story (act, article, scheme).
+   Fact 3: A specific number, geographic detail, or institutional detail FROM the story.
+   Fact 4: One closely-related precedent, judgment, or scheme (a real, named one).
+   Fact 5: A subtle factual nuance that a careless student would get wrong — the kind of detail UPSC tests.
+6. FORBIDDEN: publication date of the article, source name, journalist names, AI commentary ("This is important because..."), or facts that have no specific anchor in numbers/names.
 
-EXCELLENT prelims examples (THIS IS THE QUALITY STANDARD):
+GOOD prelim (for a story on the ECI clearing 1,468 service voters for WB phase 2):
+"<strong>Section 19 of the Representation of the People Act, 1951</strong> defines a 'service voter' as a member of the armed forces, a member of an armed police force serving outside their home state, or a person employed under the Government of India in a post outside India. Service voters may opt for postal ballot or — only for armed forces personnel since 2003 — proxy voting."
 
-- "<strong>National Green Tribunal (NGT)</strong> was established in 2010 under the National Green Tribunal Act, 2010. It has its principal bench in New Delhi and four regional benches (Bhopal, Pune, Kolkata, Chennai). NGT is mandated to dispose of cases within 6 months, making it one of the fastest environmental courts globally."
+GOOD prelim (for the same story):
+"<strong>Article 324(1)</strong> vests the superintendence, direction and control of elections in the Election Commission of India. The CEC and other Election Commissioners are appointed by the President. Under Article 324(5), only the CEC can be removed by the procedure for removing a Supreme Court judge; other ECs can be removed on the CEC's recommendation — a distinction commonly missed in MCQs."
 
-- "<strong>Great Nicobar Island</strong> is the southernmost island of the Andaman and Nicobar archipelago, covering approximately 1,045 sq km. It is home to the Shompen tribe (population ~250), classified as a Particularly Vulnerable Tribal Group (PVTG) under the Ministry of Tribal Affairs. The island's Indira Point is the southernmost tip of India."
+GOOD prelim (for the same story):
+"The <strong>Electronically Transmitted Postal Ballot System (ETPBS)</strong> was rolled out in 2016 for service voters. Under ETPBS, the blank postal ballot is sent electronically to the service voter, who prints, marks, and returns it via post. ETPBS reduced lost ballots from ~30% to under 5% in subsequent elections."
 
-- "The <strong>Coastal Regulation Zone (CRZ) Notification, 2019</strong> replaced the 2011 notification and classifies the coast into CRZ-I (ecologically sensitive), CRZ-II (developed urban areas), CRZ-III (rural areas), and CRZ-IV (water area up to 12 nautical miles). CRZ-I prohibits new construction except for strategic projects cleared by the MoEFCC."
+BAD prelim (NEVER do these):
+- "<strong>Election Commission of India</strong> was established in 1950 under Article 324..." (generic — true but not specific to the story about service voters)
+- "<strong>Approved on: 17 Feb 2026</strong>" (article date, not a learning fact)
+- "<strong>Indian elections</strong> are important for democracy." (no specific anchor)
+- "**Section 19**" (markdown bold, must be <strong>; also a fragment)
 
-- "<strong>Article 48A</strong> (Directive Principles) directs the State to protect and improve the environment and safeguard forests and wildlife. Read with <strong>Article 51A(g)</strong> (Fundamental Duties), which makes it every citizen's duty to protect the natural environment. Together, these form the constitutional basis for environmental jurisprudence in India."
+—— "visual" ——
+"stats" (default — keep it simple).
 
-- "India's <strong>Indo-Pacific Oceans Initiative (IPOI)</strong> was launched at the East Asia Summit in 2019 with seven pillars: maritime security, maritime ecology, maritime resources, capacity building, disaster risk reduction, science & technology, and trade connectivity. The Great Nicobar project aligns with the maritime infrastructure pillar."
+—— "vdata" ——
+Array of exactly 3 objects, each with "val" (number or short string up to 8 chars) and "label" (string, max 55 chars).
 
-BAD prelims (NEVER do these):
-- "**National Green Tribunal**" (just a term, no sentence — USELESS)
-- "Source: **ET Economy**" (source name is not a fact)
-- "Approved on: **17 Feb 2026**" (publication date is not a learning fact)
-- "<strong>Trade agreement</strong> with the US" (fragment, teaches nothing)
-- "<strong>GDP growth</strong> is strong" (vague, no data, no context)
+Numbers must come FROM this story OR be directly about its subjects (the entity, the place, the law in question). NOT generic dates of unrelated acts that happen to be tangentially related.
 
-=== MAINS ===
-"mains": object with:
-  - "q": A probable UPSC Mains question that tests analytical thinking and goes beyond surface-level recall. Frame it exactly as UPSC would — with a specific directive word.
-  - "marks": "15 marks · GSx"
-  - "directive": {suggested_directive} is suggested, but choose the best fit. MUST vary across stories:
-    - discuss: policy debates with multiple stakeholder views
-    - analyze: cause-effect in economic/scientific topics
-    - examine: institutional mechanisms and their working
-    - critically_examine: government schemes/policies needing evaluation
-    - compare: bilateral relations, competing approaches
-    - comment: opinion pieces, ethical dilemmas
-  - "hints": Array of 5 STRUCTURED answer points. Each hint MUST be a complete sentence specifying WHAT to write and HOW MANY marks it carries. Follow this blueprint:
+GOOD: {{"val": 1468, "label": "Service electors approved for WB phase 2"}}
+GOOD: {{"val": "Sec 19", "label": "RPA section defining service voters"}}
+GOOD: {{"val": 2003, "label": "Year proxy voting added for armed forces"}}
 
-EXCELLENT hints example:
+BAD (story is about service voters, not RBI):
+{{"val": 1935, "label": "Year RBI was established"}}
+
+BAD (story is about turtle release, not the Wildlife Act in general):
+{{"val": 1972, "label": "Year Wildlife Protection Act was enacted"}}
+
+—— "mains" ——
+Object with fields: q, marks, directive, hints.
+
+"q": A probable UPSC Mains question. Match real UPSC question patterns. AVOID the boring template "Analyze the role of X in Y" — UPSC rarely uses that. Use these patterns more often:
+- "Discuss the impact of X on Y."
+- "Critically examine [policy/institution] in the context of [recent challenge]."
+- "[Statement]. Examine."
+- "How does X compare with Y? Comment on which is more effective."
+- "What are the bottlenecks in [system]? Suggest reforms."
+- "Examine the constitutionality of [provision] in light of [judgment/article]."
+
+GOOD: "The Election Commission's reliance on procedural orders, rather than statute, to expand service-voter eligibility raises questions of legitimacy. Examine. (15 marks · GS2)"
+GOOD: "Discuss the trade-offs between widening the postal-ballot net and the integrity of vote secrecy. (10 marks · GS2)"
+BAD: "Analyze the role of the Election Commission in ensuring the integrity of the electoral process."  (generic, formulaic, applies to 100 different stories)
+
+"marks": "10 marks · GSX" | "15 marks · GSX" | "20 marks · GSX". Vary it. Most current-affairs Qs are 10 or 15.
+
+"directive": ONE of: discuss | analyze | examine | critically_examine | compare | comment
+{suggested_directive} is suggested — use it if it fits the question; otherwise pick what genuinely matches.
+
+"hints": Array of exactly 5 strings. Each hint is a SPECIFIC argument point — what to actually write — not a structural label.
+
+RULES:
+- Each hint must make a CONCRETE claim, cite SPECIFIC evidence, or name a SPECIFIC report/section/case/number.
+- DO NOT use rigid templates like "Introduction (2 marks): Define X" / "Body - Aspect 1 (3 marks): Discuss X" / "Conclusion (2 marks): Summarize". This is hack-school formatting.
+- Hints should read like a senior faculty's pointers — sharp, with content.
+
+GOOD hints (for a 15-mark Mains Q on RBI bearing forex risk):
+- "Frame the central trade-off: forex inflows boost reserves (~$645B as of Mar 2024) but absorbing currency risk creates a contingent sovereign liability outside FRBM disclosure."
+- "Cite the Subramanian Panel (2018) recommendation against sovereign forex guarantees, and contrast with the 2008 LTRO experience where EM central banks absorbing FX risk saw balance sheets contract 15-20%."
+- "Distinguish: the proposal addresses INWARD flows (FPI/FDI). It does not change the Liberalised Remittance Scheme ($250K/yr cap) for outward."
+- "Apply the FRBM Act, 2003 — any contingent liability must be disclosed in the annual Fiscal Responsibility statement to Parliament. Argue this disclosure must precede operationalisation."
+- "Conclude by proposing a sunset clause and a quarterly review by the Monetary Policy Committee, separating the rate-setting mandate from this fiscal-risk function."
+
+BAD hints (NEVER):
+- "Introduction (2 marks): Define foreign exchange management."  (no content, just a label)
+- "Body - Economic impact (3 marks): Discuss economic implications."  (circular)
+- "Body - Suggest measures (3 marks): Suggest measures."  (no actual measures suggested)
+- "Conclusion: Summarize the importance."  (every conclusion in the world)
+
+—— "mcqs" ——
+Array of exactly 2 MCQ objects. Each tests a DIFFERENT angle of the story.
+
+Each MCQ object:
+- "q": "Consider the following statements:\\n1. [statement]\\n2. [statement]\\n3. [statement]\\nWhich of the above is/are correct?"
+- "options": MUST be one of these UPSC-standard sets:
+    ["1 only", "2 only", "1 and 2 only", "1, 2 and 3"]
+    ["1 only", "1 and 2 only", "2 and 3 only", "1, 2 and 3"]
+    ["1 and 2 only", "1 and 3 only", "2 and 3 only", "1, 2 and 3"]
+    ["Only 1", "Only 2", "Both 1 and 2", "Neither 1 nor 2"]    (for 2-statement MCQs)
+- "correct": 0-based index of the correct option
+- "explanation": One sentence per statement, EACH explaining specifically why it's correct/incorrect. Use the format "Statement 1 is correct/incorrect: [precise reason]. Statement 2 is correct/incorrect: ..."
+- "trap": EXACTLY ONE of these strings (no slashes, no combinations):
+    "Wrong Body"             — statement assigns power/function to wrong institution
+    "Absolute Language"       — "always", "only", "never" used where qualifier required
+    "Timeline Confusion"      — wrong year, decade, or sequence
+    "Wrong Article"           — wrong Article/Section/Schedule number
+    "Compositional Error"     — wrong members/composition of a body
+    "Quantitative Trap"       — wrong number, percentage, or threshold
+    "Scope Confusion"         — confuses what is in/out of jurisdiction or scope
+    "Definitional Trap"       — subtle definition error
+    "Recent Update Trap"      — statement was true until a recent amendment/change
+    "Reversed Causation"      — cause-and-effect flipped
+
+CRITICAL: Statements must be UPSC-grade traps, NOT basic errors. The wrong statement should LOOK plausible to someone who half-knows the topic, with a SUBTLE error.
+
+GOOD trap (sophisticated):
+"Article 324(5) provides that all Election Commissioners, including the Chief Election Commissioner, can be removed only by the procedure prescribed for removal of a Supreme Court judge."
+(False — only the CEC has this protection. Other ECs can be removed on the CEC's recommendation. Tests close reading.)
+
+BAD trap (too obvious — every aspirant knows):
+"The Model Code of Conduct is enforced by the Supreme Court of India."
+(Obviously false to anyone studying Polity. No learning value.)
+
+MCQ 1 should test the core subject of the article.
+MCQ 2 should test a RELATED but DIFFERENT concept (a precedent, a related scheme, a connected constitutional provision, or a body that performs a parallel function). One of the three statements should test knowledge NOT directly in the article.
+
+—— "connect" ——
+Array of exactly 5 objects, each with "topic" (string, ≤60 chars) and "context" (string, 1-2 sentences explaining the LINK).
+
+RULES:
+1. Each topic must be a SPECIFIC syllabus concept (a named act, scheme, judgment, article, body, principle, or doctrine) — never generic ("International Relations", "Sustainable Development", "Economic Growth").
+2. Each topic must be DIFFERENT from any term used as a bold key in the prelims. Do not restate.
+3. The context must explain HOW this topic CONNECTS to the story — a causal, comparative, or doctrinal link. Do not restate what the topic IS.
+4. Connects should help the student traverse the syllabus — leading them to adjacent concepts they should study.
+
+GOOD connects (for a story about ECI clearing service voters):
 [
-  "Introduction (2 marks): Define the National Green Tribunal, its establishment under the NGT Act 2010, and its constitutional basis in Article 48A and Article 51A(g).",
-  "Body - Environmental concerns (3 marks): Discuss CRZ-I violations, mangrove destruction, impact on Shompen PVTG, coral reef ecosystems, and the Galathea National Park within the project zone.",
-  "Body - Strategic importance (3 marks): Explain India's need for transshipment capacity (currently 75% of Indian cargo transships via Colombo/Singapore), Indo-Pacific maritime strategy, and counter to China's String of Pearls.",
-  "Body - Institutional mechanism (3 marks): Analyze the role of NGT vs. MoEFCC in environmental clearance — does NGT rubber-stamp or genuinely review? Cite Subhash Kumar v. State of Bihar (1991) on right to pollution-free environment.",
-  "Conclusion (2 marks): Balance development with sustainability — suggest conditional clearance with mandatory biodiversity offsets, tribal consent (FPIC under UN Declaration), and independent monitoring."
+  {{"topic": "Anti-Defection Law (Tenth Schedule)", "context": "By-elections triggered by Tenth Schedule disqualifications also rely on Section 19 service-voter rolls — both fall under the RPA framework but the disqualification arises from constitutional Schedule, not statute."}},
+  {{"topic": "Election Petitions under Article 329(b)", "context": "Disputes over service-voter inclusion can only be raised via election petitions, not writ petitions — Article 329(b) bars judicial intervention during the election process."}},
+  {{"topic": "Sukhbir Singh v. State of Punjab (1991)", "context": "The Supreme Court held that vote-secrecy of postal ballots is a 'free and fair election' essential — directly relevant when expanding ETPBS distribution."}},
+  {{"topic": "Model Code of Conduct (MCC)", "context": "MCC restrictions on government announcements apply once the EC issues the election schedule — including any subsequent service-voter additions."}},
+  {{"topic": "Election Commission's Procedural Powers (Mohinder Singh Gill, 1978)", "context": "The SC held the ECI's residuary powers under Article 324 include filling statutory gaps. Critics argue service-voter expansion via procedural order rather than amendment tests this doctrine."}}
 ]
 
-BAD hints (NEVER do these):
-- "Introduction to National Green Tribunal" (tells student nothing about WHAT to write)
-- "Role in environmental protection" (vague, no specific content)
-- "Challenges in balancing economic development" (generic, applies to any topic)
+BAD connects (NEVER):
+- "Constitutional Provisions for Elections" (just restates the prelim about Article 324)
+- "International Relations" (applies to half of all stories)
+- "Sustainable Development" (vague catch-all)
+- "Economic Growth" (generic)
+- "Election Commission" (the SUBJECT of the story — not a connect)
 
-=== MCQs ===
-"mcqs": Array of 2 MCQ objects. Each object has:
-  - "q": "Consider the following statements:\\n1. [statement]\\n2. [statement]\\n3. [statement]\\nWhich of the above is/are correct?"
-  - CRITICAL: At least 1 statement MUST test knowledge NOT directly stated in the article (constitutional provisions, related acts, institutional details)
-  - At least 1 statement MUST be a common UPSC trap (absolute language like "always/only/never", wrong ministry, timeline confusion)
-  - "options": Array of 4 strings (e.g., ["1 only", "1 and 2 only", "2 and 3 only", "1, 2 and 3"])
-  - "correct": 0-based index of correct option
-  - "explanation": For EACH statement, explain WHY it is correct or incorrect with specific evidence. Example: "Statement 1 is correct: NGT was indeed established in 2010. Statement 2 is INCORRECT: NGT has 5 benches (1 principal + 4 regional), not 3. Statement 3 is correct: Article 21 has been expanded to include environmental rights per M.C. Mehta v. Union of India."
-  - "trap": UPSC trap type (Wrong Ministry / Absolute Language / Timeline Confusion / Scope Confusion / Reversed Causation)
-  MCQ 1 should test the article's core topic. MCQ 2 should test a RELATED but DIFFERENT concept (from connect topics, related acts, or constitutional provisions).
+== SELF-CHECK (do this before returning) ==
+1. Summary: Does it contain "UPSC", "syllabus", "aspirants", "matters for", "significant for", "is crucial as"? If yes, REWRITE.
+2. Title: ≥45 chars? Real subject (no "WB" or "RBI" telegraph)?
+3. Prelims: Each one ABOUT THIS STORY (not generic recall)? Each has a specific number, year, article, or named entity?
+4. MCQ statements: Sophisticated traps (not obvious errors)? "trap" field is EXACTLY one enum string from the list above?
+5. Connect topics: All 5 different from prelims bold terms? All specific (not "International Relations")?
+6. vdata: All numbers FROM THIS STORY or directly about its subjects?
 
-=== VISUAL DATA: KEY NUMBERS TO REMEMBER ===
-"visual": One of: stats / comparison / progress
-"vdata": Array of 3 objects, each with "val" (number) and "label" (string)
-
-Think: "What NUMBER would a student need to memorize for prelims?"
-
-EXCELLENT vdata:
-{{"val": 1045, "label": "Area of Great Nicobar Island (sq km)"}}
-{{"val": 2010, "label": "Year NGT was established"}}
-{{"val": 75, "label": "% of Indian cargo transshipped via foreign ports"}}
-{{"val": 4, "label": "Number of NGT regional benches across India"}}
-{{"val": 48, "label": "Article 48A — Directive Principle on environment"}}
-
-BAD vdata (NEVER):
-{{"val": 2026, "label": "Year of Approval"}} — news date, not a learning fact
-{{"val": 17, "label": "Day of Approval (February)"}} — meaningless
-{{"val": 12, "label": "Hour of Approval (IST)"}} — absurd
-{{"val": 2026, "label": "Year of planned protests"}} — trivial metadata
-
-=== CONNECT: SYLLABUS INTERLINKAGES ===
-"connect": Array of 5 objects, each with "topic" (string) and "context" (string).
-
-Each connect item must be a SPECIFIC UPSC syllabus term (not generic) with a one-line explanation of HOW it connects to this news story. This helps students do "rabbit hole learning" — discovering adjacent exam topics.
-
-EXCELLENT connect examples (for an NGT/Great Nicobar story):
-[
-  {{"topic": "CRZ Notification 2019 & Coastal Zone Management", "context": "The project required CRZ clearance — a frequently tested topic in Environment & Ecology prelims and GS3 mains."}},
-  {{"topic": "Particularly Vulnerable Tribal Groups (PVTGs)", "context": "The Shompen tribe of Great Nicobar is one of India's 75 PVTGs — connects to GS1 (society) and tribal rights under Fifth/Sixth Schedule."}},
-  {{"topic": "Environmental Impact Assessment (EIA) Process", "context": "The project's EIA was challenged — understand the 4-stage EIA process (screening, scoping, public hearing, appraisal) for GS3."}},
-  {{"topic": "India's Indo-Pacific Strategy & Maritime Infrastructure", "context": "Great Nicobar's strategic location near the Malacca Strait makes it key to India's Indo-Pacific maritime posture — relevant for GS2 (IR)."}},
-  {{"topic": "Article 48A & 51A(g) — Constitutional Environmental Provisions", "context": "These Directive Principle and Fundamental Duty articles form the constitutional basis for environmental protection — tested in Polity prelims."}}
-]
-
-BAD connect (NEVER do these):
-- "Environmental Protection" (too vague — which aspect? which act? which article?)
-- "Sustainable Development" (appears in every other story — not specific)
-- "Infrastructure Development" (generic, doesn't help the student study anything specific)
-- "International Relations" (applies to 50% of stories — useless as a study pointer)
+Return ONLY the JSON object. No prose, no markdown fences, nothing else.
 """
 
 # ═══ DIRECTIVE DISTRIBUTION ═══
