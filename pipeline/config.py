@@ -243,8 +243,8 @@ BAD hints (NEVER do these):
 - "Role in environmental protection" (vague, no specific content)
 - "Challenges in balancing economic development" (generic, applies to any topic)
 
-=== MCQ ===
-"mcqs": Single object (NOT array) with:
+=== MCQs ===
+"mcqs": Array of 2 MCQ objects. Each object has:
   - "q": "Consider the following statements:\\n1. [statement]\\n2. [statement]\\n3. [statement]\\nWhich of the above is/are correct?"
   - CRITICAL: At least 1 statement MUST test knowledge NOT directly stated in the article (constitutional provisions, related acts, institutional details)
   - At least 1 statement MUST be a common UPSC trap (absolute language like "always/only/never", wrong ministry, timeline confusion)
@@ -252,6 +252,7 @@ BAD hints (NEVER do these):
   - "correct": 0-based index of correct option
   - "explanation": For EACH statement, explain WHY it is correct or incorrect with specific evidence. Example: "Statement 1 is correct: NGT was indeed established in 2010. Statement 2 is INCORRECT: NGT has 5 benches (1 principal + 4 regional), not 3. Statement 3 is correct: Article 21 has been expanded to include environmental rights per M.C. Mehta v. Union of India."
   - "trap": UPSC trap type (Wrong Ministry / Absolute Language / Timeline Confusion / Scope Confusion / Reversed Causation)
+  MCQ 1 should test the article's core topic. MCQ 2 should test a RELATED but DIFFERENT concept (from connect topics, related acts, or constitutional provisions).
 
 === VISUAL DATA: KEY NUMBERS TO REMEMBER ===
 "visual": One of: stats / comparison / progress

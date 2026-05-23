@@ -1362,6 +1362,173 @@
             margin-top: 4px;
         }
 
+        /* ═══ PRACTICE MODE ═══ */
+        .practice-screen {
+            position: fixed;
+            top: 0; left: 0; right: 0; bottom: 0;
+            background: var(--bg);
+            z-index: 200;
+            display: none;
+            flex-direction: column;
+            overflow: hidden;
+        }
+        .practice-screen.show { display: flex; }
+        .practice-header {
+            display: flex;
+            align-items: center;
+            gap: 12px;
+            padding: 12px 16px;
+            background: var(--surface);
+            border-bottom: 1px solid var(--border);
+            flex-shrink: 0;
+        }
+        .practice-header-title {
+            font-size: 15px;
+            font-weight: 700;
+            flex: 1;
+        }
+        .practice-header-score {
+            font-size: 12px;
+            color: var(--text-3);
+        }
+        .practice-body {
+            flex: 1;
+            overflow-y: auto;
+            padding: 16px;
+            max-width: 640px;
+            width: 100%;
+            margin: 0 auto;
+        }
+        .practice-filters {
+            display: flex;
+            gap: 6px;
+            padding: 10px 16px;
+            overflow-x: auto;
+            flex-shrink: 0;
+            border-bottom: 1px solid var(--border);
+            background: var(--surface);
+        }
+        .practice-filters::-webkit-scrollbar { display: none; }
+        .pf-btn {
+            padding: 5px 10px;
+            border-radius: 16px;
+            border: 1px solid var(--border);
+            background: transparent;
+            color: var(--text-2);
+            font-size: 11px;
+            font-weight: 600;
+            cursor: pointer;
+            white-space: nowrap;
+            font-family: inherit;
+            transition: all 0.15s;
+        }
+        .pf-btn:hover { border-color: var(--accent); }
+        .pf-btn.active { background: var(--accent); color: #fff; border-color: var(--accent); }
+        .practice-progress {
+            display: flex;
+            align-items: center;
+            gap: 8px;
+            margin-bottom: 16px;
+        }
+        .practice-progress-bar {
+            flex: 1;
+            height: 4px;
+            background: var(--surface-3);
+            border-radius: 2px;
+            overflow: hidden;
+        }
+        .practice-progress-fill {
+            height: 100%;
+            background: var(--accent);
+            border-radius: 2px;
+            transition: width 0.3s;
+        }
+        .practice-progress-text {
+            font-size: 11px;
+            color: var(--text-3);
+            white-space: nowrap;
+        }
+        .practice-card {
+            background: var(--surface);
+            border: 1px solid var(--border);
+            border-radius: 14px;
+            padding: 20px;
+            margin-bottom: 16px;
+        }
+        .practice-card-context {
+            font-size: 11px;
+            color: var(--text-3);
+            margin-bottom: 12px;
+            display: flex;
+            align-items: center;
+            gap: 6px;
+            flex-wrap: wrap;
+        }
+        .practice-nav {
+            display: flex;
+            gap: 8px;
+            margin-top: 16px;
+        }
+        .practice-nav-btn {
+            flex: 1;
+            padding: 10px;
+            border-radius: 10px;
+            border: 1px solid var(--border);
+            background: var(--surface);
+            color: var(--text);
+            font-size: 13px;
+            font-weight: 600;
+            cursor: pointer;
+            font-family: inherit;
+            transition: all 0.15s;
+        }
+        .practice-nav-btn:hover { border-color: var(--accent); }
+        .practice-nav-btn:disabled { opacity: 0.3; cursor: default; }
+        .practice-stats {
+            background: var(--surface);
+            border: 1px solid var(--border);
+            border-radius: 14px;
+            padding: 20px;
+        }
+        .practice-stats-title {
+            font-size: 11px;
+            font-weight: 700;
+            text-transform: uppercase;
+            letter-spacing: 0.5px;
+            color: var(--accent);
+            margin-bottom: 12px;
+        }
+        .practice-stat-row {
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            padding: 6px 0;
+            font-size: 13px;
+        }
+        .practice-stat-row .label { color: var(--text-2); }
+        .practice-stat-row .value { font-weight: 700; }
+        .practice-empty {
+            text-align: center;
+            padding: 60px 20px;
+            color: var(--text-3);
+        }
+        .practice-empty-icon { font-size: 40px; margin-bottom: 12px; }
+        .practice-empty-title { font-size: 16px; font-weight: 700; color: var(--text); margin-bottom: 6px; }
+        .practice-tab-badge {
+            display: inline-flex;
+            align-items: center;
+            justify-content: center;
+            min-width: 18px;
+            height: 18px;
+            border-radius: 9px;
+            background: var(--accent);
+            color: #fff;
+            font-size: 10px;
+            font-weight: 700;
+            margin-left: 4px;
+            padding: 0 5px;
+        }
+
         /* Directive Word Tooltip */
         .directive-tag {
             display: inline-flex;
@@ -1533,6 +1700,7 @@
                     <span class="search-icon">⌕</span>
                     <input type="text" id="search" placeholder="Search..." oninput="doSearch()">
                 </div>
+                <button class="icon-btn" onclick="openPractice()" title="Practice MCQs" style="font-size:14px;">🎯</button>
                 <button class="icon-btn" id="themeToggle" onclick="toggleTheme()" title="Toggle light/dark mode"></button>
                 <button class="icon-btn" id="refreshBtn" onclick="refreshStories()">↻</button>
                 <button class="icon-btn" onclick="openPanel()">☆<span class="badge" id="badge" style="display:none"></span></button>
@@ -1573,6 +1741,17 @@
             <button class="reader-nav-btn" id="prevBtn" onclick="navStory(-1)">← Previous</button>
             <button class="reader-nav-btn" id="nextBtn" onclick="navStory(1)">Next →</button>
         </div>
+    </div>
+
+    <!-- Practice Mode screen -->
+    <div class="practice-screen" id="practiceScreen">
+        <div class="practice-header">
+            <button class="reader-back" onclick="closePractice()">← Back</button>
+            <div class="practice-header-title">Practice Mode</div>
+            <div class="practice-header-score" id="practiceHeaderScore"></div>
+        </div>
+        <div class="practice-filters" id="practiceFilters"></div>
+        <div class="practice-body" id="practiceBody"></div>
     </div>
 
     <div class="toast" id="toast"></div>
@@ -1634,10 +1813,12 @@ async function fetchStories(showLoading) {
         if (!resp.ok) throw new Error('HTTP ' + resp.status);
         const stories = await resp.json();
 
+        // Filter out unenriched stories (no prelims = no study value)
+        const enriched = stories.filter(s => s.prelims && s.prelims.length > 0);
         // Populate data and rebuild storyMeta from inline _ fields
-        data = stories;
+        data = enriched;
         storyMeta = {};
-        stories.forEach(s => {
+        enriched.forEach(s => {
             if (s._gs) {
                 storyMeta[s.id] = {
                     gs: s._gs || [],
@@ -1957,7 +2138,12 @@ function renderTabs() {
         ).join('');
     }
 
-    // Archive link
+    // Practice tab + Archive link
+    const totalMcqs = data.filter(d => storyMeta[d.id] && storyMeta[d.id].mcqs && storyMeta[d.id].mcqs.length > 0).reduce((sum, d) => sum + storyMeta[d.id].mcqs.length, 0);
+    if (totalMcqs > 0) {
+        html += '<span class="tab-divider"></span>';
+        html += `<button class="sf-btn" onclick="openPractice()">🎯 Practice<span class="practice-tab-badge">${totalMcqs}</span></button>`;
+    }
     html += `<button class="sf-btn" onclick="openArchive()" style="margin-left:auto;">Past Months</button>`;
 
     document.getElementById('tabs').innerHTML = html;
@@ -2688,6 +2874,223 @@ function submitMCQ(storyId, qIdx) {
     else toast('❌ Review the explanation');
 }
 
+// ═══ PRACTICE MODE ═══
+let practiceState = {};
+let practiceMcqs = [];
+let practiceIdx = 0;
+let practiceFilter = { gs: null, difficulty: null, mode: 'all' }; // mode: all, unanswered, wrong
+
+try {
+    const savedPractice = localStorage.getItem('bytes_practice');
+    if (savedPractice) practiceState = JSON.parse(savedPractice);
+} catch(e) {}
+
+function collectMcqs() {
+    const mcqs = [];
+    data.forEach(s => {
+        const meta = storyMeta[s.id];
+        if (!meta || !meta.mcqs || !meta.mcqs.length) return;
+        meta.mcqs.forEach((mcq, mi) => {
+            mcqs.push({
+                storyId: s.id,
+                mcqIdx: mi,
+                mcq: mcq,
+                title: s.title,
+                cat: s.cat,
+                gs: meta.gs || [],
+                difficulty: meta.difficulty || 2,
+                key: s.id + '-' + mi
+            });
+        });
+    });
+    return mcqs;
+}
+
+function getFilteredPractice(allMcqs) {
+    let arr = allMcqs;
+    if (practiceFilter.gs) {
+        arr = arr.filter(m => m.gs.includes(practiceFilter.gs));
+    }
+    if (practiceFilter.difficulty) {
+        arr = arr.filter(m => m.difficulty === practiceFilter.difficulty);
+    }
+    if (practiceFilter.mode === 'unanswered') {
+        arr = arr.filter(m => !practiceState[m.key] || !practiceState[m.key].answered);
+    } else if (practiceFilter.mode === 'wrong') {
+        arr = arr.filter(m => practiceState[m.key] && practiceState[m.key].answered && !practiceState[m.key].correct);
+    } else if (practiceFilter.mode === 'review') {
+        // Spaced repetition: show wrong MCQs that are due for review
+        const now = Date.now();
+        arr = arr.filter(m => {
+            const ps = practiceState[m.key];
+            if (!ps || !ps.answered || ps.correct) return false;
+            const elapsed = now - (ps.timestamp || 0);
+            const attempt = ps.attempts || 1;
+            // Intervals: 1d, 3d, 7d based on attempt count
+            const intervals = [86400000, 259200000, 604800000];
+            const interval = intervals[Math.min(attempt - 1, intervals.length - 1)];
+            return elapsed >= interval;
+        });
+    }
+    return arr;
+}
+
+function openPractice() {
+    const allMcqs = collectMcqs();
+    if (allMcqs.length === 0) {
+        toast('No MCQs available yet');
+        return;
+    }
+    practiceMcqs = getFilteredPractice(allMcqs);
+    practiceIdx = 0;
+    document.getElementById('practiceScreen').classList.add('show');
+    document.body.style.overflow = 'hidden';
+    renderPracticeFilters(allMcqs);
+    renderPracticeContent();
+}
+
+function closePractice() {
+    document.getElementById('practiceScreen').classList.remove('show');
+    document.body.style.overflow = '';
+}
+
+function renderPracticeFilters(allMcqs) {
+    if (!allMcqs) allMcqs = collectMcqs();
+    const totalMcqs = allMcqs.length;
+    const answered = allMcqs.filter(m => practiceState[m.key] && practiceState[m.key].answered).length;
+    const wrong = allMcqs.filter(m => practiceState[m.key] && practiceState[m.key].answered && !practiceState[m.key].correct).length;
+
+    // Mode filters
+    let html = '';
+    const modes = [
+        { id: 'all', label: `All (${totalMcqs})` },
+        { id: 'unanswered', label: `New (${totalMcqs - answered})` },
+        { id: 'wrong', label: `Wrong (${wrong})` },
+    ];
+    html += modes.map(m =>
+        `<button class="pf-btn${practiceFilter.mode === m.id ? ' active' : ''}" onclick="practiceFilter.mode='${m.id}';practiceIdx=0;practiceMcqs=getFilteredPractice(collectMcqs());renderPracticeFilters();renderPracticeContent();">${m.label}</button>`
+    ).join('');
+
+    // GS filters
+    const gsSet = new Set();
+    allMcqs.forEach(m => m.gs.forEach(g => gsSet.add(g)));
+    const gsList = ['GS1','GS2','GS3','GS4','Essay'].filter(g => gsSet.has(g));
+    if (gsList.length > 0) {
+        html += '<span class="tab-divider" style="margin:0 2px;"></span>';
+        html += gsList.map(g =>
+            `<button class="pf-btn${practiceFilter.gs === g ? ' active' : ''}" onclick="practiceFilter.gs=practiceFilter.gs==='${g}'?null:'${g}';practiceIdx=0;practiceMcqs=getFilteredPractice(collectMcqs());renderPracticeFilters();renderPracticeContent();">${g}</button>`
+        ).join('');
+    }
+
+    document.getElementById('practiceFilters').innerHTML = html;
+
+    // Header score
+    const correct = allMcqs.filter(m => practiceState[m.key] && practiceState[m.key].correct).length;
+    document.getElementById('practiceHeaderScore').textContent = answered > 0 ? `${correct}/${answered} correct` : '';
+}
+
+function renderPracticeContent() {
+    const body = document.getElementById('practiceBody');
+
+    if (practiceMcqs.length === 0) {
+        body.innerHTML = `<div class="practice-empty">
+            <div class="practice-empty-icon">🎯</div>
+            <div class="practice-empty-title">${practiceFilter.mode === 'wrong' ? 'No incorrect answers' : practiceFilter.mode === 'unanswered' ? 'All MCQs attempted!' : 'No MCQs match filters'}</div>
+            <div style="margin-top:6px;font-size:13px;">Try different filters</div>
+        </div>`;
+        return;
+    }
+
+    const m = practiceMcqs[practiceIdx];
+    const ps = practiceState[m.key] || { answered: false, selected: null, correct: false };
+    const letters = ['a', 'b', 'c', 'd'];
+    const pct = Math.round(((practiceIdx + 1) / practiceMcqs.length) * 100);
+
+    let html = `<div class="practice-progress">
+        <div class="practice-progress-bar"><div class="practice-progress-fill" style="width:${pct}%"></div></div>
+        <div class="practice-progress-text">${practiceIdx + 1} / ${practiceMcqs.length}</div>
+    </div>`;
+
+    html += `<div class="practice-card">
+        <div class="practice-card-context">
+            <span class="badge-cat ${m.cat}">${m.cat}</span>
+            ${m.gs.map(g => `<span class="gs-badge ${g.toLowerCase()}">${g}</span>`).join('')}
+            <span style="color:var(--text-3);">from: ${m.title}</span>
+        </div>
+        <div class="mcq-q-text" style="font-size:15px;line-height:1.6;margin-bottom:16px;">${m.mcq.q.replace(/\n/g, '<br>')}</div>
+        <div class="mcq-options">
+            ${m.mcq.options.map((opt, oi) => {
+                let cls = 'mcq-option';
+                if (ps.answered) {
+                    if (oi === m.mcq.correct) cls += ' correct';
+                    else if (oi === ps.selected && oi !== m.mcq.correct) cls += ' wrong';
+                } else if (ps.selected === oi) {
+                    cls += ' selected';
+                }
+                const clickable = !ps.answered;
+                return `<div class="${cls}" ${clickable ? `onclick="selectPracticeMCQ(${oi})"` : ''}>
+                    <span class="mcq-option-letter">${letters[oi]}</span>
+                    <span>${(opt||'').replace(/</g,'&lt;').replace(/>/g,'&gt;')}</span>
+                </div>`;
+            }).join('')}
+        </div>
+        ${!ps.answered && ps.selected !== null ? `<div style="text-align:center;margin-top:14px;">
+            <button class="action-btn primary" onclick="submitPracticeMCQ()" style="padding:10px 28px;font-size:14px;">Check Answer</button>
+        </div>` : ''}
+        ${ps.answered ? `<div class="mcq-explanation show" style="margin-top:14px;">
+            ${ps.correct ? '✅ <strong>Correct!</strong>' : '❌ <strong>Incorrect.</strong>'} ${(m.mcq.explanation||'').replace(/</g,'&lt;').replace(/>/g,'&gt;')}
+            ${m.mcq.trap ? `<br><span class="mcq-trap-tag">⚠ UPSC Trap: ${(m.mcq.trap||'').replace(/</g,'&lt;').replace(/>/g,'&gt;')}</span>` : ''}
+        </div>` : ''}
+    </div>`;
+
+    // Nav buttons
+    html += `<div class="practice-nav">
+        <button class="practice-nav-btn" onclick="practiceIdx--;renderPracticeContent();" ${practiceIdx === 0 ? 'disabled' : ''}>← Previous</button>
+        <button class="practice-nav-btn" onclick="practiceIdx++;renderPracticeContent();" ${practiceIdx >= practiceMcqs.length - 1 ? 'disabled' : ''}>Next →</button>
+    </div>`;
+
+    // Stats summary (show after answering a few)
+    const totalAnswered = Object.values(practiceState).filter(s => s.answered).length;
+    if (totalAnswered >= 3) {
+        const totalCorrect = Object.values(practiceState).filter(s => s.correct).length;
+        const accuracy = Math.round((totalCorrect / totalAnswered) * 100);
+        html += `<div class="practice-stats" style="margin-top:16px;">
+            <div class="practice-stats-title">Your Performance</div>
+            <div class="practice-stat-row"><span class="label">Attempted</span><span class="value">${totalAnswered}</span></div>
+            <div class="practice-stat-row"><span class="label">Correct</span><span class="value" style="color:var(--green);">${totalCorrect}</span></div>
+            <div class="practice-stat-row"><span class="label">Accuracy</span><span class="value" style="color:${accuracy >= 70 ? 'var(--green)' : accuracy >= 40 ? 'var(--orange)' : 'var(--red)'};">${accuracy}%</span></div>
+        </div>`;
+    }
+
+    body.innerHTML = html;
+    body.scrollTop = 0;
+}
+
+function selectPracticeMCQ(optIdx) {
+    const m = practiceMcqs[practiceIdx];
+    if (!m) return;
+    if (!practiceState[m.key]) practiceState[m.key] = { answered: false, selected: null, correct: false };
+    if (practiceState[m.key].answered) return;
+    practiceState[m.key].selected = optIdx;
+    renderPracticeContent();
+}
+
+function submitPracticeMCQ() {
+    const m = practiceMcqs[practiceIdx];
+    if (!m) return;
+    const ps = practiceState[m.key];
+    if (!ps || ps.answered || ps.selected === null) return;
+    ps.answered = true;
+    ps.correct = ps.selected === m.mcq.correct;
+    ps.timestamp = Date.now();
+    ps.attempts = (ps.attempts || 0) + 1;
+    safeSave('bytes_practice', practiceState);
+    renderPracticeContent();
+    renderPracticeFilters();
+    if (ps.correct) toast('✅ Correct!');
+    else toast('❌ Review the explanation');
+}
+
 // ═══ GS PAPER FILTER ═══
 function toggleGsFilter(gs) {
     gsFilter = gsFilter === gs ? null : gs;
@@ -2766,6 +3169,15 @@ try {
     const savedQuiz = localStorage.getItem('bytes_quiz');
     if (savedQuiz) quizState = JSON.parse(savedQuiz);
 } catch(e) {}
+
+// ESC key to close overlays
+document.addEventListener('keydown', e => {
+    if (e.key === 'Escape') {
+        if (document.getElementById('practiceScreen').classList.contains('show')) closePractice();
+        else if (document.getElementById('reader').classList.contains('show')) closeReader();
+        else if (document.getElementById('panel').classList.contains('show')) closePanel();
+    }
+});
 
 // Boot: fetch stories then render
 fetchStories(true);

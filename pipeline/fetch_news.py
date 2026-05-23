@@ -213,7 +213,7 @@ def call_gemini(prompt):
         return None
     try:
         resp = requests.post(
-            f"https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash-lite:generateContent?key={GEMINI_API_KEY}",
+            f"https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent?key={GEMINI_API_KEY}",
             headers={"Content-Type": "application/json"},
             json={
                 "contents": [{"parts": [{"text": prompt}]}],
@@ -247,15 +247,15 @@ def process_article_with_ai(article, existing_directives=None):
         suggested_directive=suggested,
     )
 
-    # Try Groq first, then Gemini
-    result = call_groq(prompt)
-    if result:
-        log(f"  Processed via Groq: {article['title'][:50]}")
-        return result
-
+    # Try Gemini first (more reliable), then Groq as fallback
     result = call_gemini(prompt)
     if result:
         log(f"  Processed via Gemini: {article['title'][:50]}")
+        return result
+
+    result = call_groq(prompt)
+    if result:
+        log(f"  Processed via Groq: {article['title'][:50]}")
         return result
 
     log(f"  FAILED to process: {article['title'][:50]} (no AI available)")
@@ -392,14 +392,23 @@ def validate_ai_output(ai_data, article):
 
     # --- MCQ Validation ---
     mcqs = ai_data.get("mcqs", {})
+    # Normalize to array
     if isinstance(mcqs, dict) and mcqs:
-        opts = mcqs.get("options", [])
-        if isinstance(opts, int) or not isinstance(opts, list) or len(opts) != 4:
-            issues.append("MCQ rejected (malformed options)")
-            ai_data["mcqs"] = {}
-    elif isinstance(mcqs, list) and mcqs:
-        # If model returned array, use first item
-        ai_data["mcqs"] = mcqs[0] if isinstance(mcqs[0], dict) else {}
+        mcqs = [mcqs]
+    if not isinstance(mcqs, list):
+        mcqs = []
+    # Validate each MCQ
+    valid_mcqs = []
+    for mcq in mcqs:
+        if not isinstance(mcq, dict):
+            continue
+        opts = mcq.get("options", [])
+        correct = mcq.get("correct")
+        if isinstance(opts, list) and len(opts) == 4 and isinstance(correct, int) and 0 <= correct <= 3:
+            valid_mcqs.append(mcq)
+        else:
+            issues.append("MCQ rejected (malformed options or correct index)")
+    ai_data["mcqs"] = valid_mcqs
 
     # --- Directive Normalization ---
     mains = ai_data.get("mains", {})
@@ -712,8 +721,59 @@ def regenerate_existing():
     log(f"\nRegeneration complete: {len(regenerated)} stories updated")
 
 
+def backfill_unenriched():
+    """Re-process only stories that have empty prelims/MCQs."""
+    stories = load_existing()
+    unenriched = [s for s in stories if not s.get("prelims") or len(s.get("prelims", [])) == 0]
+    log(f"Found {len(unenriched)} unenriched stories out of {len(stories)} total")
+
+    if not unenriched:
+        log("Nothing to backfill!")
+        return
+
+    existing_directives = [s.get("_directive", "discuss") for s in stories if s.get("prelims")]
+    updated = 0
+
+    for i, story in enumerate(unenriched):
+        log(f"\n[{i+1}/{len(unenriched)}] Backfilling: {story.get('title', 'unknown')[:60]}")
+        article = {
+            "title": story.get("title", ""),
+            "summary": story.get("summary", ""),
+            "source": story.get("src", "media"),
+            "published": story.get("time", ""),
+            "detected_cat": story.get("cat", "india"),
+            "detected_source_type": story.get("_sourceType", "media"),
+            "relevance_score": story.get("_relevance", 50),
+            "hash": story.get("_hash", ""),
+        }
+
+        ai_data = process_article_with_ai(article, existing_directives)
+        if ai_data:
+            ai_data = validate_ai_output(ai_data, article)
+            existing_directives.append(ai_data.get("mains", {}).get("directive", "discuss"))
+            new_story = build_story(article, ai_data, story["id"])
+            new_story["_hash"] = story.get("_hash", "")
+            new_story["_fetched"] = story.get("_fetched", "")
+            new_story["link"] = story.get("link", "")
+            # Replace in main stories list
+            for j, s in enumerate(stories):
+                if s["id"] == story["id"]:
+                    stories[j] = new_story
+                    break
+            updated += 1
+        else:
+            log(f"  AI failed, skipping")
+
+        time.sleep(8)
+
+    save_stories(stories)
+    log(f"\nBackfill complete: {updated}/{len(unenriched)} stories enriched")
+
+
 if __name__ == "__main__":
     if len(sys.argv) > 1 and sys.argv[1] == "--regenerate":
         regenerate_existing()
+    elif len(sys.argv) > 1 and sys.argv[1] == "--backfill-unenriched":
+        backfill_unenriched()
     else:
         run_pipeline()
