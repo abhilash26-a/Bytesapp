@@ -121,13 +121,9 @@
     /* Sidebar — desktop only */
     .sidebar {
       display: none;
-      position: fixed;
-      left: 0; top: 0; bottom: 0;
-      width: var(--sidebar-w);
       background: var(--bg);
       border-right: 1px solid var(--line-soft);
       padding: var(--s-5) 0;
-      overflow-y: auto;
       z-index: 20;
     }
     .sidebar-brand {
@@ -239,8 +235,7 @@
     .sidebar-mini-gs-count { color: var(--ink-3); font-size: 9px; }
 
     .sidebar-foot {
-      position: absolute;
-      left: 0; right: 0; bottom: 0;
+      margin-top: auto;
       padding: var(--s-4) var(--s-5);
       border-top: 1px solid var(--line-soft);
       display: flex;
@@ -372,10 +367,17 @@
     ════════════════════════════════════════════════════════════════════ */
     @media (min-width: 1024px) {
       .shell { grid-template-columns: var(--sidebar-w) 1fr; }
-      .sidebar { display: flex; flex-direction: column; padding-bottom: 80px; }
+      .sidebar {
+        display: flex;
+        flex-direction: column;
+        position: sticky;
+        top: 0;
+        height: 100dvh;
+        overflow-y: auto;
+      }
       .topbar { display: none; }
       .bottom-nav { display: none; }
-      .main { padding-bottom: 0; padding-left: var(--sidebar-w); }
+      .main { padding-bottom: 0; min-width: 0; }
     }
 
     @media (min-width: 1280px) {
@@ -2151,7 +2153,7 @@ function renderSidebar() {
   document.getElementById('sidebarStreakUnit').textContent = streak.current === 1 ? 'day' : 'days';
   const note = document.getElementById('sidebarStreakNote');
   if (streak.current === 0) note.textContent = 'Read a story today to start.';
-  else if (streak.lastActive === todayKey()) note.textContent = "You're on it today.";
+  else if (streak.lastActive === todayKey()) note.textContent = "Today's logged.";
   else note.textContent = "Don't break the chain.";
 
   // Mini GS
@@ -2245,8 +2247,8 @@ function renderToday() {
     document.getElementById('briefCta').style.display = 'inline-flex';
     document.getElementById('briefCtaText').textContent = 'Continue';
   } else {
-    document.getElementById('briefHeadline').innerHTML = `<em>${brief.length}</em> ${brief.length === 1 ? 'story' : 'stories'} for you.`;
-    document.getElementById('briefMeta').textContent = `About ${totalMin} minutes of focused reading.`;
+    document.getElementById('briefHeadline').innerHTML = `<em>${brief.length}</em> new ${brief.length === 1 ? 'story' : 'stories'}.`;
+    document.getElementById('briefMeta').textContent = `About ${totalMin} ${totalMin === 1 ? 'minute' : 'minutes'} of focused reading.`;
     document.getElementById('briefCta').style.display = 'inline-flex';
     document.getElementById('briefCtaText').textContent = 'Begin';
   }
