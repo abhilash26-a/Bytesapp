@@ -149,17 +149,62 @@ CATEGORY_KEYWORDS = {
 }
 
 # ═══ SOURCE TYPE DETECTION ═══
-SOURCE_TYPE_RULES = {
-    "budget": ["budget", "fiscal deficit", "finance bill", "economic survey",
-               "union budget", "annual financial statement"],
-    "pib": ["pib.gov.in"],
-    "sc-judgment": ["supreme court", "high court", "bench", "verdict", "judgment",
-                    "petition", "writ", "appeal", "constitutional bench"],
-    "intl-report": ["imf", "world bank", "un report", "ipcc", "who report",
-                    "undp", "wef", "fao", "unep", "oecd", "global report"],
-    "ministry": ["ministry of", "cabinet approves", "government launches",
-                 "rbi announces", "sebi", "niti aayog", "commission recommends"],
-}
+# Detection runs in this PRIORITY ORDER. First match wins.
+# Each rule has 'url_contains' (highest signal) and 'title_contains' (medium signal).
+# Match is case-insensitive.
+SOURCE_TYPE_RULES = [
+    # PIB — URL is definitive
+    ("pib", {
+        "url_contains": ["pib.gov.in", "pib.nic.in"],
+        "title_contains": ["press information bureau"],
+    }),
+    # SC judgment — actual rulings, not stories that mention SC
+    ("sc-judgment", {
+        "url_contains": [],
+        "title_contains": [
+            "sc rules", "sc upholds", "sc strikes down", "sc directs",
+            "sc verdict", "sc judgment", "sc ruling", "supreme court rules",
+            "supreme court upholds", "supreme court strikes", "supreme court directs",
+            "supreme court verdict", "supreme court judgment", "constitution bench",
+            "constitutional bench", "sc bench holds", "sc orders",
+            "apex court rules", "apex court upholds", "apex court holds",
+        ],
+    }),
+    # Budget — specific document references
+    ("budget", {
+        "url_contains": ["budget", "indiabudget.gov"],
+        "title_contains": [
+            "union budget", "economic survey", "budget speech",
+            "finance bill", "annual financial statement",
+            "budget 2025", "budget 2026", "budget 2027",
+        ],
+    }),
+    # Intl report — released by a multilateral body
+    ("intl-report", {
+        "url_contains": ["worldbank.org", "imf.org", "who.int", "un.org",
+                          "unctad.org", "weforum.org", "ipcc.ch", "iea.org",
+                          "undp.org"],
+        "title_contains": [
+            "imf report", "world bank report", "world bank says",
+            "who report", "who warns", "unctad report", "wef report",
+            "ipcc report", "iea report", "undp report", "oecd report",
+            "global financial stability report", "world economic outlook",
+        ],
+    }),
+    # Ministry — specific ministry/agency action
+    ("ministry", {
+        "url_contains": [".gov.in"],  # but not pib.gov.in already matched
+        "title_contains": [
+            "cabinet approves", "cabinet clears", "cabinet okays",
+            "ministry of", "moefcc says", "moefcc clears", "mha says", "mha issues",
+            "mea says", "mea issues", "rbi announces", "rbi releases", "rbi issues",
+            "sebi notifies", "sebi issues", "niti aayog releases", "niti aayog suggests",
+            "trai issues", "trai notifies", "irda notifies",
+            "commission recommends", "commission releases",
+        ],
+    }),
+    # 'media' is the default fallback — no rules needed
+]
 
 # ═══ AI PROMPT TEMPLATE ═══
 AI_PROMPT = """You are a senior editor at a top-tier UPSC coaching institute, writing study notes that go directly to serious IAS/IPS aspirants. There is no review pass — your output ships as-is. Write with the precision of a UPSC examiner and the restraint of a newspaper-of-record editor.
@@ -220,24 +265,42 @@ NO meta-commentary about UPSC. NO "this is significant". NO "connects to syllabu
 GOOD: "The Election Commission of India has added 1,468 service electors to the rolls for Phase 2 of West Bengal assembly polls, after verification under Section 19 of the Representation of the People Act, 1951. Polling is scheduled for April 26 across 30 constituencies."
 
 BAD: "The Election Commission has cleared 1,468 electors to vote. This is significant for UPSC as it highlights the role of the Election Commission in ensuring free and fair elections, connecting to the syllabus area of Governance and Polity."
-"gs": Array of ALL applicable GS papers. Use this guide:
-  - GS1: History, Art & Culture, Society (social issues, women, population, urbanization, communalism, secularism, geographical features)
-  - GS2: Governance, Constitution, Polity, IR (government policies, India & neighbours, bilateral/multilateral, international organizations)
-  - GS3: Economy, Science & Tech, Environment, Security (economic development, agriculture, infrastructure, science, disaster management)
-  - GS4: Ethics, Integrity, Aptitude (ethics in public life, attitude, emotional intelligence, case studies, corporate governance)
-  IMPORTANT: Do NOT default to GS3. A story about a treaty = GS2. A story about tribal rights = GS1+GS2. A story about corruption = GS4. Think carefully.
-"sourceType": One of: budget / pib / intl-report / sc-judgment / ministry / media
-"difficulty": 1 (foundational) / 2 (intermediate) / 3 (advanced)
-"relevance": 0-100 integer
-"upsc": true/false
+
+—— "story_fact" (NEW — the critical field) ——
+ONE sentence, 12-30 words, stating the SINGLE most exam-worthy NEW FACT from this story. This is what the student writes in their notebook today. If you can't extract a specific, citable new fact, you don't understand the story.
+
+REQUIRED: must contain a specific number, date, named entity, section/article reference, or named decision.
+
+GOOD: "ECI approved 1,468 service voters for WB phase 2 under Section 19 of the Representation of the People Act, 1951."
+GOOD: "RBI Central Board approved a record surplus transfer of ₹2.86 lakh crore to the government for FY26."
+GOOD: "The Supreme Court held that any casteist exclusion cannot be part of a religion (Constitution Bench, May 2026)."
+BAD:  "The Election Commission has cleared electors to vote." (vague, no specifics)
+BAD:  "This development is significant for India's economy." (commentary, not a fact)
+
+—— "background" (NEW) ——
+2-3 sentences (max 60 words) explaining the STATIC framework that makes this story make sense. No commentary. Pure exposition of the rule, institution, or system this fact sits inside.
+
+GOOD: "Section 19 of the RPA, 1951 defines 'service voters' — armed forces, paramilitary serving outside their home state, and government employees posted abroad. They vote via postal ballot, or proxy voting (armed forces only, since 2003). Each addition to the service-voter roll requires Form 2A/2C verification."
+
+BAD: "The Election Commission is an important body. It is significant for UPSC because it ensures free elections." (commentary, not framework)
 
 —— "gs" ——
-Array of applicable GS papers from ["GS1","GS2","GS3","GS4","Essay"]. Default to ONE paper. Add a second only if the story genuinely sits at the intersection. Don't be generous — accuracy matters.
-- GS1: History, Art & Culture, Indian Society, Geography
-- GS2: Governance, Constitution, Polity, Social Justice, International Relations
-- GS3: Economy, Science & Tech, Environment, Internal Security, Disaster Mgmt
-- GS4: Ethics, Integrity, Aptitude (only for clear ethics topics)
-- Essay: Only if the topic is broad enough for a 1000-word essay
+Array of applicable GS papers. **DEFAULT TO ONE PAPER.** Adding a second requires a clear, distinct angle in both. Three is almost always wrong. Be strict.
+
+- GS1: History, Art & Culture, Indian Society, Geography (NOT international relations)
+- GS2: Governance, Constitution, Polity, Social Justice, International Relations, India and the world
+- GS3: Economy, Science & Tech, Environment, Internal Security, Disaster Mgmt, Agriculture, Infrastructure
+- GS4: Ethics, Integrity, Aptitude (ONLY if the story is fundamentally about an ethical question — corruption, conflict-of-interest, moral dilemma — not just any government story)
+- Essay: ONLY if this is a broad, durable theme that could be a stand-alone Essay paper question. Examples that qualify: "Soft power and Indian foreign policy", "Demographic dividend", "Climate justice", "Ethics in AI". Examples that do NOT qualify: a specific scheme launch, a tariff decision, a court judgment, a bilateral meeting.
+
+DEFAULT BIAS: Most current-affairs stories are GS2 OR GS3 — ONE of them. International bilateral meetings = GS2. Economy/tech/environment = GS3. Society/culture = GS1. Court judgments on rights = GS2. Court judgments on environment law = GS3. If unsure between GS2 and GS3, pick GS3 only if the dominant frame is economic/scientific.
+
+—— "difficulty" ——
+1 = foundational coaching topic any aspirant has seen (RBI, ISRO basics, major schemes' core)
+2 = standard current-affairs depth (most stories)
+3 = niche, technical, or recent — recent SC judgments, specialized economy concepts, sector-specific tech, lesser-known institutions
+
+Distribute realistically. If every story is 2, the difficulty filter is meaningless.
 
 —— "sourceType" ——
 One of:
@@ -309,17 +372,27 @@ BAD (story is about turtle release, not the Wildlife Act in general):
 —— "mains" ——
 Object with fields: q, marks, directive, hints.
 
-"q": A probable UPSC Mains question. Match real UPSC question patterns. AVOID the boring template "Analyze the role of X in Y" — UPSC rarely uses that. Use these patterns more often:
-- "Discuss the impact of X on Y."
-- "Critically examine [policy/institution] in the context of [recent challenge]."
-- "[Statement]. Examine."
-- "How does X compare with Y? Comment on which is more effective."
-- "What are the bottlenecks in [system]? Suggest reforms."
-- "Examine the constitutionality of [provision] in light of [judgment/article]."
+"q": A probable UPSC Mains question.
 
-GOOD: "The Election Commission's reliance on procedural orders, rather than statute, to expand service-voter eligibility raises questions of legitimacy. Examine. (15 marks · GS2)"
-GOOD: "Discuss the trade-offs between widening the postal-ballot net and the integrity of vote secrecy. (10 marks · GS2)"
-BAD: "Analyze the role of the Election Commission in ensuring the integrity of the electoral process."  (generic, formulaic, applies to 100 different stories)
+**HARD BAN — DO NOT START THE QUESTION WITH:**
+- "Analyze the role of X in Y..." — formulaic, applies to anything, instantly dismissed by serious aspirants
+- "Analyze the impact of X on Y..." — same problem
+- "Analyze the significance of X..." — same problem
+- "Discuss the importance of X..." — vague, no thinking required
+
+**USE THESE PATTERNS instead (varied like real UPSC papers):**
+- "[Statement]. Examine."  e.g., "Forex risk-bearing by central banks erodes the independence of monetary policy. Examine."
+- "Critically examine [policy/judgment/decision] in light of [precedent/principle/data]."
+- "How does X compare with Y? Comment on which approach better serves [stated goal]."
+- "What are the bottlenecks in [system/scheme/process]? Suggest reforms."
+- "Examine the constitutional basis of [provision/decision], with reference to [article/judgment]."
+- "Discuss the trade-offs in [decision] between [value A] and [value B]."
+
+GOOD: "ECI's reliance on procedural orders, rather than statutory amendment, to expand service-voter eligibility raises questions of legitimacy. Examine. (15 marks · GS2)"
+GOOD: "Discuss the trade-offs between widening the postal-ballot net and protecting vote secrecy. (10 marks · GS2)"
+GOOD: "The RBI's contingent absorption of forex risk transfers fiscal liability outside FRBM disclosure. Critically examine. (15 marks · GS3)"
+BAD:  "Analyze the role of the Election Commission in ensuring integrity of elections."  (generic; applies to 100 different stories)
+BAD:  "Analyze the impact of the gold imports on India's economy." (boilerplate)
 
 "marks": "10 marks · GSX" | "15 marks · GSX" | "20 marks · GSX". Vary it. Most current-affairs Qs are 10 or 15.
 
@@ -328,10 +401,20 @@ BAD: "Analyze the role of the Election Commission in ensuring the integrity of t
 
 "hints": Array of exactly 5 strings. Each hint is a SPECIFIC argument point — what to actually write — not a structural label.
 
-RULES:
-- Each hint must make a CONCRETE claim, cite SPECIFIC evidence, or name a SPECIFIC report/section/case/number.
-- DO NOT use rigid templates like "Introduction (2 marks): Define X" / "Body - Aspect 1 (3 marks): Discuss X" / "Conclusion (2 marks): Summarize". This is hack-school formatting.
-- Hints should read like a senior faculty's pointers — sharp, with content.
+**HARD BAN — DO NOT START A HINT WITH:**
+- "Introduction (X marks):"
+- "Body - [topic] (X marks):"
+- "Conclusion (X marks):"
+- "Define X and its significance" (this is filler, not a hint)
+- "Discuss the importance of..." (vague — discuss WHAT specifically?)
+- "Summarize the main points" (every conclusion ever — no value)
+
+The "Introduction (2 marks) / Body (3,3,3) / Conclusion (2 marks)" template makes content look like coaching-class boilerplate. Real Mains answers don't follow that rigid label structure, and real faculty notes don't either.
+
+**RULES:**
+- Each hint must make a CONCRETE claim OR cite SPECIFIC evidence — a named report, a section/article, a year, a judgment, a number, an institution.
+- Each hint should be a sentence that COULD APPEAR in an answer. Not a label.
+- Vary the order — sometimes lead with framing, sometimes with data, sometimes with a counter-argument.
 
 GOOD hints (for a 15-mark Mains Q on RBI bearing forex risk):
 - "Frame the central trade-off: forex inflows boost reserves (~$645B as of Mar 2024) but absorbing currency risk creates a contingent sovereign liability outside FRBM disclosure."
@@ -409,12 +492,17 @@ BAD connects (NEVER):
 - "Election Commission" (the SUBJECT of the story — not a connect)
 
 == SELF-CHECK (do this before returning) ==
-1. Summary: Does it contain "UPSC", "syllabus", "aspirants", "matters for", "significant for", "is crucial as"? If yes, REWRITE.
-2. Title: ≥45 chars? Real subject (no "WB" or "RBI" telegraph)?
-3. Prelims: Each one ABOUT THIS STORY (not generic recall)? Each has a specific number, year, article, or named entity?
-4. MCQ statements: Sophisticated traps (not obvious errors)? "trap" field is EXACTLY one enum string from the list above?
-5. Connect topics: All 5 different from prelims bold terms? All specific (not "International Relations")?
-6. vdata: All numbers FROM THIS STORY or directly about its subjects?
+1. story_fact: One sentence, 12-30 words, with a specific number/date/section/article/named entity FROM THE STORY?
+2. background: 2-3 sentences of pure framework, no commentary?
+3. Summary: Free of "UPSC", "syllabus", "aspirants", "matters for", "significant for", "is crucial as"?
+4. Title: ≥45 chars? Real subject (no "WB", "RBI Forex Risk" telegraph)?
+5. gs: ONE paper unless there's a clear distinct angle in two? (Three = wrong.) Essay only for broad durable themes?
+6. Prelims: Each ABOUT THIS STORY's subjects (not generic textbook recall)? Each has a specific number/year/article/section/named entity?
+7. Mains Q: Does NOT start with "Analyze the role of" / "Analyze the impact of" / "Analyze the significance of" / "Discuss the importance of"?
+8. Mains hints: NO hint starts with "Introduction (X marks)" / "Body - X (X marks)" / "Conclusion (X marks)"? Each hint is a concrete claim or specific evidence, not a structural label?
+9. MCQ statements: Sophisticated traps (not obvious like "MPC sets fiscal policy")? "trap" is EXACTLY one enum string?
+10. Connects: All 5 topics DIFFERENT from prelim bold terms? All specific (not "International Relations" / "Sustainable Development")?
+11. vdata: All numbers ANCHORED IN THIS STORY (the entity, the event, or directly cited in the source)? Not generic "Year X was established"?
 
 Return ONLY the JSON object. No prose, no markdown fences, nothing else.
 """

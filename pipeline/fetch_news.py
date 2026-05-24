@@ -138,12 +138,31 @@ def detect_category(article):
 
 
 def detect_source_type(article):
-    """Detect the source type for UPSC classification."""
-    text = (article["title"] + " " + article["summary"] + " " + article.get("link", "")).lower()
-    for stype, keywords in SOURCE_TYPE_RULES.items():
-        for kw in keywords:
-            if kw in text:
-                return stype
+    """Detect the source type by checking URL patterns first (strong signal),
+    then title patterns (medium signal). Defaults to 'media' when nothing matches."""
+    url = (article.get("link") or "").lower()
+    title = (article.get("title") or "").lower()
+
+    # SOURCE_TYPE_RULES is a list of (stype, rules_dict) in priority order
+    rules_iter = SOURCE_TYPE_RULES if isinstance(SOURCE_TYPE_RULES, list) else SOURCE_TYPE_RULES.items()
+
+    for stype, rules in rules_iter:
+        # URL patterns are highest signal
+        if isinstance(rules, dict):
+            for u in rules.get("url_contains", []):
+                if u in url:
+                    # Special case: don't tag 'ministry' if URL was already a PIB match
+                    if stype == "ministry" and ("pib.gov.in" in url or "pib.nic.in" in url):
+                        continue
+                    return stype
+            for t in rules.get("title_contains", []):
+                if t in title:
+                    return stype
+        elif isinstance(rules, list):
+            # Legacy flat list (in case rules format wasn't migrated)
+            for kw in rules:
+                if kw in title or kw in url:
+                    return stype
     return "media"
 
 
@@ -274,9 +293,67 @@ def validate_ai_output(ai_data, article):
     # --- Title Validation: enforce minimum quality ---
     title = (ai_data.get("title") or "").strip()
     if len(title) < 25:
-        # Too short / cryptic — fall back to article title
         issues.append(f"Title too short ({len(title)} chars): '{title}' → using article title")
         ai_data["title"] = article.get("title", title)[:75]
+
+    # --- story_fact + background validation ---
+    sf = (ai_data.get("story_fact") or "").strip()
+    if sf:
+        words = len(sf.split())
+        if words < 8 or words > 45:
+            issues.append(f"story_fact wrong length ({words} words): clamping")
+            # Trim to first sentence if too long
+            if words > 45:
+                ai_data["story_fact"] = re.split(r'(?<=[.!?])\s+', sf)[0][:300]
+    bg = (ai_data.get("background") or "").strip()
+    if bg:
+        words = len(bg.split())
+        if words > 80:
+            # Trim to first 3 sentences
+            sentences = re.split(r'(?<=[.!?])\s+', bg)
+            ai_data["background"] = " ".join(sentences[:3])
+            issues.append(f"background too long ({words} words): trimmed")
+
+    # --- GS Tag Cap: ≥3 papers means hedge-tagging ---
+    gs = ai_data.get("gs") or []
+    if isinstance(gs, list) and len(gs) > 2:
+        # Keep the first 2 (AI usually lists most relevant first)
+        issues.append(f"GS over-tagged ({gs}): capping to 2")
+        ai_data["gs"] = gs[:2]
+
+    # --- Mains Q template detection (post-flag, doesn't block) ---
+    mains = ai_data.get("mains", {})
+    if mains:
+        q = (mains.get("q") or "").strip()
+        formulaic_starts = (
+            "analyze the role of", "analyze the impact of",
+            "analyze the significance of", "analyze the implications of",
+            "discuss the importance of", "analyze the implications on",
+        )
+        if any(q.lower().startswith(s) for s in formulaic_starts):
+            issues.append(f"Mains Q uses formulaic template: '{q[:80]}'")
+
+    # --- Strip rigid hint template labels ---
+    if mains and isinstance(mains.get("hints"), list):
+        cleaned_hints = []
+        # Patterns: "Introduction (2 marks):", "Body - X (3 marks):", "Conclusion (2 marks):"
+        label_re = re.compile(
+            r"^\s*(Introduction|Body\s*[-–—]\s*[^:]+|Conclusion)\s*\(\s*\d+\s*marks?\s*\)\s*[:\-–—]\s*",
+            re.I,
+        )
+        for h in mains["hints"]:
+            if not isinstance(h, str):
+                continue
+            new_h = label_re.sub("", h).strip()
+            # If after stripping nothing meaningful remains, skip
+            if len(new_h.split()) < 6:
+                issues.append(f"Hint dropped (too thin after label strip): {h[:60]}")
+                continue
+            if new_h != h:
+                issues.append("Hint label stripped")
+            cleaned_hints.append(new_h)
+        mains["hints"] = cleaned_hints[:5]
+        ai_data["mains"] = mains
 
     # --- Summary Validation: strip UPSC meta-commentary ---
     summary = (ai_data.get("summary") or "").strip()
@@ -552,7 +629,12 @@ def build_story(article, ai_data, story_id):
         except Exception:
             pass
 
-    # Merge AI data with defaults
+    # Merge AI data with defaults — BACKEND source type takes priority (more reliable than AI guess)
+    backend_source_type = article.get("detected_source_type", "media")
+    ai_source_type = ai_data.get("sourceType", "media")
+    # If backend detected anything other than media, trust it. AI only used when backend says media.
+    final_source_type = backend_source_type if backend_source_type != "media" else ai_source_type
+
     story = {
         "id": story_id,
         "title": ai_data.get("title", article["title"][:60]),
@@ -560,6 +642,9 @@ def build_story(article, ai_data, story_id):
         "upsc": ai_data.get("upsc", True),
         "time": time_str,
         "summary": ai_data.get("summary", article["summary"][:150]),
+        # NEW: Story_fact = the single new fact. Background = the static framework.
+        "story_fact": ai_data.get("story_fact", ""),
+        "background": ai_data.get("background", ""),
         "visual": ai_data.get("visual", "stats"),
         "vdata": ai_data.get("vdata", []),
         "src": article["source"],
@@ -572,7 +657,7 @@ def build_story(article, ai_data, story_id):
         "_fetched": now.isoformat(),
         "_relevance": article.get("relevance_score", 50),
         "_gs": ai_data.get("gs", ["GS3"]),
-        "_sourceType": ai_data.get("sourceType", article["detected_source_type"]),
+        "_sourceType": final_source_type,
         "_difficulty": ai_data.get("difficulty", 2),
         "_directive": ai_data.get("mains", {}).get("directive", "discuss"),
         "_mcqs": ai_data.get("mcqs", []),
@@ -932,6 +1017,77 @@ def regenerate_recent(days=7):
     log(f"\nDone: {updated}/{len(targets)} stories regenerated")
 
 
+def purge_empty_stories():
+    """Remove stories that have no prelims (empty shells). They were generated
+    when AI failed and they pollute the data file without ever being shown.
+    The next pipeline run will re-fetch genuinely current stories."""
+    stories = load_existing_stories() if 'load_existing_stories' in globals() else load_existing()
+    before = len(stories)
+    keep = [s for s in stories if s.get("prelims") and len(s.get("prelims", [])) > 0]
+    removed = before - len(keep)
+    if removed == 0:
+        log("No empty stories to purge.")
+        return
+    log(f"Purging {removed} empty stories (kept {len(keep)} enriched)")
+    save_stories(keep)
+    log(f"data/stories.json now has {len(keep)} stories")
+
+
+def regenerate_all_enriched():
+    """Regenerate every story that has prelims (currently 'enriched') with the
+    current prompt. Use this after a prompt overhaul to refresh the entire
+    active surface."""
+    stories = load_existing_stories() if 'load_existing_stories' in globals() else load_existing()
+    if not stories:
+        log("No existing stories.")
+        return
+    targets = [s for s in stories if s.get("prelims") and len(s.get("prelims", [])) > 0]
+    log(f"Regenerating ALL {len(targets)} enriched stories (out of {len(stories)} total)")
+
+    existing_directives = [s.get("_directive", "discuss") for s in stories]
+    updated = 0
+    for i, story in enumerate(targets):
+        log(f"\n[{i+1}/{len(targets)}] {story.get('title', '')[:70]}")
+        article = {
+            "title": story.get("title", ""),
+            "summary": story.get("summary", ""),
+            "source": story.get("src", "Unknown"),
+            "published": story.get("_fetched", ""),
+            "link": story.get("link", ""),
+            "hash": story.get("_hash", ""),
+            "relevance_score": story.get("_relevance", 50),
+            "detected_cat": story.get("cat", "india"),
+            "detected_source_type": detect_source_type({
+                "title": story.get("title", ""),
+                "summary": story.get("summary", ""),
+                "link": story.get("link", ""),
+            }),
+        }
+        ai_data = process_article_with_ai(article, existing_directives)
+        if ai_data:
+            ai_data = validate_ai_output(ai_data, article)
+            existing_directives.append(ai_data.get("mains", {}).get("directive", "discuss"))
+            new_story = build_story(article, ai_data, story["id"])
+            new_story["_hash"] = story.get("_hash", "")
+            new_story["_fetched"] = story.get("_fetched", "")
+            new_story["link"] = story.get("link", "")
+            for j, s in enumerate(stories):
+                if s["id"] == story["id"]:
+                    stories[j] = new_story
+                    break
+            updated += 1
+        else:
+            log("  AI failed, keeping original")
+        time.sleep(7)
+        # Save every 25 stories so a crash doesn't lose progress
+        if (i + 1) % 25 == 0:
+            save_stories(stories)
+            log(f"  ... checkpoint saved at {i+1}/{len(targets)}")
+
+    save_stories(stories)
+    log(f"\nRegeneration complete: {updated}/{len(targets)} stories rebuilt")
+
+
 if __name__ == "__main__":
     if len(sys.argv) > 1 and sys.argv[1] == "--regenerate":
         regenerate_existing()
@@ -940,5 +1096,9 @@ if __name__ == "__main__":
     elif len(sys.argv) > 1 and sys.argv[1] == "--regenerate-recent":
         days = int(sys.argv[2]) if len(sys.argv) > 2 else 7
         regenerate_recent(days)
+    elif len(sys.argv) > 1 and sys.argv[1] == "--regenerate-all-enriched":
+        regenerate_all_enriched()
+    elif len(sys.argv) > 1 and sys.argv[1] == "--purge-empty":
+        purge_empty_stories()
     else:
         run_pipeline()

@@ -891,6 +891,56 @@
       background: var(--line);
     }
 
+    /* Key Fact callout — the ONE thing the student should remember */
+    .key-fact {
+      margin: var(--s-6) 0;
+      padding: var(--s-5) var(--s-5) var(--s-5) calc(var(--s-5) + 8px);
+      background: var(--accent-soft);
+      border-left: 3px solid var(--accent);
+      border-radius: var(--r-2);
+      position: relative;
+    }
+    .key-fact-label {
+      font-family: var(--mono);
+      font-size: 10px;
+      font-weight: 600;
+      letter-spacing: 0.2em;
+      text-transform: uppercase;
+      color: var(--accent);
+      margin-bottom: var(--s-2);
+    }
+    .key-fact-text {
+      font-family: var(--serif);
+      font-weight: 500;
+      font-size: clamp(17px, 2.5vw, 20px);
+      line-height: 1.4;
+      letter-spacing: -0.012em;
+      color: var(--ink);
+    }
+
+    /* Background callout — the static framework */
+    .background-block {
+      margin: var(--s-5) 0;
+      padding: var(--s-4) var(--s-5);
+      background: var(--paper);
+      border: 1px solid var(--line);
+      border-radius: var(--r-2);
+    }
+    .background-label {
+      font-family: var(--mono);
+      font-size: 10px;
+      font-weight: 600;
+      letter-spacing: 0.16em;
+      text-transform: uppercase;
+      color: var(--ink-3);
+      margin-bottom: var(--s-2);
+    }
+    .background-text {
+      font-size: 14.5px;
+      line-height: 1.6;
+      color: var(--ink-2);
+    }
+
     /* Summary */
     .lesson-summary {
       font-family: var(--serif);
@@ -2103,8 +2153,9 @@ function estimateReadTime(story) {
 }
 
 function pickStoryFact(story) {
-  // The best fact = first prelim that contains both a number AND a <strong>.
-  // Fall back: first prelim with a number. Then first prelim. Then summary.
+  // Prefer the dedicated story_fact field (new schema — the AI's chosen single fact).
+  // Fall back to the best prelim, then summary.
+  if (story.story_fact && story.story_fact.length > 10) return story.story_fact;
   const prelims = story.prelims || [];
   if (prelims.length === 0) return story.summary || '';
   const withBoth = prelims.find(p => /\d/.test(p) && /<strong>/.test(p));
@@ -2397,11 +2448,27 @@ function renderReader(story) {
     ${story.link ? `<a class="lesson-byline-link" href="${story.link}" target="_blank" rel="noopener">Read original ↗</a>` : ''}
   </div>`;
 
-  // SUMMARY
+  // KEY FACT — the ONE thing to remember (new schema)
+  if (story.story_fact) {
+    html += `<div class="key-fact">
+      <div class="key-fact-label">The Fact</div>
+      <div class="key-fact-text">${htmlEscape(story.story_fact)}</div>
+    </div>`;
+  }
+
+  // SUMMARY — the narrative of what happened
   if (story.summary) {
     html += `<section class="lesson-section">
       <p class="lesson-summary">${htmlEscape(story.summary)}</p>
     </section>`;
+  }
+
+  // BACKGROUND — the static framework (new schema)
+  if (story.background) {
+    html += `<div class="background-block">
+      <div class="background-label">Background</div>
+      <div class="background-text">${htmlEscape(story.background)}</div>
+    </div>`;
   }
 
   // KEY FACTS — Prelims
