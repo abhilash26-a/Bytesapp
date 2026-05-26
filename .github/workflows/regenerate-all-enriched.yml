@@ -1,16 +1,29 @@
 name: Regenerate All Enriched Stories
 
 on:
-  workflow_dispatch: {}
+  workflow_dispatch:
+    inputs:
+      from_index:
+        description: "Start from this 0-based story index (for resuming after a timeout)"
+        required: false
+        default: "0"
+      count:
+        description: "Number of stories to process (0 = all remaining). Keep ≤150 to stay within free API quotas."
+        required: false
+        default: "140"
 
 jobs:
-  regenerate-all:
+  regenerate-batch:
     runs-on: ubuntu-latest
     permissions:
       contents: write
-    timeout-minutes: 350  # ~6 hours max — 554 stories × 8s ≈ 75 min nominal
+    # 140 stories × ~8s nominal + retries ≈ 30-45 min. Cap at 90 min per batch.
+    timeout-minutes: 90
     steps:
       - uses: actions/checkout@v4
+        with:
+          # Needed so git push works from within the Python checkpoint commits
+          token: ${{ secrets.GITHUB_TOKEN }}
 
       - uses: actions/setup-python@v5
         with:
@@ -19,17 +32,26 @@ jobs:
       - name: Install dependencies
         run: pip install -r pipeline/requirements.txt
 
-      - name: Regenerate all enriched stories
+      - name: Configure git (for in-script checkpoint commits)
+        run: |
+          git config user.name "Bytes Bot"
+          git config user.email "bot@bytes.app"
+
+      - name: Regenerate enriched stories (batch)
         working-directory: pipeline
         env:
           GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
-        run: python -u fetch_news.py --regenerate-all-enriched
-
-      - name: Commit and push
+          # Enables in-script git commit+push every 50 stories
+          GIT_PUSH_CHECKPOINT: "1"
         run: |
-          git config user.name "Bytes Bot"
-          git config user.email "bot@bytes.app"
+          python -u fetch_news.py \
+            --regenerate-all-enriched \
+            --from-index ${{ github.event.inputs.from_index }} \
+            --count ${{ github.event.inputs.count }}
+
+      - name: Final commit and push
+        run: |
           git add data/
-          git diff --staged --quiet || git commit -m "Regenerate all 554 enriched stories with new prompt + schema"
+          git diff --staged --quiet || git commit -m "Regen batch [from=${{ github.event.inputs.from_index }} count=${{ github.event.inputs.count }}] — final"
           git push

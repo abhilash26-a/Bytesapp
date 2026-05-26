@@ -1033,21 +1033,63 @@ def purge_empty_stories():
     log(f"data/stories.json now has {len(keep)} stories")
 
 
-def regenerate_all_enriched():
-    """Regenerate every story that has prelims (currently 'enriched') with the
-    current prompt. Use this after a prompt overhaul to refresh the entire
-    active surface."""
+def _git_push_checkpoint(label: str):
+    """Commit and push data/stories.json from within the pipeline script.
+    Only runs when the GIT_PUSH_CHECKPOINT env var is set (i.e. in CI)."""
+    import os, subprocess
+    if not os.environ.get("GIT_PUSH_CHECKPOINT"):
+        return
+    try:
+        subprocess.run(["git", "add", "../data/stories.json"], check=True)
+        result = subprocess.run(
+            ["git", "diff", "--staged", "--quiet"], capture_output=True
+        )
+        if result.returncode == 0:
+            log(f"  [git] No changes at checkpoint — skipping commit")
+            return
+        subprocess.run(
+            ["git", "commit", "-m", f"Regen checkpoint: {label}"],
+            check=True,
+        )
+        subprocess.run(["git", "push"], check=True)
+        log(f"  [git] Pushed checkpoint: {label}")
+    except subprocess.CalledProcessError as e:
+        log(f"  [git] Push failed (non-fatal): {e}")
+
+
+def regenerate_all_enriched(from_index: int = 0, count: int = 0):
+    """Regenerate enriched stories with the current prompt.
+
+    Args:
+        from_index: 0-based index into the sorted enriched-story list to start
+                    from. Allows resuming after a timeout or failure.
+        count:      How many stories to process. 0 = all remaining from
+                    from_index. Keep to ~140 per run to stay within free-tier
+                    API quotas (Gemini 1500 RPD, Groq 14400 RPD).
+    """
     stories = load_existing_stories() if 'load_existing_stories' in globals() else load_existing()
     if not stories:
         log("No existing stories.")
         return
     targets = [s for s in stories if s.get("prelims") and len(s.get("prelims", [])) > 0]
-    log(f"Regenerating ALL {len(targets)} enriched stories (out of {len(stories)} total)")
+    total_enriched = len(targets)
+    log(f"Total enriched stories in corpus: {total_enriched} (out of {len(stories)} total)")
+
+    # Apply batch window
+    if from_index:
+        targets = targets[from_index:]
+        log(f"Resuming from index {from_index} → {len(targets)} stories remaining")
+    if count:
+        targets = targets[:count]
+        log(f"Processing up to {count} stories this batch")
+
+    log(f"This run will process {len(targets)} stories (indices {from_index}–{from_index + len(targets) - 1})")
 
     existing_directives = [s.get("_directive", "discuss") for s in stories]
     updated = 0
     for i, story in enumerate(targets):
-        log(f"\n[{i+1}/{len(targets)}] {story.get('title', '')[:70]}")
+        abs_idx = from_index + i + 1
+        log(f"\n[{abs_idx}/{total_enriched}] {story.get('title', '')[:70]}")
         article = {
             "title": story.get("title", ""),
             "summary": story.get("summary", ""),
@@ -1079,10 +1121,12 @@ def regenerate_all_enriched():
         else:
             log("  AI failed, keeping original")
         time.sleep(7)
-        # Save every 25 stories so a crash doesn't lose progress
-        if (i + 1) % 25 == 0:
+        # Save + push every 50 stories so a timeout doesn't lose progress
+        if (i + 1) % 50 == 0:
             save_stories(stories)
-            log(f"  ... checkpoint saved at {i+1}/{len(targets)}")
+            label = f"{abs_idx}/{total_enriched} ({updated} rebuilt)"
+            log(f"  ... checkpoint at {label}")
+            _git_push_checkpoint(label)
 
     save_stories(stories)
     log(f"\nRegeneration complete: {updated}/{len(targets)} stories rebuilt")
@@ -1097,7 +1141,13 @@ if __name__ == "__main__":
         days = int(sys.argv[2]) if len(sys.argv) > 2 else 7
         regenerate_recent(days)
     elif len(sys.argv) > 1 and sys.argv[1] == "--regenerate-all-enriched":
-        regenerate_all_enriched()
+        import argparse as _ap
+        _p = _ap.ArgumentParser()
+        _p.add_argument("--regenerate-all-enriched", action="store_true")
+        _p.add_argument("--from-index", type=int, default=0)
+        _p.add_argument("--count", type=int, default=0)
+        _args, _ = _p.parse_known_args()
+        regenerate_all_enriched(from_index=_args.from_index, count=_args.count)
     elif len(sys.argv) > 1 and sys.argv[1] == "--purge-empty":
         purge_empty_stories()
     else:
