@@ -1530,5 +1530,465 @@
     "_difficulty": 2,
     "_directive": "discuss",
     "_mcqs": []
+  },
+  {
+    "id": 1846,
+    "title": "India-UK Trade",
+    "cat": "economy",
+    "upsc": true,
+    "time": "2026-05-01T13:44:18.194416+00:00",
+    "summary": "India and the UK are strengthening trade and investment ties through the Comprehensive Economic and Trade Agreement. This development is crucial for UPSC as it highlights India's efforts to diversify its trade relationships and reduce dependence on traditional partners. The agreement's implications on India's economy and its position in global trade will be a key area of focus in GS3.",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": 2020,
+        "label": "Year - India-UK trade negotiations began"
+      },
+      {
+        "val": 5,
+        "label": "Number of years - Expected duration of the Comprehensive Economic and Trade Agreement"
+      }
+    ],
+    "src": "ET Economy",
+    "link": "https://economictimes.indiatimes.com/news/economy/foreign-trade/india-discusses-boosting-trade-with-uk-local-currency-trade-settlement-with-tanzania/articleshow/130677699.cms",
+    "prelims": [
+      "<strong>Comprehensive Economic and Trade Agreement (CETA)</strong> is a type of trade agreement that aims to reduce tariffs and other trade barriers between participating countries. India has been actively engaging in such agreements to boost its exports and attract foreign investment. The <strong>Ministry of Commerce and Industry</strong> plays a crucial role in negotiating these agreements.",
+      "<strong>Local currency trade settlement</strong> is a mechanism that allows countries to settle trade transactions in their local currencies, reducing the need for hard currencies like the US dollar. This approach can help India and Tanzania promote bilateral trade and reduce their dependence on foreign currencies. The <strong>Reserve Bank of India (RBI)</strong> has been exploring ways to promote local currency trade settlements.",
+      "<strong>India's trade policy</strong> has undergone significant changes in recent years, with a focus on increasing exports and reducing trade deficits. The government has introduced various schemes, such as the <strong>Foreign Trade Policy (FTP)</strong>, to promote exports and attract foreign investment. Understanding these policies is essential for UPSC aspirants, as they are frequently tested in GS3.",
+      "<strong>Tanzania</strong> is a key trading partner for India in East Africa, with bilateral trade valued at over $1 billion. The two countries have been exploring ways to increase trade and investment, including the establishment of a <strong>Joint Trade Committee</strong>. This committee aims to identify areas of cooperation and resolve trade-related issues.",
+      "<strong>Regional trade agreements</strong> have become increasingly important for India, as they provide preferential access to large markets and help promote exports. The <strong>Association of Southeast Asian Nations (ASEAN)</strong> and the <strong>South Asian Free Trade Area (SAFTA)</strong> are two examples of regional trade agreements that India has signed. Understanding the implications of these agreements is crucial for UPSC aspirants."
+    ],
+    "mains": {
+      "q": "Analyze the implications of the Comprehensive Economic and Trade Agreement on India's trade relationships with the UK and other European countries.",
+      "marks": "15 marks · GS3",
+      "directive": "analyze",
+      "hints": [
+        "Introduction (2 marks): Define the Comprehensive Economic and Trade Agreement and its significance in the context of India-UK trade relations.",
+        "Body - Trade benefits (3 marks): Discuss the potential benefits of the agreement, including increased market access, reduced tariffs, and improved trade facilitation.",
+        "Body - Challenges (3 marks): Examine the challenges that India may face in implementing the agreement, including concerns about trade deficits, competition from UK industries, and potential impacts on domestic industries.",
+        "Body - Strategic implications (3 marks): Analyze the strategic implications of the agreement, including its potential impact on India's trade relationships with other European countries and its position in global trade.",
+        "Conclusion (2 marks): Summarize the main points and emphasize the need for India to carefully navigate the agreement to maximize its benefits and minimize its risks."
+      ]
+    },
+    "connect": [
+      {
+        "topic": "Foreign Trade Policy (FTP)",
+        "context": "The FTP is a key component of India's trade policy, and understanding its provisions is essential for UPSC aspirants."
+      },
+      {
+        "topic": "Regional Trade Agreements",
+        "context": "Regional trade agreements have become increasingly important for India, and understanding their implications is crucial for UPSC aspirants."
+      },
+      {
+        "topic": "WTO and its Agreements",
+        "context": "The WTO plays a crucial role in regulating global trade, and understanding its agreements is essential for UPSC aspirants."
+      },
+      {
+        "topic": "India's Trade Relationships",
+        "context": "India's trade relationships with other countries are a key aspect of its foreign policy, and understanding these relationships is crucial for UPSC aspirants."
+      }
+    ],
+    "_hash": "65b4a27effb5",
+    "_fetched": "2026-05-01T13:44:18.194416+00:00",
+    "_relevance": 55,
+    "_gs": [
+      "GS2",
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "analyze",
+    "_mcqs": {
+      "q": "Consider the following statements:\n1. The Comprehensive Economic and Trade Agreement is a type of free trade agreement.\n2. India has signed a similar agreement with the US.\n3. The agreement will lead to a significant increase in India's trade deficit with the UK.\nWhich of the above is/are correct?",
+      "options": [
+        "1 only",
+        "1 and 2 only",
+        "2 and 3 only",
+        "1, 2 and 3"
+      ],
+      "correct": 0,
+      "explanation": "Statement 1 is correct: The Comprehensive Economic and Trade Agreement is indeed a type of free trade agreement. Statement 2 is incorrect: India has not signed a similar agreement with the US. Statement 3 is incorrect: The agreement's impact on India's trade deficit with the UK is uncertain and depends on various factors.",
+      "trap": "Absolute Language"
+    }
+  },
+  {
+    "id": 1847,
+    "title": "India's Forex Reserves",
+    "cat": "economy",
+    "upsc": true,
+    "time": "2026-05-01T13:44:35.088501+00:00",
+    "summary": "India's foreign exchange reserves saw a significant drop of $4.82 billion, reaching $698.49 billion. This decline is crucial for UPSC as it reflects the country's economic stability and its ability to manage global uncertainties. The decrease in foreign currency assets and gold reserves contributed to the decline, which is relevant to GS3 (Economy) and has implications for India's economic development and trade policies.",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": 698.49,
+        "label": "India's foreign exchange reserves (in billion USD)"
+      },
+      {
+        "val": 1934,
+        "label": "Year the Reserve Bank of India Act was passed"
+      }
+    ],
+    "src": "ET Economy",
+    "link": "https://economictimes.indiatimes.com/news/economy/indicators/indias-forex-reserves-fall-4-82-billion-to-698-48-billion-as-of-april-24/articleshow/130677141.cms",
+    "prelims": [
+      "The <strong>Foreign Exchange Management Act (FEMA), 1999</strong> regulates foreign exchange transactions in India, providing the framework for the management of foreign exchange reserves. FEMA replaced the Foreign Exchange Regulation Act (FERA), 1973, and has been amended several times to adapt to changing economic conditions. The Reserve Bank of India (RBI) is responsible for implementing FEMA and managing foreign exchange reserves.",
+      "The <strong>Reserve Bank of India (RBI)</strong> was established in 1935 under the Reserve Bank of India Act, 1934, with its headquarters in Mumbai. The RBI is the central bank of India and is responsible for regulating the money supply, managing foreign exchange reserves, and maintaining financial stability. The RBI also plays a crucial role in implementing monetary policy and regulating the banking system.",
+      "The <strong>Special Drawing Rights (SDRs)</strong> are supplementary foreign exchange reserve assets defined and maintained by the International Monetary Fund (IMF). SDRs were introduced in 1969 to supplement the official reserves of member countries and to support the international monetary system. The value of the SDR is based on a basket of five major currencies: the US dollar, the euro, the Chinese renminbi, the Japanese yen, and the British pound.",
+      "The <strong>Current Account Deficit (CAD)</strong> is a key indicator of a country's balance of payments, representing the difference between the country's exports and imports of goods and services. A high CAD can lead to a decrease in foreign exchange reserves, as a country may need to use its reserves to finance its imports. India's CAD has been a concern in recent years, and the government has implemented policies to reduce the deficit and promote exports.",
+      "The <strong>Foreign Exchange Reserves Management</strong> is critical for maintaining economic stability and supporting the value of the domestic currency. The RBI uses various tools, such as forward market operations and gold reserves, to manage foreign exchange reserves and maintain a stable exchange rate. Effective management of foreign exchange reserves is essential for promoting economic growth, stability, and development."
+    ],
+    "mains": {
+      "q": "Analyze the impact of a decline in foreign exchange reserves on a country's economic stability, with reference to the recent decline in India's foreign exchange reserves.",
+      "marks": "15 marks · GS3",
+      "directive": "analyze",
+      "hints": [
+        "Introduction (2 marks): Define foreign exchange reserves and their importance in maintaining economic stability, including their role in supporting the value of the domestic currency and financing imports.",
+        "Body - Economic Impact (4 marks): Discuss the potential effects of a decline in foreign exchange reserves on a country's economy, including the impact on exchange rates, inflation, and economic growth, as well as the potential consequences for trade and investment.",
+        "Body - Policy Response (4 marks): Examine the policy options available to a government to manage a decline in foreign exchange reserves, including monetary policy, fiscal policy, and exchange rate management, and discuss the potential effectiveness of each option.",
+        "Body - Institutional Mechanism (3 marks): Analyze the role of the central bank and other institutions in managing foreign exchange reserves and maintaining economic stability, including the coordination between the central bank, the government, and other stakeholders.",
+        "Conclusion (2 marks): Summarize the key points and emphasize the importance of effective management of foreign exchange reserves in maintaining economic stability and promoting economic growth."
+      ]
+    },
+    "connect": [
+      {
+        "topic": "Balance of Payments",
+        "context": "The decline in foreign exchange reserves is related to the balance of payments, which is a critical concept in international economics and is relevant to GS3 (Economy)."
+      },
+      {
+        "topic": "Monetary Policy",
+        "context": "The management of foreign exchange reserves is closely linked to monetary policy, which is a key tool for maintaining economic stability and is relevant to GS3 (Economy)."
+      },
+      {
+        "topic": "Foreign Exchange Management",
+        "context": "The decline in foreign exchange reserves highlights the importance of effective foreign exchange management, which is critical for maintaining economic stability and is relevant to GS3 (Economy)."
+      },
+      {
+        "topic": "International Trade",
+        "context": "The decline in foreign exchange reserves has implications for international trade, as a country's trade balance is a key factor in determining its foreign exchange reserves, and is relevant to GS3 (Economy)."
+      },
+      {
+        "topic": "Economic Stability",
+        "context": "The decline in foreign exchange reserves has implications for economic stability, as a country's foreign exchange reserves are a key indicator of its economic health, and is relevant to GS3 (Economy)."
+      }
+    ],
+    "_hash": "111e91875e78",
+    "_fetched": "2026-05-01T13:44:35.088501+00:00",
+    "_relevance": 45,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "analyze",
+    "_mcqs": {
+      "q": "Consider the following statements:\n1. The Reserve Bank of India (RBI) is responsible for managing India's foreign exchange reserves.\n2. The Foreign Exchange Management Act (FEMA), 1999, regulates foreign exchange transactions in India.\n3. A decline in foreign exchange reserves always leads to a decrease in the value of the domestic currency.\nWhich of the above is/are correct?",
+      "options": [
+        "1 only",
+        "1 and 2 only",
+        "2 and 3 only",
+        "1, 2 and 3"
+      ],
+      "correct": 1,
+      "explanation": "Statement 1 is correct: The RBI is responsible for managing India's foreign exchange reserves. Statement 2 is correct: FEMA, 1999, regulates foreign exchange transactions in India. Statement 3 is incorrect: A decline in foreign exchange reserves does not always lead to a decrease in the value of the domestic currency, as the impact depends on various factors, including the overall economic conditions and the policy response.",
+      "trap": "Absolute Language"
+    }
+  },
+  {
+    "id": 1848,
+    "title": "Congress to launch campaign to expose BJP's attempt to misle",
+    "cat": "india",
+    "upsc": false,
+    "time": "2026-05-01T13:46:47.614787+00:00",
+    "summary": "The Congress remains committed to women's reservation and would fully support its implementation on the basis of the current strength of the Lok Sabha",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "The Hindu",
+    "link": "https://www.thehindu.com/news/national/chhattisgarh/congress-to-launch-campaign-to-expose-bjps-attempt-to-mislead-women-pilot/article70928630.ece",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "1a590b836d52",
+    "_fetched": "2026-05-01T13:46:47.614787+00:00",
+    "_relevance": 44,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 1849,
+    "title": "India-Bangladesh Diplomacy",
+    "cat": "world",
+    "upsc": true,
+    "time": "2026-05-01T13:47:24.534752+00:00",
+    "summary": "Bangladesh's foreign ministry has summoned India's acting envoy over remarks made by Himanta Sarma regarding the apprehension and pushback of foreign nationals. This incident highlights the importance of diplomatic relations and communication between neighboring countries, which is a crucial aspect of international relations and a key area of focus for the UPSC. The incident also underscores the need for careful consideration of the potential consequences of public statements by government officials, particularly in the context of bilateral relations.",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": 1961,
+        "label": "Year the Vienna Convention on Diplomatic Relations was established"
+      },
+      {
+        "val": 1972,
+        "label": "Year the Indira Gandhi-Bangladesh Treaty of Friendship, Cooperation, and Peace was signed"
+      },
+      {
+        "val": 2015,
+        "label": "Year the Land Boundary Agreement between India and Bangladesh was signed"
+      }
+    ],
+    "src": "The Hindu",
+    "link": "https://www.thehindu.com/news/national/bangladesh-foreign-ministry-india-acting-envoy-summons-himanta-sarma-remarks/article70928241.ece",
+    "prelims": [
+      "The <strong>Vienna Convention on Diplomatic Relations, 1961</strong>, is an international treaty that establishes the framework for diplomatic relations between countries, including the privileges and immunities of diplomatic missions and personnel. It is essential for maintaining good relations between nations and is a key aspect of international law. The convention has been ratified by nearly all countries, including India and Bangladesh.",
+      "The <strong>Ministry of External Affairs (MEA)</strong> is responsible for the formulation and implementation of India's foreign policy, including diplomatic relations with neighboring countries like Bangladesh. The MEA plays a crucial role in promoting and protecting India's interests abroad and is headed by the Minister of External Affairs. The ministry works closely with other government agencies and stakeholders to advance India's foreign policy objectives.",
+      "The <strong>Indira Gandhi-Bangladesh Treaty of Friendship, Cooperation, and Peace, 1972</strong>, is a landmark agreement between India and Bangladesh that established the foundation for their bilateral relations. The treaty emphasizes cooperation in areas such as trade, commerce, and security and has been instrumental in promoting peace and stability in the region. The treaty has undergone several revisions and updates over the years to reflect changing circumstances and priorities.",
+      "The <strong>South Asian Association for Regional Cooperation (SAARC)</strong> is a regional organization that aims to promote economic, social, and cultural cooperation among its member states, including India and Bangladesh. SAARC was established in 1985 and has its secretariat in Kathmandu, Nepal. The organization has made significant progress in promoting regional cooperation, but its effectiveness has been limited by various challenges, including political tensions and bureaucratic hurdles.",
+      "The <strong>Land Boundary Agreement (LBA) between India and Bangladesh, 2015</strong>, is a significant agreement that settled long-standing border disputes between the two countries. The agreement enabled the exchange of enclaves and the demarcation of the border, promoting greater stability and cooperation in the region. The LBA has been hailed as a major breakthrough in India-Bangladesh relations and has paved the way for further cooperation on trade, security, and other issues."
+    ],
+    "mains": {
+      "q": "Analyze the significance of diplomatic relations between India and Bangladesh, with a focus on the role of diplomatic missions and the impact of public statements by government officials on bilateral ties.",
+      "marks": "15 marks · GS2",
+      "directive": "analyze",
+      "hints": [
+        "Introduction (2 marks): Define diplomatic relations and their importance in international relations, highlighting the role of diplomatic missions and the principles of the Vienna Convention on Diplomatic Relations.",
+        "Body - Diplomatic Relations (4 marks): Discuss the evolution of India-Bangladesh relations, including key agreements and treaties, such as the Indira Gandhi-Bangladesh Treaty of Friendship, Cooperation, and Peace, 1972, and the Land Boundary Agreement, 2015.",
+        "Body - Public Statements (3 marks): Examine the impact of public statements by government officials on bilateral relations, using the example of Himanta Sarma's remarks and the subsequent reaction from Bangladesh.",
+        "Body - Regional Cooperation (3 marks): Analyze the role of regional organizations, such as SAARC, in promoting cooperation and stability in the region, highlighting the challenges and opportunities for India-Bangladesh cooperation.",
+        "Conclusion (3 marks): Summarize the importance of diplomatic relations and careful communication in maintaining good relations between India and Bangladesh, emphasizing the need for a nuanced approach to public diplomacy and regional cooperation."
+      ]
+    },
+    "connect": [
+      {
+        "topic": "Vienna Convention on Diplomatic Relations",
+        "context": "The convention is a key aspect of international law and is relevant to the study of diplomatic relations and international organizations."
+      },
+      {
+        "topic": "Ministry of External Affairs",
+        "context": "The MEA plays a crucial role in promoting and protecting India's interests abroad and is a key institution in the study of India's foreign policy."
+      },
+      {
+        "topic": "South Asian Association for Regional Cooperation (SAARC)",
+        "context": "SAARC is a regional organization that aims to promote economic, social, and cultural cooperation among its member states, including India and Bangladesh."
+      },
+      {
+        "topic": "Land Boundary Agreement",
+        "context": "The agreement is a significant development in India-Bangladesh relations and has implications for regional cooperation and stability."
+      },
+      {
+        "topic": "Diplomatic Missions",
+        "context": "Diplomatic missions play a crucial role in promoting and protecting a country's interests abroad and are a key aspect of the study of diplomatic relations."
+      }
+    ],
+    "_hash": "9c8c7c45217e",
+    "_fetched": "2026-05-01T13:47:24.534752+00:00",
+    "_relevance": 44,
+    "_gs": [
+      "GS2"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "analyze",
+    "_mcqs": {
+      "q": "Consider the following statements:\n1. The Vienna Convention on Diplomatic Relations, 1961, establishes the framework for diplomatic relations between countries.\n2. The Ministry of Home Affairs is responsible for India's foreign policy.\n3. The Indira Gandhi-Bangladesh Treaty of Friendship, Cooperation, and Peace, 1972, is a bilateral agreement between India and Bangladesh.\nWhich of the above is/are correct?",
+      "options": [
+        "1 only",
+        "1 and 3 only",
+        "2 and 3 only",
+        "1, 2 and 3"
+      ],
+      "correct": 1,
+      "explanation": "Statement 1 is correct: The Vienna Convention on Diplomatic Relations, 1961, is an international treaty that establishes the framework for diplomatic relations between countries. Statement 2 is incorrect: The Ministry of External Affairs (MEA) is responsible for India's foreign policy, not the Ministry of Home Affairs. Statement 3 is correct: The Indira Gandhi-Bangladesh Treaty of Friendship, Cooperation, and Peace, 1972, is a bilateral agreement between India and Bangladesh.",
+      "trap": "Wrong Ministry"
+    }
+  },
+  {
+    "id": 1850,
+    "title": "GST revenue follows annual pattern, hits all-time high of Rs",
+    "cat": "economy",
+    "upsc": false,
+    "time": "2026-05-01T13:49:37.053046+00:00",
+    "summary": "Growth was once again driven by collections on imports, with revenue from domestic sales growing slower.",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "The Hindu Business",
+    "link": "https://www.thehindu.com/business/Economy/gst-collections-rise-to-record-high-of-243-lakh-crore-in-april/article70927722.ece",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "15b234a35a05",
+    "_fetched": "2026-05-01T13:49:37.053046+00:00",
+    "_relevance": 43,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 1851,
+    "title": "No scope for wrongdoing at counting centres, Bengal CEO says",
+    "cat": "tech",
+    "upsc": false,
+    "time": "2026-05-01T13:51:49.665694+00:00",
+    "summary": "Stating that round-the-clock CCTV monitoring of strong rooms was in place, Manoj Agarwal termed the allegations baseless",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "The Hindu",
+    "link": "https://www.thehindu.com/elections/west-bengal-assembly/west-bengal-election-counting-centre-security-vigil-wrongdoing-allegations-tmc/article70928296.ece",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "55fbbaf3635d",
+    "_fetched": "2026-05-01T13:51:49.665694+00:00",
+    "_relevance": 39,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 1852,
+    "title": "Indian student dies in US; diaspora raises $76K against $25K",
+    "cat": "india",
+    "upsc": false,
+    "time": "2026-05-01T13:54:02.179048+00:00",
+    "summary": "The deceased has been identified as 26-year-old Iraganaboyina Chandu. Having recently finished his master’s degree at DePaul University, Chandu had re",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "LiveMint",
+    "link": "https://www.livemint.com/news/india/indian-student-dies-in-us-diaspora-raises-76k-against-25k-goal-to-bring-the-body-home-11777627069906.html",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "33896c73c64d",
+    "_fetched": "2026-05-01T13:54:02.179048+00:00",
+    "_relevance": 35,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 1853,
+    "title": "124 villagers voluntarily hand over land parcels for Vadhvan",
+    "cat": "tech",
+    "upsc": false,
+    "time": "2026-05-01T13:56:18.728628+00:00",
+    "summary": "Covering roughly 2.5 hectares, the land parcel in Varor village comprises 41 subdivisions. This corridor is highly strategic for the port's infrastruc",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "The Hindu",
+    "link": "https://www.thehindu.com/news/national/maharashtra/124-villagers-voluntarily-hand-over-land-parcels-for-vadhvan-port-in-palghar-district/article70928293.ece",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "2c467ffff9ba",
+    "_fetched": "2026-05-01T13:56:18.728628+00:00",
+    "_relevance": 31,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 1854,
+    "title": "Noida International airport to start commercial flights from",
+    "cat": "india",
+    "upsc": false,
+    "time": "2026-05-01T13:58:31.242230+00:00",
+    "summary": "On March 28, 2026, Prime Minister Narendra Modi formally inaugurated the National Capital Region’s second airport, the Noida International Airport",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "The Hindu",
+    "link": "https://www.thehindu.com/news/national/uttar-pradesh/noida-international-airport-to-start-commercial-flights-from-june-15/article70928246.ece",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "c903384cb947",
+    "_fetched": "2026-05-01T13:58:31.242230+00:00",
+    "_relevance": 31,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 1855,
+    "title": "US raises concerns at India’s duties on IP-intensive goods, ",
+    "cat": "economy",
+    "upsc": false,
+    "time": "2026-05-01T14:00:43.757265+00:00",
+    "summary": "The US has voiced concerns over India's high customs duties on IP-intensive products and its proposed mandatory blanket license for AI developers usin",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "ET Economy",
+    "link": "https://economictimes.indiatimes.com/news/economy/foreign-trade/us-raises-concerns-at-indias-duties-on-ip-intensive-goods-source-code-ai-working-paper/articleshow/130676261.cms",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "c38123a4e923",
+    "_fetched": "2026-05-01T14:00:43.757265+00:00",
+    "_relevance": 31,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
   }
 ]
