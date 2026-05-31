@@ -2258,5 +2258,599 @@
     "_difficulty": 2,
     "_directive": "discuss",
     "_mcqs": []
+  },
+  {
+    "id": 1841,
+    "title": "Capex Push",
+    "cat": "economy",
+    "upsc": true,
+    "time": "2026-05-01T19:21:46.770051+00:00",
+    "summary": "The government plans to sustain its capital expenditure push despite fiscal stress due to global uncertainties, focusing on highways, railways, shipping, ports, and urban development sectors. This move is crucial for UPSC as it reflects the government's priorities in infrastructure development and its impact on the economy. It connects to the syllabus area of economic development and infrastructure, which is a key aspect of GS3.",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": 80,
+        "label": "% of government expenditure allocated to infrastructure development"
+      },
+      {
+        "val": 2014,
+        "label": "Year the Make in India initiative was launched"
+      },
+      {
+        "val": 15,
+        "label": "% increase in GDP growth rate due to infrastructure development"
+      }
+    ],
+    "src": "The Hindu Business",
+    "link": "https://www.thehindu.com/business/Economy/government-to-sustain-capex-push-despite-fiscal-stress-due-to-global-uncertainties-finance-ministry-official/article70929561.ece",
+    "prelims": [
+      "The <strong>Five-Year Plans</strong> in India have historically played a significant role in allocating resources for infrastructure development, with the first plan (1951-1956) focusing on agriculture and irrigation. The subsequent plans have increasingly emphasized the importance of infrastructure in economic growth. The planning process involves the <strong>National Development Council</strong>, which reviews the plans and provides recommendations.",
+      "The <strong>Ministry of Finance</strong> is responsible for allocating funds for capital expenditure, and its <strong>Department of Expenditure</strong> oversees the implementation of these projects. The ministry works closely with other departments, such as the <strong>Department of Economic Affairs</strong>, to ensure that the expenditure is aligned with the country's economic goals.",
+      "The <strong>Public Private Partnership (PPP) model</strong> has been increasingly used in India for infrastructure development, allowing for private sector participation in projects such as highways, ports, and urban development. This model is governed by the <strong>PPP Guidelines</strong> issued by the Ministry of Finance, which provide a framework for the selection of private sector partners and the allocation of risks.",
+      "The <strong>Infrastructure Financing</strong> landscape in India has evolved significantly over the years, with the establishment of institutions such as the <strong>India Infrastructure Finance Company Limited (IIFCL)</strong> and the <strong>National Investment and Infrastructure Fund (NIIF)</strong>. These institutions provide financing options for infrastructure projects, helping to bridge the funding gap.",
+      "The <strong>Make in India</strong> initiative, launched in 2014, aims to promote manufacturing in India and create jobs, with a focus on developing infrastructure to support this growth. The initiative is overseen by the <strong>Department of Industrial Policy and Promotion (DIPP)</strong>, which works closely with state governments and industry stakeholders to implement the program."
+    ],
+    "mains": {
+      "q": "Analyze the role of capital expenditure in promoting economic growth in India, with a focus on the government's priorities in infrastructure development.",
+      "marks": "15 marks · GS3",
+      "directive": "analyze",
+      "hints": [
+        "Introduction (2 marks): Define capital expenditure and its significance in economic growth, highlighting the government's priorities in infrastructure development.",
+        "Body - Economic growth (3 marks): Discuss the impact of capital expenditure on GDP growth, employment generation, and poverty reduction, using examples of successful infrastructure projects in India.",
+        "Body - Infrastructure development (3 marks): Examine the government's priorities in infrastructure development, including the focus on highways, railways, shipping, ports, and urban development, and the role of the Ministry of Finance in allocating funds for these projects.",
+        "Body - Challenges (3 marks): Analyze the challenges faced by the government in implementing infrastructure projects, including funding constraints, regulatory hurdles, and environmental concerns, and discuss potential solutions to address these challenges.",
+        "Conclusion (2 marks): Summarize the importance of capital expenditure in promoting economic growth and the need for the government to sustain its push for infrastructure development, despite fiscal stress and global uncertainties."
+      ]
+    },
+    "connect": [
+      {
+        "topic": "Fiscal Policy and Budgeting",
+        "context": "The government's capital expenditure push reflects its fiscal policy priorities, which are critical for economic growth and development."
+      },
+      {
+        "topic": "Infrastructure Development and Urban Planning",
+        "context": "The focus on highways, railways, shipping, ports, and urban development connects to the broader theme of infrastructure development and urban planning, which is a key aspect of GS3."
+      },
+      {
+        "topic": "Public Private Partnerships (PPPs)",
+        "context": "The use of PPPs in infrastructure development is a significant trend in India, with implications for economic growth, job creation, and resource allocation."
+      },
+      {
+        "topic": "Economic Growth and Development",
+        "context": "The government's capital expenditure push is aimed at promoting economic growth and development, which is a critical aspect of GS3, and connects to broader themes such as poverty reduction and employment generation."
+      },
+      {
+        "topic": "Government Policies and Schemes",
+        "context": "The government's priorities in infrastructure development reflect its policy priorities, which are critical for understanding the broader context of economic development and growth in India."
+      }
+    ],
+    "_hash": "78c9ac2177a2",
+    "_fetched": "2026-05-01T19:21:46.770051+00:00",
+    "_relevance": 69,
+    "_gs": [
+      "GS2",
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "analyze",
+    "_mcqs": {
+      "q": "Consider the following statements:\n1. The government's capital expenditure push is focused solely on highways and railways.\n2. The Ministry of Finance is responsible for allocating funds for capital expenditure.\n3. The Public Private Partnership (PPP) model is not used in India for infrastructure development.\nWhich of the above is/are correct?",
+      "options": [
+        "1 only",
+        "1 and 2 only",
+        "2 and 3 only",
+        "1, 2 and 3"
+      ],
+      "correct": 1,
+      "explanation": "Statement 1 is incorrect: The government's capital expenditure push is focused on highways, railways, shipping, ports, and urban development. Statement 2 is correct: The Ministry of Finance is indeed responsible for allocating funds for capital expenditure. Statement 3 is incorrect: The PPP model is used in India for infrastructure development.",
+      "trap": "Absolute Language"
+    }
+  },
+  {
+    "id": 1842,
+    "title": "India's Capex Plans",
+    "cat": "economy",
+    "upsc": true,
+    "time": "2026-05-01T19:22:03.872714+00:00",
+    "summary": "India plans to maintain its high capital spending in FY27 to support economic growth, focusing on priority sectors like urban infrastructure and railways. This move is significant for UPSC as it reflects the government's economic policy and its impact on the country's development. It connects to the syllabus area of economic development and infrastructure, which is a crucial aspect of GS3.",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": 75,
+        "label": "% of Indian cargo transshipped via foreign ports"
+      },
+      {
+        "val": 2014,
+        "label": "Year the Make in India initiative was launched"
+      },
+      {
+        "val": 2020,
+        "label": "Year the Atmanirbhar Bharat Abhiyan was launched"
+      }
+    ],
+    "src": "ET Economy",
+    "link": "https://economictimes.indiatimes.com/news/economy/finance/govt-to-continue-with-budgeted-capex-despite-fiscal-stress-due-to-global-uncertainties-official/articleshow/130673201.cms",
+    "prelims": [
+      "The <strong>Five-Year Plans</strong> in India were replaced by the <strong>National Development Council (NDC)</strong> and the <strong>Planning Commission</strong> in 2015, which was later replaced by the <strong>NITI Aayog</strong> in 2015. The NITI Aayog plays a crucial role in formulating India's economic policies, including the allocation of capital expenditure. The <strong>12th Five-Year Plan (2012-2017)</strong> emphasized the need for increased investment in infrastructure to boost economic growth.",
+      "The <strong>Ministry of Finance</strong> is responsible for formulating and implementing the government's economic policies, including the allocation of capital expenditure. The <strong>Department of Economic Affairs (DEA)</strong> within the Ministry of Finance plays a key role in this process. The <strong>Fiscal Responsibility and Budget Management (FRBM) Act, 2003</strong> provides a framework for the government to manage its finances and allocate resources effectively.",
+      "The <strong>Public-Private Partnership (PPP) model</strong> is being increasingly used in India to develop infrastructure projects, including urban infrastructure and railways. The <strong>PPP model</strong> allows for private sector participation in the development of public infrastructure, which can help to reduce the financial burden on the government. The <strong>Vienna Convention on the Law of Treaties, 1969</strong> provides a framework for international cooperation in the development of infrastructure projects.",
+      "The <strong>Make in India initiative</strong> was launched in 2014 to promote manufacturing in India and increase the country's competitiveness in the global market. The initiative aims to create jobs, boost economic growth, and increase foreign investment in the country. The <strong>Make in India initiative</strong> is closely linked to the government's plans to increase capital expenditure in priority sectors like urban infrastructure and railways.",
+      "The <strong>Atmanirbhar Bharat Abhiyan (Self-Reliant India Mission)</strong> was launched in 2020 to promote self-reliance in India and reduce the country's dependence on foreign imports. The mission aims to promote domestic manufacturing, increase exports, and create jobs. The <strong>Atmanirbhar Bharat Abhiyan</strong> is closely linked to the government's plans to increase capital expenditure in priority sectors like urban infrastructure and railways."
+    ],
+    "mains": {
+      "q": "Analyze the role of capital expenditure in promoting economic growth in India, with a focus on the government's plans to increase spending in priority sectors like urban infrastructure and railways.",
+      "marks": "15 marks · GS3",
+      "directive": "analyze",
+      "hints": [
+        "Introduction (2 marks): Define capital expenditure and its significance in promoting economic growth, with reference to the <strong>Keynesian theory of economic growth</strong>.",
+        "Body - Economic benefits (3 marks): Discuss the economic benefits of increased capital expenditure in priority sectors like urban infrastructure and railways, including the creation of jobs, increase in economic growth, and improvement in the standard of living.",
+        "Body - Challenges (3 marks): Examine the challenges associated with increasing capital expenditure, including the need for effective resource allocation, the risk of inflation, and the potential for corruption.",
+        "Body - Policy framework (3 marks): Analyze the policy framework for capital expenditure in India, including the role of the <strong>NITI Aayog</strong>, the <strong>Ministry of Finance</strong>, and the <strong>Public-Private Partnership (PPP) model</strong>.",
+        "Conclusion (2 marks): Summarize the importance of capital expenditure in promoting economic growth in India and suggest ways to address the challenges associated with increasing capital expenditure, with reference to the <strong>Sustainable Development Goals (SDGs)</strong>."
+      ]
+    },
+    "connect": [
+      {
+        "topic": "Fiscal Policy and Budgeting",
+        "context": "The government's plan to increase capital expenditure in priority sectors like urban infrastructure and railways reflects its fiscal policy and budgeting strategy, which is a crucial aspect of GS3."
+      },
+      {
+        "topic": "Infrastructure Development and Urban Planning",
+        "context": "The development of urban infrastructure and railways is a key aspect of India's infrastructure development strategy, which is closely linked to the government's plans to increase capital expenditure."
+      },
+      {
+        "topic": "Public-Private Partnership (PPP) Model",
+        "context": "The <strong>PPP model</strong> is being used to develop infrastructure projects in India, including urban infrastructure and railways, which is a key aspect of the government's economic policy."
+      },
+      {
+        "topic": "Make in India Initiative and Manufacturing Policy",
+        "context": "The <strong>Make in India initiative</strong> aims to promote manufacturing in India and increase the country's competitiveness in the global market, which is closely linked to the government's plans to increase capital expenditure in priority sectors."
+      },
+      {
+        "topic": "Atmanirbhar Bharat Abhiyan and Self-Reliance",
+        "context": "The <strong>Atmanirbhar Bharat Abhiyan</strong> aims to promote self-reliance in India and reduce the country's dependence on foreign imports, which is closely linked to the government's plans to increase capital expenditure in priority sectors."
+      }
+    ],
+    "_hash": "4fffb3ae28a4",
+    "_fetched": "2026-05-01T19:22:03.872714+00:00",
+    "_relevance": 62,
+    "_gs": [
+      "GS2",
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "analyze",
+    "_mcqs": {
+      "q": "Consider the following statements:\n1. The government's plan to increase capital expenditure in priority sectors like urban infrastructure and railways is expected to create jobs and boost economic growth.\n2. The <strong>Public-Private Partnership (PPP) model</strong> is being used to develop infrastructure projects in India.\n3. The <strong>Make in India initiative</strong> aims to promote manufacturing in India and increase the country's competitiveness in the global market.\nWhich of the above is/are correct?",
+      "options": [
+        "1 only",
+        "1 and 2 only",
+        "2 and 3 only",
+        "1, 2 and 3"
+      ],
+      "correct": 3,
+      "explanation": "Statement 1 is correct: The government's plan to increase capital expenditure in priority sectors like urban infrastructure and railways is expected to create jobs and boost economic growth. Statement 2 is correct: The <strong>Public-Private Partnership (PPP) model</strong> is being used to develop infrastructure projects in India. Statement 3 is correct: The <strong>Make in India initiative</strong> aims to promote manufacturing in India and increase the country's competitiveness in the global market.",
+      "trap": "Absolute Language"
+    }
+  },
+  {
+    "id": 1843,
+    "title": "US-EU Tariff Dispute",
+    "cat": "world",
+    "upsc": true,
+    "time": "2026-05-01T19:22:20.191998+00:00",
+    "summary": "The US has announced a 25% tariff on automobiles from the EU, citing non-compliance with the Turnberry Agreement. This move has significant implications for UPSC aspirants, particularly in understanding international trade agreements and their impact on global economies. The dispute also connects to the syllabus area of international relations and global governance.",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": 25,
+        "label": "US tariff on EU automobiles (%)"
+      },
+      {
+        "val": 1930,
+        "label": "Year of the Tariff Act"
+      },
+      {
+        "val": 1947,
+        "label": "Year of GATT establishment"
+      }
+    ],
+    "src": "The Hindu International",
+    "link": "https://www.thehindu.com/news/international/trump-says-hell-place-25-tariff-on-autos-from-eu-accusing-bloc-of-not-complying-with-trade-deal/article70929464.ece",
+    "prelims": [
+      "The <strong>General Agreement on Tariffs and Trade (GATT)</strong> is a multilateral agreement aimed at reducing tariffs and promoting free trade among its member countries. Established in 1947, GATT has undergone several rounds of negotiations, with the most recent being the Uruguay Round. The agreement has been instrumental in shaping international trade policies and has played a crucial role in the establishment of the World Trade Organization (WTO).",
+      "The <strong>World Trade Organization (WTO)</strong> is an international organization that oversees global trade and ensures that its member countries adhere to the rules and agreements established under GATT. The WTO has a dispute settlement body that resolves trade disputes between its member countries, and its decisions are binding on all parties involved. The organization has been instrumental in promoting free trade and reducing trade barriers.",
+      "The <strong>Tariff Act of 1930</strong>, also known as the Smoot-Hawley Tariff, is a US law that raised tariffs on imported goods to record levels. The law is often cited as an example of protectionist policies that can lead to trade wars and have negative consequences for the global economy. The law has been criticized for its role in exacerbating the Great Depression and has been used as a cautionary tale in international trade negotiations.",
+      "The <strong>European Union (EU)</strong> is a political and economic union of 27 European countries that aims to promote economic integration and cooperation among its member states. The EU has a common trade policy and negotiates trade agreements on behalf of its member countries. The EU is one of the largest trading blocs in the world and plays a significant role in global trade negotiations.",
+      "The <strong>Turnberry Agreement</strong> is a trade agreement between the US and the EU that aims to reduce tariffs and promote free trade between the two economies. The agreement is named after the Turnberry golf course in Scotland, where the agreement was negotiated. The agreement has been instrumental in promoting trade between the US and the EU and has helped to reduce trade tensions between the two economies."
+    ],
+    "mains": {
+      "q": "Analyze the implications of the US-EU tariff dispute on global trade and the world economy.",
+      "marks": "15 marks · GS3",
+      "directive": "analyze",
+      "hints": [
+        "Introduction (2 marks): Define the concept of tariffs and their impact on international trade, and provide an overview of the US-EU tariff dispute.",
+        "Body - Economic implications (4 marks): Discuss the potential economic implications of the tariff dispute, including the impact on trade volumes, prices, and employment.",
+        "Body - Global trade implications (4 marks): Analyze the implications of the tariff dispute on global trade, including the potential for trade wars and the impact on other countries.",
+        "Body - WTO and dispute settlement (3 marks): Examine the role of the WTO in resolving trade disputes and the potential implications of the tariff dispute for the WTO.",
+        "Conclusion (2 marks): Summarize the main points and provide a conclusion on the implications of the US-EU tariff dispute for global trade and the world economy."
+      ]
+    },
+    "connect": [
+      {
+        "topic": "International Trade Agreements",
+        "context": "The US-EU tariff dispute highlights the importance of international trade agreements in promoting free trade and reducing trade barriers."
+      },
+      {
+        "topic": "WTO and Dispute Settlement",
+        "context": "The WTO plays a crucial role in resolving trade disputes between countries, and its decisions are binding on all parties involved."
+      },
+      {
+        "topic": "Protectionism and Trade Wars",
+        "context": "The Tariff Act of 1930 is an example of a protectionist policy that led to a trade war, and its consequences are still studied today."
+      },
+      {
+        "topic": "Global Governance and International Relations",
+        "context": "The US-EU tariff dispute has implications for global governance and international relations, and highlights the need for cooperation and diplomacy in resolving trade disputes."
+      },
+      {
+        "topic": "Economic Integration and Cooperation",
+        "context": "The EU is an example of economic integration and cooperation, and its common trade policy has helped to promote trade between its member countries."
+      }
+    ],
+    "_hash": "d0f5c31ec46d",
+    "_fetched": "2026-05-01T19:22:20.191998+00:00",
+    "_relevance": 50,
+    "_gs": [
+      "GS2",
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "analyze",
+    "_mcqs": {
+      "q": "Consider the following statements:\n1. The US-EU tariff dispute is a result of the EU's non-compliance with the Turnberry Agreement.\n2. The WTO has the authority to impose tariffs on countries that violate international trade agreements.\n3. The Tariff Act of 1930 is an example of a protectionist policy that led to a trade war.\nWhich of the above is/are correct?",
+      "options": [
+        "1 only",
+        "1 and 2 only",
+        "2 and 3 only",
+        "1, 2 and 3"
+      ],
+      "correct": 3,
+      "explanation": "Statement 1 is correct: The US-EU tariff dispute is indeed a result of the EU's non-compliance with the Turnberry Agreement. Statement 2 is incorrect: The WTO does not have the authority to impose tariffs on countries that violate international trade agreements. Statement 3 is correct: The Tariff Act of 1930 is indeed an example of a protectionist policy that led to a trade war.",
+      "trap": "Wrong Ministry"
+    }
+  },
+  {
+    "id": 1844,
+    "title": "₹1 lakh crore investment push for aerospace, defence section",
+    "cat": "science",
+    "upsc": false,
+    "time": "2026-05-01T19:24:32.840501+00:00",
+    "summary": "The DRDO defence manufacturing facility, for which 350 acres has been allocated in Puttaparthi,  is poised to be one of country’s largest aerospace an",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "The Hindu",
+    "link": "https://www.thehindu.com/news/national/andhra-pradesh/1-lakh-crore-investment-push-for-aerospace-defence-section-in-andhra-pradesh/article70928201.ece",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "2c3c833ec6fd",
+    "_fetched": "2026-05-01T19:24:32.840501+00:00",
+    "_relevance": 49,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 1845,
+    "title": "‘Sustainable healthcare practices key to future’",
+    "cat": "tech",
+    "upsc": false,
+    "time": "2026-05-01T19:26:45.584455+00:00",
+    "summary": "Doctors’ role critical in helping the country achieve its vision of becoming a developed nation by 2047, says the director of the National Institute f",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "The Hindu",
+    "link": "https://www.thehindu.com/news/national/karnataka/sustainable-healthcare-practices-key-to-future-says-icmr-expert/article70928244.ece",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "14fedbd801d7",
+    "_fetched": "2026-05-01T19:26:45.584455+00:00",
+    "_relevance": 46,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 1846,
+    "title": "Asian Americans report highest anxiety in US as Trump admin ",
+    "cat": "world",
+    "upsc": false,
+    "time": "2026-05-01T19:28:58.341730+00:00",
+    "summary": "A new survey finds Asian Americans report the highest anxiety levels in the US, years after pandemic-era violence. Despite declining hate crimes, conc",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "LiveMint",
+    "link": "https://www.livemint.com/news/us-news/asian-americans-report-highest-anxiety-in-us-as-trump-admin-hardens-stance-on-immigration-citizenship-survey-11777655756621.html",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "8e58b2d31699",
+    "_fetched": "2026-05-01T19:28:58.341730+00:00",
+    "_relevance": 46,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 1847,
+    "title": "Govt. absorbed global oil shock, didn’t pass it on to consum",
+    "cat": "india",
+    "upsc": false,
+    "time": "2026-05-01T19:31:11.058872+00:00",
+    "summary": "Petroleum Minister says India has remained resilient even after 60 days of supply disruption and attributed the stability to long-term planning and ti",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "The Hindu",
+    "link": "https://www.thehindu.com/news/national/govt-absorbed-global-oil-shock-didnt-pass-it-on-to-consumers-hardeep-puri/article70928855.ece",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "02cd33a3aa65",
+    "_fetched": "2026-05-01T19:31:11.058872+00:00",
+    "_relevance": 44,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 1848,
+    "title": "First talks under new Manipur government held with Kuki-Zo i",
+    "cat": "tech",
+    "upsc": false,
+    "time": "2026-05-01T19:33:23.826011+00:00",
+    "summary": "A joint statement by the KNO and the UPF said that the day-long discussions focused on operational and security-related issues and “both sides broadly",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "The Hindu",
+    "link": "https://www.thehindu.com/news/national/manipur/first-talks-under-new-manipur-government-held-with-kuki-zo-insurgent-groups/article70929230.ece",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "91acf72f4f87",
+    "_fetched": "2026-05-01T19:33:23.826011+00:00",
+    "_relevance": 39,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 1849,
+    "title": "India–Tanzania trade crosses $9 billion in 2025–26; both sid",
+    "cat": "economy",
+    "upsc": false,
+    "time": "2026-05-01T19:35:36.474687+00:00",
+    "summary": "At the 5th India–Tanzania Joint Trade Committee meeting in Dar es Salaam, both sides reviewed progress and identified areas for deeper cooperation, th",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "LiveMint",
+    "link": "https://www.livemint.com/news/india/indiatanzania-trade-crosses-9-billion-in-2025-26-both-sides-reaffirm-push-to-deepen-economic-ties-11777646479199.html",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "f32954902b25",
+    "_fetched": "2026-05-01T19:35:36.474687+00:00",
+    "_relevance": 39,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 1850,
+    "title": "Amid traffic woes on Mumbai-Pune highway, Maharashtra govt. ",
+    "cat": "india",
+    "upsc": false,
+    "time": "2026-05-01T19:37:49.169162+00:00",
+    "summary": "As the long-awaited project was thrown open by Chief Minister Devendra Fadnavis, the inauguration took some shine away as commuters got stuck for near",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "The Hindu",
+    "link": "https://www.thehindu.com/news/national/maharashtra/amid-traffic-woes-on-mumbai-pune-highway-maharashtra-govt-inaugurates-missing-link-project/article70929418.ece",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "1f1ba568dcb3",
+    "_fetched": "2026-05-01T19:37:49.169162+00:00",
+    "_relevance": 36,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 1851,
+    "title": "Allahabad HC junks plea for sedition case against Rahul Gand",
+    "cat": "india",
+    "upsc": false,
+    "time": "2026-05-01T19:40:01.967974+00:00",
+    "summary": "Court says criticism of government action or policies is not only permitted but is essential in a parliamentary democracy",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "The Hindu",
+    "link": "https://www.thehindu.com/news/national/allahabad-hc-dismisses-plea-seeking-fir-against-rahul-gandhi-over-2025-fighting-indian-state-remark/article70927955.ece",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "164db76d982f",
+    "_fetched": "2026-05-01T19:40:01.967974+00:00",
+    "_relevance": 36,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 1852,
+    "title": "‘Election bill’, says Rahul Gandhi on commercial LPG price h",
+    "cat": "india",
+    "upsc": false,
+    "time": "2026-05-01T19:42:14.690322+00:00",
+    "summary": "Rahul Gandhi says the latest increase is proof that burden of inflation would intensify after polls; K.C. Venugopal says hike will affect ‘crores’; Kh",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "The Hindu",
+    "link": "https://www.thehindu.com/business/Economy/election-bill-rahul-slams-government-on-commercial-lpg-price-hike/article70928083.ece",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "d8be60b0e6aa",
+    "_fetched": "2026-05-01T19:42:14.690322+00:00",
+    "_relevance": 31,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 1853,
+    "title": "Hemant Soren launches self-enumeration phase of Census 2027 ",
+    "cat": "world",
+    "upsc": false,
+    "time": "2026-05-01T19:44:27.416837+00:00",
+    "summary": "Census not merely about collecting statistics, but serves as the foundation for policy and welfare schemes, says Mr. Soren; appeals to Jharkhand resid",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "The Hindu",
+    "link": "https://www.thehindu.com/news/national/jharkhand/hemant-soren-launches-self-enumeration-phase-of-census-2027in-jharkhand/article70928494.ece",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "d03af8e3a364",
+    "_fetched": "2026-05-01T19:44:27.416837+00:00",
+    "_relevance": 31,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "sc-judgment",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 1854,
+    "title": "Govt grants relief to firms hit by West Asia disruptions, ex",
+    "cat": "tech",
+    "upsc": false,
+    "time": "2026-05-01T19:46:40.163108+00:00",
+    "summary": "The relief applies to contracts with government agencies across goods, services and works, an Office Memorandum, issued by the Department of Expenditu",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "The Hindu",
+    "link": "https://www.thehindu.com/news/national/govt-grants-relief-to-firms-hit-by-west-asia-disruptions-extends-contract-deadlines-without-penalty/article70929207.ece",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "b566fd6fe46f",
+    "_fetched": "2026-05-01T19:46:40.163108+00:00",
+    "_relevance": 31,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
   }
 ]
