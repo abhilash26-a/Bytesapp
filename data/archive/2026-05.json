@@ -3374,5 +3374,531 @@
       "explanation": "Statement 1 is correct: The Iranian Revolutionary Guard was indeed established in 1979. Statement 2 is incorrect: Zanjan is located in the northwestern part of Iran. Statement 3 is correct: The Geneva Conventions do emphasize the importance of distinguishing between military targets and civilians.",
       "trap": "Wrong geographical location"
     }
+  },
+  {
+    "id": 1846,
+    "title": "RBI Deputy Governor",
+    "cat": "economy",
+    "upsc": true,
+    "time": "2026-05-02T10:04:05.692495+00:00",
+    "summary": "Rohit Jain has been appointed as the new deputy governor of the Reserve Bank of India. This appointment is significant for UPSC as it relates to the governance and structure of the central bank, which is crucial for understanding India's economic policies. The appointment also highlights the importance of the RBI in regulating the country's financial system.",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": 1935,
+        "label": "Year the Reserve Bank of India was established"
+      },
+      {
+        "val": 1949,
+        "label": "Year the Banking Regulation Act was passed"
+      },
+      {
+        "val": 2010,
+        "label": "Year the Financial Stability and Development Council was established"
+      }
+    ],
+    "src": "ET Economy",
+    "link": "https://economictimes.indiatimes.com/news/economy/policy/rohit-jain-appointed-rbi-deputy-governor-for-three-year-term/articleshow/130713553.cms",
+    "prelims": [
+      "The <strong>Reserve Bank of India (RBI)</strong> was established in 1935 under the Reserve Bank of India Act, 1934. It has its headquarters in Mumbai and is responsible for regulating the country's monetary policy. The RBI is also responsible for maintaining the country's foreign exchange reserves.",
+      "The <strong>deputy governor of the RBI</strong> is a key position that plays a crucial role in the governance and decision-making process of the central bank. The deputy governor is responsible for overseeing various departments of the RBI, including the monetary policy department and the financial stability department.",
+      "The <strong>Monetary Policy Committee (MPC)</strong> is a committee of the RBI that is responsible for setting the country's monetary policy. The MPC is headed by the governor of the RBI and includes other members, such as the deputy governor and external experts. The MPC meets regularly to review the country's economic conditions and make decisions on interest rates and other monetary policy tools.",
+      "The <strong>Banking Regulation Act, 1949</strong> is a legislation that regulates the banking sector in India. The act gives the RBI the power to regulate and supervise banks, and also provides for the establishment of a deposit insurance system to protect depositors' funds.",
+      "The <strong>Financial Stability and Development Council (FSDC)</strong> is a council that was established in 2010 to oversee the country's financial stability and development. The FSDC is headed by the finance minister and includes other members, such as the governor of the RBI and the chairman of the Securities and Exchange Board of India (SEBI)."
+    ],
+    "mains": {
+      "q": "Analyze the role of the Reserve Bank of India in regulating the country's financial system.",
+      "marks": "15 marks · GS3",
+      "directive": "analyze",
+      "hints": [
+        "Introduction (2 marks): Define the Reserve Bank of India and its role in regulating the country's financial system.",
+        "Body - Monetary policy (3 marks): Explain the monetary policy tools used by the RBI, such as interest rates and reserve requirements.",
+        "Body - Banking regulation (3 marks): Discuss the RBI's role in regulating and supervising banks, including the use of prompt corrective action (PCA).",
+        "Body - Financial stability (3 marks): Analyze the RBI's role in maintaining financial stability, including its use of macroprudential policies.",
+        "Conclusion (2 marks): Summarize the importance of the RBI's role in regulating the country's financial system and its impact on the economy."
+      ]
+    },
+    "connect": [
+      {
+        "topic": "Monetary Policy and Central Banking",
+        "context": "The RBI's monetary policy decisions have a significant impact on the country's economy, making it a crucial topic for UPSC."
+      },
+      {
+        "topic": "Banking Regulation and Supervision",
+        "context": "The RBI's role in regulating and supervising banks is essential for maintaining financial stability and preventing bank failures."
+      },
+      {
+        "topic": "Financial Stability and Development",
+        "context": "The FSDC's role in overseeing the country's financial stability and development is critical for maintaining economic growth and stability."
+      },
+      {
+        "topic": "Economic Governance and Institutions",
+        "context": "The RBI's governance structure and decision-making process are important for understanding the country's economic policies and institutions."
+      },
+      {
+        "topic": "Fiscal Policy and Public Finance",
+        "context": "The RBI's role in regulating the country's financial system has implications for fiscal policy and public finance, making it a relevant topic for UPSC."
+      }
+    ],
+    "_hash": "5d1377c2f709",
+    "_fetched": "2026-05-02T10:04:05.692495+00:00",
+    "_relevance": 45,
+    "_gs": [
+      "GS2",
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 1,
+    "_directive": "analyze",
+    "_mcqs": {
+      "q": "Consider the following statements:\n1. The Reserve Bank of India was established in 1935.\n2. The deputy governor of the RBI is responsible for overseeing the monetary policy department.\n3. The Banking Regulation Act, 1949 gives the RBI the power to regulate and supervise banks.\nWhich of the above is/are correct?",
+      "options": [
+        "1 only",
+        "1 and 2 only",
+        "2 and 3 only",
+        "1, 2 and 3"
+      ],
+      "correct": 3,
+      "explanation": "Statement 1 is correct: The Reserve Bank of India was indeed established in 1935. Statement 2 is correct: The deputy governor of the RBI is responsible for overseeing various departments, including the monetary policy department. Statement 3 is correct: The Banking Regulation Act, 1949 does give the RBI the power to regulate and supervise banks.",
+      "trap": "Timeline Confusion"
+    }
+  },
+  {
+    "id": 1847,
+    "title": "Nifty Range Bound",
+    "cat": "economy",
+    "upsc": true,
+    "time": "2026-05-02T10:04:21.097194+00:00",
+    "summary": "Nifty 50 traded within a narrow range, closing slightly higher amid rising volatility and weak momentum indicators. This is significant for UPSC as it reflects the current state of the Indian economy and its potential impact on economic development. The trend also connects to the syllabus area of economic development and policies.",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": 1992,
+        "label": "Year the National Stock Exchange (NSE) was established"
+      },
+      {
+        "val": 7,
+        "label": "GDP growth rate of India in recent years (%)"
+      },
+      {
+        "val": 2,
+        "label": "Number of main stock exchanges in India (NSE and BSE)"
+      }
+    ],
+    "src": "Economic Times",
+    "link": "https://economictimes.indiatimes.com/markets/stocks/news/nifty-stays-range-bound-as-volatility-rises-breakout-awaited/articleshow/130713529.cms",
+    "prelims": [
+      "<strong>National Stock Exchange (NSE)</strong> is the largest stock exchange in India, established in 1992, and is regulated by the Securities and Exchange Board of India (SEBI). It has a total market capitalization of over ₹2,00,00,000 crores. The NSE is also a member of the World Federation of Exchanges (WFE) and the International Organization of Securities Commissions (IOSCO).",
+      "<strong>Securities and Exchange Board of India (SEBI)</strong> was established in 1992 under the SEBI Act, 1992, and is responsible for regulating the Indian securities market. SEBI has its headquarters in Mumbai and has four regional offices in New Delhi, Kolkata, Chennai, and Ahmedabad. It is also responsible for overseeing the functioning of stock exchanges, brokers, and other market intermediaries.",
+      "<strong>Indian economy</strong> has been growing rapidly over the past few decades, with a GDP growth rate of over 7% in recent years. The country has also made significant progress in reducing poverty and improving living standards. However, the economy still faces several challenges, including a large fiscal deficit, high inflation, and a significant trade deficit.",
+      "<strong>Monetary policy</strong> in India is formulated by the Reserve Bank of India (RBI), which is responsible for maintaining price stability and promoting economic growth. The RBI uses various tools, such as interest rates and money supply, to regulate the money market and control inflation. The RBI also plays a crucial role in regulating the banking system and maintaining financial stability.",
+      "<strong>Fiscal policy</strong> in India is formulated by the Ministry of Finance, which is responsible for preparing the annual budget and implementing fiscal policies. The government uses fiscal policy to achieve its economic objectives, such as reducing poverty, promoting economic growth, and improving living standards. The government also uses fiscal policy to regulate the economy and maintain macroeconomic stability."
+    ],
+    "mains": {
+      "q": "Analyze the impact of rising volatility in the Indian stock market on the country's economic development.",
+      "marks": "15 marks · GS3",
+      "directive": "analyze",
+      "hints": [
+        "Introduction (2 marks): Define volatility in the context of the stock market and its potential impact on economic development.",
+        "Body - Causes of volatility (3 marks): Discuss the possible causes of rising volatility in the Indian stock market, including global economic trends, domestic economic factors, and geopolitical events.",
+        "Body - Impact on economic development (3 marks): Analyze the potential impact of rising volatility on economic development, including its effects on investment, consumption, and employment.",
+        "Body - Policy responses (3 marks): Discuss the possible policy responses to rising volatility, including monetary and fiscal policy measures, and their potential effectiveness.",
+        "Conclusion (2 marks): Summarize the main points and suggest ways to mitigate the negative impact of rising volatility on economic development."
+      ]
+    },
+    "connect": [
+      {
+        "topic": "Monetary Policy and its Instruments",
+        "context": "The RBI uses monetary policy to regulate the money market and control inflation, which has a direct impact on the stock market and economic development."
+      },
+      {
+        "topic": "Fiscal Policy and its Objectives",
+        "context": "The government uses fiscal policy to achieve its economic objectives, such as reducing poverty and promoting economic growth, which can also impact the stock market and economic development."
+      },
+      {
+        "topic": "Indian Economy and its Challenges",
+        "context": "The Indian economy faces several challenges, including a large fiscal deficit, high inflation, and a significant trade deficit, which can impact the stock market and economic development."
+      },
+      {
+        "topic": "Securities and Exchange Board of India (SEBI) and its Functions",
+        "context": "SEBI is responsible for regulating the Indian securities market, which includes the stock market, and plays a crucial role in maintaining financial stability."
+      },
+      {
+        "topic": "Global Economic Trends and their Impact on India",
+        "context": "Global economic trends, such as changes in oil prices and trade policies, can have a significant impact on the Indian stock market and economic development."
+      }
+    ],
+    "_hash": "8b687f1e9204",
+    "_fetched": "2026-05-02T10:04:21.097194+00:00",
+    "_relevance": 34,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "analyze",
+    "_mcqs": {
+      "q": "Consider the following statements:\n1. The National Stock Exchange (NSE) is the largest stock exchange in India.\n2. The Securities and Exchange Board of India (SEBI) is responsible for regulating the Indian securities market.\n3. The Reserve Bank of India (RBI) is responsible for formulating monetary policy in India.\nWhich of the above is/are correct?",
+      "options": [
+        "1 only",
+        "1 and 2 only",
+        "2 and 3 only",
+        "1, 2 and 3"
+      ],
+      "correct": 3,
+      "explanation": "Statement 1 is correct: The NSE is indeed the largest stock exchange in India. Statement 2 is correct: SEBI is responsible for regulating the Indian securities market. Statement 3 is correct: The RBI is responsible for formulating monetary policy in India.",
+      "trap": "Absolute Language"
+    }
+  },
+  {
+    "id": 1848,
+    "title": "Patnaik seeks ‘humane banking administration’ after  tribal ",
+    "cat": "economy",
+    "upsc": false,
+    "time": "2026-05-02T10:06:33.462925+00:00",
+    "summary": "The BJD supremo, in a letter, urges the Union Finance Minister to ensure that clear accountability be immediately fixed for this recent incident, whic",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "The Hindu",
+    "link": "https://www.thehindu.com/news/national/odisha/patnaik-seeks-humane-banking-administration-after-tribal-man-carries-sisters-skeleton-to-bank/article70931348.ece",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "31a47a6361c1",
+    "_fetched": "2026-05-02T10:06:33.462925+00:00",
+    "_relevance": 31,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 1849,
+    "title": "India and Ecuador exploring preferential trade deal to boost",
+    "cat": "economy",
+    "upsc": false,
+    "time": "2026-05-02T10:08:45.809923+00:00",
+    "summary": "Ways to further solidify bilateral relations were the focus of talks between External Affairs Minister S. Jaishankar and his Ecuadorian counterpart Ga",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "The Hindu",
+    "link": "https://www.thehindu.com/news/national/india-and-ecuador-exploring-preferential-trade-deal-to-boost-economic-ties/article70931375.ece",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "24f33bfa365f",
+    "_fetched": "2026-05-02T10:08:45.809923+00:00",
+    "_relevance": 31,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 1850,
+    "title": "RBI on Financial Markets",
+    "cat": "economy",
+    "upsc": true,
+    "time": "2026-05-02T07:54:14.962962+00:00",
+    "summary": "RBI Governor Sanjay Malhotra emphasized the need for deeper and more efficient financial markets in India. This is crucial for UPSC as it relates to India's economic development and the role of the RBI in regulating the financial sector. The topic connects to the syllabus area of economic development and financial markets.",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": 1935,
+        "label": "Year the RBI was established"
+      },
+      {
+        "val": 2016,
+        "label": "Year the Monetary Policy Committee was set up"
+      },
+      {
+        "val": 2010,
+        "label": "Year the Financial Stability and Development Council was set up"
+      }
+    ],
+    "src": "ET Economy",
+    "link": "https://economictimes.indiatimes.com/news/economy/policy/rbi-governor-malhotra-calls-for-deeper-more-efficient-financial-markets-as-india-shows-resilience-amid-global-headwinds/articleshow/130709953.cms",
+    "prelims": [
+      "The <strong>Reserve Bank of India (RBI)</strong> was established in 1935 under the Reserve Bank of India Act, 1934. It has its headquarters in Mumbai and is responsible for regulating the monetary policy of India. The RBI plays a crucial role in maintaining the stability of the financial system.",
+      "The <strong>Monetary Policy Committee (MPC)</strong> was set up in 2016 under the Reserve Bank of India Act, 1934. It is responsible for deciding the monetary policy of India, including the repo rate and the reverse repo rate. The MPC consists of six members, including the Governor of the RBI.",
+      "The <strong>Financial Stability and Development Council (FSDC)</strong> was set up in 2010 to oversee the stability of the financial system in India. It is chaired by the Finance Minister and includes the Governor of the RBI, the Chairman of the SEBI, and the Chairman of the IRDAI. The FSDC plays a crucial role in coordinating the regulatory efforts of different financial sector regulators.",
+      "The <strong>Insolvency and Bankruptcy Code (IBC)</strong> was enacted in 2016 to provide a framework for the resolution of insolvency in India. It has helped in improving the ease of doing business in India and has provided a mechanism for the resolution of stressed assets. The IBC has been amended several times to make it more effective.",
+      "The <strong>Payment and Settlement Systems Act, 2007</strong> provides a framework for the regulation and supervision of payment and settlement systems in India. It has helped in promoting the digital payment ecosystem in India and has provided a safe and efficient mechanism for the transfer of funds."
+    ],
+    "mains": {
+      "q": "Analyze the role of the Reserve Bank of India in regulating the financial sector in India.",
+      "marks": "15 marks · GS3",
+      "directive": "analyze",
+      "hints": [
+        "Introduction (2 marks): Define the role of the RBI in regulating the financial sector in India and its significance in maintaining financial stability.",
+        "Body - Monetary Policy (3 marks): Explain the monetary policy framework in India and the role of the RBI in deciding the repo rate and the reverse repo rate.",
+        "Body - Financial Stability (3 marks): Discuss the measures taken by the RBI to maintain financial stability in India, including the establishment of the Financial Stability and Development Council.",
+        "Body - Regulatory Framework (3 marks): Analyze the regulatory framework for the banking sector in India, including the Banking Regulation Act, 1949, and the role of the RBI in supervising and regulating banks.",
+        "Conclusion (2 marks): Summarize the role of the RBI in regulating the financial sector in India and its impact on the economy."
+      ]
+    },
+    "connect": [
+      {
+        "topic": "Monetary Policy and its Instruments",
+        "context": "The RBI uses monetary policy instruments such as the repo rate and the reverse repo rate to regulate the money supply in the economy."
+      },
+      {
+        "topic": "Financial Stability and Development Council",
+        "context": "The FSDC plays a crucial role in overseeing the stability of the financial system in India and coordinating the regulatory efforts of different financial sector regulators."
+      },
+      {
+        "topic": "Banking Regulation Act, 1949",
+        "context": "The Banking Regulation Act, 1949, provides a framework for the regulation and supervision of banks in India."
+      },
+      {
+        "topic": "Payment and Settlement Systems Act, 2007",
+        "context": "The Payment and Settlement Systems Act, 2007, provides a framework for the regulation and supervision of payment and settlement systems in India."
+      },
+      {
+        "topic": "Insolvency and Bankruptcy Code, 2016",
+        "context": "The Insolvency and Bankruptcy Code, 2016, provides a framework for the resolution of insolvency in India and has helped in improving the ease of doing business."
+      }
+    ],
+    "_hash": "f5387741bc6f",
+    "_fetched": "2026-05-02T07:54:14.962962+00:00",
+    "_relevance": 57,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "analyze",
+    "_mcqs": {
+      "q": "Consider the following statements:\n1. The RBI was established in 1935.\n2. The Monetary Policy Committee was set up in 2010.\n3. The Financial Stability and Development Council was set up in 2015.\nWhich of the above is/are correct?",
+      "options": [
+        "1 only",
+        "1 and 2 only",
+        "2 and 3 only",
+        "1, 2 and 3"
+      ],
+      "correct": 0,
+      "explanation": "Statement 1 is correct: The RBI was indeed established in 1935. Statement 2 is INCORRECT: The Monetary Policy Committee was set up in 2016, not 2010. Statement 3 is INCORRECT: The Financial Stability and Development Council was set up in 2010, not 2015.",
+      "trap": "Timeline Confusion"
+    }
+  },
+  {
+    "id": 1851,
+    "title": "UP Congress Chief Hospitalised",
+    "cat": "india",
+    "upsc": true,
+    "time": "2026-05-02T07:54:30.518704+00:00",
+    "summary": "U.P. Congress chief Ajay Rai was hospitalised after fainting, with Prime Minister Narendra Modi wishing him a speedy recovery. This incident is relevant for UPSC as it highlights the importance of political leaders' health and its impact on the country's political landscape. It also connects to the syllabus area of GS2, which deals with governance, polity, and political parties.",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": 1885,
+        "label": "Year the Indian National Congress was established"
+      },
+      {
+        "val": 1977,
+        "label": "Year the Salaries and Allowances of Leaders of Opposition in Parliament Act was passed"
+      },
+      {
+        "val": 2005,
+        "label": "Year the Right to Information Act was enacted"
+      }
+    ],
+    "src": "The Hindu",
+    "link": "https://www.thehindu.com/news/national/up-congress-chief-ajay-rai-hospitalised-after-fainting-stable/article70930746.ece",
+    "prelims": [
+      "The <strong>Indian National Congress</strong> is one of the oldest political parties in India, established in 1885. It has played a significant role in the country's freedom struggle and has been a major political force in independent India. The party's ideology is based on the principles of democracy, socialism, and secularism.",
+      "The <strong>Varanasi Lok Sabha constituency</strong> is one of the most prominent constituencies in India, having been represented by several notable leaders, including Prime Minister Narendra Modi. The constituency has a diverse population, with a mix of urban and rural areas, and is known for its rich cultural heritage.",
+      "The <strong>Uttar Pradesh Congress Committee</strong> is the state unit of the Indian National Congress in Uttar Pradesh. It has a significant presence in the state's politics, with several prominent leaders and a strong organizational structure. The committee plays a crucial role in shaping the party's policies and strategies in the state.",
+      "The <strong>President of India</strong> has the power to appoint the leader of the opposition in the Lok Sabha, as per the <strong>Salaries and Allowances of Leaders of Opposition in Parliament Act, 1977</strong>. This highlights the importance of the opposition in the country's parliamentary system and the role of the President in ensuring its smooth functioning.",
+      "The <strong>Right to Information Act, 2005</strong> is a significant legislation that provides citizens with the right to access information from public authorities. This act has been instrumental in promoting transparency and accountability in governance, and has been used by citizens to seek information on various issues, including those related to political leaders and parties."
+    ],
+    "mains": {
+      "q": "Analyze the role of opposition parties in India's parliamentary system, with a focus on their impact on governance and policy-making.",
+      "marks": "15 marks · GS2",
+      "directive": "analyze",
+      "hints": [
+        "Introduction (2 marks): Define the role of opposition parties in a parliamentary system, highlighting their importance in ensuring accountability and promoting good governance.",
+        "Body - Opposition's role in governance (3 marks): Discuss how opposition parties can influence policy-making, scrutinize government decisions, and provide alternative perspectives on key issues.",
+        "Body - Challenges faced by opposition parties (3 marks): Examine the challenges faced by opposition parties in India, including the lack of access to resources, limited representation in key committees, and the dominance of the ruling party.",
+        "Body - Impact on policy-making (3 marks): Analyze the impact of opposition parties on policy-making, highlighting instances where they have successfully influenced government decisions or blocked legislation.",
+        "Conclusion (2 marks): Summarize the importance of opposition parties in India's parliamentary system, emphasizing their role in promoting accountability, transparency, and good governance."
+      ]
+    },
+    "connect": [
+      {
+        "topic": "Parliamentary System",
+        "context": "The incident highlights the importance of opposition parties in a parliamentary system, which is a key concept in GS2."
+      },
+      {
+        "topic": "Political Parties",
+        "context": "The Indian National Congress is one of the major political parties in India, and its role in the country's politics is a significant area of study in GS2."
+      },
+      {
+        "topic": "Governance and Public Policy",
+        "context": "The incident raises questions about the impact of political leaders' health on governance and policy-making, which is a critical aspect of GS2."
+      },
+      {
+        "topic": "Constitutional Provisions",
+        "context": "The President's power to appoint the leader of the opposition is a significant constitutional provision, which is relevant to GS2."
+      },
+      {
+        "topic": "Right to Information",
+        "context": "The Right to Information Act, 2005, is a crucial legislation that promotes transparency and accountability in governance, which is a key concept in GS2."
+      }
+    ],
+    "_hash": "b8f22c4310c9",
+    "_fetched": "2026-05-02T07:54:30.518704+00:00",
+    "_relevance": 46,
+    "_gs": [
+      "GS2"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 1,
+    "_directive": "analyze",
+    "_mcqs": {
+      "q": "Consider the following statements:\n1. The Indian National Congress is the oldest political party in India.\n2. The President of India has the power to appoint the leader of the opposition in the Lok Sabha.\n3. The Right to Information Act, 2005, applies only to central government authorities.\nWhich of the above is/are correct?",
+      "options": [
+        "1 only",
+        "1 and 2 only",
+        "2 and 3 only",
+        "1, 2 and 3"
+      ],
+      "correct": 1,
+      "explanation": "Statement 1 is correct: The Indian National Congress is indeed the oldest political party in India, established in 1885. Statement 2 is correct: The President of India does have the power to appoint the leader of the opposition in the Lok Sabha, as per the Salaries and Allowances of Leaders of Opposition in Parliament Act, 1977. Statement 3 is incorrect: The Right to Information Act, 2005, applies to both central and state government authorities.",
+      "trap": "Absolute Language"
+    }
+  },
+  {
+    "id": 1852,
+    "title": "Rebalancing Portfolios",
+    "cat": "economy",
+    "upsc": true,
+    "time": "2026-05-02T07:54:45.910732+00:00",
+    "summary": "Quant Mutual Fund advises aggressive portfolio rebalancing due to improving market conditions and attractive valuations. This is significant for UPSC as it relates to the Indian economy and financial markets, which are crucial areas of study for GS3. The concept of portfolio rebalancing also connects to the broader theme of economic development and financial stability.",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": 1992,
+        "label": "Year SEBI was established"
+      },
+      {
+        "val": 1935,
+        "label": "Year RBI was established"
+      },
+      {
+        "val": 31,
+        "label": "Number of RBI branches in India"
+      }
+    ],
+    "src": "Economic Times",
+    "link": "https://economictimes.indiatimes.com/mf/analysis/quant-mutual-fund-sees-ideal-time-to-rebalance-portfolios-remains-heavily-deployed-on-attractive-valuations/articleshow/130711291.cms",
+    "prelims": [
+      "The <strong>Securities and Exchange Board of India (SEBI)</strong> was established in 1992 under the SEBI Act, 1992, to regulate the securities market and protect investor interests. SEBI has its headquarters in Mumbai and has regional offices in New Delhi, Kolkata, and Chennai. It plays a crucial role in maintaining the stability of the Indian financial system.",
+      "The <strong>Reserve Bank of India (RBI)</strong> was established in 1935 under the Reserve Bank of India Act, 1934, to regulate the monetary policy of India and maintain the stability of the financial system. The RBI has its headquarters in Mumbai and has 31 branches across the country. It is responsible for managing the money supply, setting interest rates, and regulating the banking system.",
+      "The <strong>Indian economy</strong> has been growing rapidly over the past few decades, with a significant increase in the services sector and a growing middle class. The economy is expected to continue growing, driven by factors such as urbanization, industrialization, and technological advancements. However, the economy also faces challenges such as poverty, inequality, and environmental degradation.",
+      "The <strong>stock market</strong> is a critical component of the Indian financial system, providing a platform for companies to raise capital and for investors to buy and sell securities. The stock market is regulated by SEBI and is subject to various rules and regulations to ensure transparency and fairness. The market is also influenced by various factors such as economic indicators, political events, and global trends.",
+      "The <strong>mutual fund industry</strong> in India has grown significantly over the past few decades, with a large number of funds offering a wide range of investment options to investors. Mutual funds are regulated by SEBI and are subject to various rules and regulations to ensure transparency and fairness. The industry is also influenced by various factors such as economic indicators, interest rates, and market trends."
+    ],
+    "mains": {
+      "q": "Analyze the impact of portfolio rebalancing on the Indian economy, with a focus on the role of mutual funds and the regulatory framework.",
+      "marks": "15 marks · GS3",
+      "directive": "analyze",
+      "hints": [
+        "Introduction (2 marks): Define portfolio rebalancing and its significance in the context of the Indian economy.",
+        "Body - Mutual funds (3 marks): Discuss the role of mutual funds in the Indian economy, including their growth, regulation, and impact on the stock market.",
+        "Body - Regulatory framework (3 marks): Analyze the regulatory framework governing mutual funds in India, including the role of SEBI and the RBI.",
+        "Body - Economic impact (3 marks): Examine the impact of portfolio rebalancing on the Indian economy, including its effects on economic growth, employment, and financial stability.",
+        "Conclusion (2 marks): Summarize the main points and provide recommendations for improving the regulatory framework and promoting the growth of the mutual fund industry in India."
+      ]
+    },
+    "connect": [
+      {
+        "topic": "SEBI and its role in regulating the securities market",
+        "context": "The story highlights the importance of SEBI in regulating the mutual fund industry and maintaining the stability of the financial system."
+      },
+      {
+        "topic": "RBI and its role in monetary policy",
+        "context": "The story mentions the RBI's role in regulating the banking system and maintaining financial stability, which is crucial for the growth of the mutual fund industry."
+      },
+      {
+        "topic": "Indian economy and its growth drivers",
+        "context": "The story discusses the growth of the mutual fund industry in the context of the Indian economy, highlighting the importance of economic indicators and market trends."
+      },
+      {
+        "topic": "Mutual funds and their regulation",
+        "context": "The story provides an overview of the mutual fund industry in India, including its growth, regulation, and impact on the stock market."
+      },
+      {
+        "topic": "Financial stability and its importance",
+        "context": "The story emphasizes the importance of financial stability and the role of regulatory bodies such as SEBI and RBI in maintaining it."
+      }
+    ],
+    "_hash": "cb8447486b5c",
+    "_fetched": "2026-05-02T07:54:45.910732+00:00",
+    "_relevance": 40,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "analyze",
+    "_mcqs": {
+      "q": "Consider the following statements:\n1. The Securities and Exchange Board of India (SEBI) was established in 1992.\n2. The Reserve Bank of India (RBI) is responsible for regulating the stock market.\n3. Mutual funds are not subject to any regulatory framework in India.\nWhich of the above is/are correct?",
+      "options": [
+        "1 only",
+        "1 and 2 only",
+        "2 and 3 only",
+        "1, 2 and 3"
+      ],
+      "correct": 0,
+      "explanation": "Statement 1 is correct: SEBI was indeed established in 1992. Statement 2 is incorrect: SEBI is responsible for regulating the stock market, not the RBI. Statement 3 is incorrect: Mutual funds are subject to a regulatory framework in India, governed by SEBI.",
+      "trap": "Wrong Ministry"
+    }
+  },
+  {
+    "id": 1853,
+    "title": "Court restricts abortion access across U.S. by blocking mail",
+    "cat": "tech",
+    "upsc": false,
+    "time": "2026-05-02T07:56:58.298586+00:00",
+    "summary": "“Every abortion facilitated by FDA's action cancels Louisiana's ban on medical abortions and undermines its policy that every unborn child is a human ",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "The Hindu International",
+    "link": "https://www.thehindu.com/news/international/court-restricts-abortion-access-across-us-by-blocking-mailing-of-mifepristone/article70930789.ece",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "bda73cff35bd",
+    "_fetched": "2026-05-02T07:56:58.298586+00:00",
+    "_relevance": 36,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
   }
 ]
