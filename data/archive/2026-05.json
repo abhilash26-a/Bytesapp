@@ -18437,5 +18437,269 @@
     "_difficulty": 2,
     "_directive": "discuss",
     "_mcqs": []
+  },
+  {
+    "id": 1993,
+    "title": "Iran-US Tension",
+    "cat": "world",
+    "upsc": true,
+    "time": "2026-05-07T22:08:37.837210+00:00",
+    "summary": "Iran has claimed a missile strike on US naval units near the Strait of Hormuz after a tanker attack by America. This incident is significant for UPSC as it highlights the geopolitical tensions in the Middle East and the importance of international relations in maintaining global peace and security. It connects to the GS2 syllabus area, particularly in the context of India's relations with Iran and the US.",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": 20,
+        "label": "% of world's oil passing through the Strait of Hormuz"
+      },
+      {
+        "val": 90,
+        "label": "Length of the Strait of Hormuz (nautical miles)"
+      },
+      {
+        "val": 1982,
+        "label": "Year the UN Convention on the Law of the Sea was adopted"
+      }
+    ],
+    "src": "LiveMint",
+    "link": "https://www.livemint.com/news/world/latest-world-news-on-may-8-2026-live-updates-11778188965465.html",
+    "prelims": [
+      "The <strong>Strait of Hormuz</strong> is a vital shipping lane connecting the Persian Gulf to the Gulf of Oman, with approximately 20% of the world's oil passing through it. Its strategic location makes it a critical chokepoint in international trade. The strait is about 90 nautical miles long and 21-25 miles wide at its narrowest point.",
+      "The <strong>United Nations Convention on the Law of the Sea (UNCLOS)</strong> provides the framework for maritime law, including the right of innocent passage through territorial waters. Iran's actions in the Strait of Hormuz could be seen as a challenge to this convention. UNCLOS was adopted in 1982 and came into force in 1994.",
+      "The <strong>Iran-US relations</strong> have been strained since the 1979 Iranian Revolution, with periods of heightened tension, including the current incident. Understanding the historical context of their relations is crucial for analyzing the geopolitical implications of such events. The US has imposed significant sanctions on Iran, affecting its economy.",
+      "The <strong>International Maritime Organization (IMO)</strong> plays a critical role in ensuring the safety and security of international shipping. The IMO has implemented various measures to protect ships from piracy and terrorism, which could be relevant in the context of the Strait of Hormuz. The IMO was established in 1948 and is headquartered in London.",
+      "The <strong>Monroe Doctrine</strong> is a US foreign policy concept that opposes European colonialism in the Americas but has been interpreted to justify US intervention in the region. While not directly applicable to the Middle East, understanding such doctrines helps in analyzing the broader context of international relations and the principles guiding the foreign policies of major powers. The doctrine was introduced by President James Monroe in 1823."
+    ],
+    "mains": {
+      "q": "Analyze the implications of the recent Iran-US tensions in the Strait of Hormuz on global oil prices and international shipping, and discuss the role of international organizations like the UN in mitigating such conflicts.",
+      "marks": "15 marks · GS2",
+      "directive": "analyze",
+      "hints": [
+        "Introduction (2 marks): Define the strategic importance of the Strait of Hormuz and the current state of Iran-US relations.",
+        "Body - Economic implications (4 marks): Discuss how the tensions could affect global oil prices, considering the dependency of the world on oil passing through the strait and the potential for supply chain disruptions.",
+        "Body - International law (4 marks): Examine the legal framework governing the use of the Strait of Hormuz, including the right of innocent passage and the role of the UN Convention on the Law of the Sea.",
+        "Body - Role of international organizations (3 marks): Analyze the potential role of the UN and other international organizations in resolving the conflict and ensuring the safety of international shipping.",
+        "Conclusion (2 marks): Summarize the key points and suggest ways in which such conflicts can be mitigated in the future, emphasizing the importance of diplomacy and adherence to international law."
+      ]
+    },
+    "connect": [
+      {
+        "topic": "International Relations Theory",
+        "context": "Understanding the principles of realism and liberalism in international relations can help in analyzing the Iran-US conflict and the role of international organizations."
+      },
+      {
+        "topic": "Maritime Law",
+        "context": "The UNCLOS provides a framework for maritime law, including the right of innocent passage, which is relevant to the Strait of Hormuz situation."
+      },
+      {
+        "topic": "Global Economy",
+        "context": "The impact of the Iran-US tensions on global oil prices and international trade connects to the study of the global economy and the role of oil in international relations."
+      },
+      {
+        "topic": "Diplomacy and Conflict Resolution",
+        "context": "The role of diplomacy in resolving international conflicts, such as the current Iran-US tensions, is crucial and connects to the study of international relations and conflict resolution strategies."
+      },
+      {
+        "topic": "Geopolitics of the Middle East",
+        "context": "Understanding the geopolitical landscape of the Middle East, including the historical context of Iran-US relations, is essential for analyzing the current situation and its implications for international peace and security."
+      }
+    ],
+    "_hash": "5b77cb62c7cd",
+    "_fetched": "2026-05-07T22:08:37.837210+00:00",
+    "_relevance": 55,
+    "_gs": [
+      "GS2"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "analyze",
+    "_mcqs": {
+      "q": "Consider the following statements:\n1. The Strait of Hormuz is a critical shipping lane with about 20% of the world's oil passing through it.\n2. The UN Convention on the Law of the Sea allows for the right of innocent passage but does not apply to territorial waters.\n3. The International Maritime Organization is responsible for ensuring the safety and security of international shipping.\nWhich of the above is/are correct?",
+      "options": [
+        "1 only",
+        "1 and 3 only",
+        "2 and 3 only",
+        "1, 2 and 3"
+      ],
+      "correct": 1,
+      "explanation": "Statement 1 is correct: The Strait of Hormuz is indeed a critical shipping lane. Statement 2 is INCORRECT: The right of innocent passage does apply to territorial waters under UNCLOS. Statement 3 is correct: The IMO does play a role in ensuring the safety and security of international shipping.",
+      "trap": "Absolute Language"
+    }
+  },
+  {
+    "id": 1994,
+    "title": "GST on Municipal Reimbursements",
+    "cat": "economy",
+    "upsc": true,
+    "time": "2026-05-07T22:08:54.318730+00:00",
+    "summary": "The Supreme Court is reviewing whether GST applies to companies paying municipal bodies for road restoration after utility work. This case is significant for UPSC as it involves understanding of tax laws and their implications on businesses. It connects to the syllabus area of economic development and taxation policies.",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": 2017,
+        "label": "Year of GST introduction"
+      },
+      {
+        "val": 4,
+        "label": "Number of GST tax slabs"
+      },
+      {
+        "val": 101,
+        "label": "Constitutional amendment number for GST"
+      }
+    ],
+    "src": "ET Economy",
+    "link": "https://economictimes.indiatimes.com/news/economy/policy/sc-reviews-gst-on-costs-paid-to-municipal-bodies/articleshow/130920460.cms",
+    "prelims": [
+      "The <strong>Goods and Services Tax (GST)</strong> was introduced in 2017 to simplify the tax structure in India, subsuming various indirect taxes like excise duty, service tax, and value-added tax. It has a four-tier tax structure: 5%, 12%, 18%, and 28%. GST Council, established under Article 279A, is responsible for making recommendations on GST rates and other matters.",
+      "The <strong>Constitution (101st Amendment) Act, 2016</strong>, inserted Article 246A, giving the Centre and states concurrent power to levy and collect GST. This amendment also inserted Article 269A, providing for the levy and collection of GST on inter-state supplies. The GST (Compensation to States) Act, 2017, was enacted to provide compensation to states for loss of revenue due to the introduction of GST.",
+      "The <strong>Central Board of Indirect Taxes and Customs (CBIC)</strong> is responsible for the administration of GST, including registration, return filing, and tax payment. The CBIC also provides guidance on GST-related matters through circulars and notifications. The GST Network (GSTN) is a non-profit company that provides the IT infrastructure for GST, including the GST portal.",
+      "The <strong>Input Tax Credit (ITC)</strong> mechanism under GST allows businesses to claim credit for taxes paid on inputs used in the production of goods or services. This helps to reduce the cascading effect of taxes and makes the tax system more efficient. However, the ITC mechanism can be complex, and businesses need to ensure that they comply with the relevant provisions to avoid any disputes or penalties.",
+      "The <strong>Appellate Authority for Advance Ruling (AAAR)</strong> is a mechanism under GST that allows taxpayers to appeal against the advance rulings issued by the Authority for Advance Ruling (AAR). The AAAR is a two-member authority that hears appeals and provides a final ruling on the matter."
+    ],
+    "mains": {
+      "q": "Analyze the implications of the Supreme Court's decision on the applicability of GST to companies paying municipal bodies for road restoration after utility work.",
+      "marks": "15 marks · GS3",
+      "directive": "analyze",
+      "hints": [
+        "Introduction (2 marks): Explain the concept of GST and its objectives, including the reduction of cascading effect of taxes and the creation of a unified national market.",
+        "Body - Taxation policy (3 marks): Discuss the implications of the Supreme Court's decision on the taxation policy of the government, including the potential impact on revenue collection and the need for clarity on tax laws.",
+        "Body - Business implications (3 marks): Examine the implications of the decision on businesses, including the potential impact on their cash flow, profitability, and competitiveness.",
+        "Body - Constitutional provisions (3 marks): Analyze the constitutional provisions related to taxation, including Article 246A and Article 269A, and their relevance to the Supreme Court's decision.",
+        "Conclusion (2 marks): Summarize the main points and provide a conclusion on the implications of the Supreme Court's decision on the applicability of GST to companies paying municipal bodies for road restoration after utility work."
+      ]
+    },
+    "connect": [
+      {
+        "topic": "GST Council and its Functions",
+        "context": "The GST Council plays a crucial role in the administration of GST, and its functions are relevant to the Supreme Court's decision on the applicability of GST to companies paying municipal bodies for road restoration after utility work."
+      },
+      {
+        "topic": "Input Tax Credit Mechanism",
+        "context": "The ITC mechanism is an important aspect of GST, and its implications on businesses are relevant to the Supreme Court's decision."
+      },
+      {
+        "topic": "Constitutional Provisions related to Taxation",
+        "context": "The constitutional provisions related to taxation, including Article 246A and Article 269A, are relevant to the Supreme Court's decision on the applicability of GST to companies paying municipal bodies for road restoration after utility work."
+      },
+      {
+        "topic": "Appellate Authority for Advance Ruling (AAAR)",
+        "context": "The AAAR is a mechanism under GST that allows taxpayers to appeal against the advance rulings issued by the Authority for Advance Ruling (AAR), and its relevance to the Supreme Court's decision is important."
+      },
+      {
+        "topic": "Taxation Policy and its Implications",
+        "context": "The taxation policy of the government has significant implications on businesses and the economy, and the Supreme Court's decision on the applicability of GST to companies paying municipal bodies for road restoration after utility work is relevant to this topic."
+      }
+    ],
+    "_hash": "586e0246a593",
+    "_fetched": "2026-05-07T22:08:54.318730+00:00",
+    "_relevance": 48,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "sc-judgment",
+    "_difficulty": 2,
+    "_directive": "analyze",
+    "_mcqs": {
+      "q": "Consider the following statements:\n1. The GST Council has the power to recommend changes to the GST rates.\n2. The Input Tax Credit mechanism under GST allows businesses to claim credit for taxes paid on inputs used in the production of goods or services.\n3. The Appellate Authority for Advance Ruling (AAAR) is a three-member authority that hears appeals against the advance rulings issued by the Authority for Advance Ruling (AAR).\nWhich of the above is/are correct?",
+      "options": [
+        "1 only",
+        "1 and 2 only",
+        "2 and 3 only",
+        "1, 2 and 3"
+      ],
+      "correct": 1,
+      "explanation": "Statement 1 is correct: The GST Council has the power to recommend changes to the GST rates. Statement 2 is correct: The Input Tax Credit mechanism under GST allows businesses to claim credit for taxes paid on inputs used in the production of goods or services. Statement 3 is incorrect: The Appellate Authority for Advance Ruling (AAAR) is a two-member authority, not a three-member authority.",
+      "trap": "Wrong Ministry / Absolute Language / Timeline Confusion / Scope Confusion / Reversed Causation"
+    }
+  },
+  {
+    "id": 1998,
+    "title": "Concerns mount over new Nepal government’s use of ordinances",
+    "cat": "policy",
+    "upsc": false,
+    "time": "2026-05-07T19:58:51.924852+00:00",
+    "summary": "Analysts say the new Balendra Shah government, which has a whopping majority in Parliament, is trying to rule by ordinances and is bypassing legislati",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "The Hindu International",
+    "link": "https://www.thehindu.com/news/international/concerns-mount-over-new-nepal-governments-use-of-ordinances-and-eviction-drive/article70951335.ece",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "5e1de00bdf67",
+    "_fetched": "2026-05-07T19:58:51.924852+00:00",
+    "_relevance": 38,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 1999,
+    "title": "MoSPI asks states to shift GSDP base year to 2022-23 for bet",
+    "cat": "economy",
+    "upsc": false,
+    "time": "2026-05-07T20:01:04.467935+00:00",
+    "summary": "The Ministry of Statistics and Programme Implementation has issued new guidelines for calculating Gross State Domestic Product. The base year is now 2",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "ET Economy",
+    "link": "https://economictimes.indiatimes.com/news/economy/indicators/mospi-asks-states-to-shift-gsdp-base-year-to-2022-23-for-better-economic-data-accuracy/articleshow/130918508.cms",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "796e66a5bfdf",
+    "_fetched": "2026-05-07T20:01:04.467935+00:00",
+    "_relevance": 36,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "ministry",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 2000,
+    "title": "Repatriation of illegal Bangladeshis is a ‘core issue’:  MEA",
+    "cat": "india",
+    "upsc": false,
+    "time": "2026-05-07T20:03:16.937107+00:00",
+    "summary": "Bangladesh puts border guards on alert, vows to take action if migrants are “pushed in” via the unguarded land border in Assam, West Bengal; no commen",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "The Hindu",
+    "link": "https://www.thehindu.com/news/national/india-calls-for-dhakas-cooperation-over-repatriation-of-illegal-bangladeshi-immigrants/article70950945.ece",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "436478a4d88b",
+    "_fetched": "2026-05-07T20:03:16.937107+00:00",
+    "_relevance": 31,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
   }
 ]
