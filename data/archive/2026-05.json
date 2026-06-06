@@ -16500,5 +16500,595 @@
       "explanation": "Statement 1 is correct: The Shakti Bill aims to provide stricter punishments for crimes against women and children. Statement 2 is correct: The IPC has provisions for addressing crimes against women and children. Statement 3 is correct: The NCW has the power to investigate complaints of violence against women.",
       "trap": "Wrong Ministry"
     }
+  },
+  {
+    "id": 1982,
+    "title": "Seed Supply to Farmers",
+    "cat": "policy",
+    "upsc": true,
+    "time": "2026-05-07T08:44:27.155202+00:00",
+    "summary": "Andhra Pradesh Chief Minister N. Chandrababu Naidu has allocated ₹200 crore for seed distribution to ensure speedy supply to farmers. This move is significant for UPSC as it highlights the government's efforts to support agriculture, a crucial sector for India's economy. The initiative connects to the syllabus area of GS3, specifically economic development and agriculture.",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": 200,
+        "label": "Crore allocated for seed distribution"
+      },
+      {
+        "val": 2002,
+        "label": "Year the National Seed Policy was introduced"
+      },
+      {
+        "val": 2018,
+        "label": "Year the National Seed Policy was revised"
+      }
+    ],
+    "src": "The Hindu",
+    "link": "https://www.thehindu.com/news/national/andhra-pradesh/naidu-orders-officials-to-ensure-speedy-seed-supply-to-farmers/article70947975.ece",
+    "prelims": [
+      "<strong>National Seed Policy</strong> was introduced in 2002 to regulate the seed industry, ensure seed quality, and promote the development of new seed varieties. The policy has undergone revisions, with the latest being in 2018, to address emerging issues in the seed sector. The policy's implementation is crucial for India's agricultural growth and food security.",
+      "<strong>State Agricultural Universities (SAUs)</strong> were established to promote agricultural education, research, and extension services. These universities play a vital role in developing location-specific technologies and seed varieties, which are essential for improving agricultural productivity. SAUs also provide training and capacity-building programs for farmers, agricultural extension workers, and other stakeholders.",
+      "<strong>Seed Certification</strong> is a process that ensures the quality of seeds used for farming. The Seed Certification Agency, under the Ministry of Agriculture and Farmers' Welfare, is responsible for certifying seeds based on their genetic purity, physical purity, and germination rate. This process helps to maintain seed quality, reduce seed-borne diseases, and improve crop yields.",
+      "<strong>Agricultural Extension Services</strong> aim to disseminate knowledge, technologies, and innovations to farmers, agricultural workers, and other stakeholders. These services are critical for improving agricultural productivity, promoting sustainable farming practices, and enhancing farmers' livelihoods. The government has initiated various programs, such as the National Mission on Agricultural Extension and Technology, to strengthen agricultural extension services.",
+      "<strong>Public-Private Partnerships (PPPs) in Agriculture</strong> have gained significance in recent years, as they can help to improve agricultural productivity, reduce costs, and increase farmers' incomes. PPPs can facilitate the development and dissemination of new technologies, seeds, and farming practices, which are essential for promoting sustainable agriculture and ensuring food security."
+    ],
+    "mains": {
+      "q": "Critically examine the role of government initiatives in promoting agricultural development, with a focus on seed supply and distribution.",
+      "marks": "15 marks · GS3",
+      "directive": "critically_examine",
+      "hints": [
+        "Introduction (2 marks): Define the significance of seed supply and distribution in agricultural development, and highlight the government's initiatives in this regard.",
+        "Body - Government Initiatives (3 marks): Discuss the National Seed Policy, seed certification, and agricultural extension services, and their impact on agricultural productivity and farmers' livelihoods.",
+        "Body - Challenges and Limitations (3 marks): Analyze the challenges faced by farmers in accessing quality seeds, and the limitations of government initiatives in addressing these challenges.",
+        "Body - Public-Private Partnerships (3 marks): Examine the role of PPPs in promoting agricultural development, with a focus on seed supply and distribution, and discuss their potential benefits and limitations.",
+        "Conclusion (2 marks): Summarize the importance of government initiatives and PPPs in promoting agricultural development, and suggest ways to improve seed supply and distribution systems."
+      ]
+    },
+    "connect": [
+      {
+        "topic": "Agricultural Extension Services",
+        "context": "The government's initiative to allocate ₹200 crore for seed distribution highlights the importance of agricultural extension services in promoting agricultural development."
+      },
+      {
+        "topic": "Seed Certification",
+        "context": "The National Seed Policy emphasizes the need for seed certification to ensure seed quality, which is critical for improving agricultural productivity."
+      },
+      {
+        "topic": "Public-Private Partnerships in Agriculture",
+        "context": "The government's initiative to promote PPPs in agriculture, including seed supply and distribution, can help to improve agricultural productivity and farmers' livelihoods."
+      },
+      {
+        "topic": "Agricultural Marketing and Trade",
+        "context": "The seed distribution initiative can have a positive impact on agricultural marketing and trade, as it can help to improve the quality and quantity of seeds available to farmers."
+      },
+      {
+        "topic": "Rural Development and Poverty Alleviation",
+        "context": "The government's initiative to promote agricultural development, including seed supply and distribution, can contribute to rural development and poverty alleviation, as agriculture is a significant source of livelihood for many rural households."
+      }
+    ],
+    "_hash": "fceb847a933d",
+    "_fetched": "2026-05-07T08:44:27.155202+00:00",
+    "_relevance": 65,
+    "_gs": [
+      "GS2",
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "critically_examine",
+    "_mcqs": {
+      "q": "Consider the following statements:\n1. The National Seed Policy was introduced in 2018.\n2. Seed certification is mandatory for all types of seeds.\n3. Public-Private Partnerships (PPPs) are essential for promoting agricultural development.\nWhich of the above is/are correct?",
+      "options": [
+        "1 only",
+        "1 and 2 only",
+        "2 and 3 only",
+        "1, 2 and 3"
+      ],
+      "correct": 2,
+      "explanation": "Statement 1 is incorrect: The National Seed Policy was introduced in 2002, not 2018. Statement 2 is correct: Seed certification is mandatory for certain types of seeds, such as hybrid seeds. Statement 3 is correct: PPPs can play a crucial role in promoting agricultural development, particularly in seed supply and distribution.",
+      "trap": "Timeline Confusion"
+    }
+  },
+  {
+    "id": 1983,
+    "title": "AI Boom",
+    "cat": "economy",
+    "upsc": true,
+    "time": "2026-05-07T08:44:42.945114+00:00",
+    "summary": "Financial markets are prioritizing artificial intelligence-driven growth and corporate earnings over geopolitical tensions. This trend is significant for UPSC as it highlights the growing importance of technology in economic development. The intersection of technology and economy is a key area of focus in GS3.",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": 1992,
+        "label": "Year the National Stock Exchange (NSE) was established"
+      },
+      {
+        "val": 2017,
+        "label": "Year the Artificial Intelligence (AI) Task Force was set up"
+      },
+      {
+        "val": 25,
+        "label": "Number of sectors identified under the Make in India initiative"
+      }
+    ],
+    "src": "Economic Times",
+    "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/ai-boom-keeping-markets-elevated-despite-geopolitical-noise-mark-matthews/articleshow/130884241.cms",
+    "prelims": [
+      "The <strong>National Stock Exchange (NSE)</strong> was established in 1992 as a demutualized electronic exchange, which has played a crucial role in the development of the Indian capital market. It has its headquarters in Mumbai and is the largest stock exchange in India in terms of market capitalization. The NSE has been instrumental in promoting transparency and efficiency in the Indian stock market.",
+      "The <strong>Securities and Exchange Board of India (SEBI)</strong> was established in 1992 under the SEBI Act, 1992, with the primary objective of protecting the interests of investors and promoting the development of the securities market. SEBI is responsible for regulating the stock exchanges, brokers, and other market intermediaries in India. It has been instrumental in promoting transparency and fairness in the Indian securities market.",
+      "The <strong>Artificial Intelligence (AI) Task Force</strong> was set up by the Government of India in 2017 to explore the possibilities of leveraging AI for economic growth and social development. The task force has identified several areas where AI can be applied, including healthcare, education, and finance. The use of AI in these areas has the potential to improve efficiency and productivity, leading to economic growth and social development.",
+      "The <strong>Make in India</strong> initiative was launched by the Government of India in 2014 to promote manufacturing in India and create jobs. The initiative has identified 25 sectors, including electronics and IT, where India has the potential to become a global hub. The growth of the IT sector has been driven by the availability of skilled manpower and favorable government policies.",
+      "The <strong>Digital India</strong> initiative was launched by the Government of India in 2015 to promote digital literacy and improve online infrastructure. The initiative has three core components: digital infrastructure, digital literacy, and digital services. The growth of digital services has been driven by the increasing use of smartphones and the internet in India."
+    ],
+    "mains": {
+      "q": "Analyze the impact of artificial intelligence on the Indian economy, with a focus on job creation and economic growth.",
+      "marks": "15 marks · GS3",
+      "directive": "analyze",
+      "hints": [
+        "Introduction (2 marks): Define artificial intelligence and its applications in the Indian economy, including the growth of the IT sector and the use of AI in finance and healthcare.",
+        "Body - Job creation (3 marks): Discuss the potential of AI to create new job opportunities in areas such as data science, machine learning, and cybersecurity, and the need for skilling and reskilling of the workforce.",
+        "Body - Economic growth (3 marks): Examine the impact of AI on economic growth, including the potential for increased productivity, efficiency, and competitiveness, and the need for investment in digital infrastructure.",
+        "Body - Challenges (3 marks): Discuss the challenges associated with the adoption of AI, including the potential for job displacement, bias in decision-making, and the need for regulatory frameworks to address these issues.",
+        "Conclusion (2 marks): Summarize the main points and suggest policy measures to promote the adoption of AI in India, including investment in education and training, and the development of regulatory frameworks to address the challenges associated with AI."
+      ]
+    },
+    "connect": [
+      {
+        "topic": "Economic Development and Growth",
+        "context": "The growth of the IT sector has been driven by the availability of skilled manpower and favorable government policies, which is a key area of focus in GS3."
+      },
+      {
+        "topic": "Digital India Initiative",
+        "context": "The Digital India initiative has promoted digital literacy and improved online infrastructure, which has driven the growth of digital services in India."
+      },
+      {
+        "topic": "Make in India Initiative",
+        "context": "The Make in India initiative has identified 25 sectors, including electronics and IT, where India has the potential to become a global hub, which is relevant for GS3."
+      },
+      {
+        "topic": "Artificial Intelligence and Job Creation",
+        "context": "The potential of AI to create new job opportunities in areas such as data science, machine learning, and cybersecurity is a key area of focus in GS3."
+      },
+      {
+        "topic": "Regulatory Frameworks for AI",
+        "context": "The need for regulatory frameworks to address the challenges associated with AI, including job displacement and bias in decision-making, is a key area of focus in GS2 and GS3."
+      }
+    ],
+    "_hash": "f8fd4db30ad2",
+    "_fetched": "2026-05-07T08:44:42.945114+00:00",
+    "_relevance": 56,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "analyze",
+    "_mcqs": {
+      "q": "Consider the following statements:\n1. The National Stock Exchange (NSE) was established in 1992.\n2. The Securities and Exchange Board of India (SEBI) is responsible for regulating the stock exchanges in India.\n3. The Artificial Intelligence (AI) Task Force was set up by the Government of India in 2017 to explore the possibilities of leveraging AI for economic growth and social development.\nWhich of the above is/are correct?",
+      "options": [
+        "1 only",
+        "1 and 2 only",
+        "2 and 3 only",
+        "1, 2 and 3"
+      ],
+      "correct": 3,
+      "explanation": "Statement 1 is correct: The NSE was indeed established in 1992. Statement 2 is correct: SEBI is responsible for regulating the stock exchanges in India. Statement 3 is correct: The AI Task Force was set up by the Government of India in 2017.",
+      "trap": "Timeline Confusion"
+    }
+  },
+  {
+    "id": 1984,
+    "title": "India's Export Support",
+    "cat": "economy",
+    "upsc": true,
+    "time": "2026-05-07T08:44:58.922281+00:00",
+    "summary": "India plans to enhance its export tax refund initiative to bolster international trade amidst geopolitical tensions. This move is crucial for UPSC as it relates to India's economic development and trade policies. The initiative connects to the syllabus area of economic development and international trade.",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": 2015,
+        "label": "Year of National Trade Policy formulation"
+      },
+      {
+        "val": 1992,
+        "label": "Year of Foreign Trade (Development and Regulation) Act"
+      },
+      {
+        "val": 15,
+        "label": "Percentage of India's exports that are eligible for tax refund under the initiative"
+      }
+    ],
+    "src": "ET Economy",
+    "link": "https://economictimes.indiatimes.com/news/economy/foreign-trade/india-exports-rodtp-scheme-iran-war-gulf-crisis-export-incentives-freight-costs/articleshow/130884335.cms",
+    "prelims": [
+      "<strong>National Trade Policy</strong> was formulated in 2015 to provide a framework for India's trade policies, aiming to increase exports and improve trade competitiveness. The policy emphasizes the need for trade facilitation, infrastructure development, and export promotion. It also highlights the importance of <strong>Free Trade Agreements (FTAs)</strong> in promoting India's trade with other countries.",
+      "The <strong>Foreign Trade (Development and Regulation) Act, 1992</strong> regulates foreign trade in India, providing the legal framework for the country's trade policies. The Act empowers the government to regulate exports and imports, and to take measures to promote foreign trade. It also establishes the <strong>Directorate General of Foreign Trade (DGFT)</strong> as the primary agency responsible for implementing India's foreign trade policies.",
+      "<strong>Special Economic Zones (SEZs)</strong> were established in India to provide a conducive environment for export-oriented industries, offering various incentives and facilities to promote exports. SEZs are governed by the <strong>SEZ Act, 2005</strong>, which provides the legal framework for their establishment and operation. The Act aims to promote exports, generate employment, and increase foreign exchange earnings.",
+      "The <strong>World Trade Organization (WTO)</strong> plays a crucial role in regulating international trade, providing a framework for countries to negotiate trade agreements and resolve trade disputes. India is a member of the WTO and has been actively engaged in various trade negotiations, including the <strong>Doha Development Round</strong>. The WTO's <strong>Agreement on Subsidies and Countervailing Measures</strong> is relevant to India's export tax refund initiative.",
+      "The <strong>Ministry of Commerce and Industry</strong> is responsible for formulating and implementing India's trade policies, including the export tax refund initiative. The Ministry works closely with other government agencies, such as the <strong>Department of Revenue</strong> and the <strong>Department of Industrial Policy and Promotion</strong>, to promote India's trade and industry."
+    ],
+    "mains": {
+      "q": "Analyze the impact of India's export tax refund initiative on the country's trade competitiveness and economic development.",
+      "marks": "15 marks · GS3",
+      "directive": "analyze",
+      "hints": [
+        "Introduction (2 marks): Define the export tax refund initiative and its objectives, highlighting the importance of trade competitiveness in India's economic development.",
+        "Body - Trade competitiveness (3 marks): Discuss the impact of the initiative on India's trade competitiveness, including the effects on export growth, market share, and trade balance.",
+        "Body - Economic development (3 marks): Examine the impact of the initiative on India's economic development, including the effects on GDP growth, employment, and foreign exchange earnings.",
+        "Body - Challenges and limitations (3 marks): Analyze the challenges and limitations of the initiative, including the risks of trade disputes, the impact of global economic trends, and the need for complementary policies.",
+        "Conclusion (2 marks): Summarize the main findings and suggest recommendations for improving the effectiveness of the initiative in promoting India's trade competitiveness and economic development."
+      ]
+    },
+    "connect": [
+      {
+        "topic": "Foreign Trade Policy",
+        "context": "The export tax refund initiative is a part of India's Foreign Trade Policy, which aims to promote exports and improve trade competitiveness."
+      },
+      {
+        "topic": "World Trade Organization (WTO)",
+        "context": "The WTO plays a crucial role in regulating international trade, and India's export tax refund initiative must comply with WTO rules and regulations."
+      },
+      {
+        "topic": "Special Economic Zones (SEZs)",
+        "context": "SEZs are an important part of India's export promotion strategy, and the export tax refund initiative can help to promote exports from these zones."
+      },
+      {
+        "topic": "Trade Competitiveness",
+        "context": "The export tax refund initiative is designed to improve India's trade competitiveness, which is critical for the country's economic development."
+      },
+      {
+        "topic": "Economic Development",
+        "context": "The export tax refund initiative can contribute to India's economic development by promoting exports, generating employment, and increasing foreign exchange earnings."
+      }
+    ],
+    "_hash": "5156ed8f21e4",
+    "_fetched": "2026-05-07T08:44:58.922281+00:00",
+    "_relevance": 52,
+    "_gs": [
+      "GS2",
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "analyze",
+    "_mcqs": {
+      "q": "Consider the following statements:\n1. The export tax refund initiative is a part of India's National Trade Policy.\n2. The initiative is governed by the Foreign Trade (Development and Regulation) Act, 1992.\n3. The World Trade Organization (WTO) has criticized India's export tax refund initiative as a trade distortionary measure.\nWhich of the above is/are correct?",
+      "options": [
+        "1 only",
+        "1 and 2 only",
+        "2 and 3 only",
+        "1, 2 and 3"
+      ],
+      "correct": 0,
+      "explanation": "Statement 1 is correct: The export tax refund initiative is indeed a part of India's National Trade Policy. Statement 2 is correct: The initiative is governed by the Foreign Trade (Development and Regulation) Act, 1992. Statement 3 is incorrect: There is no evidence to suggest that the WTO has criticized India's export tax refund initiative as a trade distortionary measure.",
+      "trap": "Absolute Language"
+    }
+  },
+  {
+    "id": 1985,
+    "title": "India's Spacetech",
+    "cat": "tech",
+    "upsc": true,
+    "time": "2026-05-07T08:45:34.934062+00:00",
+    "summary": "Skyroot Aerospace has raised $60 million at a $1.1 billion valuation, becoming India's first spacetech unicorn. This development is significant for UPSC as it highlights India's growing presence in the global space technology sector, which has implications for the country's economic development and geopolitical influence. The launch of Vikram-1, India's first privately developed orbital rocket, also underscores the importance of science and technology in India's development trajectory.",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": 1969,
+        "label": "Year ISRO was established"
+      },
+      {
+        "val": 2017,
+        "label": "Year Space Activities Bill was introduced"
+      },
+      {
+        "val": 2020,
+        "label": "Year IN-SPACe was established"
+      }
+    ],
+    "src": "LiveMint",
+    "link": "https://www.livemint.com/news/skyroot-aerospace-raises-60-million-1-1-billion-valuation-ahead-of-launch-11778123942222.html",
+    "prelims": [
+      "The <strong>Indian Space Research Organisation (ISRO)</strong> was established in 1969 with the primary objective of promoting the development and application of space science and technology for national development. ISRO has played a crucial role in India's space program, including the launch of satellites, space probes, and manned space missions. The organization's achievements have significant implications for India's economic development, national security, and international relations.",
+      "The <strong>Space Activities Bill, 2017</strong> aims to promote and regulate space activities in India, including the establishment of a regulatory framework for private space companies. The bill also provides for the creation of a space agency to oversee and coordinate space activities in the country. This development is significant for UPSC as it highlights the government's efforts to promote the growth of the space sector and regulate its activities.",
+      "The <strong>Make in India</strong> initiative, launched in 2014, aims to promote manufacturing in India, including in the space sector. The initiative has led to significant investments in the space sector, including the establishment of private space companies such as Skyroot Aerospace. This development has implications for India's economic development, employment generation, and national security.",
+      "The <strong>Geospatial Information Regulation Bill, 2016</strong> aims to regulate the collection, storage, and dissemination of geospatial information in India. The bill has significant implications for the space sector, including the use of satellite imagery and other geospatial data for various applications. This development is relevant for UPSC as it highlights the government's efforts to regulate the use of geospatial information and promote its applications.",
+      "The <strong>Indian National Space Promotion and Authorisation Centre (IN–SPACe)</strong> was established in 2020 to promote and regulate private space activities in India. IN-SPACe is responsible for regulating the launch of private satellites, space probes, and other space vehicles, as well as promoting the development of the space sector in India. This development is significant for UPSC as it highlights the government's efforts to promote the growth of the space sector and regulate its activities."
+    ],
+    "mains": {
+      "q": "Analyze the implications of India's growing presence in the global space technology sector for the country's economic development and geopolitical influence.",
+      "marks": "15 marks · GS3",
+      "directive": "analyze",
+      "hints": [
+        "Introduction (2 marks): Define the Indian space program and its objectives, including the role of ISRO and private space companies.",
+        "Body - Economic implications (4 marks): Discuss the potential economic benefits of India's growing presence in the space sector, including job creation, revenue generation, and foreign investment.",
+        "Body - Geopolitical implications (4 marks): Examine the geopolitical implications of India's growing presence in the space sector, including its impact on national security, international relations, and global governance.",
+        "Body - Regulatory framework (3 marks): Analyze the regulatory framework for the space sector in India, including the role of IN-SPACe and the Space Activities Bill, 2017.",
+        "Conclusion (2 marks): Summarize the implications of India's growing presence in the global space technology sector for the country's economic development and geopolitical influence."
+      ]
+    },
+    "connect": [
+      {
+        "topic": "Space Technology and its Applications",
+        "context": "The development of space technology has significant implications for various sectors, including agriculture, healthcare, and education."
+      },
+      {
+        "topic": "Geospatial Information Regulation",
+        "context": "The regulation of geospatial information is crucial for national security, urban planning, and disaster management."
+      },
+      {
+        "topic": "Make in India Initiative",
+        "context": "The Make in India initiative has led to significant investments in various sectors, including the space sector, and has created new opportunities for employment and economic growth."
+      },
+      {
+        "topic": "Indian National Space Promotion and Authorisation Centre (IN–SPACe)",
+        "context": "IN-SPACe plays a crucial role in regulating private space activities in India and promoting the development of the space sector."
+      },
+      {
+        "topic": "Space Activities Bill, 2017",
+        "context": "The Space Activities Bill, 2017, aims to promote and regulate space activities in India, including the establishment of a regulatory framework for private space companies."
+      }
+    ],
+    "_hash": "988000290656",
+    "_fetched": "2026-05-07T08:45:34.934062+00:00",
+    "_relevance": 50,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "analyze",
+    "_mcqs": {
+      "q": "Consider the following statements:\n1. The Indian Space Research Organisation (ISRO) was established in 1969.\n2. The Space Activities Bill, 2017, aims to promote and regulate space activities in India.\n3. The Make in India initiative has led to significant investments in the space sector.\nWhich of the above is/are correct?",
+      "options": [
+        "1 only",
+        "1 and 2 only",
+        "2 and 3 only",
+        "1, 2 and 3"
+      ],
+      "correct": 3,
+      "explanation": "Statement 1 is correct: ISRO was indeed established in 1969. Statement 2 is correct: The Space Activities Bill, 2017, aims to promote and regulate space activities in India. Statement 3 is correct: The Make in India initiative has led to significant investments in the space sector.",
+      "trap": "Absolute Language"
+    }
+  },
+  {
+    "id": 1986,
+    "title": "J.P. Nadda to inaugurate ₹600 crore medical infrastructure i",
+    "cat": "tech",
+    "upsc": false,
+    "time": "2026-05-07T08:47:47.460074+00:00",
+    "summary": "Health Minister Satyakumar Yadav says Union Minister J.P. Nadda will open 24 critical-care blocks across Andhra Pradesh, with 1,275 additional beds; ₹",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "The Hindu",
+    "link": "https://www.thehindu.com/news/national/andhra-pradesh/nadda-to-inaugurate-health-infra-worth-600-cr-in-ap-on-may-14/article70947588.ece",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "014790a22846",
+    "_fetched": "2026-05-07T08:47:47.460074+00:00",
+    "_relevance": 39,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 1987,
+    "title": "Naidu directs officials to develop economic model for seawee",
+    "cat": "economy",
+    "upsc": false,
+    "time": "2026-05-07T08:49:00.781534+00:00",
+    "summary": "Naidu wants seaweed promoted as a livelihood for Self-Help Group women and fishermen along the State’s coast; asks officials to work with Amrita Vishw",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "The Hindu",
+    "link": "https://www.thehindu.com/news/national/andhra-pradesh/naidu-directs-officials-to-develop-economic-model-for-seaweed-cultivation-along-andhra-pradesh-coast/article70947441.ece",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "8d805db6b0b1",
+    "_fetched": "2026-05-07T08:49:00.781534+00:00",
+    "_relevance": 36,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 1988,
+    "title": "How David Attenborough inspired Indians to see nature differ",
+    "cat": "india",
+    "upsc": false,
+    "time": "2026-05-07T08:51:13.353233+00:00",
+    "summary": "As David Attenborough turns 100 on May 8, Indian naturalists, conservationists, writers, filmmakers, and wildlife experts reflect on his conservation ",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "The Hindu Science",
+    "link": "https://www.thehindu.com/sci-tech/energy-and-environment/david-attenborough-100-india-conservation-climate-reflections/article70949662.ece",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "8e46459d18b3",
+    "_fetched": "2026-05-07T08:51:13.353233+00:00",
+    "_relevance": 36,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "sc-judgment",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 1989,
+    "title": "Indian consumers tighten wallets, stay selective on big-tick",
+    "cat": "tech",
+    "upsc": false,
+    "time": "2026-05-07T08:53:25.877897+00:00",
+    "summary": "Indian shoppers are now more careful with their money. They are focusing on essential items and improving their experiences. Big purchases are being p",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "ET Economy",
+    "link": "https://economictimes.indiatimes.com/news/economy/indicators/indian-consumers-tighten-wallets-stay-selective-on-big-ticket-buys-as-economic-uncertainty-lingers-deloitte/articleshow/130883348.cms",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "b98ef2da434a",
+    "_fetched": "2026-05-07T08:53:25.877897+00:00",
+    "_relevance": 36,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 1990,
+    "title": "Tension grips parts of North 24 Parganas after murder of Suv",
+    "cat": "india",
+    "upsc": false,
+    "time": "2026-05-07T08:55:38.411283+00:00",
+    "summary": "Additional police forces were deployed in Madhyamgram, Doharia and adjoining localities after BJP supporters staged protests",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "The Hindu",
+    "link": "https://www.thehindu.com/news/national/west-bengal/north-24-parganas-murder-bjp-suvendu-aide-security-post-poll-violence-may-7-2026/article70949632.ece",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "d0bbc952030e",
+    "_fetched": "2026-05-07T08:55:38.411283+00:00",
+    "_relevance": 31,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 1991,
+    "title": "TVK leader Vijay calls VCK’s Thol. Thirumavalavan, seeks sup",
+    "cat": "tech",
+    "upsc": false,
+    "time": "2026-05-07T08:57:50.972516+00:00",
+    "summary": "“Mr. Vijay called me and sought our party’s support for forming the government,” said VCK leader Thol. Thirumavalavan, adding the actor-politician had",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "The Hindu",
+    "link": "https://www.thehindu.com/elections/tamil-nadu-assembly/tvk-leader-vijay-calls-vcks-thol-thirumavalavan-seeks-support-to-form-government/article70950067.ece",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "7a34e86ee74c",
+    "_fetched": "2026-05-07T08:57:50.972516+00:00",
+    "_relevance": 31,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 1992,
+    "title": "ED raids in Punjab in land 'fraud' case",
+    "cat": "tech",
+    "upsc": false,
+    "time": "2026-05-07T09:00:03.475294+00:00",
+    "summary": "ED said about a dozen locations in Mohali and Chandigarh are being searched under the provisions of the Prevention of Money Laundering Act",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "The Hindu",
+    "link": "https://www.thehindu.com/news/national/ed-raids-in-punjab-in-land-fraud-case/article70949767.ece",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "f71279817558",
+    "_fetched": "2026-05-07T09:00:03.475294+00:00",
+    "_relevance": 31,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 1993,
+    "title": "No ‘bacterial infection’ found in bodies of four Mumbai fami",
+    "cat": "tech",
+    "upsc": false,
+    "time": "2026-05-07T09:02:16.008203+00:00",
+    "summary": "The exact cause of the death will be known once the forensic science lab submits its report, police said",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "The Hindu",
+    "link": "https://www.thehindu.com/news/cities/mumbai/no-bacterial-infection-found-in-bodies-of-four-mumbai-family-members-who-died-after-eating-watermelon/article70949661.ece",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "2641bcb97f88",
+    "_fetched": "2026-05-07T09:02:16.008203+00:00",
+    "_relevance": 31,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
   }
 ]
