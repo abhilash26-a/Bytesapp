@@ -18701,5 +18701,606 @@
     "_difficulty": 2,
     "_directive": "discuss",
     "_mcqs": []
+  },
+  {
+    "id": 1984,
+    "title": "US Tariff Ruling",
+    "cat": "world",
+    "upsc": true,
+    "time": "2026-05-08T03:40:37.077465+00:00",
+    "summary": "A US federal court has ruled against new global tariffs imposed by the Trump administration, finding them illegal. This ruling matters for UPSC as it highlights the complexities of international trade and the role of judicial systems in shaping economic policies. It connects to the syllabus area of international relations and global governance.",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": 1980,
+        "label": "Year the Court of International Trade was established"
+      },
+      {
+        "val": 1995,
+        "label": "Year the World Trade Organization (WTO) was established"
+      },
+      {
+        "val": 1974,
+        "label": "Year the US Trade Act was passed"
+      }
+    ],
+    "src": "The Hindu International",
+    "link": "https://www.thehindu.com/news/international/federal-court-rules-against-new-global-tariffs-trump-imposed-after-loss-at-supreme-court/article70953690.ece",
+    "prelims": [
+      "The <strong>Court of International Trade</strong> is a US federal court that specializes in cases involving international trade and customs law, established in 1980. It has the authority to review decisions made by the US Customs Service and other government agencies related to trade. The court's decisions can have significant implications for US trade policy and international relations.",
+      "The <strong>US Constitution's Commerce Clause</strong> grants Congress the power to regulate commerce with foreign nations, which is the basis for US trade laws and regulations. This clause has been interpreted by the Supreme Court to give Congress broad authority to regulate international trade, including the imposition of tariffs. Understanding the Commerce Clause is crucial for analyzing US trade policies and their impact on global trade.",
+      "The <strong>World Trade Organization (WTO)</strong> is an international organization that promotes free trade and sets rules for international trade, established in 1995. The WTO provides a framework for countries to negotiate trade agreements and resolve trade disputes, which can help to reduce trade barriers and promote economic growth. The WTO's rules and agreements can influence US trade policies and the decisions of the Court of International Trade.",
+      "The <strong>US Trade Act of 1974</strong> is a federal law that gives the President the authority to negotiate trade agreements and impose tariffs, which has been used to impose tariffs on various countries. This law has been amended several times, including in 1988 and 2002, to expand the President's trade authority. Understanding the US Trade Act is essential for analyzing US trade policies and their impact on international trade.",
+      "The <strong>General Agreement on Tariffs and Trade (GATT)</strong> is a multilateral trade agreement that aims to reduce tariffs and other trade barriers, which has been replaced by the WTO's agreements. GATT was established in 1947 and played a crucial role in promoting free trade and economic growth in the post-war period. Although GATT is no longer in effect, its principles and provisions continue to influence international trade policies and agreements."
+    ],
+    "mains": {
+      "q": "Analyze the implications of the US federal court's ruling on global tariffs for international trade and global governance.",
+      "marks": "15 marks · GS2",
+      "directive": "analyze",
+      "hints": [
+        "Introduction (2 marks): Define the Court of International Trade and its role in US trade policy, and explain the significance of the ruling on global tariffs.",
+        "Body - International trade implications (4 marks): Discuss the potential impact of the ruling on US trade agreements, tariffs, and trade relations with other countries, including the implications for the WTO and global trade governance.",
+        "Body - Global governance implications (4 marks): Examine the implications of the ruling for global governance, including the role of judicial systems in shaping economic policies and the potential for other countries to challenge US trade policies.",
+        "Body - US trade policy implications (3 marks): Analyze the implications of the ruling for US trade policy, including the potential for changes to US trade laws and regulations, and the impact on US businesses and industries.",
+        "Conclusion (2 marks): Summarize the main points and argue that the ruling highlights the need for a more nuanced approach to international trade and global governance, taking into account the complexities of global trade and the role of judicial systems in shaping economic policies."
+      ]
+    },
+    "connect": [
+      {
+        "topic": "International Trade Law",
+        "context": "The ruling highlights the importance of international trade law in shaping global trade policies and the role of judicial systems in interpreting trade agreements."
+      },
+      {
+        "topic": "US Trade Policy",
+        "context": "The ruling is significant for US trade policy, as it may lead to changes in US trade laws and regulations, and impact US trade relations with other countries."
+      },
+      {
+        "topic": "Judicial Review",
+        "context": "The ruling demonstrates the importance of judicial review in shaping economic policies, including the role of courts in interpreting trade agreements and laws."
+      }
+    ],
+    "_hash": "f92924a0658b",
+    "_fetched": "2026-05-08T03:40:37.077465+00:00",
+    "_relevance": 45,
+    "_gs": [
+      "GS2"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "analyze",
+    "_mcqs": {
+      "q": "Consider the following statements:\n1. The Court of International Trade is a US federal court that specializes in cases involving international trade and customs law.\n2. The US Trade Act of 1974 gives the President the authority to negotiate trade agreements and impose tariffs without Congressional approval.\n3. The World Trade Organization (WTO) has the authority to impose tariffs on countries that violate international trade agreements.\nWhich of the above is/are correct?",
+      "options": [
+        "1 only",
+        "1 and 2 only",
+        "2 and 3 only",
+        "1, 2 and 3"
+      ],
+      "correct": 0,
+      "explanation": "Statement 1 is correct: The Court of International Trade is a US federal court that specializes in cases involving international trade and customs law. Statement 2 is incorrect: The US Trade Act of 1974 gives the President the authority to negotiate trade agreements and impose tariffs, but it requires Congressional approval in some cases. Statement 3 is incorrect: The WTO does not have the authority to impose tariffs on countries that violate international trade agreements, but it can authorize member countries to impose tariffs as a remedy for non-compliance.",
+      "trap": "Absolute Language"
+    }
+  },
+  {
+    "id": 1985,
+    "title": "Data Privacy Law",
+    "cat": "policy",
+    "upsc": true,
+    "time": "2026-05-08T03:40:52.682337+00:00",
+    "summary": "The Supreme Court will hear arguments regarding India's first data privacy law, the DPDP Act, starting May 13. This law is crucial for UPSC as it raises concerns about data protection, surveillance, and the Right to Information Act, affecting 1.4 billion citizens. It connects to the syllabus area of governance, constitution, and polity.",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": 2000,
+        "label": "Year the Information Technology Act was enacted"
+      },
+      {
+        "val": 2017,
+        "label": "Year the Right to Privacy was declared a fundamental right"
+      }
+    ],
+    "src": "LiveMint",
+    "link": "https://www.livemint.com/news/india/supreme-court-data-privacy-pils-personal-data-dpdp-act-right-to-information-freedom-of-journalism-right-to-privacy-11778129033344.html",
+    "prelims": [
+      "The <strong>Right to Privacy</strong> was declared a fundamental right by the Supreme Court in the <strong>K.S. Puttaswamy v. Union of India (2017)</strong> judgment, which will be crucial in the context of the DPDP Act. This judgment has implications for data protection and surveillance. The court's decision was based on the principles of <strong>Article 21</strong> of the Constitution.",
+      "The <strong>Data Protection Bill, 2022</strong>, which was withdrawn, had proposed the establishment of a <strong>Data Protection Board of India</strong> to oversee data protection in the country. The new DPDP Act will need to be examined in light of this previous bill. The board's powers and functions will be crucial in implementing the act.",
+      "The <strong>Information Technology Act, 2000</strong>, had provisions related to data protection, but they were limited in scope. The DPDP Act will need to be compared with this act to understand the changes and improvements. The IT Act had established the <strong>Cyber Appellate Tribunal</strong> to hear appeals related to data protection.",
+      "The <strong>General Data Protection Regulation (GDPR)</strong> of the European Union has been a model for data protection laws in many countries. The DPDP Act will need to be analyzed in the context of international best practices. The GDPR has established a <strong>European Data Protection Board</strong> to oversee data protection in the EU.",
+      "The <strong>Surveillance State</strong> and its implications on individual freedom and national security will be a critical aspect of the DPDP Act. The act will need to balance the need for surveillance with the need to protect individual privacy. The <strong>Intelligence Bureau</strong> and <strong>National Investigation Agency</strong> will be key stakeholders in this context."
+    ],
+    "mains": {
+      "q": "Analyze the implications of the DPDP Act on the right to privacy and data protection in India.",
+      "marks": "15 marks · GS2",
+      "directive": "analyze",
+      "hints": [
+        "Introduction (2 marks): Define the right to privacy and its significance in the digital age, and introduce the DPDP Act.",
+        "Body - Data Protection (4 marks): Discuss the key provisions of the DPDP Act related to data protection, including the establishment of a Data Protection Board of India.",
+        "Body - Surveillance and National Security (4 marks): Examine the implications of the DPDP Act on surveillance and national security, including the role of the Intelligence Bureau and National Investigation Agency.",
+        "Body - International Comparisons (3 marks): Compare the DPDP Act with international data protection laws, such as the GDPR, and discuss the implications for India.",
+        "Conclusion (2 marks): Summarize the main points and suggest ways to balance individual privacy with national security concerns."
+      ]
+    },
+    "connect": [
+      {
+        "topic": "Right to Privacy",
+        "context": "The DPDP Act will need to be examined in light of the Right to Privacy, which is a fundamental right declared by the Supreme Court."
+      },
+      {
+        "topic": "Data Protection Laws",
+        "context": "The DPDP Act will need to be compared with international data protection laws, such as the GDPR, to understand its implications."
+      },
+      {
+        "topic": "Surveillance and National Security",
+        "context": "The DPDP Act will need to balance individual privacy with national security concerns, which is a critical aspect of governance and polity."
+      },
+      {
+        "topic": "Information Technology Act, 2000",
+        "context": "The DPDP Act will need to be analyzed in the context of the Information Technology Act, 2000, which has limited provisions for data protection."
+      },
+      {
+        "topic": "General Data Protection Regulation (GDPR)",
+        "context": "The DPDP Act will need to be compared with the GDPR, which is a model for data protection laws in many countries."
+      }
+    ],
+    "_hash": "5566df7ece94",
+    "_fetched": "2026-05-08T03:40:52.682337+00:00",
+    "_relevance": 44,
+    "_gs": [
+      "GS2",
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "analyze",
+    "_mcqs": {
+      "q": "Consider the following statements:\n1. The DPDP Act establishes a Data Protection Board of India.\n2. The Right to Privacy is a fundamental right declared by the Supreme Court in 2017.\n3. The Information Technology Act, 2000, has comprehensive provisions for data protection.\nWhich of the above is/are correct?",
+      "options": [
+        "1 and 2 only",
+        "1 only",
+        "2 only",
+        "1, 2 and 3"
+      ],
+      "correct": 0,
+      "explanation": "Statement 1 is correct: The DPDP Act does establish a Data Protection Board of India. Statement 2 is correct: The Right to Privacy was declared a fundamental right by the Supreme Court in 2017. Statement 3 is incorrect: The Information Technology Act, 2000, has limited provisions for data protection.",
+      "trap": "Absolute Language"
+    }
+  },
+  {
+    "id": 1986,
+    "title": "Caste Panchayats",
+    "cat": "india",
+    "upsc": true,
+    "time": "2026-05-08T03:41:08.885145+00:00",
+    "summary": "The Rajasthan High Court has taken note of the extrajudicial panchayats in Rajasthan that use social ostracisation and extortionary fines to control communities. This is relevant for UPSC as it pertains to the understanding of social issues and the role of the judiciary in addressing them. The issue connects to the syllabus area of GS1, particularly in the context of society and social issues.",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": 1860,
+        "label": "Year the Indian Penal Code (IPC) was enacted"
+      },
+      {
+        "val": 1993,
+        "label": "Year the Protection of Human Rights Act was enacted"
+      },
+      {
+        "val": 1989,
+        "label": "Year the Scheduled Castes and Scheduled Tribes (Prevention of Atrocities) Act was enacted"
+      }
+    ],
+    "src": "The Hindu",
+    "link": "https://www.thehindu.com/news/national/rajasthan/caste-iron-control-the-threat-of-rajasthans-caste-panchayats/article70948216.ece",
+    "prelims": [
+      "The <strong>Indian Penal Code (IPC)</strong> has provisions to deal with the issues of social ostracisation and extortion, but the implementation remains a challenge. The IPC was enacted in 1860 and has undergone several amendments since then. Understanding the IPC provisions is crucial for addressing the issues related to caste panchayats.",
+      "The <strong>Protection of Human Rights Act, 1993</strong> established the National Human Rights Commission (NHRC) to promote and protect human rights in India. The NHRC has the power to investigate cases of human rights violations, including those related to social ostracisation and extortion. The Act is an important tool for addressing the issues related to caste panchayats.",
+      "The <strong>Constitution of India</strong> guarantees the right to equality and freedom from discrimination under Articles 14 and 15. However, the persistence of caste panchayats and their use of social ostracisation and extortionary fines highlights the need for more effective implementation of these provisions. Understanding the constitutional provisions is essential for addressing the issues related to caste panchayats.",
+      "The <strong>Scheduled Castes and Scheduled Tribes (Prevention of Atrocities) Act, 1989</strong> aims to prevent atrocities against Scheduled Castes and Scheduled Tribes. The Act provides for special courts to try cases related to atrocities and prescribes stringent punishments for the offenders. Understanding the provisions of this Act is crucial for addressing the issues related to caste panchayats.",
+      "The <strong>National Commission for Scheduled Castes (NCSC)</strong> was established in 2004 to promote and protect the interests of Scheduled Castes. The NCSC has the power to investigate cases of atrocities against Scheduled Castes and to make recommendations to the government for their welfare. Understanding the role of the NCSC is essential for addressing the issues related to caste panchayats."
+    ],
+    "mains": {
+      "q": "Examine the role of the judiciary in addressing the issues related to caste panchayats in India.",
+      "marks": "15 marks · GS2",
+      "directive": "examine",
+      "hints": [
+        "Introduction (2 marks): Define the concept of caste panchayats and their impact on the social fabric of India.",
+        "Body - Judicial interventions (3 marks): Discuss the role of the judiciary in addressing the issues related to caste panchayats, including the use of social ostracisation and extortionary fines.",
+        "Body - Constitutional provisions (3 marks): Examine the constitutional provisions related to the right to equality and freedom from discrimination, and their relevance to the issues related to caste panchayats.",
+        "Body - Institutional mechanisms (3 marks): Analyze the role of institutions such as the National Human Rights Commission and the National Commission for Scheduled Castes in addressing the issues related to caste panchayats.",
+        "Conclusion (2 marks): Suggest measures to strengthen the judiciary and institutional mechanisms to address the issues related to caste panchayats effectively."
+      ]
+    },
+    "connect": [
+      {
+        "topic": "Indian Penal Code (IPC)",
+        "context": "The IPC has provisions to deal with the issues of social ostracisation and extortion, which are relevant to the issues related to caste panchayats."
+      },
+      {
+        "topic": "Protection of Human Rights Act, 1993",
+        "context": "The Act established the National Human Rights Commission (NHRC) to promote and protect human rights in India, including the rights of individuals affected by caste panchayats."
+      },
+      {
+        "topic": "Scheduled Castes and Scheduled Tribes (Prevention of Atrocities) Act, 1989",
+        "context": "The Act provides for special courts to try cases related to atrocities against Scheduled Castes and Scheduled Tribes, which is relevant to the issues related to caste panchayats."
+      },
+      {
+        "topic": "National Commission for Scheduled Castes (NCSC)",
+        "context": "The NCSC has the power to investigate cases of atrocities against Scheduled Castes and to make recommendations to the government for their welfare, which is relevant to the issues related to caste panchayats."
+      },
+      {
+        "topic": "Constitutional provisions related to the right to equality and freedom from discrimination",
+        "context": "The constitutional provisions related to the right to equality and freedom from discrimination are relevant to the issues related to caste panchayats, as they guarantee the right to equality and freedom from discrimination under Articles 14 and 15."
+      }
+    ],
+    "_hash": "e3ba9b89d9b3",
+    "_fetched": "2026-05-08T03:41:08.885145+00:00",
+    "_relevance": 41,
+    "_gs": [
+      "GS1",
+      "GS2"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "examine",
+    "_mcqs": {
+      "q": "Consider the following statements:\n1. The Indian Penal Code (IPC) has provisions to deal with the issues of social ostracisation and extortion.\n2. The Protection of Human Rights Act, 1993, established the National Human Rights Commission (NHRC) to promote and protect human rights in India.\n3. The Scheduled Castes and Scheduled Tribes (Prevention of Atrocities) Act, 1989, provides for special courts to try cases related to atrocities against Scheduled Castes and Scheduled Tribes.\nWhich of the above is/are correct?",
+      "options": [
+        "1 only",
+        "1 and 2 only",
+        "2 and 3 only",
+        "1, 2 and 3"
+      ],
+      "correct": 3,
+      "explanation": "Statement 1 is correct: The IPC has provisions to deal with the issues of social ostracisation and extortion. Statement 2 is correct: The Protection of Human Rights Act, 1993, established the NHRC to promote and protect human rights in India. Statement 3 is correct: The Scheduled Castes and Scheduled Tribes (Prevention of Atrocities) Act, 1989, provides for special courts to try cases related to atrocities against Scheduled Castes and Scheduled Tribes.",
+      "trap": "Absolute Language"
+    }
+  },
+  {
+    "id": 1987,
+    "title": "Global Tensions",
+    "cat": "world",
+    "upsc": true,
+    "time": "2026-05-08T03:41:44.823924+00:00",
+    "summary": "Asian stocks have dropped due to escalating Middle East tensions, particularly between the US and Iran, which has impacted crude oil prices and energy supplies. This development is crucial for UPSC as it affects global economic stability and has implications for India's foreign policy and energy security. The situation is being closely monitored by investors and diplomats, who are focused on de-escalation efforts and trade agreements.",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": 20,
+        "label": "Percentage of global oil trade passing through the Strait of Hormuz"
+      },
+      {
+        "val": 1960,
+        "label": "Year OPEC was established"
+      },
+      {
+        "val": 80,
+        "label": "Percentage of India's oil needs met through imports"
+      }
+    ],
+    "src": "Economic Times",
+    "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-today-asian-stocks-drop-oil-climbs-on-iran-tensions/articleshow/130937230.cms",
+    "prelims": [
+      "The <strong>Strait of Hormuz</strong> is a critical waterway for international oil trade, with approximately 20% of the world's petroleum passing through it. The strait is located between Iran and Oman, and its stability is essential for global energy security. The US has historically maintained a significant naval presence in the region to ensure the free flow of oil.",
+      "The <strong>Organization of the Petroleum Exporting Countries (OPEC)</strong> is an intergovernmental organization that coordinates the production and sale of oil on the global market. OPEC was established in 1960 and has 13 member countries, including Iran, which is one of the founding members. OPEC's decisions have a significant impact on global oil prices and energy security.",
+      "The <strong>United Nations Convention on the Law of the Sea (UNCLOS)</strong> is an international treaty that establishes the legal framework for the use of the world's oceans. UNCLOS was adopted in 1982 and has been ratified by over 160 countries, including the US and Iran. The treaty provides a framework for resolving maritime disputes and ensuring the freedom of navigation.",
+      "The <strong>US-Iran relations</strong> have been tense since the 1979 Iranian Revolution, which overthrew the US-backed Shah of Iran. The US has imposed economic sanctions on Iran, which have had a significant impact on the country's economy. The current tensions between the US and Iran are centered on Iran's nuclear program and its regional influence.",
+      "The <strong>Indian economy</strong> is heavily dependent on imported oil, with over 80% of its oil needs being met through imports. India is the third-largest oil consumer in the world and is vulnerable to fluctuations in global oil prices. The current tensions in the Middle East have the potential to impact India's energy security and economic stability."
+    ],
+    "mains": {
+      "q": "Analyze the impact of the US-Iran tensions on global energy security and the implications for India's foreign policy.",
+      "marks": "15 marks · GS2",
+      "directive": "analyze",
+      "hints": [
+        "Introduction (2 marks): Define the concept of energy security and its importance for global economic stability.",
+        "Body - Global implications (3 marks): Discuss the impact of the US-Iran tensions on global oil prices and the potential consequences for the global economy.",
+        "Body - India's foreign policy (3 marks): Examine the implications of the US-Iran tensions for India's foreign policy, including its relations with the US, Iran, and other countries in the region.",
+        "Body - Energy security (3 marks): Analyze the impact of the US-Iran tensions on India's energy security, including its dependence on imported oil and its efforts to diversify its energy sources.",
+        "Conclusion (2 marks): Summarize the main points and provide recommendations for India's foreign policy and energy security in the context of the US-Iran tensions."
+      ]
+    },
+    "connect": [
+      {
+        "topic": "Energy Security",
+        "context": "The US-Iran tensions have significant implications for global energy security, which is a critical aspect of international relations and global economic stability."
+      },
+      {
+        "topic": "Foreign Policy",
+        "context": "India's foreign policy is heavily influenced by its energy security concerns, and the US-Iran tensions have significant implications for India's relations with the US, Iran, and other countries in the region."
+      },
+      {
+        "topic": "Economic Development",
+        "context": "The US-Iran tensions have significant implications for global economic development, particularly in the context of energy security and trade."
+      }
+    ],
+    "_hash": "fbe242aa94a1",
+    "_fetched": "2026-05-08T03:41:44.823924+00:00",
+    "_relevance": 40,
+    "_gs": [
+      "GS2",
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "analyze",
+    "_mcqs": {
+      "q": "Consider the following statements:\n1. The Strait of Hormuz is a critical waterway for international oil trade.\n2. The US has imposed economic sanctions on Iran due to its nuclear program.\n3. India is a member of OPEC.\nWhich of the above is/are correct?",
+      "options": [
+        "1 only",
+        "1 and 2 only",
+        "2 and 3 only",
+        "1, 2 and 3"
+      ],
+      "correct": 1,
+      "explanation": "Statement 1 is correct: The Strait of Hormuz is a critical waterway for international oil trade. Statement 2 is correct: The US has imposed economic sanctions on Iran due to its nuclear program. Statement 3 is incorrect: India is not a member of OPEC.",
+      "trap": "Wrong Ministry / Absolute Language / Timeline Confusion"
+    }
+  },
+  {
+    "id": 1988,
+    "title": "Iran-Israel war: Trump threatens more Iran strikes if deal n",
+    "cat": "tech",
+    "upsc": false,
+    "time": "2026-05-08T03:43:57.424763+00:00",
+    "summary": "Iran state TV reports explosions on island in Hormuz strait; state broadcaster also said \"enemy units\" came under missile fire after U.S. attack on Ir",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "The Hindu International",
+    "link": "https://www.thehindu.com/news/international/iran-israel-war-live-updates-donald-trump-iran-peace-deal-ceasefire-talks-strait-of-hormuz-issue-may-7-2026/article70949440.ece",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "567b64f34f60",
+    "_fetched": "2026-05-08T03:43:57.424763+00:00",
+    "_relevance": 38,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 1989,
+    "title": "U.S. trade court rules against Trump's global 10% tariff",
+    "cat": "world",
+    "upsc": false,
+    "time": "2026-05-08T03:46:10.058730+00:00",
+    "summary": "The 2-1 ruling by the U.S. Court of International Trade, for now, blocks the tariffs from being implemented against just two companies and the state o",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "The Hindu Business",
+    "link": "https://www.thehindu.com/news/international/us-trade-court-rules-against-trumps-global-10-tariff/article70952884.ece",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "20fd23cf7070",
+    "_fetched": "2026-05-08T03:46:10.058730+00:00",
+    "_relevance": 33,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 1990,
+    "title": "Congress blocks Agra-Mumbai highway in Indore over farmers’ ",
+    "cat": "india",
+    "upsc": false,
+    "time": "2026-05-08T03:48:22.767568+00:00",
+    "summary": "The demonstration, held in the Pigdambar area as part of the Congress’s State-wide ‘chakka jam andolan’, led to long queues of vehicles on both sides ",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "The Hindu",
+    "link": "https://www.thehindu.com/news/national/madhya-pradesh/congress-blocks-agra-mumbai-highway-in-indore-over-farmers-issues/article70951734.ece",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "a2ec98ab3420",
+    "_fetched": "2026-05-08T03:48:22.767568+00:00",
+    "_relevance": 31,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 1991,
+    "title": "Iran-US-Israel War News Live Updates: UAE’s MOD says air def",
+    "cat": "tech",
+    "upsc": false,
+    "time": "2026-05-08T03:50:35.464452+00:00",
+    "summary": "",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "IE World",
+    "link": "https://indianexpress.com/article/world/iran-us-war-news-live-updates-trump-tehran-hormuz-ceasefire-proposal-10676935/",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "09bf050a3d7e",
+    "_fetched": "2026-05-08T03:50:35.464452+00:00",
+    "_relevance": 30,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 1992,
+    "title": "Foreign investors continue to pull out of financials in seco",
+    "cat": "world",
+    "upsc": false,
+    "time": "2026-05-08T03:52:48.256516+00:00",
+    "summary": "Foreign investors continued their sell-off in Indian equities, particularly in financials, extending withdrawals into the latter half of April. This s",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "Economic Times",
+    "link": "https://economictimes.indiatimes.com/markets/stocks/news/foreign-investors-continue-to-pull-out-of-financials-in-second-half-of-april/articleshow/130934997.cms",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "4b18a6a68aaa",
+    "_fetched": "2026-05-08T03:52:48.256516+00:00",
+    "_relevance": 30,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 1993,
+    "title": "Retail stake cut in 284 BSE 500 companies in Q4",
+    "cat": "world",
+    "upsc": false,
+    "time": "2026-05-08T03:55:00.873127+00:00",
+    "summary": "Retail investors showed caution, reducing their stock holdings in most companies during the March quarter. This move coincided with market declines du",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "Economic Times",
+    "link": "https://economictimes.indiatimes.com/markets/stocks/news/retail-stake-cut-in-284-bse-500-companies-in-q4/articleshow/130934724.cms",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "cd3f758477c4",
+    "_fetched": "2026-05-08T03:55:00.873127+00:00",
+    "_relevance": 30,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 1994,
+    "title": "Supreme Court asks if there was a 'proper debate' in Parliam",
+    "cat": "india",
+    "upsc": false,
+    "time": "2026-05-07T22:11:06.702599+00:00",
+    "summary": "SC asks if “ethos” of its 2023 judgment was reflected in parliamentary debate on Bill returning appointment power to the political executive; lawyers ",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "The Hindu",
+    "link": "https://www.thehindu.com/news/national/sc-asks-if-there-was-a-proper-debate-in-parliament-before-enacting-cecec-appointments-law/article70951582.ece",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "50e154df6af4",
+    "_fetched": "2026-05-07T22:11:06.702599+00:00",
+    "_relevance": 44,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "sc-judgment",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 1995,
+    "title": "US stocks today: US market ends lower as semiconductor stock",
+    "cat": "tech",
+    "upsc": false,
+    "time": "2026-05-07T22:13:19.100143+00:00",
+    "summary": "The S&P 500 closed lower as chip stocks like Intel and Arm Holdings retreated, while U.S.-Iran peace talk uncertainty impacted the broader market. Des",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "Economic Times",
+    "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-today-us-market-ends-lower-as-semiconductor-stocks-reverse-earlier-gains/articleshow/130922309.cms",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "01c84d7bf935",
+    "_fetched": "2026-05-07T22:13:19.100143+00:00",
+    "_relevance": 40,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 1996,
+    "title": "IMF warns of 'inevitable' AI-powered threats to world",
+    "cat": "economy",
+    "upsc": false,
+    "time": "2026-05-07T22:15:31.493157+00:00",
+    "summary": "The International Monetary Fund (IMF) has issued a stark warning regarding the escalating threat of AI-powered cyberattacks to global financial stabil",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "Economic Times",
+    "link": "https://economictimes.indiatimes.com/news/international/business/imf-warns-of-inevitable-ai-powered-threats-to-world/articleshow/130920591.cms",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "ae0d1991a9bf",
+    "_fetched": "2026-05-07T22:15:31.493157+00:00",
+    "_relevance": 38,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "intl-report",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
   }
 ]
