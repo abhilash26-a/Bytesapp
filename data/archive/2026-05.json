@@ -21783,5 +21783,123 @@
     "_difficulty": 2,
     "_directive": "discuss",
     "_mcqs": []
+  },
+  {
+    "id": 1969,
+    "title": "India's Nuclear Regime",
+    "cat": "science",
+    "upsc": true,
+    "time": "2026-05-08T22:04:48.631237+00:00",
+    "summary": "India has achieved criticality in the Kalpakkam reactor, marking a significant milestone in its nuclear program. This development is crucial for UPSC aspirants as it highlights the need for a robust nuclear regulatory regime in India. The story connects to the GS3 syllabus area, which covers science and technology, including nuclear energy and its applications.",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": 220,
+        "label": "Capacity of the Kalpakkam reactor (MW)"
+      },
+      {
+        "val": 1962,
+        "label": "Year the Atomic Energy Act was enacted"
+      },
+      {
+        "val": 1983,
+        "label": "Year the Atomic Energy Regulatory Board (AERB) was established"
+      }
+    ],
+    "src": "The Hindu Editorial",
+    "link": "https://www.thehindu.com/opinion/editorial/at-long-last-on-kalpakkam-reactor-criticality-indias-regularoty/article70838599.ece",
+    "prelims": [
+      "<strong>Nuclear Regulatory Regime</strong> in India is overseen by the Atomic Energy Regulatory Board (AERB), which was established in 1983. AERB is responsible for ensuring the safe operation of nuclear power plants and enforcing nuclear safety standards. The regulatory regime is based on the Atomic Energy Act, 1962, which provides the framework for nuclear energy development in India.",
+      "<strong>Kalpakkam Reactor</strong> is a pressurized heavy water reactor (PHWR) located in Tamil Nadu, India. It is one of the several nuclear reactors operated by the Nuclear Power Corporation of India Limited (NPCIL). The reactor has a capacity of 220 MW and is designed to generate electricity using nuclear energy.",
+      "<strong>International Atomic Energy Agency (IAEA)</strong> is an international organization that promotes the safe and peaceful use of nuclear energy. India is a member of the IAEA and has signed several international agreements, including the Convention on Nuclear Safety, to ensure the safe operation of its nuclear power plants. The IAEA provides guidance and support to its member states to enhance nuclear safety and security.",
+      "<strong>Nuclear Safety Standards</strong> in India are based on international best practices and are designed to ensure the safe operation of nuclear power plants. The standards cover various aspects, including reactor design, construction, operation, and maintenance. The AERB is responsible for enforcing these standards and ensuring that nuclear power plants operate safely and securely.",
+      "<strong>Atomic Energy Act, 1962</strong> is the primary legislation governing nuclear energy development in India. The act provides the framework for the development and regulation of nuclear energy, including the establishment of the AERB and the NPCIL. The act also outlines the responsibilities of the central government and the state governments in relation to nuclear energy development."
+    ],
+    "mains": {
+      "q": "Analyze the significance of a robust nuclear regulatory regime in India, with reference to the Kalpakkam reactor criticality.",
+      "marks": "15 marks · GS3",
+      "directive": "analyze",
+      "hints": [
+        "Introduction (2 marks): Define the nuclear regulatory regime and its importance in India, highlighting the role of the AERB and the Atomic Energy Act, 1962.",
+        "Body - Nuclear Safety (3 marks): Discuss the safety standards and guidelines for nuclear power plants in India, including the role of the IAEA and international best practices.",
+        "Body - Energy Security (3 marks): Examine the significance of nuclear energy in India's energy mix, including its potential to reduce dependence on fossil fuels and mitigate climate change.",
+        "Body - Regulatory Framework (3 marks): Analyze the regulatory framework for nuclear energy in India, including the responsibilities of the AERB, NPCIL, and state governments.",
+        "Conclusion (2 marks): Summarize the importance of a robust nuclear regulatory regime in India, highlighting the need for continuous improvement and adherence to international safety standards."
+      ]
+    },
+    "connect": [
+      {
+        "topic": "Nuclear Energy and its Applications",
+        "context": "The Kalpakkam reactor criticality highlights the importance of nuclear energy in India's energy mix, which is a key aspect of the GS3 syllabus."
+      },
+      {
+        "topic": "International Atomic Energy Agency (IAEA)",
+        "context": "The IAEA plays a crucial role in promoting nuclear safety and security globally, which is relevant to the GS2 syllabus on international relations."
+      },
+      {
+        "topic": "Atomic Energy Act, 1962",
+        "context": "The act provides the framework for nuclear energy development in India, including the establishment of the AERB and the NPCIL, which is a key aspect of the GS2 syllabus on governance and polity."
+      },
+      {
+        "topic": "Nuclear Safety and Security",
+        "context": "The Kalpakkam reactor criticality highlights the importance of nuclear safety and security in India, which is a key aspect of the GS3 syllabus on science and technology."
+      },
+      {
+        "topic": "Energy Security and Climate Change",
+        "context": "Nuclear energy can play a significant role in reducing India's dependence on fossil fuels and mitigating climate change, which is a key aspect of the GS3 syllabus on environment and ecology."
+      }
+    ],
+    "_hash": "eacd07a8238f",
+    "_fetched": "2026-05-08T22:04:48.631237+00:00",
+    "_relevance": 42,
+    "_gs": [
+      "GS2",
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "analyze",
+    "_mcqs": {
+      "q": "Consider the following statements:\n1. The Kalpakkam reactor is a pressurized heavy water reactor (PHWR).\n2. The Atomic Energy Regulatory Board (AERB) is responsible for ensuring the safe operation of nuclear power plants in India.\n3. The International Atomic Energy Agency (IAEA) is responsible for enforcing nuclear safety standards in India.\nWhich of the above is/are correct?",
+      "options": [
+        "1 only",
+        "1 and 2 only",
+        "2 and 3 only",
+        "1, 2 and 3"
+      ],
+      "correct": 1,
+      "explanation": "Statement 1 is correct: The Kalpakkam reactor is indeed a PHWR. Statement 2 is correct: The AERB is responsible for ensuring the safe operation of nuclear power plants in India. Statement 3 is incorrect: The IAEA provides guidance and support to its member states, but it is not responsible for enforcing nuclear safety standards in India.",
+      "trap": "Wrong Ministry"
+    }
+  },
+  {
+    "id": 1970,
+    "title": "Reserve bank of India plans to revise guidelines for bank bo",
+    "cat": "economy",
+    "upsc": false,
+    "time": "2026-05-08T19:57:30.827932+00:00",
+    "summary": "",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "IE Business",
+    "link": "https://indianexpress.com/article/business/reserve-bank-of-india-plans-revise-guidelines-bank-boards-push-policy-matters-10626155/",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "9a322af4c2b3",
+    "_fetched": "2026-05-08T19:57:30.827932+00:00",
+    "_relevance": 30,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
   }
 ]
