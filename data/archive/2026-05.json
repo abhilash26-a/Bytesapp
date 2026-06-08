@@ -21901,5 +21901,610 @@
     "_difficulty": 2,
     "_directive": "discuss",
     "_mcqs": []
+  },
+  {
+    "id": 1967,
+    "title": "RBI Holds Repo Rate",
+    "cat": "economy",
+    "upsc": true,
+    "time": "2026-05-09T03:41:36.780520+00:00",
+    "summary": "The Reserve Bank of India maintained its key policy rate at 5.25% due to ongoing West Asia tensions, warning of supply chain disruptions impacting inflation and growth. This decision is crucial for UPSC aspirants as it reflects the RBI's monetary policy stance and its implications on the Indian economy. The RBI's decision is also connected to the government's fiscal policy and its impact on the overall economic growth of the country.",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": 5.25,
+        "label": "Current repo rate (%)"
+      },
+      {
+        "val": 1935,
+        "label": "Year the RBI was established"
+      }
+    ],
+    "src": "Economic Times",
+    "link": "https://economictimes.indiatimes.com/news/economy/policy/rbi-holds-repo-rate-flags-supply-chain-risks-to-inflation-growth/articleshow/130123373.cms",
+    "prelims": [
+      "The <strong>Reserve Bank of India (RBI)</strong> was established in 1935 under the Reserve Bank of India Act, 1934, with its headquarters in Mumbai. The RBI is responsible for regulating the monetary policy of the Indian economy, including setting the repo rate and managing the money supply. The RBI also plays a crucial role in maintaining the stability of the financial system and regulating the banking sector.",
+      "The <strong>Monetary Policy Committee (MPC)</strong> is a committee of the RBI that is responsible for setting the monetary policy of the country, including the repo rate. The MPC was established in 2016 under the Reserve Bank of India Act, 1934, and is composed of six members, including the Governor of the RBI. The MPC meets every two months to review the monetary policy and make decisions on the repo rate.",
+      "The <strong>repo rate</strong> is the rate at which the RBI lends money to commercial banks, and it has a significant impact on the overall economy. A reduction in the repo rate can lead to an increase in borrowing and spending, which can stimulate economic growth. On the other hand, an increase in the repo rate can lead to a decrease in borrowing and spending, which can help to control inflation.",
+      "The <strong>inflation targeting framework</strong> is a monetary policy framework that is used by the RBI to set the repo rate. The framework aims to keep inflation within a target range of 2-6%, and the RBI uses the repo rate to achieve this target. The inflation targeting framework was adopted by the RBI in 2016, and it has been successful in keeping inflation within the target range.",
+      "The <strong>fiscal policy</strong> of the government also has a significant impact on the economy, and it is connected to the monetary policy of the RBI. The government's fiscal policy decisions, such as taxation and government spending, can affect the overall demand in the economy and impact the inflation rate. The RBI takes into account the government's fiscal policy decisions when setting the repo rate."
+    ],
+    "mains": {
+      "q": "Analyze the impact of the RBI's monetary policy decisions on the Indian economy, with a focus on the repo rate and its effects on inflation and growth.",
+      "marks": "15 marks · GS3",
+      "directive": "analyze",
+      "hints": [
+        "Introduction (2 marks): Define the repo rate and its significance in the Indian economy, including its impact on borrowing and spending.",
+        "Body - Monetary policy (3 marks): Explain the role of the Monetary Policy Committee (MPC) in setting the repo rate, and discuss the factors that influence the MPC's decisions.",
+        "Body - Inflation targeting (3 marks): Discuss the inflation targeting framework used by the RBI, and explain how the repo rate is used to achieve the inflation target.",
+        "Body - Fiscal policy (3 marks): Analyze the impact of the government's fiscal policy decisions on the economy, and discuss how the RBI takes into account the government's fiscal policy decisions when setting the repo rate.",
+        "Conclusion (2 marks): Summarize the main points and discuss the overall impact of the RBI's monetary policy decisions on the Indian economy."
+      ]
+    },
+    "connect": [
+      {
+        "topic": "Monetary Policy and its Instruments",
+        "context": "The RBI's decision to hold the repo rate is a key aspect of its monetary policy, and it has significant implications for the Indian economy."
+      },
+      {
+        "topic": "Inflation Targeting Framework",
+        "context": "The RBI's use of the inflation targeting framework is a key aspect of its monetary policy, and it has been successful in keeping inflation within the target range."
+      },
+      {
+        "topic": "Fiscal Policy and its Impact on the Economy",
+        "context": "The government's fiscal policy decisions have a significant impact on the economy, and the RBI takes into account these decisions when setting the repo rate."
+      },
+      {
+        "topic": "Role of the Monetary Policy Committee (MPC)",
+        "context": "The MPC plays a crucial role in setting the repo rate, and its decisions have significant implications for the Indian economy."
+      },
+      {
+        "topic": "Impact of Monetary Policy on Economic Growth",
+        "context": "The RBI's monetary policy decisions, including the repo rate, have a significant impact on economic growth, and it is essential to understand the relationship between monetary policy and economic growth."
+      }
+    ],
+    "_hash": "bb04e883a585",
+    "_fetched": "2026-05-09T03:41:36.780520+00:00",
+    "_relevance": 80,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "analyze",
+    "_mcqs": {
+      "q": "Consider the following statements:\n1. The RBI sets the repo rate to control inflation.\n2. The Monetary Policy Committee (MPC) is responsible for setting the repo rate.\n3. The inflation targeting framework is used by the RBI to set the repo rate.\nWhich of the above is/are correct?",
+      "options": [
+        "1 only",
+        "1 and 2 only",
+        "2 and 3 only",
+        "1, 2 and 3"
+      ],
+      "correct": 3,
+      "explanation": "Statement 1 is correct: The RBI sets the repo rate to control inflation. Statement 2 is correct: The Monetary Policy Committee (MPC) is responsible for setting the repo rate. Statement 3 is correct: The inflation targeting framework is used by the RBI to set the repo rate.",
+      "trap": "Absolute Language"
+    }
+  },
+  {
+    "id": 1968,
+    "title": "Land Transfer Code",
+    "cat": "policy",
+    "upsc": true,
+    "time": "2026-05-09T03:41:52.884022+00:00",
+    "summary": "The Centre has introduced a nationwide framework for central government land transfers to curb disputes and boost asset monetisation. This new policy is significant for UPSC as it involves governance and polity, particularly in the context of land rights and public-private partnerships. The policy's emphasis on transparency and revenue generation for public projects connects to GS2 (Governance, Constitution, Polity) and GS3 (Economy, Science & Tech, Environment, Security).",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": 100,
+        "label": "Percentage of land records to be digitized under the policy"
+      },
+      {
+        "val": 500,
+        "label": "Number of government land parcels to be monetized in the first phase"
+      },
+      {
+        "val": 2025,
+        "label": "Target year for completing the nationwide framework for central government land transfers"
+      }
+    ],
+    "src": "ET Economy",
+    "link": "https://economictimes.indiatimes.com/news/economy/policy/govt-land-transfer-code-set-up-to-pare-disputes-boost-monetisation/articleshow/130966416.cms",
+    "prelims": [
+      "<strong>National Land Reform Policy</strong> aims to optimize land use, enhance transparency, and streamline land acquisition processes. It involves the integration of various land records and the creation of a national land bank. The policy's success depends on the effective implementation of its guidelines and the cooperation of state governments.",
+      "<strong>Land Acquisition Act, 2013</strong> provides a framework for the acquisition of land for public purposes, including infrastructure development and industrial projects. The Act emphasizes the need for fair compensation, rehabilitation, and resettlement of affected families. Its provisions have been amended over time to address concerns and improve the land acquisition process.",
+      "<strong>Public-Private Partnerships (PPPs)</strong> in land development involve collaboration between government agencies and private sector entities to deliver infrastructure projects. PPPs can facilitate the efficient use of resources, enhance project quality, and reduce costs. However, they also pose risks related to contract enforcement, revenue sharing, and social and environmental impacts.",
+      "<strong>Article 300A</strong> of the Constitution of India states that no person shall be deprived of his property save by authority of law. This article is relevant to land acquisition and transfer, as it ensures that property rights are protected and that the state follows due process in acquiring land for public purposes. The article has been interpreted by the judiciary to balance individual rights with the need for public development.",
+      "<strong>Geographic Information System (GIS)</strong> technology is used in land mapping and surveying to create detailed digital maps of land parcels. GIS helps in identifying land use patterns, monitoring land degradation, and planning sustainable land development. Its application in land governance can improve the accuracy of land records, reduce disputes, and enhance decision-making."
+    ],
+    "mains": {
+      "q": "Critically examine the significance of a nationwide framework for central government land transfers in enhancing transparency and revenue generation for public projects.",
+      "marks": "15 marks · GS2",
+      "directive": "critically_examine",
+      "hints": [
+        "Introduction (2 marks): Define the concept of land transfer and its importance in the context of public-private partnerships and infrastructure development.",
+        "Body - Policy framework (3 marks): Discuss the key features of the nationwide framework for central government land transfers, including the role of cabinet approval and separate valuations for buildings.",
+        "Body - Transparency and revenue (3 marks): Analyze how the policy aims to enhance transparency in land transactions and generate revenue for public projects, including the potential for monetization of underutilized government land.",
+        "Body - Challenges and limitations (3 marks): Examine the potential challenges and limitations of implementing the policy, including the need for cooperation from state governments and the risk of disputes over land valuation.",
+        "Conclusion (2 marks): Summarize the significance of the nationwide framework for central government land transfers and suggest ways to address the challenges and limitations in its implementation."
+      ]
+    },
+    "connect": [
+      {
+        "topic": "Land Acquisition Act, 2013",
+        "context": "The nationwide framework for central government land transfers is related to the Land Acquisition Act, 2013, which provides a framework for the acquisition of land for public purposes."
+      },
+      {
+        "topic": "Public-Private Partnerships (PPPs)",
+        "context": "The policy involves collaboration between government agencies and private sector entities to deliver infrastructure projects, which is a key aspect of PPPs."
+      },
+      {
+        "topic": "Geographic Information System (GIS)",
+        "context": "The policy uses GIS technology to create detailed digital maps of land parcels, which helps in identifying land use patterns and monitoring land degradation."
+      },
+      {
+        "topic": "Article 300A of the Constitution",
+        "context": "The policy is related to Article 300A, which protects property rights and ensures that the state follows due process in acquiring land for public purposes."
+      },
+      {
+        "topic": "National Land Reform Policy",
+        "context": "The nationwide framework for central government land transfers is part of the broader National Land Reform Policy, which aims to optimize land use and enhance transparency in land transactions."
+      }
+    ],
+    "_hash": "9290c8af0ea9",
+    "_fetched": "2026-05-09T03:41:52.884022+00:00",
+    "_relevance": 57,
+    "_gs": [
+      "GS2",
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "critically_examine",
+    "_mcqs": {
+      "q": "Consider the following statements:\n1. The nationwide framework for central government land transfers requires cabinet approval for all land transfers.\n2. The policy mandates separate valuations for buildings and land.\n3. The policy is intended to reduce transparency in land transactions.\nWhich of the above is/are correct?",
+      "options": [
+        "1 only",
+        "1 and 2 only",
+        "2 and 3 only",
+        "1, 2 and 3"
+      ],
+      "correct": 1,
+      "explanation": "Statement 1 is correct: The policy requires cabinet approval for land transfers to private entities and states. Statement 2 is correct: The policy mandates separate valuations for buildings and land to ensure fair compensation. Statement 3 is incorrect: The policy aims to enhance transparency in land transactions, not reduce it.",
+      "trap": "Absolute Language"
+    }
+  },
+  {
+    "id": 1969,
+    "title": "GBA Seeks Poll Postponement",
+    "cat": "india",
+    "upsc": true,
+    "time": "2026-05-09T03:42:09.288477+00:00",
+    "summary": "The GBA is likely to seek the State government's intervention to postpone elections. This move is significant for UPSC as it relates to the functioning of local governance and election processes. It connects to the syllabus area of Governance, Constitution, and Polity, particularly in the context of state election commissions and their roles.",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": 1951,
+        "label": "Year the Representation of the People Act was enacted"
+      },
+      {
+        "val": 324,
+        "label": "Article number that deals with the composition of the Election Commission of India"
+      }
+    ],
+    "src": "The Hindu",
+    "link": "https://www.thehindu.com/news/cities/bangalore/gba-likely-to-seek-state-governments-intervention-to-postpone-elections/article70956256.ece",
+    "prelims": [
+      "The <strong>State Election Commission</strong> is a constitutional body responsible for conducting free and fair elections in the state. It was established under <strong>Article 243K</strong> of the Indian Constitution, which deals with the composition of state election commissions. The SEC is headed by a Chief Election Commissioner and comprises other election commissioners appointed by the Governor.",
+      "The <strong>Model Code of Conduct</strong> is a set of guidelines that regulates the behavior of political parties and candidates during elections. It was introduced in 1979 and is enforced by the Election Commission of India to ensure that elections are conducted in a fair and transparent manner. The MCC prohibits parties and candidates from indulging in corrupt practices, such as bribery and intimidation.",
+      "The <strong>Representation of the People Act, 1951</strong> is a legislation that governs the conduct of elections in India. It provides for the qualification and disqualification of candidates, the procedure for voting, and the grounds for election petitions. The Act also establishes the <strong>Electoral Offences</strong> that are punishable under law, such as impersonation and booth capturing.",
+      "The <strong>Conduct of Election Rules, 1961</strong> is a set of rules that outlines the procedure for conducting elections in India. It provides for the nomination of candidates, the polling process, and the counting of votes. The Rules also specify the <strong>forms and schedules</strong> that are required to be filled and submitted by candidates and political parties during the election process.",
+      "The <strong>Election Commission of India</strong> is a constitutional body that is responsible for conducting free and fair elections in the country. It was established on <strong>January 25, 1950</strong>, under <strong>Article 324</strong> of the Indian Constitution. The ECI is headed by a Chief Election Commissioner and comprises two other election commissioners, who are appointed by the President of India."
+    ],
+    "mains": {
+      "q": "Discuss the role of the State Election Commission in conducting free and fair elections in the state, with reference to the constitutional provisions and legal framework that govern its functioning.",
+      "marks": "15 marks · GS2",
+      "directive": "discuss",
+      "hints": [
+        "Introduction (2 marks): Define the State Election Commission and its constitutional basis under Article 243K. Explain its role in conducting free and fair elections in the state.",
+        "Body - Constitutional provisions (3 marks): Discuss the provisions of Article 243K and 324 that deal with the composition and functioning of the State Election Commission and the Election Commission of India. Explain the significance of these provisions in ensuring the independence and impartiality of the election commissions.",
+        "Body - Legal framework (3 marks): Analyze the provisions of the Representation of the People Act, 1951, and the Conduct of Election Rules, 1961, that govern the conduct of elections in India. Explain the role of the Model Code of Conduct in regulating the behavior of political parties and candidates during elections.",
+        "Body - Challenges and limitations (3 marks): Examine the challenges and limitations faced by the State Election Commission in conducting free and fair elections, such as electoral malpractices, voter apathy, and inadequate resources. Suggest measures to address these challenges and improve the functioning of the election commission.",
+        "Conclusion (2 marks): Summarize the role of the State Election Commission in conducting free and fair elections and the constitutional provisions and legal framework that govern its functioning. Emphasize the importance of ensuring the independence and impartiality of the election commission to uphold the integrity of the electoral process."
+      ]
+    },
+    "connect": [
+      {
+        "topic": "Constitutional Provisions for Election Commissions",
+        "context": "The State Election Commission is established under Article 243K, which deals with the composition of state election commissions."
+      },
+      {
+        "topic": "Model Code of Conduct",
+        "context": "The Model Code of Conduct is enforced by the Election Commission of India to regulate the behavior of political parties and candidates during elections."
+      },
+      {
+        "topic": "Electoral Reforms in India",
+        "context": "The Representation of the People Act, 1951, provides for the qualification and disqualification of candidates and the procedure for voting, and is a key legislation that governs the conduct of elections in India."
+      },
+      {
+        "topic": "Election Commission of India",
+        "context": "The Election Commission of India is a constitutional body that is responsible for conducting free and fair elections in the country, and is headed by a Chief Election Commissioner and comprises two other election commissioners."
+      },
+      {
+        "topic": "Free and Fair Elections",
+        "context": "The State Election Commission plays a crucial role in conducting free and fair elections in the state, and its functioning is governed by the constitutional provisions and legal framework that deal with the conduct of elections in India."
+      }
+    ],
+    "_hash": "42352c5d1f9b",
+    "_fetched": "2026-05-09T03:42:09.288477+00:00",
+    "_relevance": 41,
+    "_gs": [
+      "GS2"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": {
+      "q": "Consider the following statements:\n1. The State Election Commission is a constitutional body established under Article 243K.\n2. The Model Code of Conduct is enforced by the Election Commission of India to regulate the behavior of political parties and candidates during elections.\n3. The Representation of the People Act, 1951, provides for the qualification and disqualification of candidates and the procedure for voting.\nWhich of the above is/are correct?",
+      "options": [
+        "1 only",
+        "1 and 2 only",
+        "2 and 3 only",
+        "1, 2 and 3"
+      ],
+      "correct": 3,
+      "explanation": "Statement 1 is correct: The State Election Commission is indeed a constitutional body established under Article 243K. Statement 2 is correct: The Model Code of Conduct is enforced by the Election Commission of India to regulate the behavior of political parties and candidates during elections. Statement 3 is correct: The Representation of the People Act, 1951, provides for the qualification and disqualification of candidates and the procedure for voting.",
+      "trap": "Absolute Language"
+    }
+  },
+  {
+    "id": 1970,
+    "title": "Governor's Role",
+    "cat": "policy",
+    "upsc": true,
+    "time": "2026-05-09T03:42:25.452147+00:00",
+    "summary": "The recent oath-taking confusion in Vijay has raised questions about the role of the governor in forming a state government. This issue is relevant for UPSC as it pertains to the governance and polity of India. The Sarkaria Commission Report of 1983 provides guidelines for the governor's role in such situations, which is crucial for understanding the nuances of Indian polity.",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": 1983,
+        "label": "Year of Sarkaria Commission Report"
+      },
+      {
+        "val": 164,
+        "label": "Article number dealing with appointment of Chief Minister"
+      },
+      {
+        "val": 1994,
+        "label": "Year of S.R. Bommai v. Union of India judgment"
+      }
+    ],
+    "src": "LiveMint Politics",
+    "link": "https://www.livemint.com/politics/news/vijay-government-formation-cpm-vck-dmk-admk-bjp-tamil-nadu-cm-11778244392193.html",
+    "prelims": [
+      "The <strong>Sarkaria Commission Report (1983)</strong> discusses the role of the governor in forming a state government, emphasizing the importance of the governor's discretion in inviting the leader of the majority party to form the government. The report also highlights the need for the governor to act impartially and in accordance with the Constitution. The commission was established in 1983 to examine the issues related to the Centre-state relations and make recommendations for improving the same.",
+      "The <strong>Article 164</strong> of the Indian Constitution deals with the appointment of the Chief Minister and other ministers by the governor, which is a critical aspect of state governance. The article states that the Chief Minister shall be appointed by the governor, and the other ministers shall be appointed by the governor on the advice of the Chief Minister. This provision is essential for understanding the relationship between the governor and the state government.",
+      "The <strong>Constitutional provisions</strong> related to the formation of a state government, such as Articles 163 and 164, are crucial for understanding the role of the governor in such situations. Article 163 deals with the council of ministers, while Article 164 deals with the appointment of the Chief Minister and other ministers. These provisions provide the framework for the governor's actions in forming a state government.",
+      "The <strong>Supreme Court judgments</strong> on the role of the governor in forming a state government, such as the <strong>S.R. Bommai v. Union of India (1994)</strong> case, provide valuable insights into the nuances of Indian polity. The judgment emphasized the importance of the governor's discretion in inviting the leader of the majority party to form the government and highlighted the need for the governor to act impartially.",
+      "The <strong>establishment of the Sarkaria Commission</strong> in 1983 marked a significant milestone in the evolution of Centre-state relations in India, as it led to a re-examination of the role of the governor in state governance. The commission's report provided a comprehensive framework for understanding the complexities of Indian federalism and the role of the governor in maintaining the balance of power between the Centre and the states."
+    ],
+    "mains": {
+      "q": "Analyze the role of the governor in forming a state government, with reference to the Sarkaria Commission Report and relevant Constitutional provisions.",
+      "marks": "15 marks · GS2",
+      "directive": "analyze",
+      "hints": [
+        "Introduction (2 marks): Define the role of the governor in forming a state government, highlighting the importance of the Sarkaria Commission Report and relevant Constitutional provisions.",
+        "Body - Constitutional provisions (3 marks): Discuss the provisions of Articles 163 and 164, and their implications for the governor's role in forming a state government.",
+        "Body - Sarkaria Commission Report (3 marks): Examine the recommendations of the Sarkaria Commission Report regarding the governor's role in forming a state government, and their significance in the context of Indian polity.",
+        "Body - Supreme Court judgments (3 marks): Analyze the relevance of Supreme Court judgments, such as the S.R. Bommai v. Union of India (1994) case, in understanding the nuances of the governor's role in forming a state government.",
+        "Conclusion (2 marks): Summarize the key points, highlighting the importance of the governor's role in maintaining the balance of power between the Centre and the states."
+      ]
+    },
+    "connect": [
+      {
+        "topic": "Centre-state relations",
+        "context": "The role of the governor in forming a state government is a critical aspect of Centre-state relations, which is a key area of study in Indian polity."
+      },
+      {
+        "topic": "Constitutional provisions",
+        "context": "The provisions of Articles 163 and 164 are essential for understanding the role of the governor in forming a state government, which is a critical aspect of Indian polity."
+      },
+      {
+        "topic": "Sarkaria Commission Report",
+        "context": "The Sarkaria Commission Report provides valuable insights into the role of the governor in forming a state government, which is a key area of study in Indian polity."
+      },
+      {
+        "topic": "Supreme Court judgments",
+        "context": "The Supreme Court judgments, such as the S.R. Bommai v. Union of India (1994) case, provide valuable insights into the nuances of the governor's role in forming a state government, which is a critical aspect of Indian polity."
+      },
+      {
+        "topic": "Indian federalism",
+        "context": "The role of the governor in forming a state government is a critical aspect of Indian federalism, which is a key area of study in Indian polity."
+      }
+    ],
+    "_hash": "185f393610e4",
+    "_fetched": "2026-05-09T03:42:25.452147+00:00",
+    "_relevance": 40,
+    "_gs": [
+      "GS2"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "analyze",
+    "_mcqs": {
+      "q": "Consider the following statements:\n1. The governor is bound to invite the leader of the majority party to form the government.\n2. The Sarkaria Commission Report recommends that the governor should exercise discretion in inviting the leader of the majority party to form the government.\n3. The Supreme Court has held that the governor's role in forming a state government is limited to inviting the leader of the majority party to form the government.\nWhich of the above is/are correct?",
+      "options": [
+        "1 only",
+        "1 and 2 only",
+        "2 and 3 only",
+        "1, 2 and 3"
+      ],
+      "correct": 1,
+      "explanation": "Statement 1 is correct: The governor is bound to invite the leader of the majority party to form the government, as per the Sarkaria Commission Report. Statement 2 is incorrect: The Sarkaria Commission Report recommends that the governor should exercise discretion in inviting the leader of the majority party to form the government, but this is not a binding provision. Statement 3 is incorrect: The Supreme Court has held that the governor's role in forming a state government is not limited to inviting the leader of the majority party to form the government, but also involves exercising discretion in certain situations.",
+      "trap": "Absolute Language"
+    }
+  },
+  {
+    "id": 1971,
+    "title": "President's Rule",
+    "cat": "policy",
+    "upsc": true,
+    "time": "2026-05-09T03:42:41.776893+00:00",
+    "summary": "The Supreme Court has stated that a Governor's first priority is to ensure the formation of a stable government. This is crucial for UPSC aspirants as it relates to the role of the Governor and the implications of President's Rule. The concept of President's Rule is connected to the <strong>Seventh Schedule</strong> of the Constitution, which outlines the division of powers between the Union and the states.",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": 356,
+        "label": "Article number empowering the President to impose President's Rule"
+      },
+      {
+        "val": 163,
+        "label": "Article number outlining the relationship between the Governor and the Chief Minister"
+      },
+      {
+        "val": 365,
+        "label": "Article number empowering the President to take measures to ensure constitutional governance"
+      }
+    ],
+    "src": "The Hindu",
+    "link": "https://www.thehindu.com/elections/behind-the-insistence-on-majority-support-looms-the-shadow-of-presidents-rule/article70950894.ece",
+    "prelims": [
+      "The <strong>Article 356</strong> of the Indian Constitution empowers the President to impose President's Rule in a state if the government of that state cannot be carried on in accordance with the provisions of the Constitution. This article has been invoked on several occasions, including in the states of Punjab and Jammu and Kashmir. The <strong>Seventh Schedule</strong> of the Constitution plays a crucial role in determining the circumstances under which President's Rule can be imposed.",
+      "The <strong>Governor of a state</strong> is appointed by the President and plays a vital role in the formation of a stable government. The Governor's role is not only ceremonial but also has significant implications for the state's governance. The <strong>Article 163</strong> of the Constitution outlines the relationship between the Governor and the Chief Minister, highlighting the importance of cooperation between the two.",
+      "The <strong>Supreme Court's judgment</strong> in the S.R. Bommai case (1994) is a landmark decision that clarified the circumstances under which President's Rule can be imposed. The judgment emphasized the importance of <strong>constitutional governance</strong> and the need for the President to act in accordance with the Constitution. This judgment has significant implications for the role of the Governor and the imposition of President's Rule.",
+      "The <strong>Constitutional provisions</strong> related to President's Rule are outlined in <strong>Article 356</strong> and <strong>Article 365</strong> of the Constitution. These provisions empower the President to take measures to ensure that the government of a state is carried on in accordance with the provisions of the Constitution. The <strong>Seventh Schedule</strong> of the Constitution also plays a crucial role in determining the circumstances under which President's Rule can be imposed.",
+      "The <strong>President's Rule</strong> has been imposed in several states, including Punjab, Jammu and Kashmir, and Tamil Nadu. Each of these instances has highlighted the complexities and challenges associated with the imposition of President's Rule. The <strong>Article 356</strong> of the Constitution has been invoked in different contexts, including political instability, constitutional crises, and governance failures."
+    ],
+    "mains": {
+      "q": "Examine the role of the Governor in the formation of a stable government in a state, with special reference to the provisions of the Indian Constitution.",
+      "marks": "15 marks · GS2",
+      "directive": "examine",
+      "hints": [
+        "Introduction (2 marks): Define the role of the Governor in the formation of a stable government, highlighting the provisions of <strong>Article 163</strong> of the Constitution.",
+        "Body - Constitutional provisions (3 marks): Discuss the provisions of <strong>Article 356</strong> and <strong>Article 365</strong> of the Constitution, outlining the circumstances under which President's Rule can be imposed.",
+        "Body - Judicial precedents (3 marks): Analyze the Supreme Court's judgment in the S.R. Bommai case (1994), highlighting the importance of <strong>constitutional governance</strong> and the need for the President to act in accordance with the Constitution.",
+        "Body - Political implications (3 marks): Examine the political implications of the imposition of President's Rule, including the impact on the state's governance and the role of the Governor.",
+        "Conclusion (2 marks): Summarize the role of the Governor in the formation of a stable government, highlighting the importance of <strong>constitutional governance</strong> and the need for the President to act in accordance with the Constitution."
+      ]
+    },
+    "connect": [
+      {
+        "topic": "Article 356 & President's Rule",
+        "context": "The imposition of President's Rule is a critical aspect of the Indian Constitution, highlighting the importance of <strong>constitutional governance</strong>."
+      },
+      {
+        "topic": "Seventh Schedule & Division of Powers",
+        "context": "The <strong>Seventh Schedule</strong> of the Constitution plays a crucial role in determining the circumstances under which President's Rule can be imposed, highlighting the division of powers between the Union and the states."
+      },
+      {
+        "topic": "Governor's Role & Constitutional Governance",
+        "context": "The Governor's role is critical in ensuring <strong>constitutional governance</strong> in a state, highlighting the importance of cooperation between the Governor and the Chief Minister."
+      },
+      {
+        "topic": "S.R. Bommai case (1994) & Judicial Precedents",
+        "context": "The Supreme Court's judgment in the S.R. Bommai case (1994) is a landmark decision that clarified the circumstances under which President's Rule can be imposed, highlighting the importance of <strong>judicial precedents</strong> in shaping the Constitution."
+      },
+      {
+        "topic": "Constitutional Provisions & Governance",
+        "context": "The <strong>Constitutional provisions</strong> related to President's Rule are critical in ensuring <strong>constitutional governance</strong> in a state, highlighting the importance of the <strong>Seventh Schedule</strong> and the role of the Governor."
+      }
+    ],
+    "_hash": "b727825c9dc4",
+    "_fetched": "2026-05-09T03:42:41.776893+00:00",
+    "_relevance": 36,
+    "_gs": [
+      "GS2"
+    ],
+    "_sourceType": "sc-judgment",
+    "_difficulty": 2,
+    "_directive": "examine",
+    "_mcqs": {
+      "q": "Consider the following statements:\n1. The Governor of a state is appointed by the Chief Minister.\n2. The President's Rule can be imposed in a state if the government of that state cannot be carried on in accordance with the provisions of the Constitution.\n3. The Supreme Court's judgment in the S.R. Bommai case (1994) clarified the circumstances under which President's Rule can be imposed.\nWhich of the above is/are correct?",
+      "options": [
+        "1 only",
+        "2 and 3 only",
+        "2 only",
+        "1, 2 and 3"
+      ],
+      "correct": 1,
+      "explanation": "Statement 1 is incorrect: The Governor of a state is appointed by the President. Statement 2 is correct: The President's Rule can be imposed in a state if the government of that state cannot be carried on in accordance with the provisions of the Constitution. Statement 3 is correct: The Supreme Court's judgment in the S.R. Bommai case (1994) clarified the circumstances under which President's Rule can be imposed.",
+      "trap": "Wrong Ministry"
+    }
+  },
+  {
+    "id": 1972,
+    "title": "U.S. imposes sanctions on 10 individuals, companies for aidi",
+    "cat": "economy",
+    "upsc": false,
+    "time": "2026-05-09T03:44:54.094504+00:00",
+    "summary": "Treasury said it remains ready to ‌take economic action against Iran’s ​military industrial base so Tehran cannot reconstitute its production capacity",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "The Hindu International",
+    "link": "https://www.thehindu.com/news/international/us-imposes-sanctions-on-10-individuals-companies-for-aiding-irans-weapons-sector/article70957188.ece",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "67419616ee1b",
+    "_fetched": "2026-05-09T03:44:54.094504+00:00",
+    "_relevance": 36,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 1973,
+    "title": "Geopolitical Tensions",
+    "cat": "economy",
+    "upsc": true,
+    "time": "2026-05-09T03:46:10.493043+00:00",
+    "summary": "Indian equities closed lower due to renewed US-Iran tensions, despite the market securing weekly gains thanks to falling oil prices. This development is crucial for UPSC as it highlights the impact of global geopolitical events on India's economy. The interplay between global events, oil prices, and the Indian stock market is a key area of study in the context of India's economic development and its integration with the global economy.",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": 1992,
+        "label": "Year the National Stock Exchange (NSE) was established"
+      },
+      {
+        "val": 1999,
+        "label": "Year the Foreign Exchange Management Act (FEMA) was enacted"
+      },
+      {
+        "val": 1935,
+        "label": "Year the Reserve Bank of India (RBI) was established"
+      }
+    ],
+    "src": "Economic Times",
+    "link": "https://economictimes.indiatimes.com/markets/stocks/news/geopolitical-tensions-drag-markets-lower-but-nifty-ends-week-in-green/articleshow/130969525.cms",
+    "prelims": [
+      "The <strong>National Stock Exchange (NSE)</strong> is one of the largest stock exchanges in India, providing a platform for trading in equities, derivatives, and other financial instruments. Established in 1992, it has played a significant role in the development of India's capital market. The NSE is regulated by the Securities and Exchange Board of India (SEBI), which oversees the functioning of stock exchanges in India.",
+      "The <strong>Securities and Exchange Board of India (SEBI)</strong> is the primary regulator of the securities market in India, established in 1992 through an act of parliament. SEBI's mandate includes protecting the interests of investors, promoting the development of the securities market, and regulating the activities of market intermediaries. Its role is crucial in maintaining the integrity and efficiency of the Indian securities market.",
+      "The <strong>Foreign Exchange Management Act (FEMA), 1999</strong>, regulates foreign exchange transactions in India, replacing the Foreign Exchange Regulation Act (FERA), 1973. FEMA aims to facilitate external trade and payments while maintaining the stability of the foreign exchange market in India. It is administered by the Reserve Bank of India (RBI) and is crucial for understanding India's foreign exchange policies and regulations.",
+      "The <strong>Reserve Bank of India (RBI)</strong>, established in 1935, is the central bank of India, responsible for regulating the monetary policy of the Indian rupee. The RBI plays a pivotal role in maintaining the stability of the financial system, managing foreign exchange, and overseeing the banking sector in India. Its policies have a direct impact on the economy, including inflation control, interest rates, and liquidity management.",
+      "The <strong>International Monetary Fund (IMF)</strong> is an international organization that aims to promote global monetary cooperation, secure financial stability, and reduce poverty. Established in 1944, the IMF provides financial assistance to its member countries facing economic difficulties. India is a member of the IMF, and understanding the role and functions of the IMF is important for analyzing global economic trends and their implications for India."
+    ],
+    "mains": {
+      "q": "Analyze the impact of geopolitical tensions on the Indian economy, with a focus on the stock market and foreign exchange rates.",
+      "marks": "15 marks · GS3",
+      "directive": "analyze",
+      "hints": [
+        "Introduction (2 marks): Define the key terms related to geopolitical tensions and their potential impact on economies, specifically focusing on the Indian context.",
+        "Body - Stock Market Impact (3 marks): Discuss how geopolitical tensions, such as those between the US and Iran, can influence investor sentiment and stock market performance in India, citing relevant examples.",
+        "Body - Foreign Exchange Rates (3 marks): Explain the relationship between geopolitical events, foreign exchange rates, and the Indian rupee, including the role of the RBI in managing foreign exchange.",
+        "Body - Economic Policy Responses (3 marks): Analyze the potential economic policy responses of the Indian government to mitigate the adverse effects of geopolitical tensions on the economy, including fiscal and monetary policy measures.",
+        "Conclusion (2 marks): Summarize the main points and suggest how India can navigate through geopolitical tensions to maintain economic stability and growth."
+      ]
+    },
+    "connect": [
+      {
+        "topic": "Foreign Exchange Management and Regulation",
+        "context": "Understanding FEMA, 1999, and the role of the RBI in regulating foreign exchange is crucial for analyzing the impact of geopolitical tensions on India's foreign exchange market."
+      },
+      {
+        "topic": "Stock Market Regulation and SEBI",
+        "context": "Knowledge of SEBI's role in regulating the securities market and protecting investor interests is essential for comprehending the dynamics of the Indian stock market in response to geopolitical events."
+      },
+      {
+        "topic": "Monetary Policy and the Reserve Bank of India",
+        "context": "The RBI's monetary policy decisions, including interest rates and liquidity management, play a significant role in mitigating the effects of geopolitical tensions on the Indian economy."
+      },
+      {
+        "topic": "International Economic Organizations and Agreements",
+        "context": "Familiarity with international organizations like the IMF and agreements such as the General Agreement on Tariffs and Trade (GATT) is necessary for understanding the global economic implications of geopolitical tensions."
+      },
+      {
+        "topic": "Economic Development and Planning in India",
+        "context": "Analyzing the impact of geopolitical tensions on India's economic development and planning requires an understanding of the country's economic policies, including those related to foreign trade, investment, and fiscal management."
+      }
+    ],
+    "_hash": "86421f13b1fd",
+    "_fetched": "2026-05-09T03:46:10.493043+00:00",
+    "_relevance": 32,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "analyze",
+    "_mcqs": {
+      "q": "Consider the following statements:\n1. The Securities and Exchange Board of India (SEBI) is responsible for regulating the insurance sector in India.\n2. The Reserve Bank of India (RBI) regulates foreign exchange transactions under the Foreign Exchange Management Act (FEMA), 1999.\n3. The National Stock Exchange (NSE) was established in 1992.\nWhich of the above is/are correct?",
+      "options": [
+        "1 only",
+        "2 and 3 only",
+        "1 and 2 only",
+        "1, 2 and 3"
+      ],
+      "correct": 1,
+      "explanation": "Statement 1 is incorrect because the Insurance Regulatory and Development Authority of India (IRDAI) regulates the insurance sector. Statement 2 is correct as the RBI does regulate foreign exchange transactions under FEMA, 1999. Statement 3 is correct as the NSE was indeed established in 1992.",
+      "trap": "Wrong Ministry"
+    }
+  },
+  {
+    "id": 1974,
+    "title": "‘Want to live in India? sing Vande Mataram’, says Haryana Mi",
+    "cat": "economy",
+    "upsc": false,
+    "time": "2026-05-09T03:48:22.791367+00:00",
+    "summary": "“Vande Mataram is our national song and holds the same importance as the national anthem. Singing and respecting it is just as essential as respecting",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "The Hindu",
+    "link": "https://www.thehindu.com/news/national/haryana/want-to-live-in-india-sing-vande-mataram-says-haryana-minister-anil-vij/article70955876.ece",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "fa75a0488ae7",
+    "_fetched": "2026-05-09T03:48:22.791367+00:00",
+    "_relevance": 31,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 1975,
+    "title": "Citi downgrades India to 'Underweight' amid earnings and geo",
+    "cat": "economy",
+    "upsc": false,
+    "time": "2026-05-09T03:50:35.094134+00:00",
+    "summary": "Mumbai Citi has downgraded India to underweight, citing persistent macroeconomic and geopolitical challenges alongside weaker earnings projections. Th",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "Economic Times",
+    "link": "https://economictimes.indiatimes.com/markets/stocks/news/citi-downgrades-india-to-underweight-amid-earnings-and-geopolitical-risks/articleshow/130969627.cms",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "8b46f5218018",
+    "_fetched": "2026-05-09T03:50:35.094134+00:00",
+    "_relevance": 30,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
   }
 ]
