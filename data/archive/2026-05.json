@@ -24363,5 +24363,437 @@
     "_difficulty": 2,
     "_directive": "discuss",
     "_mcqs": []
+  },
+  {
+    "id": 2004,
+    "title": "Space Data Centres",
+    "cat": "tech",
+    "upsc": true,
+    "time": "2026-05-10T03:58:53.786369+00:00",
+    "summary": "Google's Project Suncatcher is experimenting with putting data centres in low-earth orbit to feed on solar energy. This development is crucial for UPSC as it connects to India's growing focus on space technology and renewable energy. The project's success could have significant implications for India's digital economy and energy security, which are key areas of focus in the GS3 syllabus.",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": 1969,
+        "label": "Year ISRO was established"
+      },
+      {
+        "val": 2017,
+        "label": "Year the Space Activities Bill was proposed"
+      },
+      {
+        "val": 75,
+        "label": "% of Indian datacentres that are expected to be powered by renewable energy by 2025"
+      }
+    ],
+    "src": "The Hindu Science",
+    "link": "https://www.thehindu.com/sci-tech/science/can-datacentres-in-orbit-solve-for-ai-models-soaring-energy-demand/article70509022.ece",
+    "prelims": [
+      "The <strong>Indian Space Research Organisation (ISRO)</strong> was established in 1969 with the mandate to develop space technology and its application to various national needs. ISRO has made significant contributions to India's space programme, including the launch of the first Indian satellite, Aryabhata, in 1975. ISRO's recent foray into space-based datacentre technology is a testament to its commitment to innovation and staying ahead of the curve.",
+      "The <strong>National Space Policy</strong> aims to promote the use of space technology for national development and to establish India as a major player in the global space industry. The policy outlines the government's vision for the space sector and provides a framework for the development of space technology and its applications. The policy is crucial for understanding the context of space-based datacentres in India.",
+      "The <strong>Space Activities Bill, 2017</strong> is a proposed legislation that seeks to regulate space activities in India. The bill aims to provide a framework for the development and regulation of space technology and to ensure that space activities are carried out in a safe and responsible manner. The bill is relevant to the topic of space-based datacentres as it provides a regulatory framework for such activities.",
+      "The <strong>Ministry of Electronics and Information Technology (MeitY)</strong> is responsible for promoting the use of information technology and electronics in India. The ministry has launched several initiatives to promote the use of technology in various sectors, including the Digital India programme. The ministry's initiatives are relevant to the topic of space-based datacentres as they provide a framework for the development of digital infrastructure in India.",
+      "The <strong>Renewable Energy Policy</strong> aims to promote the use of renewable energy sources in India. The policy outlines the government's vision for the renewable energy sector and provides a framework for the development of renewable energy sources. The policy is crucial for understanding the context of space-based datacentres as they are powered by solar energy, a key renewable energy source."
+    ],
+    "mains": {
+      "q": "Analyze the potential benefits and challenges of establishing space-based datacentres in India.",
+      "marks": "15 marks · GS3",
+      "directive": "analyze",
+      "hints": [
+        "Introduction (2 marks): Define space-based datacentres and their potential applications in India. Discuss the current state of datacentre infrastructure in India and the need for innovative solutions.",
+        "Body - Benefits (4 marks): Discuss the potential benefits of space-based datacentres, including reduced energy consumption, increased security, and improved disaster recovery. Provide examples of how these benefits can be realized in the Indian context.",
+        "Body - Challenges (4 marks): Analyze the challenges associated with establishing space-based datacentres in India, including the high cost of launch, limited satellite bandwidth, and regulatory hurdles. Discuss potential solutions to these challenges.",
+        "Body - Policy and Regulatory Framework (3 marks): Examine the current policy and regulatory framework for space-based datacentres in India. Discuss the need for a clear and supportive policy framework to promote the development of space-based datacentres.",
+        "Conclusion (2 marks): Summarize the main points and provide a balanced view of the potential benefits and challenges of establishing space-based datacentres in India. Discuss the way forward for promoting the development of space-based datacentres in India."
+      ]
+    },
+    "connect": [
+      {
+        "topic": "Space Technology and its Applications",
+        "context": "The development of space-based datacentres is a key application of space technology and has significant implications for India's digital economy and energy security."
+      },
+      {
+        "topic": "Renewable Energy Policy",
+        "context": "Space-based datacentres are powered by solar energy, a key renewable energy source, and are relevant to India's renewable energy policy."
+      },
+      {
+        "topic": "Digital India Programme",
+        "context": "The development of space-based datacentres is a key component of the Digital India programme and has significant implications for India's digital economy."
+      },
+      {
+        "topic": "Space Activities Bill, 2017",
+        "context": "The Space Activities Bill, 2017, provides a regulatory framework for space activities, including space-based datacentres, and is relevant to the development of space technology in India."
+      },
+      {
+        "topic": "Ministry of Electronics and Information Technology (MeitY)",
+        "context": "The Ministry of Electronics and Information Technology (MeitY) is responsible for promoting the use of information technology and electronics in India and is relevant to the development of space-based datacentres."
+      }
+    ],
+    "_hash": "592c3b1eb0ed",
+    "_fetched": "2026-05-10T03:58:53.786369+00:00",
+    "_relevance": 70,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "analyze",
+    "_mcqs": {
+      "q": "Consider the following statements:\n1. The Indian Space Research Organisation (ISRO) has launched a space-based datacentre.\n2. The Space Activities Bill, 2017, provides a regulatory framework for space-based datacentres.\n3. Space-based datacentres are powered by fossil fuels.\nWhich of the above is/are correct?",
+      "options": [
+        "1 only",
+        "1 and 2 only",
+        "2 and 3 only",
+        "1, 2 and 3"
+      ],
+      "correct": 1,
+      "explanation": "Statement 1 is correct: ISRO is reportedly studying space-based datacentre technology. Statement 2 is correct: The Space Activities Bill, 2017, provides a regulatory framework for space activities, including space-based datacentres. Statement 3 is incorrect: Space-based datacentres are powered by solar energy, not fossil fuels.",
+      "trap": "Absolute Language"
+    }
+  },
+  {
+    "id": 2005,
+    "title": "RBI Holds Repo Rate",
+    "cat": "economy",
+    "upsc": true,
+    "time": "2026-05-10T03:59:09.970576+00:00",
+    "summary": "The RBI has decided to hold the repo rate due to slowing growth and rising inflation. This decision is crucial for UPSC aspirants as it reflects the RBI's monetary policy stance and its impact on the economy. The decision is also relevant to the study of economic development and policy-making in India, which is a key aspect of the GS3 syllabus.",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": 4,
+        "label": "Number of times the MPC meets in a year"
+      },
+      {
+        "val": 1934,
+        "label": "Year the Reserve Bank of India Act was established"
+      },
+      {
+        "val": 6,
+        "label": "Number of members in the Monetary Policy Committee"
+      }
+    ],
+    "src": "The Hindu Editorial",
+    "link": "https://www.thehindu.com/opinion/editorial/timely-inaction-the-hindu-editorial-on-rbis-decision-to-hold-repo-rate/article70844455.ece",
+    "prelims": [
+      "The <strong>Monetary Policy Committee (MPC)</strong> is responsible for setting the repo rate and other key interest rates in India. It was established in 2016 under the Reserve Bank of India Act, 1934, and has six members, including the RBI Governor. The MPC meets at least four times a year to review the monetary policy.",
+      "The <strong>repo rate</strong> is the rate at which the RBI lends money to commercial banks, and it has a significant impact on the overall economy. A lower repo rate can lead to increased borrowing and spending, while a higher repo rate can lead to reduced borrowing and spending. The repo rate is also used as a tool to control inflation and maintain financial stability.",
+      "The <strong>Reserve Bank of India (RBI)</strong> was established in 1935 under the Reserve Bank of India Act, 1934. It is the central bank of India and is responsible for regulating the country's monetary policy, maintaining financial stability, and overseeing the banking system. The RBI is also responsible for managing the country's foreign exchange reserves and regulating the flow of foreign capital.",
+      "The <strong>Fiscal Policy</strong> of a country refers to the use of government spending and taxation to manage the overall level of economic activity. In India, the fiscal policy is formulated by the Ministry of Finance and is implemented through the annual budget. The fiscal policy has a significant impact on the economy, and it is often used in conjunction with monetary policy to achieve specific economic goals.",
+      "The <strong>Liberalization, Privatization, and Globalization (LPG)</strong> model of economic development was introduced in India in the 1990s. It involves the liberalization of trade and investment, the privatization of state-owned enterprises, and the globalization of the economy. The LPG model has had a significant impact on the Indian economy, leading to increased economic growth, foreign investment, and trade."
+    ],
+    "mains": {
+      "q": "Analyze the impact of the RBI's decision to hold the repo rate on the Indian economy, with reference to the current economic conditions and the government's policy priorities.",
+      "marks": "15 marks · GS3",
+      "directive": "analyze",
+      "hints": [
+        "Introduction (2 marks): Define the repo rate and its significance in the Indian economy, and explain the current economic conditions that led to the RBI's decision to hold the repo rate.",
+        "Body - Economic Impact (3 marks): Discuss the impact of the repo rate on borrowing costs, spending, and economic growth, and explain how the RBI's decision will affect the overall economy.",
+        "Body - Policy Priorities (3 marks): Explain the government's policy priorities, including the need to control inflation, maintain financial stability, and promote economic growth, and discuss how the RBI's decision aligns with these priorities.",
+        "Body - Challenges and Limitations (3 marks): Discuss the challenges and limitations of the RBI's decision, including the potential impact on the banking system, the flow of foreign capital, and the overall economic stability.",
+        "Conclusion (2 marks): Summarize the main points and explain the implications of the RBI's decision for the Indian economy, including the potential risks and opportunities."
+      ]
+    },
+    "connect": [
+      {
+        "topic": "Monetary Policy and its Instruments",
+        "context": "The RBI's decision to hold the repo rate is a key aspect of monetary policy, and understanding the instruments of monetary policy is crucial for UPSC aspirants."
+      },
+      {
+        "topic": "Fiscal Policy and its Impact on the Economy",
+        "context": "The RBI's decision to hold the repo rate has implications for fiscal policy, and understanding the relationship between monetary and fiscal policy is important for UPSC aspirants."
+      },
+      {
+        "topic": "Inflation and its Control",
+        "context": "The RBI's decision to hold the repo rate is aimed at controlling inflation, and understanding the causes and consequences of inflation is crucial for UPSC aspirants."
+      },
+      {
+        "topic": "Banking and Financial Institutions",
+        "context": "The RBI's decision to hold the repo rate has implications for the banking system, and understanding the role of banks and financial institutions in the economy is important for UPSC aspirants."
+      },
+      {
+        "topic": "Economic Development and Policy",
+        "context": "The RBI's decision to hold the repo rate is a key aspect of economic policy, and understanding the principles of economic development and policy-making is crucial for UPSC aspirants."
+      }
+    ],
+    "_hash": "dbe251472809",
+    "_fetched": "2026-05-10T03:59:09.970576+00:00",
+    "_relevance": 42,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "analyze",
+    "_mcqs": {
+      "q": "Consider the following statements:\n1. The RBI's decision to hold the repo rate is aimed at controlling inflation.\n2. The repo rate is the rate at which the RBI borrows money from commercial banks.\n3. The Monetary Policy Committee (MPC) is responsible for setting the repo rate.\nWhich of the above is/are correct?",
+      "options": [
+        "1 only",
+        "1 and 3 only",
+        "2 and 3 only",
+        "1, 2 and 3"
+      ],
+      "correct": 1,
+      "explanation": "Statement 1 is correct: The RBI's decision to hold the repo rate is aimed at controlling inflation. Statement 2 is incorrect: The repo rate is the rate at which the RBI lends money to commercial banks, not borrows. Statement 3 is correct: The Monetary Policy Committee (MPC) is responsible for setting the repo rate.",
+      "trap": "Absolute Language"
+    }
+  },
+  {
+    "id": 2006,
+    "title": "India's Orbital Data Centre",
+    "cat": "tech",
+    "upsc": true,
+    "time": "2026-05-10T03:59:25.612632+00:00",
+    "summary": "India has launched its first orbital data centre satellite through the Pixxel-Sarvam partnership. This development is crucial for UPSC as it highlights India's growing presence in the space technology sector, which is a key area of focus for the government. The satellite's capabilities and applications will be an important aspect of India's science and technology landscape, connecting to the GS3 syllabus.",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": 1969,
+        "label": "Year ISRO was established"
+      },
+      {
+        "val": 2017,
+        "label": "Year the Space Activities Bill was introduced"
+      },
+      {
+        "val": 4,
+        "label": "Number of stages in the EIA process"
+      }
+    ],
+    "src": "The Hindu",
+    "link": "https://www.thehindu.com/sci-tech/what-is-indias-first-orbital-data-centre-satellite/article70958948.ece",
+    "prelims": [
+      "The <strong>Indian Space Research Organisation (ISRO)</strong> was established in 1969 with the primary objective of advancing space technology and its applications. ISRO has played a crucial role in India's space programme, including the development of launch vehicles, satellites, and space exploration missions. The organisation's mandate includes promoting space research and developing space technology for societal benefits.",
+      "The <strong>Space Activities Bill, 2017</strong>, aims to promote and regulate space activities in India, including the establishment of a regulatory framework for space technology and applications. The bill also provides for the protection of intellectual property rights related to space technology and the promotion of international cooperation in space activities. This legislation is significant for India's growing space industry.",
+      "The <strong>Department of Space (DoS)</strong> is the nodal agency responsible for the development and implementation of India's space programme. The DoS oversees the activities of ISRO and other space-related organisations, and it is also responsible for promoting space technology and its applications in various sectors, including agriculture, healthcare, and education. The department's mandate includes fostering international cooperation in space exploration and development.",
+      "The <strong>Remote Sensing Data Policy, 2011</strong>, aims to promote the use of remote sensing data for various applications, including natural resource management, disaster management, and environmental monitoring. The policy provides a framework for the acquisition, processing, and dissemination of remote sensing data, and it also addresses issues related to data sharing, privacy, and security. This policy is relevant to India's space programme and its applications.",
+      "The <strong>Geostationary Satellite Launch Vehicle (GSLV) Mark III</strong> is a heavy-lift launch vehicle developed by ISRO, capable of launching satellites into geostationary orbit. The GSLV Mark III has a payload capacity of up to 4,000 kg and is designed to meet India's growing demand for launch services. The vehicle's development is a significant milestone in India's space programme, demonstrating the country's capabilities in launch technology."
+    ],
+    "mains": {
+      "q": "Analyze the significance of India's first orbital data centre satellite and its implications for the country's space technology sector.",
+      "marks": "15 marks · GS3",
+      "directive": "analyze",
+      "hints": [
+        "Introduction (2 marks): Define the concept of an orbital data centre satellite and its relevance to India's space programme.",
+        "Body - Space Technology (3 marks): Discuss the current state of India's space technology sector, including its achievements, challenges, and future prospects.",
+        "Body - Economic and Social Implications (3 marks): Examine the potential economic and social implications of India's orbital data centre satellite, including its applications in areas such as agriculture, healthcare, and education.",
+        "Body - International Cooperation (3 marks): Analyze the role of international cooperation in India's space programme, including partnerships with foreign space agencies and private companies.",
+        "Conclusion (2 marks): Summarize the significance of India's first orbital data centre satellite and its potential to contribute to the country's economic and social development."
+      ]
+    },
+    "connect": [
+      {
+        "topic": "Space Technology and Applications",
+        "context": "The development of India's first orbital data centre satellite highlights the country's growing capabilities in space technology and its applications."
+      },
+      {
+        "topic": "Remote Sensing Data Policy, 2011",
+        "context": "The policy provides a framework for the acquisition, processing, and dissemination of remote sensing data, which is relevant to India's space programme and its applications."
+      },
+      {
+        "topic": "Geostationary Satellite Launch Vehicle (GSLV) Mark III",
+        "context": "The GSLV Mark III is a significant milestone in India's space programme, demonstrating the country's capabilities in launch technology."
+      },
+      {
+        "topic": "International Cooperation in Space Exploration",
+        "context": "India's partnerships with foreign space agencies and private companies are crucial for the country's space programme, including the development of new technologies and applications."
+      },
+      {
+        "topic": "Department of Space (DoS) and its Mandate",
+        "context": "The DoS is responsible for promoting space technology and its applications in various sectors, and it plays a crucial role in fostering international cooperation in space exploration and development."
+      }
+    ],
+    "_hash": "ca8a87be0614",
+    "_fetched": "2026-05-10T03:59:25.612632+00:00",
+    "_relevance": 36,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "analyze",
+    "_mcqs": {
+      "q": "Consider the following statements:\n1. The Indian Space Research Organisation (ISRO) was established in 1972.\n2. The Space Activities Bill, 2017, aims to promote and regulate space activities in India.\n3. The Department of Space (DoS) is responsible for promoting space technology and its applications in various sectors.\nWhich of the above is/are correct?",
+      "options": [
+        "1 only",
+        "2 and 3 only",
+        "1 and 2 only",
+        "1, 2 and 3"
+      ],
+      "correct": 1,
+      "explanation": "Statement 1 is incorrect: ISRO was established in 1969. Statement 2 is correct: The Space Activities Bill, 2017, aims to promote and regulate space activities in India. Statement 3 is correct: The Department of Space (DoS) is responsible for promoting space technology and its applications in various sectors.",
+      "trap": "Wrong Year"
+    }
+  },
+  {
+    "id": 2007,
+    "title": "India's Muslim Population",
+    "cat": "india",
+    "upsc": true,
+    "time": "2026-05-10T03:59:41.695822+00:00",
+    "summary": "The Union Minister Kiren Rijiju stated that the Muslim population in India may match that of Indonesia after the census. This statement is significant for UPSC as it relates to the demographic changes in India and their potential impact on the country's social and political landscape. The topic connects to the syllabus area of GS1, particularly the aspects of society, population, and communalism.",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": 19.5,
+        "label": "Percentage of Muslim population in India (2021 estimate)"
+      },
+      {
+        "val": 204,
+        "label": "Projected population of India by 2030 (in millions)"
+      },
+      {
+        "val": 1992,
+        "label": "Year the National Commission for Minorities Act was passed"
+      }
+    ],
+    "src": "The Hindu",
+    "link": "https://www.thehindu.com/news/national/muslim-population-in-india-may-match-that-of-indonesia-after-census-kiren-rijiju/article70960464.ece",
+    "prelims": [
+      "The <strong>Population Census</strong> is a decennial exercise conducted by the Office of the Registrar General and Census Commissioner, India, under the Ministry of Home Affairs. The census provides a snapshot of the country's demographic profile, including population size, growth rate, and distribution. The data collected during the census is used for planning and policy-making purposes.",
+      "The <strong>National Commission for Minorities (NCM)</strong> was established in 1993 under the National Commission for Minorities Act, 1992. The NCM is mandated to safeguard the rights and interests of the six notified minority communities in India, including Muslims, Christians, Sikhs, Buddhists, Jains, and Parsis. The commission has the power to investigate complaints and make recommendations to the government.",
+      "The <strong>Constitution of India</strong> guarantees the right to freedom of religion under <strong>Article 25</strong>, which states that all persons are equally entitled to freedom of conscience and the right to freely profess, practice, and propagate religion. This article is subject to public order, morality, and health, and is a fundamental right that is essential for the protection of minority rights.",
+      "The <strong>Ministry of Minority Affairs</strong> was established in 2006 to promote the welfare of the six notified minority communities in India. The ministry implements various schemes and programs aimed at improving the socio-economic status of minorities, including education, employment, and healthcare initiatives. The ministry also provides financial assistance to minority-dominated districts and states.",
+      "The <strong>Demographic Dividend</strong> refers to the potential economic benefits that can be reaped from a large and growing population. India is expected to have a significant demographic dividend in the coming decades, with a large proportion of its population in the working age group. However, this dividend can only be realized if the population is educated, skilled, and productively employed."
+    ],
+    "mains": {
+      "q": "Critically examine the potential impact of demographic changes on the social and political landscape of India.",
+      "marks": "15 marks · GS1",
+      "directive": "critically_examine",
+      "hints": [
+        "Introduction (2 marks): Define demographic change and its significance in the Indian context, including the potential impact on population growth, urbanization, and communalism.",
+        "Body - Demographic trends (3 marks): Discuss the current demographic trends in India, including the growth rate of the Muslim population, and the potential implications for the country's social and political landscape.",
+        "Body - Social and political implications (4 marks): Examine the potential social and political implications of demographic changes in India, including the impact on communal relations, voting patterns, and the representation of minority communities in politics.",
+        "Body - Policy responses (3 marks): Discuss the policy responses that can be implemented to address the challenges and opportunities presented by demographic changes in India, including education, employment, and healthcare initiatives.",
+        "Conclusion (3 marks): Summarize the main arguments and suggest ways in which the government and other stakeholders can work together to promote social cohesion and address the challenges presented by demographic changes in India."
+      ]
+    },
+    "connect": [
+      {
+        "topic": "Article 25 - Freedom of Religion",
+        "context": "The right to freedom of religion is essential for the protection of minority rights in India."
+      },
+      {
+        "topic": "National Commission for Minorities",
+        "context": "The NCM plays a crucial role in safeguarding the rights and interests of minority communities in India."
+      },
+      {
+        "topic": "Demographic Dividend",
+        "context": "India's demographic dividend can only be realized if the population is educated, skilled, and productively employed."
+      },
+      {
+        "topic": "Ministry of Minority Affairs",
+        "context": "The ministry implements various schemes and programs aimed at improving the socio-economic status of minorities in India."
+      },
+      {
+        "topic": "Population Census",
+        "context": "The census provides a snapshot of the country's demographic profile, including population size, growth rate, and distribution."
+      }
+    ],
+    "_hash": "99e9101ff26e",
+    "_fetched": "2026-05-10T03:59:41.695822+00:00",
+    "_relevance": 31,
+    "_gs": [
+      "GS1",
+      "GS2"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "critically_examine",
+    "_mcqs": {
+      "q": "Consider the following statements:\n1. The National Commission for Minorities (NCM) was established in 1993.\n2. The Ministry of Minority Affairs provides financial assistance only to minority-dominated districts.\n3. The right to freedom of religion is guaranteed under Article 25 of the Constitution.\nWhich of the above is/are correct?",
+      "options": [
+        "1 only",
+        "1 and 3 only",
+        "2 and 3 only",
+        "1, 2 and 3"
+      ],
+      "correct": 1,
+      "explanation": "Statement 1 is correct: The NCM was indeed established in 1993. Statement 2 is INCORRECT: The Ministry of Minority Affairs provides financial assistance to both minority-dominated districts and states. Statement 3 is correct: The right to freedom of religion is indeed guaranteed under Article 25 of the Constitution.",
+      "trap": "Wrong Ministry / Absolute Language"
+    }
+  },
+  {
+    "id": 2008,
+    "title": "Science Updates",
+    "cat": "science",
+    "upsc": true,
+    "time": "2026-05-10T04:00:18.459685+00:00",
+    "summary": "Three recent research developments have been reported, highlighting advancements in various fields. These developments are crucial for UPSC aspirants as they can be related to GS3 syllabus, covering science and technology. The research focuses on innovative solutions, which can be connected to India's science and technology policies.",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": 1971,
+        "label": "Year the Department of Science and Technology was established"
+      },
+      {
+        "val": 2020,
+        "label": "Year the Science, Technology, and Innovation Policy was launched"
+      }
+    ],
+    "src": "The Hindu Science",
+    "link": "https://www.thehindu.com/sci-tech/science/science-snapshots-may-10-2026/article70947231.ece",
+    "prelims": [
+      "<strong>National Science Day</strong> is celebrated on February 28 to commemorate the discovery of the Raman effect by Sir C.V. Raman in 1928. This day is significant in the Indian science calendar, promoting scientific awareness and innovations. The Raman effect has numerous applications in chemistry and physics.",
+      "The <strong>Department of Science and Technology (DST)</strong> was established in 1971 to promote scientific research and innovation in the country. DST plays a vital role in formulating policies and implementing programs for the development of science and technology in India. It has been instrumental in supporting various research initiatives and institutions.",
+      "<strong>Article 51A</strong> of the Indian Constitution emphasizes the importance of scientific temper and spirit of inquiry. It is the duty of every citizen to develop a scientific temper, humanism, and the spirit of inquiry and reform. This article is crucial in promoting a culture of science and critical thinking in the country.",
+      "The <strong>Science, Technology, and Innovation (STI) Policy 2020</strong> aims to promote a culture of science and innovation in India. The policy focuses on encouraging research and development, promoting entrepreneurship, and developing a strong science and technology infrastructure. It also emphasizes the need for international collaboration and knowledge sharing.",
+      "The <strong>Indian National Science Academy (INSA)</strong> was established in 1935 to promote scientific research and provide a platform for scientists to interact and collaborate. INSA is one of the oldest science academies in the country, playing a significant role in promoting scientific excellence and advising the government on science and technology matters."
+    ],
+    "mains": {
+      "q": "Analyze the role of science and technology in promoting sustainable development in India.",
+      "marks": "15 marks · GS3",
+      "directive": "analyze",
+      "hints": [
+        "Introduction (2 marks): Define sustainable development and its importance in the Indian context, highlighting the role of science and technology.",
+        "Body - Science and technology initiatives (4 marks): Discuss various government initiatives, such as the STI Policy 2020, and their impact on promoting sustainable development.",
+        "Body - Challenges and limitations (4 marks): Examine the challenges faced by India in promoting sustainable development, including the need for infrastructure development and international cooperation.",
+        "Body - International cooperation (3 marks): Explain the importance of international cooperation in promoting sustainable development, citing examples of successful collaborations.",
+        "Conclusion (2 marks): Summarize the role of science and technology in promoting sustainable development, emphasizing the need for a holistic approach and continued innovation."
+      ]
+    },
+    "connect": [
+      {
+        "topic": "Science, Technology, and Innovation Policy 2020",
+        "context": "The policy is crucial for promoting a culture of science and innovation in India, connecting to GS3 syllabus."
+      },
+      {
+        "topic": "Department of Science and Technology",
+        "context": "The department plays a vital role in formulating policies and implementing programs for the development of science and technology in India, relevant for GS3."
+      },
+      {
+        "topic": "Article 51A of the Indian Constitution",
+        "context": "The article emphasizes the importance of scientific temper and spirit of inquiry, promoting a culture of science and critical thinking in the country, connecting to GS2 polity."
+      },
+      {
+        "topic": "Indian National Science Academy",
+        "context": "The academy promotes scientific research and provides a platform for scientists to interact and collaborate, relevant for GS3 science and technology."
+      },
+      {
+        "topic": "Sustainable Development Goals",
+        "context": "The goals are crucial for promoting sustainable development, and science and technology play a significant role in achieving these goals, connecting to GS3 environment and ecology."
+      }
+    ],
+    "_hash": "aa8f496f606c",
+    "_fetched": "2026-05-10T04:00:18.459685+00:00",
+    "_relevance": 31,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "analyze",
+    "_mcqs": {
+      "q": "Consider the following statements:\n1. The Department of Science and Technology was established in 1971.\n2. The Science, Technology, and Innovation Policy 2020 focuses solely on promoting entrepreneurship.\n3. Article 51A of the Indian Constitution emphasizes the importance of scientific temper and spirit of inquiry.\nWhich of the above is/are correct?",
+      "options": [
+        "1 only",
+        "1 and 3 only",
+        "2 and 3 only",
+        "1, 2 and 3"
+      ],
+      "correct": 1,
+      "explanation": "Statement 1 is correct: The Department of Science and Technology was indeed established in 1971. Statement 2 is incorrect: The STI Policy 2020 has a broader focus, including promoting research and development, and developing a strong science and technology infrastructure. Statement 3 is correct: Article 51A does emphasize the importance of scientific temper and spirit of inquiry.",
+      "trap": "Absolute Language"
+    }
   }
 ]
