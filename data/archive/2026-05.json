@@ -26466,5 +26466,92 @@
     "_difficulty": 2,
     "_directive": "discuss",
     "_mcqs": []
+  },
+  {
+    "id": 2021,
+    "title": "New CM Suvendu Adhikari",
+    "cat": "policy",
+    "upsc": true,
+    "time": "2026-05-10T21:55:09.231832+00:00",
+    "summary": "Suvendu Adhikari will chair his first cabinet meeting as the Chief Minister, where portfolios will be allocated to five Ministers. This event is crucial for UPSC as it highlights the functioning of state governments and the role of the Chief Minister. The allocation of portfolios connects to the syllabus area of Governance, Constitution, and Polity.",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": 5,
+        "label": "Number of Ministers to be allocated portfolios"
+      },
+      {
+        "val": 1935,
+        "label": "Year of the Government of India Act"
+      },
+      {
+        "val": 164,
+        "label": "Article number dealing with the appointment of the Chief Minister"
+      }
+    ],
+    "src": "The Hindu",
+    "link": "https://www.thehindu.com/elections/west-bengal-assembly/suvendu-adhikari-to-chair-first-cabinet-meeting-on-may-11-2026/article70963091.ece",
+    "prelims": [
+      "The <strong>Chief Minister</strong> is the head of the government in a state, responsible for advising the Governor and overseeing the administration. The Chief Minister is appointed by the Governor, and their term is usually five years. The Chief Minister plays a crucial role in the allocation of portfolios to Ministers.",
+      "The <strong>Article 164</strong> of the Indian Constitution deals with the appointment of the Chief Minister and other Ministers. According to this article, the Chief Minister shall be appointed by the Governor, and the other Ministers shall be appointed by the Governor on the advice of the Chief Minister. The Council of Ministers is collectively responsible to the Legislative Assembly of the State.",
+      "The <strong>Council of Ministers</strong> is a body of Ministers headed by the Chief Minister, responsible for advising the Governor and overseeing the administration of the state. The Council of Ministers is collectively responsible to the Legislative Assembly of the State. The Ministers are allocated portfolios, which are areas of responsibility, such as Home, Finance, or Education.",
+      "The <strong>Government of India Act, 1935</strong> introduced the concept of provincial autonomy, which led to the establishment of the office of the Chief Minister. The Act provided for the appointment of a Chief Minister and other Ministers, who would be responsible for the administration of the province. The Chief Minister and other Ministers were to be appointed by the Governor, and they would be collectively responsible to the Legislative Assembly of the province.",
+      "The <strong>Indian Constitution</strong> provides for a parliamentary system of government, where the Chief Minister is the head of the government in a state. The Constitution outlines the powers and responsibilities of the Chief Minister, including the allocation of portfolios to Ministers. The Chief Minister plays a crucial role in the governance of the state and is responsible for advising the Governor and overseeing the administration."
+    ],
+    "mains": {
+      "q": "Discuss the role of the Chief Minister in the allocation of portfolios to Ministers in a state government.",
+      "marks": "15 marks · GS2",
+      "directive": "discuss",
+      "hints": [
+        "Introduction (2 marks): Define the role of the Chief Minister in a state government and the significance of portfolio allocation.",
+        "Body - Role of the Chief Minister (3 marks): Discuss the powers and responsibilities of the Chief Minister in allocating portfolios to Ministers, including the factors that influence this decision.",
+        "Body - Portfolio allocation (3 marks): Explain the process of portfolio allocation, including the criteria used to allocate portfolios to Ministers and the implications of this allocation.",
+        "Body - Collective responsibility (3 marks): Analyze the concept of collective responsibility of the Council of Ministers and its significance in the governance of the state.",
+        "Conclusion (2 marks): Summarize the role of the Chief Minister in portfolio allocation and its impact on the governance of the state."
+      ]
+    },
+    "connect": [
+      {
+        "topic": "Governance and Constitution",
+        "context": "The role of the Chief Minister and the allocation of portfolios connects to the syllabus area of Governance, Constitution, and Polity."
+      },
+      {
+        "topic": "Collective Responsibility",
+        "context": "The concept of collective responsibility of the Council of Ministers is significant in the governance of the state and is a crucial aspect of the parliamentary system."
+      },
+      {
+        "topic": "Indian Constitution",
+        "context": "The Indian Constitution provides for a parliamentary system of government, where the Chief Minister is the head of the government in a state."
+      },
+      {
+        "topic": "Government of India Act, 1935",
+        "context": "The Government of India Act, 1935 introduced the concept of provincial autonomy, which led to the establishment of the office of the Chief Minister."
+      },
+      {
+        "topic": "Council of Ministers",
+        "context": "The Council of Ministers is a body of Ministers headed by the Chief Minister, responsible for advising the Governor and overseeing the administration of the state."
+      }
+    ],
+    "_hash": "fc564368dacf",
+    "_fetched": "2026-05-10T21:55:09.231832+00:00",
+    "_relevance": 36,
+    "_gs": [
+      "GS2"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 1,
+    "_directive": "discuss",
+    "_mcqs": {
+      "q": "Consider the following statements:\n1. The Chief Minister is appointed by the Governor.\n2. The Chief Minister is responsible for advising the President.\n3. The Council of Ministers is collectively responsible to the Legislative Assembly of the State.\nWhich of the above is/are correct?",
+      "options": [
+        "1 only",
+        "1 and 3 only",
+        "2 and 3 only",
+        "1, 2 and 3"
+      ],
+      "correct": 1,
+      "explanation": "Statement 1 is correct: The Chief Minister is indeed appointed by the Governor. Statement 2 is incorrect: The Chief Minister is responsible for advising the Governor, not the President. Statement 3 is correct: The Council of Ministers is indeed collectively responsible to the Legislative Assembly of the State.",
+      "trap": "Wrong Ministry"
+    }
   }
 ]
