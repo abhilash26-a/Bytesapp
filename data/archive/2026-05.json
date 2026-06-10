@@ -29503,5 +29503,713 @@
     "_difficulty": 2,
     "_directive": "discuss",
     "_mcqs": []
+  },
+  {
+    "id": 2000,
+    "title": "India's FTAs",
+    "cat": "economy",
+    "upsc": true,
+    "time": "2026-05-11T19:57:50.365407+00:00",
+    "summary": "Commerce Secretary Rajesh Agrawal urged industries to leverage India's newly finalised free trade agreements. This is significant for UPSC as it relates to India's economic development and trade policies. The utilisation of FTAs is crucial for boosting exports and attracting investment, which is a key aspect of India's economic growth strategy.",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": 75,
+        "label": "Percentage of Indian cargo transshipped via foreign ports"
+      },
+      {
+        "val": 2014,
+        "label": "Year the Make in India initiative was launched"
+      },
+      {
+        "val": 2020,
+        "label": "Year the Atmanirbhar Bharat Abhiyan was launched"
+      }
+    ],
+    "src": "ET Economy",
+    "link": "https://economictimes.indiatimes.com/news/economy/foreign-trade/indias-new-ftas-offer-investment-opportunities-but-utilisation-remains-weak-commerce-secretary/articleshow/131022332.cms",
+    "prelims": [
+      "The <strong>Foreign Trade Agreement</strong> is a type of treaty between two or more countries that reduces or eliminates tariffs, quotas, and other trade barriers. India has signed several FTAs with countries like the US, EU, and ASEAN to increase trade and investment. The Ministry of Commerce and Industry is responsible for negotiating and implementing these agreements.",
+      "The <strong>World Trade Organization (WTO)</strong> is an international organization that promotes free trade and sets rules for global trade. India is a member of the WTO and has to comply with its rules and regulations. The WTO provides a framework for countries to negotiate trade agreements and resolve trade disputes.",
+      "The <strong>Make in India</strong> initiative was launched in 2014 to promote manufacturing and investment in India. The initiative aims to increase India's share in global trade and make it a hub for foreign investment. The government has taken several steps to implement the initiative, including simplifying regulations and providing incentives to investors.",
+      "The <strong>Atmanirbhar Bharat Abhiyan</strong> is a self-reliant India initiative launched in 2020 to promote economic growth and reduce dependence on foreign countries. The initiative aims to increase domestic production and reduce imports. The government has taken several steps to implement the initiative, including providing incentives to domestic manufacturers and imposing tariffs on imported goods.",
+      "The <strong>Department of Commerce</strong> is a government department responsible for promoting trade and commerce in India. The department is headed by the Commerce Secretary and is responsible for negotiating trade agreements, implementing trade policies, and promoting Indian exports."
+    ],
+    "mains": {
+      "q": "Analyze the impact of India's free trade agreements on its economic development.",
+      "marks": "15 marks · GS3",
+      "directive": "analyze",
+      "hints": [
+        "Introduction (2 marks): Define free trade agreements and their significance in international trade.",
+        "Body - Economic benefits (4 marks): Discuss the benefits of FTAs, such as increased trade, investment, and economic growth.",
+        "Body - Challenges (4 marks): Analyze the challenges faced by India in implementing FTAs, such as tariff reductions, non-tariff barriers, and trade deficits.",
+        "Body - Policy implications (3 marks): Examine the policy implications of FTAs on India's economic development, including the impact on domestic industries and employment.",
+        "Conclusion (2 marks): Summarize the main points and suggest ways to improve the effectiveness of FTAs in promoting India's economic development."
+      ]
+    },
+    "connect": [
+      {
+        "topic": "Foreign Trade Policy",
+        "context": "The Foreign Trade Policy is a set of guidelines that regulates India's foreign trade, including FTAs."
+      },
+      {
+        "topic": "World Trade Organization (WTO)",
+        "context": "The WTO is an international organization that promotes free trade and sets rules for global trade, which is relevant to India's FTAs."
+      },
+      {
+        "topic": "Make in India Initiative",
+        "context": "The Make in India initiative aims to promote manufacturing and investment in India, which is related to India's FTAs."
+      },
+      {
+        "topic": "Atmanirbhar Bharat Abhiyan",
+        "context": "The Atmanirbhar Bharat Abhiyan aims to promote self-reliance in India's economy, which is connected to India's FTAs."
+      },
+      {
+        "topic": "Department of Commerce",
+        "context": "The Department of Commerce is responsible for promoting trade and commerce in India, including negotiating and implementing FTAs."
+      }
+    ],
+    "_hash": "25fd47255a3b",
+    "_fetched": "2026-05-11T19:57:50.365407+00:00",
+    "_relevance": 84,
+    "_gs": [
+      "GS2",
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "analyze",
+    "_mcqs": {
+      "q": "Consider the following statements:\n1. India has signed an FTA with the US.\n2. The WTO is responsible for promoting free trade and setting rules for global trade.\n3. The Make in India initiative aims to reduce India's dependence on foreign investment.\nWhich of the above is/are correct?",
+      "options": [
+        "1 only",
+        "2 only",
+        "2 and 3 only",
+        "1, 2 and 3"
+      ],
+      "correct": 1,
+      "explanation": "Statement 1 is incorrect: India has not signed an FTA with the US. Statement 2 is correct: The WTO is responsible for promoting free trade and setting rules for global trade. Statement 3 is incorrect: The Make in India initiative aims to promote manufacturing and investment in India, not reduce dependence on foreign investment.",
+      "trap": "Absolute Language"
+    }
+  },
+  {
+    "id": 2001,
+    "title": "Made in India",
+    "cat": "economy",
+    "upsc": true,
+    "time": "2026-05-11T19:58:06.473349+00:00",
+    "summary": "India is planning to launch a 'Made in India Brand Scheme' to enhance domestic manufacturing and boost production for global markets. This initiative is significant for UPSC as it relates to India's economic development and trade policies. The scheme aims to assure quality and value addition in domestic products, which is crucial for India's competitiveness in the global market.",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": 25,
+        "label": "Share of manufacturing in GDP targeted by NMP 2011"
+      },
+      {
+        "val": 100,
+        "label": "Number of million additional jobs to be created in manufacturing sector by NMP 2011"
+      },
+      {
+        "val": 2025,
+        "label": "Year by which NMP 2011 aims to achieve its targets"
+      }
+    ],
+    "src": "ET Economy",
+    "link": "https://economictimes.indiatimes.com/news/economy/policy/india-plans-made-in-india-brand-scheme-targets-gaps-in-domestic-manufacturing/articleshow/131022331.cms",
+    "prelims": [
+      "The <strong>National Manufacturing Policy (NMP) 2011</strong> aims to increase the share of manufacturing in GDP to 25% by 2025. It also seeks to create 100 million additional jobs in the manufacturing sector. The policy has identified 21 sectors, including auto components, as focus areas for development.",
+      "The <strong>Make in India</strong> initiative was launched in 2014 to promote India as a manufacturing hub. It has identified 25 sectors, including automotive, as priority areas for investment. The initiative aims to increase the share of manufacturing in GDP to 25% by 2025.",
+      "The <strong>Automotive Mission Plan (AMP) 2016-2026</strong> aims to make India a global leader in the automotive sector. It has set a target of increasing the sector's contribution to GDP to 12% by 2026. The plan also seeks to create 50 million additional jobs in the sector.",
+      "The <strong>Free Trade Agreements (FTAs)</strong> signed by India with various countries have played a crucial role in promoting exports. The FTAs have helped Indian manufacturers to access new markets and increase their exports. However, they have also raised concerns about the impact on domestic industries.",
+      "The <strong>Artificial Intelligence (AI) in manufacturing</strong> is transforming the sector by increasing efficiency and productivity. AI is being used in various applications, including predictive maintenance, quality control, and supply chain management. However, it also raises concerns about job displacement and the need for upskilling."
+    ],
+    "mains": {
+      "q": "Analyze the impact of the 'Made in India Brand Scheme' on India's economic development and trade policies.",
+      "marks": "15 marks · GS3",
+      "directive": "analyze",
+      "hints": [
+        "Introduction (2 marks): Define the 'Made in India Brand Scheme' and its objectives. Explain the significance of the scheme in the context of India's economic development.",
+        "Body - Economic impact (3 marks): Discuss the potential impact of the scheme on India's GDP, employment, and trade balance. Explain how the scheme can help India to become a global manufacturing hub.",
+        "Body - Trade policies (3 marks): Analyze the impact of the scheme on India's trade policies, including its FTAs and export promotion strategies. Explain how the scheme can help India to increase its exports and improve its trade competitiveness.",
+        "Body - Challenges (3 marks): Discuss the challenges facing the implementation of the scheme, including the need for infrastructure development, skill upgradation, and quality control. Explain how these challenges can be addressed.",
+        "Conclusion (2 marks): Summarize the main points and reiterate the significance of the 'Made in India Brand Scheme' for India's economic development and trade policies."
+      ]
+    },
+    "connect": [
+      {
+        "topic": "National Manufacturing Policy (NMP) 2011",
+        "context": "The 'Made in India Brand Scheme' is a part of the NMP 2011, which aims to increase the share of manufacturing in GDP to 25% by 2025."
+      },
+      {
+        "topic": "Make in India initiative",
+        "context": "The 'Made in India Brand Scheme' is a part of the Make in India initiative, which aims to promote India as a manufacturing hub."
+      },
+      {
+        "topic": "Free Trade Agreements (FTAs)",
+        "context": "The 'Made in India Brand Scheme' can help India to increase its exports and improve its trade competitiveness, which is crucial for the success of its FTAs."
+      },
+      {
+        "topic": "Artificial Intelligence (AI) in manufacturing",
+        "context": "The 'Made in India Brand Scheme' can help India to adopt AI in manufacturing, which can increase efficiency and productivity in the sector."
+      },
+      {
+        "topic": "Export promotion strategies",
+        "context": "The 'Made in India Brand Scheme' can help India to increase its exports and improve its trade competitiveness, which is crucial for the success of its export promotion strategies."
+      }
+    ],
+    "_hash": "72d8a7791a71",
+    "_fetched": "2026-05-11T19:58:06.473349+00:00",
+    "_relevance": 64,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "analyze",
+    "_mcqs": {
+      "q": "Consider the following statements:\n1. The 'Made in India Brand Scheme' is aimed at promoting India's services sector.\n2. The scheme is expected to increase India's GDP by 2% by 2025.\n3. The scheme is a part of the National Manufacturing Policy (NMP) 2011.\nWhich of the above is/are correct?",
+      "options": [
+        "1 only",
+        "2 only",
+        "3 only",
+        "1, 2 and 3"
+      ],
+      "correct": 2,
+      "explanation": "Statement 1 is incorrect: The 'Made in India Brand Scheme' is aimed at promoting India's manufacturing sector, not services sector. Statement 2 is correct: The scheme is expected to increase India's GDP by 2% by 2025. Statement 3 is correct: The scheme is a part of the National Manufacturing Policy (NMP) 2011.",
+      "trap": "Absolute Language"
+    }
+  },
+  {
+    "id": 2002,
+    "title": "Venezuela Dismisses US Plan",
+    "cat": "world",
+    "upsc": true,
+    "time": "2026-05-11T19:58:22.173576+00:00",
+    "summary": "Venezuela's acting president has dismissed a reported plan by the US to turn the country into the 51st US state. This development is crucial for UPSC as it involves international relations and geopolitical strategies. The situation connects to the GS2 syllabus area, which covers governance, constitution, polity, and international relations.",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": 1823,
+        "label": "Year the Monroe Doctrine was introduced"
+      },
+      {
+        "val": 1948,
+        "label": "Year the Organization of American States (OAS) was established"
+      },
+      {
+        "val": 51,
+        "label": "Proposed number of US states if Venezuela were to become a US state"
+      }
+    ],
+    "src": "LiveMint",
+    "link": "https://www.livemint.com/news/world/latest-world-news-on-may-12-2026-live-updates-11778526930535.html",
+    "prelims": [
+      "The <strong>Monroe Doctrine</strong> is a US foreign policy introduced in 1823, which states that the Western Hemisphere is closed to further European colonization. This doctrine has been used to justify US intervention in Latin American countries, including Venezuela. The doctrine is significant in understanding the historical context of US-Venezuela relations.",
+      "The <strong>Organization of American States (OAS)</strong> is a regional international organization that promotes democracy, peace, and cooperation among its member states. Established in 1948, the OAS has played a crucial role in promoting regional stability and resolving conflicts in the Americas. Venezuela's membership in the OAS is relevant to understanding the country's international relations.",
+      "The <strong>US-Venezuela relations</strong> have been strained in recent years due to disagreements over issues such as democracy, human rights, and economic policies. The US has imposed sanctions on Venezuela, which has had a significant impact on the country's economy. Understanding the complexities of US-Venezuela relations is essential for analyzing the current situation.",
+      "The <strong>concept of sovereignty</strong> is a fundamental principle in international relations, which refers to a state's supreme authority and independence. The concept is enshrined in the United Nations Charter and is a cornerstone of international law. Venezuela's assertion of its sovereignty is a critical aspect of the current situation.",
+      "The <strong>international law principle of non-intervention</strong> prohibits states from intervening in the internal affairs of other states. This principle is enshrined in the United Nations Charter and is a fundamental aspect of international relations. The reported US plan to turn Venezuela into a US state raises questions about the principle of non-intervention and its implications for international relations."
+    ],
+    "mains": {
+      "q": "Analyze the implications of the reported US plan to turn Venezuela into the 51st US state on international relations and global governance.",
+      "marks": "15 marks · GS2",
+      "directive": "analyze",
+      "hints": [
+        "Introduction (2 marks): Define the concept of sovereignty and its significance in international relations, and introduce the context of US-Venezuela relations.",
+        "Body - Historical context (3 marks): Discuss the historical context of US-Venezuela relations, including the Monroe Doctrine and its implications for regional stability.",
+        "Body - International law (3 marks): Examine the principles of international law, including the principle of non-intervention, and their relevance to the reported US plan.",
+        "Body - Global governance (3 marks): Analyze the implications of the reported US plan on global governance, including the role of international organizations such as the United Nations and the Organization of American States.",
+        "Conclusion (2 marks): Summarize the main points and reiterate the significance of the reported US plan for international relations and global governance."
+      ]
+    },
+    "connect": [
+      {
+        "topic": "International Relations Theory",
+        "context": "The reported US plan to turn Venezuela into a US state raises questions about the principles of international relations, including sovereignty and non-intervention."
+      },
+      {
+        "topic": "United Nations Charter",
+        "context": "The UN Charter enshrines the principle of sovereignty and non-intervention, which is relevant to the current situation."
+      },
+      {
+        "topic": "Organization of American States (OAS)",
+        "context": "The OAS has played a crucial role in promoting regional stability and resolving conflicts in the Americas, including in Venezuela."
+      },
+      {
+        "topic": "US Foreign Policy",
+        "context": "The Monroe Doctrine is a significant aspect of US foreign policy, and its implications for Latin America are still relevant today."
+      }
+    ],
+    "_hash": "ba317a7ef10f",
+    "_fetched": "2026-05-11T19:58:22.173576+00:00",
+    "_relevance": 59,
+    "_gs": [
+      "GS2"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "analyze",
+    "_mcqs": {
+      "q": "Consider the following statements:\n1. The Monroe Doctrine is a US foreign policy that promotes democracy and human rights in Latin America.\n2. The Organization of American States (OAS) is a regional international organization that promotes economic cooperation among its member states.\n3. The principle of non-intervention is a fundamental aspect of international law that prohibits states from intervening in the internal affairs of other states.\nWhich of the above is/are correct?",
+      "options": [
+        "1 only",
+        "1 and 2 only",
+        "2 and 3 only",
+        "1, 2 and 3"
+      ],
+      "correct": 3,
+      "explanation": "Statement 1 is incorrect: The Monroe Doctrine is a US foreign policy that states that the Western Hemisphere is closed to further European colonization, but it does not necessarily promote democracy and human rights. Statement 2 is incorrect: The OAS promotes democracy, peace, and cooperation among its member states, not just economic cooperation. Statement 3 is correct: The principle of non-intervention is a fundamental aspect of international law that prohibits states from intervening in the internal affairs of other states.",
+      "trap": "Wrong Ministry / Absolute Language"
+    }
+  },
+  {
+    "id": 2003,
+    "title": "Education Budget will grow every year, says Telangana CM Rev",
+    "cat": "economy",
+    "upsc": true,
+    "time": "2026-05-11T20:00:34.610282+00:00",
+    "summary": "Allocations to the sector would be gradually increased to 15% of the annual Budget, says Reddy, also the Education Minister, while launching the ‘Excl",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "The Hindu",
+    "link": "https://www.thehindu.com/news/national/telangana/education-budget-will-grow-every-year-says-telangana-cm-revanth-reddy/article70966847.ece",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "5ae7b47e6f08",
+    "_fetched": "2026-05-11T20:00:34.610282+00:00",
+    "_relevance": 54,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "budget",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 2004,
+    "title": "Portugal eyes bigger role in India’s infrastructure, manufac",
+    "cat": "economy",
+    "upsc": true,
+    "time": "2026-05-11T20:02:47.020007+00:00",
+    "summary": "Portugal's Minister of State for Economy, João Rui Ferreira, expressed readiness to contribute to India's infrastructure goals, highlighting strong In",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "ET Economy",
+    "link": "https://economictimes.indiatimes.com/news/economy/foreign-trade/portugal-eyes-bigger-role-in-indias-infrastructure-manufacturing-push-as-trade-ties-deepen/articleshow/131020667.cms",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "4b058da90bae",
+    "_fetched": "2026-05-11T20:02:47.020007+00:00",
+    "_relevance": 50,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 2005,
+    "title": "TCS Nashik case: NCW flags ‘toxic work culture’, ‘zero POSH ",
+    "cat": "economy",
+    "upsc": false,
+    "time": "2026-05-11T20:04:59.437167+00:00",
+    "summary": "Deeply disturbing and toxic workplace environment marked by pervasive sexual harassment and abuse of authority at the workplace, says NCW report.",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "The Hindu",
+    "link": "https://www.thehindu.com/news/national/tcs-nashik-case-ncw-flags-toxic-work-culture-zero-posh-compliance/article70966426.ece",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "824f2bc3ecd6",
+    "_fetched": "2026-05-11T20:04:59.437167+00:00",
+    "_relevance": 49,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 2006,
+    "title": "GBA polls: Karnataka SEC appeals to Supreme Court for extens",
+    "cat": "india",
+    "upsc": false,
+    "time": "2026-05-11T20:07:11.841177+00:00",
+    "summary": "The Karnataka State Election Commission had recently said civic polls in Bengaluru will be held between June 14 and 24.",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "The Hindu",
+    "link": "https://www.thehindu.com/news/national/karnataka/gba-polls-karnataka-sec-appeals-to-supreme-court-for-extension-of-deadline-by-3-months/article70966472.ece",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "02efe92803ec",
+    "_fetched": "2026-05-11T20:07:11.841177+00:00",
+    "_relevance": 46,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "sc-judgment",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 2007,
+    "title": "PM repeats call for saving fuel, cutting gold buy; bats for ",
+    "cat": "economy",
+    "upsc": false,
+    "time": "2026-05-11T20:09:24.280259+00:00",
+    "summary": "“We must make every effort to reduce the use of imported products and avoid personal activities that involve spending foreign currency,” PM Modi said",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "The Hindu",
+    "link": "https://www.thehindu.com/news/national/pm-modi-gujarat-saving-fuel-cutting-gold-west-asia-crisis/article70966937.ece",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "bbcbd0c59f71",
+    "_fetched": "2026-05-11T20:09:24.280259+00:00",
+    "_relevance": 44,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 2008,
+    "title": "Advanced nuclear systems vital for India’s sustainable energ",
+    "cat": "science",
+    "upsc": false,
+    "time": "2026-05-11T20:11:36.722352+00:00",
+    "summary": "",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "The Hindu",
+    "link": "https://www.thehindu.com/news/national/andhra-pradesh/advanced-nuclear-systems-vital-for-indias-sustainable-energy-future-says-expert/article70966872.ece",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "49f6d4bad4fc",
+    "_fetched": "2026-05-11T20:11:36.722352+00:00",
+    "_relevance": 39,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 2009,
+    "title": "VB-GRAM G replaces MGNREGA from July 1 | Key details explain",
+    "cat": "tech",
+    "upsc": false,
+    "time": "2026-05-11T20:13:49.110238+00:00",
+    "summary": "The Central Government has announced VB-GRAM G, a new rural employment mission set to replace MGNREGA from July 1, 2026. The transition aims to be smo",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "The Hindu",
+    "link": "https://www.thehindu.com/videos/vb-gram-g-replaces-mgnrega-from-july-1-key-details-explained/article70966892.ece",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "8b81ce52a851",
+    "_fetched": "2026-05-11T20:13:49.110238+00:00",
+    "_relevance": 39,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 2010,
+    "title": "PM Modi to hold talks with UAE, Dutch, Swedish, Norwegian an",
+    "cat": "economy",
+    "upsc": false,
+    "time": "2026-05-11T20:16:01.515387+00:00",
+    "summary": "As the clock strikes May 15, 2026, Prime Minister Narendra Modi sets forth on a pivotal journey through Europe and the Middle East. His itinerary incl",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "ET Economy",
+    "link": "https://economictimes.indiatimes.com/news/economy/foreign-trade/pm-modi-to-hold-talks-with-uae-dutch-swedish-norwegian-and-italian-leadership-in-major-tour/articleshow/131018504.cms",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "503f4f8a8de2",
+    "_fetched": "2026-05-11T20:16:01.515387+00:00",
+    "_relevance": 36,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 2011,
+    "title": "Who is Manoj Agarwal? West Bengal chief electoral officer ap",
+    "cat": "india",
+    "upsc": false,
+    "time": "2026-05-11T20:18:13.914627+00:00",
+    "summary": "Manoj Agarwal has been appointed Chief Secretary of West Bengal under Chief Minister Suvendu Adhikari's BJP government. He had previously overseen the",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "LiveMint",
+    "link": "https://www.livemint.com/news/india/who-is-manoj-agarwal-west-bengal-chief-electoral-officer-appointed-as-chief-secretary-by-suvendu-adhikari-government-11778517409256.html",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "69b74c2d364e",
+    "_fetched": "2026-05-11T20:18:13.914627+00:00",
+    "_relevance": 35,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 2012,
+    "title": "Kochi metro’s Kakkanad extension likely to miss Dec. deadlin",
+    "cat": "economy",
+    "upsc": false,
+    "time": "2026-05-11T20:20:26.311237+00:00",
+    "summary": "Uncertainty continues over securing the long-overdue ₹1,200-crore loan for the extension from the Asian Infrastructure Investment Bank, which has in t",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "The Hindu",
+    "link": "https://www.thehindu.com/news/national/kerala/kochi-metros-kakkanad-extension-likely-to-miss-dec-deadline/article70966524.ece",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "2a7a765754ae",
+    "_fetched": "2026-05-11T20:20:26.311237+00:00",
+    "_relevance": 33,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 2013,
+    "title": "Modi’s austerity drive is an admission of failure on economi",
+    "cat": "economy",
+    "upsc": false,
+    "time": "2026-05-11T20:22:38.706117+00:00",
+    "summary": "It appears the BJP government has completely lost control; the dollar is skyrocketing, and the Indian rupee has plummeted, Mr. Yadav said",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "The Hindu",
+    "link": "https://www.thehindu.com/news/national/pm-modis-appeal-on-fuel-savings-an-admission-of-failure-will-rattle-markets-akhilesh/article70964575.ece",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "c22f1f777625",
+    "_fetched": "2026-05-11T20:22:38.706117+00:00",
+    "_relevance": 33,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "sc-judgment",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 2014,
+    "title": "​Belated warning: on the Prime Minister’s austerity appeal",
+    "cat": "india",
+    "upsc": false,
+    "time": "2026-05-11T20:24:51.107959+00:00",
+    "summary": "Prime Minister Narendra Modi’s suggestions to Indians imply a serious economic impact",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "The Hindu Editorial",
+    "link": "https://www.thehindu.com/opinion/editorial/belated-warning-on-the-prime-ministers-austerity-appeal/article70965048.ece",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "c0b7cca39847",
+    "_fetched": "2026-05-11T20:24:51.107959+00:00",
+    "_relevance": 33,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "sc-judgment",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 2015,
+    "title": "Indian Ocean more contested, and important than ever before:",
+    "cat": "economy",
+    "upsc": false,
+    "time": "2026-05-11T20:27:03.508998+00:00",
+    "summary": "He observed that the Indian Ocean has always been India’s arena, and highlighted the growing significance of the region",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "The Hindu",
+    "link": "https://www.thehindu.com/news/national/indian-ocean-more-contested-and-important-than-ever-before-vice-admiral-swaminathan/article70966956.ece",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "b80fd71f58a6",
+    "_fetched": "2026-05-11T20:27:03.508998+00:00",
+    "_relevance": 31,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 2016,
+    "title": "India-US trade talks set for next round, but Section 301 pro",
+    "cat": "economy",
+    "upsc": false,
+    "time": "2026-05-11T20:29:15.862377+00:00",
+    "summary": "India anticipates a US trade delegation for upcoming talks, which will address all outstanding issues, including the Section 301 probe. A proposed tra",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "ET Economy",
+    "link": "https://economictimes.indiatimes.com/news/economy/foreign-trade/india-us-trade-talks-set-for-next-round-but-section-301-probe-remains-hurdle/articleshow/131021441.cms",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "2392e69a964a",
+    "_fetched": "2026-05-11T20:29:15.862377+00:00",
+    "_relevance": 31,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 2017,
+    "title": "Chandrababu Naidu backs PM Modi's ‘seven appeals’ — says ‘na",
+    "cat": "india",
+    "upsc": false,
+    "time": "2026-05-11T20:31:28.229488+00:00",
+    "summary": "Andhra CM Chandrababu Naidu supports PM Modi's national mission to strengthen India's foreign exchange reserves amid global challenges.",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "LiveMint",
+    "link": "https://www.livemint.com/news/india/andhra-cm-chandrababu-naidu-backs-pm-modis-seven-appeals-amid-west-asia-conflict-11778514929373.html",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "5e1fd14ef1e3",
+    "_fetched": "2026-05-11T20:31:28.229488+00:00",
+    "_relevance": 30,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "sc-judgment",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
   }
 ]
