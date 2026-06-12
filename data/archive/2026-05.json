@@ -36023,5 +36023,766 @@
     "_difficulty": 2,
     "_directive": "discuss",
     "_mcqs": []
+  },
+  {
+    "id": 1978,
+    "title": "India GDP Forecast",
+    "cat": "economy",
+    "upsc": true,
+    "time": "2026-05-13T20:04:11.072077+00:00",
+    "summary": "Morgan Stanley has lifted India's FY27 GDP forecast to 6.7% due to strong domestic consumption and infrastructure investments. This growth is significant for UPSC as it reflects the country's economic development and potential for future growth. The forecast also highlights the importance of understanding economic indicators and their impact on the country's overall development, which is a crucial aspect of GS3.",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": 6.7,
+        "label": "India's FY27 GDP forecast (%)"
+      },
+      {
+        "val": 2013,
+        "label": "Year the Companies Act was amended to establish the National Financial Reporting Authority (NFRA)"
+      },
+      {
+        "val": 1935,
+        "label": "Year the Reserve Bank of India (RBI) was established"
+      }
+    ],
+    "src": "ET Economy",
+    "link": "https://economictimes.indiatimes.com/news/economy/indicators/morgan-stanley-lifts-india-fy27-gdp-forecast-to-6-7-on-demand-strength/articleshow/131076265.cms",
+    "prelims": [
+      "The <strong>National Financial Reporting Authority (NFRA)</strong> was established in 2018 under Section 132 of the Companies Act, 2013, to oversee the accounting and auditing standards in India. It has the power to investigate and impose penalties on companies and auditors for non-compliance. NFRA's establishment is a significant step towards improving corporate governance in India.",
+      "The <strong>Monetary Policy Committee (MPC)</strong> is a six-member committee that decides on the monetary policy of India, including the repo rate and reverse repo rate. The MPC was established in 2016 under the Reserve Bank of India Act, 1934, and is headed by the Governor of the Reserve Bank of India. The committee's decisions have a significant impact on the country's economy and inflation.",
+      "The <strong>Gross Domestic Product (GDP)</strong> is the total value of goods and services produced within a country's borders over a specific period. It is an important indicator of a country's economic growth and development. In India, the GDP is calculated by the National Statistical Office (NSO) using the <strong>System of National Accounts (SNA)</strong> framework.",
+      "The <strong>Reserve Bank of India (RBI)</strong> is the central bank of India, established in 1935 under the Reserve Bank of India Act, 1934. The RBI is responsible for regulating the country's monetary policy, maintaining financial stability, and overseeing the banking system. The RBI also plays a crucial role in managing the country's foreign exchange reserves.",
+      "The <strong>Fiscal Responsibility and Budget Management (FRBM) Act, 2003</strong>, is an Act of the Parliament of India that aims to promote fiscal discipline and transparency in the country's fiscal policy. The Act sets targets for the reduction of fiscal deficits and debt, and requires the government to publish a medium-term fiscal policy statement."
+    ],
+    "mains": {
+      "q": "Analyze the impact of strong domestic consumption on India's economic growth, with a focus on the role of infrastructure investments and services exports.",
+      "marks": "15 marks · GS3",
+      "directive": "analyze",
+      "hints": [
+        "Introduction (2 marks): Define domestic consumption and its importance in India's economic growth, including its contribution to GDP.",
+        "Body - Infrastructure investments (3 marks): Discuss the current state of infrastructure in India, including the government's initiatives to improve it, such as the <strong>National Infrastructure Pipeline (NIP)</strong>.",
+        "Body - Services exports (3 marks): Explain the significance of services exports in India's economic growth, including the role of the <strong>Information Technology (IT) sector</strong> and the potential for growth in other service sectors.",
+        "Body - Challenges and opportunities (3 marks): Analyze the challenges facing India's economic growth, including the impact of global uncertainties and climbing oil prices, and discuss the opportunities for growth, including the potential for increased investment in infrastructure and services.",
+        "Conclusion (2 marks): Summarize the importance of strong domestic consumption and infrastructure investments in driving India's economic growth, and suggest policy recommendations for the government to support sustained growth."
+      ]
+    },
+    "connect": [
+      {
+        "topic": "Monetary Policy and its Instruments",
+        "context": "The RBI's monetary policy decisions have a significant impact on India's economic growth, and understanding the tools and instruments used by the RBI is crucial for analyzing the country's economic development."
+      },
+      {
+        "topic": "Fiscal Policy and its Impact on Economy",
+        "context": "The government's fiscal policy decisions, including taxation and expenditure, have a significant impact on the country's economic growth, and understanding the relationship between fiscal policy and economic growth is essential for analyzing the country's development."
+      },
+      {
+        "topic": "Gross Domestic Product (GDP) and its Components",
+        "context": "The GDP is an important indicator of a country's economic growth and development, and understanding its components, including consumption, investment, and net exports, is crucial for analyzing the country's economic performance."
+      },
+      {
+        "topic": "Infrastructure Development and its Impact on Economy",
+        "context": "Infrastructure development is critical for a country's economic growth, and understanding the role of infrastructure in facilitating economic activity is essential for analyzing the country's development."
+      },
+      {
+        "topic": "Services Sector and its Contribution to GDP",
+        "context": "The services sector is a significant contributor to India's GDP, and understanding the role of services in driving economic growth is crucial for analyzing the country's development and identifying opportunities for growth."
+      }
+    ],
+    "_hash": "0d1c2f43cbe1",
+    "_fetched": "2026-05-13T20:04:11.072077+00:00",
+    "_relevance": 91,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "analyze",
+    "_mcqs": {
+      "q": "Consider the following statements:\n1. The Monetary Policy Committee (MPC) is responsible for setting the fiscal policy of India.\n2. The Reserve Bank of India (RBI) is the central bank of India, responsible for regulating the country's monetary policy.\n3. The Gross Domestic Product (GDP) is an important indicator of a country's economic growth and development.\nWhich of the above is/are correct?",
+      "options": [
+        "1 only",
+        "2 and 3 only",
+        "1 and 2 only",
+        "1, 2 and 3"
+      ],
+      "correct": 1,
+      "explanation": "Statement 1 is incorrect: The MPC is responsible for setting the monetary policy, not the fiscal policy. Statement 2 is correct: The RBI is the central bank of India, responsible for regulating the country's monetary policy. Statement 3 is correct: The GDP is an important indicator of a country's economic growth and development.",
+      "trap": "Wrong Ministry"
+    }
+  },
+  {
+    "id": 1979,
+    "title": "NEET Exam Weaknesses",
+    "cat": "policy",
+    "upsc": true,
+    "time": "2026-05-13T20:04:26.981999+00:00",
+    "summary": "The K. Radhakrishnan Committee has identified local transport, storage, and human handling as the weakest links in conducting the NEET exam. This is crucial for UPSC as it highlights the need for robust infrastructure and governance in the education sector. The report's findings connect to the broader theme of education policy and governance, which is a key area of focus in the UPSC syllabus.",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": 2017,
+        "label": "Year the National Testing Agency was established"
+      },
+      {
+        "val": 2009,
+        "label": "Year the Right to Education Act was passed"
+      }
+    ],
+    "src": "The Hindu",
+    "link": "https://www.thehindu.com/news/national/local-transport-storage-and-human-handling-are-the-weakest-links-in-conducting-neet-according-to-panel-report/article70974678.ece",
+    "prelims": [
+      "The <strong>National Testing Agency (NTA)</strong> was established in 2017 to conduct entrance examinations for higher educational institutions, including the NEET exam. It has its headquarters in Noida, Uttar Pradesh, and is mandated to ensure transparency and efficiency in the exam process. The NTA is also responsible for conducting other exams such as the JEE Main and the UGC NET.",
+      "The <strong>Right to Education (RTE) Act, 2009</strong> guarantees free and compulsory education to all children between the ages of 6 and 14. The Act also emphasizes the need for proper infrastructure and qualified teachers in schools. In the context of the NEET exam, the RTE Act highlights the importance of ensuring that all students have access to quality education, regardless of their socio-economic background.",
+      "The <strong>Central Board of Secondary Education (CBSE)</strong> is a national-level board of education that conducts the Class 10 and Class 12 exams. The CBSE also provides affiliation to schools across the country and is responsible for developing the curriculum and syllabus for these exams. The CBSE's role in the education sector is crucial, and its policies have a significant impact on the conduct of exams like the NEET.",
+      "The <strong>University Grants Commission (UGC)</strong> is a statutory body that oversees the functioning of universities in India. The UGC is responsible for maintaining the standards of higher education and providing funding to universities. In the context of the NEET exam, the UGC plays a crucial role in ensuring that the exam is conducted in a fair and transparent manner, and that the standards of medical education are maintained.",
+      "The <strong>Ministry of Education</strong> is the government department responsible for the development and implementation of education policies in India. The Ministry oversees the functioning of various educational institutions and organizations, including the NTA, CBSE, and UGC. The Ministry's policies and initiatives have a significant impact on the education sector, including the conduct of exams like the NEET."
+    ],
+    "mains": {
+      "q": "Critically examine the role of the National Testing Agency in conducting the NEET exam, and discuss the challenges it faces in ensuring the integrity and transparency of the exam process.",
+      "marks": "15 marks · GS2",
+      "directive": "critically_examine",
+      "hints": [
+        "Introduction (2 marks): Define the National Testing Agency and its role in conducting the NEET exam, and explain the importance of ensuring the integrity and transparency of the exam process.",
+        "Body - NTA's role (3 marks): Discuss the NTA's responsibilities in conducting the NEET exam, including the development of the exam syllabus, the conduct of the exam, and the declaration of results.",
+        "Body - Challenges (3 marks): Analyze the challenges faced by the NTA in ensuring the integrity and transparency of the exam process, including the use of technology, the prevention of cheating, and the maintenance of exam security.",
+        "Body - Governance (3 marks): Examine the governance structure of the NTA, including its relationship with the Ministry of Education and other stakeholders, and discuss the implications of this structure for the conduct of the NEET exam.",
+        "Conclusion (2 marks): Summarize the main points and reiterate the importance of ensuring the integrity and transparency of the NEET exam process, and suggest measures to address the challenges faced by the NTA."
+      ]
+    },
+    "connect": [
+      {
+        "topic": "Education Policy",
+        "context": "The NEET exam is a key component of India's education policy, and the challenges faced by the NTA in conducting the exam highlight the need for robust governance and infrastructure in the education sector."
+      },
+      {
+        "topic": "Governance and Administration",
+        "context": "The NTA's role in conducting the NEET exam illustrates the importance of effective governance and administration in ensuring the integrity and transparency of the exam process."
+      },
+      {
+        "topic": "Constitutional Provisions",
+        "context": "The Right to Education Act, 2009, is a key constitutional provision that guarantees free and compulsory education to all children, and the NEET exam is a critical component of this provision."
+      },
+      {
+        "topic": "Public Policy and Administration",
+        "context": "The challenges faced by the NTA in conducting the NEET exam highlight the need for effective public policy and administration in ensuring the delivery of key public services, including education."
+      },
+      {
+        "topic": "Social Justice and Equity",
+        "context": "The NEET exam is a critical component of India's efforts to promote social justice and equity, and the challenges faced by the NTA in conducting the exam highlight the need for robust policies and governance to ensure that all students have access to quality education."
+      }
+    ],
+    "_hash": "7f74b40d1722",
+    "_fetched": "2026-05-13T20:04:26.981999+00:00",
+    "_relevance": 41,
+    "_gs": [
+      "GS2"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "critically_examine",
+    "_mcqs": {
+      "q": "Consider the following statements:\n1. The National Testing Agency was established in 2015.\n2. The NEET exam is conducted by the Central Board of Secondary Education.\n3. The University Grants Commission is responsible for maintaining the standards of higher education in India.\nWhich of the above is/are correct?",
+      "options": [
+        "1 only",
+        "1 and 2 only",
+        "2 and 3 only",
+        "3 only"
+      ],
+      "correct": 3,
+      "explanation": "Statement 1 is incorrect: The National Testing Agency was established in 2017, not 2015. Statement 2 is incorrect: The NEET exam is conducted by the National Testing Agency, not the Central Board of Secondary Education. Statement 3 is correct: The University Grants Commission is indeed responsible for maintaining the standards of higher education in India.",
+      "trap": "Wrong Year"
+    }
+  },
+  {
+    "id": 1980,
+    "title": "Tamil Nadu jewellers to stop sale of gold coins",
+    "cat": "tech",
+    "upsc": false,
+    "time": "2026-05-13T20:06:39.354813+00:00",
+    "summary": "Association says the measure aims to help reduce gold imports, asks government to immediately ban ETFs, digital gold sales and restrict gold importers",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "The Hindu",
+    "link": "https://www.thehindu.com/news/cities/Coimbatore/tamil-nadu-jewellers-to-stop-sale-of-gold-coins/article70975304.ece",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "2b111432e875",
+    "_fetched": "2026-05-13T20:06:39.354813+00:00",
+    "_relevance": 39,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 1981,
+    "title": "Learn from Sri Lanka’s experience on impact of fertilizer su",
+    "cat": "economy",
+    "upsc": false,
+    "time": "2026-05-13T20:08:52.587451+00:00",
+    "summary": "The experts participating in a panel discussion on the topic ‘Impact of West Asia Crisis on Economic Disruptions and Sustainability: Implications for ",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "The Hindu",
+    "link": "https://www.thehindu.com/business/Economy/learn-from-sri-lankas-experience-on-impact-of-fertilizer-supply-chains-experts/article70974111.ece",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "82acde70247a",
+    "_fetched": "2026-05-13T20:08:52.587451+00:00",
+    "_relevance": 39,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 1982,
+    "title": "India targets $1 trillion exports in FY27 as FTAs come into ",
+    "cat": "economy",
+    "upsc": false,
+    "time": "2026-05-13T20:11:05.076981+00:00",
+    "summary": "With an eye on reaching $1 trillion in exports by FY27, India is launching into a new era of trade. The upcoming implementation of various free trade ",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "ET Economy",
+    "link": "https://economictimes.indiatimes.com/news/economy/foreign-trade/india-targets-1-trillion-exports-in-fy27-as-ftas-come-into-effect-says-goyal/articleshow/131076333.cms",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "318335d0c761",
+    "_fetched": "2026-05-13T20:11:05.076981+00:00",
+    "_relevance": 38,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 1983,
+    "title": "Late-night host Jimmy Kimmel says battle with Trump costs AB",
+    "cat": "policy",
+    "upsc": false,
+    "time": "2026-05-13T20:13:17.461963+00:00",
+    "summary": "Jimmy Kimmel said his feud with Donald Trump has cost ABC billions while boosting “Jimmy Kimmel Live!” ratings. He joked about his impact at a Disney ",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "LiveMint",
+    "link": "https://www.livemint.com/news/us-news/latenight-host-jimmy-kimmel-says-battle-with-trump-costs-abc-billions-says-feud-boosts-ratings-11778701603484.html",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "ea784d2e42ee",
+    "_fetched": "2026-05-13T20:13:17.461963+00:00",
+    "_relevance": 37,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 1984,
+    "title": "Tamil Nadu, Uttar Pradesh top logistics performance ranking,",
+    "cat": "india",
+    "upsc": false,
+    "time": "2026-05-13T20:15:29.949039+00:00",
+    "summary": "The LEADS 2025 report has unveiled the logistics champions of India, with Tamil Nadu, Uttar Pradesh, Mizoram, and Delhi being hailed as 'exemplars'. G",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "ET Economy",
+    "link": "https://economictimes.indiatimes.com/news/economy/infrastructure/tamil-nadu-uttar-pradesh-top-logistics-performance-ranking-mizoram-and-delhi-also-lead/articleshow/131076513.cms",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "b2a07d913eb2",
+    "_fetched": "2026-05-13T20:15:29.949039+00:00",
+    "_relevance": 33,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 1985,
+    "title": "Ilaiyaraaja’s trendsetter movie Annakili turns 50",
+    "cat": "tech",
+    "upsc": false,
+    "time": "2026-05-13T20:17:42.268705+00:00",
+    "summary": "A black-and-white film running successfully for 200 days was remarkable, and much of that achievement was due to the songs composed by Ilaiyaraaja, sa",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "The Hindu",
+    "link": "https://www.thehindu.com/news/national/tamil-nadu/ilaiyaraajas-trendsetter-movieannakiliturns-50/article70975231.ece",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "f9bc5fce5c40",
+    "_fetched": "2026-05-13T20:17:42.268705+00:00",
+    "_relevance": 31,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 1986,
+    "title": "Modi preaches austerity while denying dignity to the poor, s",
+    "cat": "india",
+    "upsc": false,
+    "time": "2026-05-13T20:19:54.665578+00:00",
+    "summary": "Congress chief says Centre has not raised old-age pensions for 12 years despite soaring inflation almost halving purchasing power; says BJP government",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "The Hindu",
+    "link": "https://www.thehindu.com/news/national/bjp-strips-elderly-poor-of-economic-dignity-while-spending-on-political-spectacle-congress/article70973723.ece",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "f9fef2fb7b71",
+    "_fetched": "2026-05-13T20:19:54.665578+00:00",
+    "_relevance": 31,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 1987,
+    "title": "India's $1 Trillion Export Goal",
+    "cat": "economy",
+    "upsc": true,
+    "time": "2026-05-13T17:21:08.411671+00:00",
+    "summary": "India has set an ambitious target of achieving $1 trillion in exports this fiscal year, building on the previous year's stellar performance of $863.11 billion. This goal is significant for UPSC aspirants as it reflects the government's efforts to boost economic growth and increase the country's global trade presence. The achievement of this target will have a direct impact on the country's economic development, which is a crucial aspect of GS3.",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": 863.11,
+        "label": "Previous year's export performance (billion dollars)"
+      },
+      {
+        "val": 2014,
+        "label": "Year the Make in India initiative was launched"
+      }
+    ],
+    "src": "ET Economy",
+    "link": "https://economictimes.indiatimes.com/news/economy/foreign-trade/usd-1-trillion-exports-target-for-this-year-piyush-goyal/articleshow/131069790.cms",
+    "prelims": [
+      "The <strong>Foreign Trade Policy</strong> is a set of guidelines and regulations that aim to increase India's exports and promote economic growth. It is formulated by the Ministry of Commerce and Industry and is revised every five years. The policy provides a framework for exporters, importers, and other stakeholders to operate in the foreign trade sector.",
+      "The <strong>World Trade Organization (WTO)</strong> is an international organization that regulates global trade and provides a framework for countries to negotiate trade agreements. India is a member of the WTO and has to comply with its rules and regulations. The WTO has played a crucial role in promoting free trade and reducing trade barriers among its member countries.",
+      "The <strong>Make in India</strong> initiative is a government program that aims to promote manufacturing in India and increase the country's exports. It was launched in 2014 and has been successful in attracting foreign investment and promoting entrepreneurship. The initiative has also led to the creation of new jobs and the development of new industries in the country.",
+      "The <strong>Export-Import Bank of India</strong> is a financial institution that provides financial assistance to exporters and importers. It was established in 1982 and has played a crucial role in promoting India's foreign trade. The bank provides a range of financial products and services, including loans, guarantees, and insurance, to support the country's export-oriented industries.",
+      "The <strong>Special Economic Zones (SEZs)</strong> are designated areas that provide a favorable business environment for exporters and manufacturers. They were established in 2000 and have been successful in promoting exports and attracting foreign investment. The SEZs offer a range of incentives, including tax exemptions, subsidies, and infrastructure support, to encourage businesses to set up operations in these areas."
+    ],
+    "mains": {
+      "q": "Analyze the impact of achieving the $1 trillion export target on India's economic development.",
+      "marks": "15 marks · GS3",
+      "directive": "analyze",
+      "hints": [
+        "Introduction (2 marks): Define the concept of export-led growth and its significance in India's economic development.",
+        "Body - Economic benefits (4 marks): Discuss the potential benefits of achieving the $1 trillion export target, including increased foreign exchange earnings, job creation, and GDP growth.",
+        "Body - Challenges (4 marks): Examine the challenges that India may face in achieving the $1 trillion export target, including competition from other countries, infrastructure constraints, and trade barriers.",
+        "Body - Policy measures (3 marks): Discuss the policy measures that the government can take to support exporters and achieve the $1 trillion export target, including providing incentives, improving infrastructure, and negotiating trade agreements.",
+        "Conclusion (2 marks): Summarize the main points and emphasize the importance of achieving the $1 trillion export target for India's economic development."
+      ]
+    },
+    "connect": [
+      {
+        "topic": "Foreign Trade Policy",
+        "context": "The policy provides a framework for exporters and importers to operate in the foreign trade sector, which is crucial for achieving the $1 trillion export target."
+      },
+      {
+        "topic": "World Trade Organization",
+        "context": "The WTO plays a crucial role in promoting free trade and reducing trade barriers, which can help India achieve its export targets."
+      },
+      {
+        "topic": "Make in India initiative",
+        "context": "The initiative aims to promote manufacturing and exports, which can contribute to achieving the $1 trillion export target."
+      },
+      {
+        "topic": "Special Economic Zones (SEZs)",
+        "context": "The SEZs provide a favorable business environment for exporters and manufacturers, which can help achieve the $1 trillion export target."
+      },
+      {
+        "topic": "Export-Import Bank of India",
+        "context": "The bank provides financial assistance to exporters and importers, which can help achieve the $1 trillion export target."
+      }
+    ],
+    "_hash": "676ce0dba003",
+    "_fetched": "2026-05-13T17:21:08.411671+00:00",
+    "_relevance": 74,
+    "_gs": [
+      "GS2",
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "analyze",
+    "_mcqs": {
+      "q": "Consider the following statements:\n1. The Foreign Trade Policy is formulated by the Ministry of Finance.\n2. The World Trade Organization is a regional trade organization.\n3. The Make in India initiative is a government program that aims to promote imports.\nWhich of the above is/are correct?",
+      "options": [
+        "1 only",
+        "2 only",
+        "1 and 2 only",
+        "None of the above"
+      ],
+      "correct": 3,
+      "explanation": "Statement 1 is incorrect: The Foreign Trade Policy is formulated by the Ministry of Commerce and Industry. Statement 2 is incorrect: The World Trade Organization is an international trade organization. Statement 3 is incorrect: The Make in India initiative is a government program that aims to promote manufacturing and exports.",
+      "trap": "Wrong Ministry"
+    }
+  },
+  {
+    "id": 1988,
+    "title": "MSP Hike for Kharif Crops",
+    "cat": "economy",
+    "upsc": true,
+    "time": "2026-05-13T17:21:24.047146+00:00",
+    "summary": "The Centre has increased the Minimum Support Price (MSP) for kharif crops, which is a significant decision for the agricultural sector. This move is crucial for UPSC as it relates to the government's policies and their impact on the economy, particularly the agricultural sector. The decision also connects to the broader topic of India's economic development and the challenges faced by farmers.",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": 2013,
+        "label": "Base year for MSP calculation"
+      },
+      {
+        "val": 50,
+        "label": "% increase in MSP for certain crops"
+      },
+      {
+        "val": 2022,
+        "label": "Year of implementation of the new MSP policy"
+      }
+    ],
+    "src": "The Hindu",
+    "link": "https://www.thehindu.com/news/national/government-hikes-paddy-msp-by-72-to-2441qtl-sunflower-seed-sees-steepest-rise-at-622/article70973917.ece",
+    "prelims": [
+      "The <strong>Minimum Support Price (MSP)</strong> is the price at which the government purchases crops from farmers to ensure a minimum income for them. The MSP is fixed by the government based on the recommendations of the Commission for Agricultural Costs and Prices (CACP). The CACP takes into account various factors such as the cost of production, market prices, and the overall economic situation.",
+      "The <strong>Agricultural Produce Market Committee (APMC) Act</strong> regulates the marketing of agricultural produce in India. The Act aims to provide a framework for the establishment and operation of market committees, which are responsible for regulating the marketing of agricultural produce in their respective areas.",
+      "The <strong>National Food Security Mission (NFSM)</strong> is a government initiative aimed at increasing the production of rice, wheat, and pulses in the country. The mission focuses on improving crop productivity, reducing crop losses, and enhancing the overall food security of the country.",
+      "The <strong>Pradhan Mantri Fasal Bima Yojana (PMFBY)</strong> is a crop insurance scheme launched by the government to provide financial protection to farmers against crop losses due to natural calamities. The scheme aims to reduce the financial burden on farmers and encourage them to adopt modern farming practices.",
+      "The <strong>Swaminathan Commission</strong> was set up by the government in 2004 to examine the issues related to farmers' welfare and agricultural development. The commission's report highlighted the need for a comprehensive approach to address the challenges faced by farmers, including the need for better pricing, improved marketing, and enhanced support services."
+    ],
+    "mains": {
+      "q": "Critically examine the impact of the recent increase in the Minimum Support Price (MSP) for kharif crops on the agricultural sector and the overall economy.",
+      "marks": "15 marks · GS3",
+      "directive": "critically_examine",
+      "hints": [
+        "Introduction (2 marks): Define the Minimum Support Price (MSP) and its significance in the agricultural sector.",
+        "Body - Impact on farmers (3 marks): Discuss the potential benefits and drawbacks of the MSP hike for farmers, including its effect on their income and livelihood.",
+        "Body - Impact on the economy (3 marks): Analyze the potential impact of the MSP hike on the overall economy, including its effect on inflation, trade, and the fiscal deficit.",
+        "Body - Comparison with other countries (3 marks): Compare the MSP system in India with that of other countries, highlighting the strengths and weaknesses of each approach.",
+        "Conclusion (2 marks): Summarize the main points and suggest potential policy measures to address the challenges faced by the agricultural sector."
+      ]
+    },
+    "connect": [
+      {
+        "topic": "Agricultural Marketing Reforms",
+        "context": "The recent MSP hike is part of the government's efforts to reform the agricultural marketing system and improve the livelihood of farmers."
+      },
+      {
+        "topic": "Crop Insurance Schemes",
+        "context": "The MSP hike is also related to the crop insurance schemes, which aim to provide financial protection to farmers against crop losses."
+      },
+      {
+        "topic": "Food Security and Nutrition",
+        "context": "The MSP hike has implications for food security and nutrition, as it can affect the availability and affordability of foodgrains for the poor and vulnerable sections of the population."
+      },
+      {
+        "topic": "Agricultural Trade Policy",
+        "context": "The MSP hike can also impact India's agricultural trade policy, as it can affect the country's competitiveness in the global market."
+      },
+      {
+        "topic": "Rural Development and Poverty Alleviation",
+        "context": "The MSP hike is part of the government's broader strategy for rural development and poverty alleviation, which aims to improve the livelihood of farmers and rural communities."
+      }
+    ],
+    "_hash": "f909850bca28",
+    "_fetched": "2026-05-13T17:21:24.047146+00:00",
+    "_relevance": 65,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "critically_examine",
+    "_mcqs": {
+      "q": "Consider the following statements:\n1. The Minimum Support Price (MSP) is fixed by the government based on the recommendations of the Commission for Agricultural Costs and Prices (CACP).\n2. The Agricultural Produce Market Committee (APMC) Act regulates the marketing of agricultural produce in all states.\n3. The National Food Security Mission (NFSM) aims to increase the production of only rice and wheat.\nWhich of the above is/are correct?",
+      "options": [
+        "1 only",
+        "1 and 2 only",
+        "2 and 3 only",
+        "1, 2 and 3"
+      ],
+      "correct": 0,
+      "explanation": "Statement 1 is correct: The MSP is indeed fixed by the government based on the recommendations of the CACP. Statement 2 is correct: The APMC Act does regulate the marketing of agricultural produce in most states. Statement 3 is incorrect: The NFSM aims to increase the production of rice, wheat, and pulses.",
+      "trap": "Absolute Language"
+    }
+  },
+  {
+    "id": 1989,
+    "title": "Security stepped up for visit of Chandrababu Naidu, Rajnath ",
+    "cat": "tech",
+    "upsc": false,
+    "time": "2026-05-13T17:23:36.781207+00:00",
+    "summary": "The leaders are scheduled to lay foundation stone for the ₹1 lakh-crore defence manufacturing facility that is expected to emerge as a major aerospace",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "The Hindu",
+    "link": "https://www.thehindu.com/news/national/andhra-pradesh/security-stepped-up-for-visit-of-chandrababu-naidu-rajnath-singh-to-puttaparthi-on-may-15/article70974021.ece",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "f9a3900f55d7",
+    "_fetched": "2026-05-13T17:23:36.781207+00:00",
+    "_relevance": 46,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 1990,
+    "title": "India, Sri Lanka forum identifies ports, pharma, digital pay",
+    "cat": "economy",
+    "upsc": false,
+    "time": "2026-05-13T17:25:49.419457+00:00",
+    "summary": "Officials from both sides said these sectors offer immediate investment and trade opportunities",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "The Hindu Business",
+    "link": "https://www.thehindu.com/business/india-sri-lanka-forum-identifies-ports-pharma-digital-payments-for-cooperation/article70974357.ece",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "42988ede0ec9",
+    "_fetched": "2026-05-13T17:25:49.419457+00:00",
+    "_relevance": 40,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 1991,
+    "title": "All religious practices presumed protected unless they viola",
+    "cat": "policy",
+    "upsc": false,
+    "time": "2026-05-13T17:28:02.682576+00:00",
+    "summary": "Centre argues that “essential religious practices” absent in the Constitutional text, is only part of SC  interpretation; says individual freedom of c",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "The Hindu",
+    "link": "https://www.thehindu.com/news/national/all-religious-practices-presumed-protected-unless-they-violate-public-order-health-morality-centre-in-sabarimala-review-hearing/article70975320.ece",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "a863fe0be9f4",
+    "_fetched": "2026-05-13T17:28:02.682576+00:00",
+    "_relevance": 39,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 1992,
+    "title": "Pressure mounts on UK PM Starmer to resign amid growing disc",
+    "cat": "india",
+    "upsc": false,
+    "time": "2026-05-13T17:30:15.376413+00:00",
+    "summary": "UK Prime Minister Keir Starmer is facing growing pressure amid reports of internal Labour unrest and speculation over a leadership challenge. Health S",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "LiveMint",
+    "link": "https://www.livemint.com/news/world/pressure-mounts-on-uk-pm-starmer-to-resign-amid-growing-discontent-heres-a-look-at-some-of-the-contenders-11778686507326.html",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "1307a6e2990e",
+    "_fetched": "2026-05-13T17:30:15.376413+00:00",
+    "_relevance": 39,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 1993,
+    "title": "Supreme Court directs States to install panic buttons, track",
+    "cat": "india",
+    "upsc": false,
+    "time": "2026-05-13T17:32:28.185351+00:00",
+    "summary": "Fitness certificates or permits should not be issued to public service vehicles found in violation of these safety measures, apex court directs",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "The Hindu",
+    "link": "https://www.thehindu.com/news/national/supreme-court-directs-states-to-install-panic-buttons-tracking-devices-in-public-transport-vehicles/article70974225.ece",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "3d8e81395c85",
+    "_fetched": "2026-05-13T17:32:28.185351+00:00",
+    "_relevance": 36,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "sc-judgment",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 1994,
+    "title": "Amul, Mother Dairy hike milk prices by ₹2 per litre across I",
+    "cat": "india",
+    "upsc": false,
+    "time": "2026-05-13T17:34:40.824306+00:00",
+    "summary": "It also stated that member unions have increased the procurement price paid to farmers by ₹30 per kg fat, marking a 3.7% rise compared to May 2025",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "The Hindu",
+    "link": "https://www.thehindu.com/news/national/amul-hikes-milk-prices-by-2-per-litre-across-india-effective-may-14/article70974685.ece",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "148ef78fc64f",
+    "_fetched": "2026-05-13T17:34:40.824306+00:00",
+    "_relevance": 31,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 1995,
+    "title": "ST quota back at 3% raises concerns over  proportional repre",
+    "cat": "world",
+    "upsc": false,
+    "time": "2026-05-13T17:36:53.483357+00:00",
+    "summary": "While the 1931 census put ST population at about 0.8%, with more tribes added to the list, it is now estimated to be over 7% of Karnataka’s population",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "The Hindu",
+    "link": "https://www.thehindu.com/news/national/karnataka/st-quota-back-at-3-raises-concerns-over-proportional-representation/article70974432.ece",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "ca87048813ad",
+    "_fetched": "2026-05-13T17:36:53.483357+00:00",
+    "_relevance": 31,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
   }
 ]
