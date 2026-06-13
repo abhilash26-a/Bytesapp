@@ -36931,5 +36931,613 @@
     "_difficulty": 2,
     "_directive": "discuss",
     "_mcqs": []
+  },
+  {
+    "id": 1979,
+    "title": "Sugar Export Ban",
+    "cat": "economy",
+    "upsc": true,
+    "time": "2026-05-14T04:00:48.449850+00:00",
+    "summary": "India has banned sugar exports until September 2026 to manage domestic prices. This decision is crucial for UPSC as it reflects the government's efforts to balance domestic production and consumption, which is a key aspect of India's economic development. The ban will have implications for global sugar markets and India's trade relations, making it relevant to GS2 and GS3.",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": 1955,
+        "label": "Year the Essential Commodities Act was enacted"
+      },
+      {
+        "val": 1965,
+        "label": "Year the Food Corporation of India was established"
+      }
+    ],
+    "src": "ET Economy",
+    "link": "https://economictimes.indiatimes.com/news/economy/foreign-trade/india-bans-sugar-exports-until-september-2026-to-cool-local-prices/articleshow/131079864.cms",
+    "prelims": [
+      "The <strong>Directorate of Sugar and Vegetable Oils</strong> is the nodal agency responsible for implementing the sugar export policy, which includes fixing the minimum export price and allocating export quotas to sugar mills. Established in 1935, it operates under the Department of Food and Public Distribution. The Directorate plays a crucial role in ensuring that India's sugar exports are aligned with its domestic production and consumption needs.",
+      "The <strong>Essential Commodities Act, 1955</strong> empowers the central government to regulate the production, distribution, and supply of essential commodities, including sugar. The Act has been amended several times to address issues related to hoarding, black marketing, and price control. Understanding the provisions of this Act is essential for analyzing the government's response to sugar price fluctuations and its impact on the domestic market.",
+      "The <strong>World Trade Organization (WTO)</strong> has rules governing agricultural exports, including sugar. India's sugar export ban may be subject to WTO scrutiny, particularly if it is perceived as a trade-distorting measure. The WTO's Agreement on Agriculture and the Agreement on Subsidies and Countervailing Measures are relevant in this context, as they regulate the use of subsidies and other forms of support that can affect trade.",
+      "The <strong>Food Corporation of India (FCI)</strong> plays a critical role in managing India's foodgrain supply, including sugar. Established in 1965, the FCI is responsible for procuring, storing, and distributing foodgrains to ensure national food security. The FCI's operations have a significant impact on the domestic sugar market, as it influences the availability and prices of sugar in the country.",
+      "The <strong>Agricultural Produce Market Committee (APMC) Act</strong> regulates the marketing of agricultural produce, including sugar, in various states. The Act aims to ensure fair prices for farmers and prevent exploitation by intermediaries. However, the APMC Act has been criticized for its limitations, and some states have implemented reforms to improve the marketing of agricultural produce."
+    ],
+    "mains": {
+      "q": "Analyze the implications of India's sugar export ban on the domestic market and global trade relations.",
+      "marks": "15 marks · GS3",
+      "directive": "analyze",
+      "hints": [
+        "Introduction (2 marks): Define the sugar export ban and its objectives, highlighting the government's concerns about domestic prices and production.",
+        "Body - Domestic market (3 marks): Discuss the potential impact of the ban on domestic sugar prices, production, and consumption, including the effects on farmers, mills, and consumers.",
+        "Body - Global trade relations (3 marks): Examine the implications of the ban on India's trade relations with other countries, particularly major sugar-importing nations, and the potential response from the World Trade Organization.",
+        "Body - Policy alternatives (3 marks): Evaluate alternative policy measures that the government could have taken to address domestic sugar price fluctuations, such as subsidies, tariffs, or quotas.",
+        "Conclusion (2 marks): Summarize the key findings and suggest recommendations for the government to balance domestic sugar production and consumption while maintaining a competitive edge in the global market."
+      ]
+    },
+    "connect": [
+      {
+        "topic": "Agricultural Marketing Reforms",
+        "context": "The sugar export ban highlights the need for efficient marketing systems to ensure fair prices for farmers and consumers, which is a key aspect of agricultural marketing reforms."
+      },
+      {
+        "topic": "World Trade Organization (WTO) Agreements",
+        "context": "India's sugar export ban may be subject to WTO scrutiny, making it essential to understand the relevant WTO agreements, such as the Agreement on Agriculture and the Agreement on Subsidies and Countervailing Measures."
+      },
+      {
+        "topic": "Food Security and Public Distribution",
+        "context": "The sugar export ban has implications for India's food security and public distribution systems, particularly in terms of ensuring availability and affordability of essential commodities like sugar."
+      },
+      {
+        "topic": "Agricultural Subsidies and Support",
+        "context": "The sugar export ban may be perceived as a form of subsidy or support to domestic sugar producers, which can have implications for India's trade relations and compliance with WTO agreements."
+      },
+      {
+        "topic": "Domestic Trade and Commerce",
+        "context": "The sugar export ban affects domestic trade and commerce, particularly in terms of the marketing and distribution of sugar, which is a critical aspect of India's domestic trade policy."
+      }
+    ],
+    "_hash": "d027337ba62b",
+    "_fetched": "2026-05-14T04:00:48.449850+00:00",
+    "_relevance": 55,
+    "_gs": [
+      "GS2",
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "analyze",
+    "_mcqs": {
+      "q": "Consider the following statements:\n1. The sugar export ban is a permanent measure to protect domestic consumers.\n2. The ban is intended to reduce India's trade deficit with other sugar-producing countries.\n3. The Directorate of Sugar and Vegetable Oils is responsible for implementing the sugar export policy.\nWhich of the above is/are correct?",
+      "options": [
+        "1 only",
+        "2 only",
+        "3 only",
+        "1, 2 and 3"
+      ],
+      "correct": 2,
+      "explanation": "Statement 1 is incorrect: The sugar export ban is a temporary measure until September 2026. Statement 2 is incorrect: The ban is primarily intended to manage domestic prices, not reduce the trade deficit. Statement 3 is correct: The Directorate of Sugar and Vegetable Oils is indeed responsible for implementing the sugar export policy.",
+      "trap": "Absolute Language"
+    }
+  },
+  {
+    "id": 1980,
+    "title": "Millet Cultivation",
+    "cat": "policy",
+    "upsc": true,
+    "time": "2026-05-14T04:01:04.348527+00:00",
+    "summary": "The government has reduced funding and withdrawn ground-level support agencies for millet mission in Odisha, as alleged by the Right To Food campaign. This development is crucial for UPSC as it relates to the country's food security and agricultural policies. The issue connects to the GS2 syllabus area, particularly in the context of governance and policy implementation.",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": 2007,
+        "label": "Year the National Food Security Mission (NFSM) was launched"
+      },
+      {
+        "val": 2015,
+        "label": "Year the Pradhan Mantri Fasal Bima Yojana (PMFBY) was launched"
+      },
+      {
+        "val": 50,
+        "label": "% of India's population dependent on agriculture for livelihood"
+      }
+    ],
+    "src": "The Hindu",
+    "link": "https://www.thehindu.com/news/national/odisha/activists-rue-budget-cut-for-promoting-millet-cultivation-in-odisha/article70974351.ece",
+    "prelims": [
+      "The <strong>National Food Security Mission (NFSM)</strong> was launched in 2007 to increase production and productivity of wheat, rice, and pulses. It has been extended to include millets, with a focus on improving the livelihoods of small and marginal farmers. The mission is implemented by the Department of Agriculture, Cooperation and Farmers Welfare.",
+      "The <strong>Integrated Scheme for Agricultural Census and Surveys</strong> provides a framework for collecting data on agricultural production, including millets. The scheme is crucial for policy-making and planning in the agricultural sector. It is implemented by the Ministry of Agriculture and Farmers Welfare.",
+      "The <strong>Minimum Support Price (MSP)</strong> is a key component of India's agricultural policy, providing a safety net for farmers. The MSP for millets is announced by the government every year, taking into account the production costs and market prices. The MSP is implemented by the Ministry of Agriculture and Farmers Welfare.",
+      "The <strong>Pradhan Mantri Fasal Bima Yojana (PMFBY)</strong> is a crop insurance scheme that provides financial protection to farmers against crop failures. The scheme includes millets, providing coverage against yield losses due to natural calamities. The PMFBY is implemented by the Ministry of Agriculture and Farmers Welfare.",
+      "The <strong>Odisha Millet Mission</strong> is a state-level initiative aimed at promoting millet cultivation and improving the livelihoods of small and marginal farmers. The mission provides support for seed production, irrigation, and marketing, and is implemented by the Government of Odisha."
+    ],
+    "mains": {
+      "q": "Critically examine the impact of reduced funding on the millet mission in Odisha, with reference to the country's food security and agricultural policies.",
+      "marks": "15 marks · GS3",
+      "directive": "critically_examine",
+      "hints": [
+        "Introduction (2 marks): Define the millet mission and its objectives, and explain the significance of millets in India's food security.",
+        "Body - Policy implications (3 marks): Discuss the impact of reduced funding on the millet mission, including the effects on small and marginal farmers and the country's food security.",
+        "Body - Alternative strategies (3 marks): Suggest alternative strategies for promoting millet cultivation, including public-private partnerships and community-led initiatives.",
+        "Body - Institutional mechanisms (3 marks): Analyze the role of institutions such as the Department of Agriculture, Cooperation and Farmers Welfare and the Ministry of Agriculture and Farmers Welfare in implementing the millet mission.",
+        "Conclusion (2 marks): Summarize the main points and suggest a way forward for promoting millet cultivation and improving the country's food security."
+      ]
+    },
+    "connect": [
+      {
+        "topic": "Agricultural Policy and Planning",
+        "context": "The millet mission is an example of agricultural policy and planning in action, highlighting the importance of government support for farmers and the agricultural sector."
+      },
+      {
+        "topic": "Food Security and Nutrition",
+        "context": "The promotion of millet cultivation is crucial for food security and nutrition, as millets are a rich source of nutrients and can provide a sustainable source of food for marginalized communities."
+      },
+      {
+        "topic": "Rural Development and Poverty Alleviation",
+        "context": "The millet mission has the potential to contribute to rural development and poverty alleviation, by providing income opportunities for small and marginal farmers and promoting economic growth in rural areas."
+      },
+      {
+        "topic": "Environmental Sustainability and Conservation",
+        "context": "The promotion of millet cultivation can contribute to environmental sustainability and conservation, as millets are a low-input crop that requires minimal irrigation and fertilizers."
+      },
+      {
+        "topic": "Governance and Policy Implementation",
+        "context": "The implementation of the millet mission highlights the importance of effective governance and policy implementation, including the role of institutions and stakeholders in promoting agricultural development and food security."
+      }
+    ],
+    "_hash": "5a0582e29c9a",
+    "_fetched": "2026-05-14T04:01:04.348527+00:00",
+    "_relevance": 52,
+    "_gs": [
+      "GS2",
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "critically_examine",
+    "_mcqs": {
+      "q": "Consider the following statements:\n1. The National Food Security Mission (NFSM) includes millets as a focus crop.\n2. The Minimum Support Price (MSP) for millets is announced by the state governments.\n3. The Pradhan Mantri Fasal Bima Yojana (PMFBY) provides coverage against yield losses due to natural calamities for millets.\nWhich of the above is/are correct?",
+      "options": [
+        "1 only",
+        "1 and 3 only",
+        "2 and 3 only",
+        "1, 2 and 3"
+      ],
+      "correct": 1,
+      "explanation": "Statement 1 is correct: The NFSM includes millets as a focus crop. Statement 2 is incorrect: The MSP for millets is announced by the central government. Statement 3 is correct: The PMFBY provides coverage against yield losses due to natural calamities for millets.",
+      "trap": "Wrong Ministry"
+    }
+  },
+  {
+    "id": 1981,
+    "title": "India's Energy Security",
+    "cat": "economy",
+    "upsc": true,
+    "time": "2026-05-14T04:01:19.976162+00:00",
+    "summary": "India imports 25-30% of its coal, exposing it to fuel price risks. Renewable energy can reduce this risk by shifting the cost structure towards upfront investment and system integration. This is crucial for UPSC as it relates to India's energy security and economic development, connecting to GS3 (Economy, Science & Tech, Environment, Security).",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": 25,
+        "label": "Percentage of India's coal imports"
+      },
+      {
+        "val": 2027,
+        "label": "Target year for achieving 27 GW of energy storage capacity"
+      },
+      {
+        "val": 121,
+        "label": "Number of member countries in the International Solar Alliance"
+      }
+    ],
+    "src": "The Hindu Business",
+    "link": "https://www.thehindu.com/business/why-indias-generation-adequacy-plan-needs-a-clear-counterfactual/article70975744.ece",
+    "prelims": [
+      "<strong>National Energy Policy</strong> aims to ensure energy security and reduce dependence on imports. It was formulated in 2005 and revised in 2017 to incorporate renewable energy targets. The policy has a significant impact on India's energy mix and economic development.",
+      "<strong>Renewable Energy Certificates (RECs)</strong> are a market-based instrument to promote renewable energy. They were introduced in 2010 and have been successful in increasing the share of renewable energy in the energy mix. RECs are traded on power exchanges and provide a financial incentive to renewable energy generators.",
+      "<strong>Energy Storage</strong> is a critical component of renewable energy integration. It helps to address the intermittency of renewable energy sources and ensures a stable power supply. India has set a target of 27 GW of energy storage capacity by 2027 to support its renewable energy goals.",
+      "<strong>Grid Integration</strong> of renewable energy is essential for ensuring a stable and reliable power supply. It requires advanced technologies and infrastructure to manage the variability of renewable energy sources. India has made significant progress in grid integration, with the share of renewable energy in the grid increasing steadily.",
+      "<strong>International Solar Alliance (ISA)</strong> is an international organization that aims to promote solar energy globally. It was launched in 2015 and has 121 member countries, including India. ISA provides a platform for countries to share knowledge, technology, and best practices in solar energy development."
+    ],
+    "mains": {
+      "q": "Analyze the impact of India's energy security on its economic development, with a focus on the role of renewable energy.",
+      "marks": "15 marks · GS3",
+      "directive": "analyze",
+      "hints": [
+        "Introduction (2 marks): Define energy security and its importance for India's economic development, highlighting the current energy mix and the need for renewable energy.",
+        "Body - Energy Security (3 marks): Discuss the challenges facing India's energy security, including dependence on imports, price volatility, and environmental concerns, and explain how renewable energy can address these challenges.",
+        "Body - Renewable Energy (3 marks): Examine the current status of renewable energy in India, including the targets, achievements, and challenges, and discuss the potential of renewable energy to enhance energy security.",
+        "Body - Economic Development (3 marks): Analyze the impact of energy security on India's economic development, including the effects on GDP, employment, and trade, and explain how renewable energy can contribute to sustainable economic growth.",
+        "Conclusion (2 marks): Summarize the importance of energy security for India's economic development and highlight the role of renewable energy in achieving energy security and sustainable development."
+      ]
+    },
+    "connect": [
+      {
+        "topic": "National Energy Policy",
+        "context": "The policy aims to ensure energy security and reduce dependence on imports, which is crucial for India's economic development and connects to GS3 (Economy, Science & Tech, Environment, Security)."
+      },
+      {
+        "topic": "Renewable Energy Certificates (RECs)",
+        "context": "RECs are a market-based instrument to promote renewable energy, which is essential for achieving India's renewable energy targets and connects to GS3 (Economy, Science & Tech, Environment, Security)."
+      },
+      {
+        "topic": "Energy Storage",
+        "context": "Energy storage is critical for integrating renewable energy into the grid, which is essential for ensuring a stable and reliable power supply and connects to GS3 (Economy, Science & Tech, Environment, Security)."
+      },
+      {
+        "topic": "Grid Integration",
+        "context": "Grid integration of renewable energy is essential for ensuring a stable and reliable power supply, which is crucial for India's economic development and connects to GS3 (Economy, Science & Tech, Environment, Security)."
+      },
+      {
+        "topic": "International Solar Alliance (ISA)",
+        "context": "ISA provides a platform for countries to share knowledge, technology, and best practices in solar energy development, which is essential for promoting solar energy globally and connects to GS2 (Governance, Constitution, Polity, IR)."
+      }
+    ],
+    "_hash": "6fc0def7cadb",
+    "_fetched": "2026-05-14T04:01:19.976162+00:00",
+    "_relevance": 43,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "analyze",
+    "_mcqs": {
+      "q": "Consider the following statements:\n1. India's energy security is heavily dependent on imports.\n2. Renewable energy can reduce India's dependence on imports and enhance energy security.\n3. The National Energy Policy aims to reduce India's dependence on fossil fuels and promote renewable energy.\nWhich of the above is/are correct?",
+      "options": [
+        "1 only",
+        "1 and 2 only",
+        "2 and 3 only",
+        "1, 2 and 3"
+      ],
+      "correct": 3,
+      "explanation": "Statement 1 is correct: India imports a significant portion of its energy requirements. Statement 2 is correct: Renewable energy can reduce dependence on imports and enhance energy security. Statement 3 is correct: The National Energy Policy aims to reduce dependence on fossil fuels and promote renewable energy.",
+      "trap": "Absolute Language"
+    }
+  },
+  {
+    "id": 1982,
+    "title": "Sugar Export Ban",
+    "cat": "economy",
+    "upsc": true,
+    "time": "2026-05-14T04:01:56.120276+00:00",
+    "summary": "India has banned sugar exports until September 2026 to control domestic prices and ensure supply. This move is significant for UPSC as it relates to India's economic policies and their impact on the agricultural sector. The ban also highlights the government's efforts to balance the interests of farmers, consumers, and the industry.",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": 80,
+        "label": "Percentage of relevance of sugar export ban to UPSC"
+      }
+    ],
+    "src": "LiveMint",
+    "link": "https://www.livemint.com/news/india-bans-sugar-exports-till-sept-2026-as-government-moves-to-cool-domestic-prices-ensure-supply-11778723252332.html",
+    "prelims": [
+      "The <strong>Directorate General of Foreign Trade (DGFT)</strong> is responsible for implementing India's foreign trade policy, which includes regulating exports and imports. Established in 1950, the DGFT plays a crucial role in promoting India's trade interests abroad. The DGFT is also responsible for issuing import-export codes and monitoring foreign trade agreements.",
+      "The <strong>Agricultural Produce Market Committee (APMC) Act</strong> regulates the marketing of agricultural produce in India. Enacted in 2003, the Act aims to provide a framework for the establishment and operation of agricultural markets. The APMC Act also seeks to protect the interests of farmers and consumers by promoting transparency and fairness in agricultural marketing.",
+      "India's <strong>agricultural export policy</strong> aims to increase agricultural exports and promote the country's agricultural sector. Launched in 2018, the policy identifies several agricultural products, including sugar, as priority areas for export promotion. The policy also seeks to improve the quality and safety of agricultural exports and enhance India's competitiveness in the global market.",
+      "The <strong>Food Corporation of India (FCI)</strong> is a government agency responsible for managing India's food security system. Established in 1965, the FCI plays a crucial role in procuring, storing, and distributing foodgrains to ensure availability and accessibility. The FCI also helps to stabilize food prices and support farmers by providing them with a minimum support price for their produce.",
+      "The <strong>National Food Security Mission (NFSM)</strong> is a government initiative aimed at increasing food production and ensuring food security in India. Launched in 2007, the NFSM focuses on improving crop productivity, reducing crop losses, and enhancing farmers' incomes. The NFSM also seeks to promote sustainable agricultural practices and improve the overall efficiency of the agricultural sector."
+    ],
+    "mains": {
+      "q": "Analyze the impact of the sugar export ban on India's agricultural sector and the economy as a whole.",
+      "marks": "15 marks · GS3",
+      "directive": "analyze",
+      "hints": [
+        "Introduction (2 marks): Define the sugar export ban and its objectives, and provide an overview of India's agricultural sector and its significance in the economy.",
+        "Body - Impact on farmers (3 marks): Discuss the potential benefits and drawbacks of the sugar export ban for farmers, including the impact on their incomes and livelihoods.",
+        "Body - Impact on the economy (3 marks): Examine the potential effects of the sugar export ban on India's economy, including the impact on GDP, inflation, and trade balances.",
+        "Body - Alternative strategies (3 marks): Suggest alternative strategies that the government could have adopted to address the issues related to sugar exports, such as providing support to farmers or promoting sustainable agricultural practices.",
+        "Conclusion (2 marks): Summarize the main points and provide a balanced view of the sugar export ban, highlighting both its positive and negative aspects."
+      ]
+    },
+    "connect": [
+      {
+        "topic": "Agricultural Export Policy",
+        "context": "The sugar export ban is related to India's agricultural export policy, which aims to promote the country's agricultural sector and increase agricultural exports."
+      },
+      {
+        "topic": "Food Security",
+        "context": "The sugar export ban has implications for India's food security, as it may affect the availability and affordability of sugar for domestic consumption."
+      },
+      {
+        "topic": "Directorate General of Foreign Trade (DGFT)",
+        "context": "The DGFT plays a crucial role in implementing the sugar export ban, as it is responsible for regulating India's foreign trade."
+      },
+      {
+        "topic": "Agricultural Produce Market Committee (APMC) Act",
+        "context": "The sugar export ban may have implications for the marketing of agricultural produce in India, particularly for sugar farmers and traders."
+      },
+      {
+        "topic": "National Food Security Mission (NFSM)",
+        "context": "The sugar export ban may be related to the objectives of the NFSM, which aims to increase food production and ensure food security in India."
+      }
+    ],
+    "_hash": "4570082ee235",
+    "_fetched": "2026-05-14T04:01:56.120276+00:00",
+    "_relevance": 39,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "analyze",
+    "_mcqs": {
+      "q": "Consider the following statements:\n1. The sugar export ban is expected to increase India's sugar exports in the long run.\n2. The ban is intended to protect the interests of Indian farmers and consumers.\n3. The Directorate General of Foreign Trade (DGFT) is responsible for implementing the sugar export ban.\nWhich of the above is/are correct?",
+      "options": [
+        "1 only",
+        "2 only",
+        "2 and 3 only",
+        "1, 2 and 3"
+      ],
+      "correct": 2,
+      "explanation": "Statement 1 is incorrect because the sugar export ban is intended to reduce sugar exports, not increase them. Statement 2 is correct because the ban is indeed intended to protect the interests of Indian farmers and consumers. Statement 3 is correct because the DGFT is responsible for implementing the sugar export ban.",
+      "trap": "Absolute Language"
+    }
+  },
+  {
+    "id": 1983,
+    "title": "Israel-Iran war LIVE: UAE 'denies reports' of secret visit b",
+    "cat": "tech",
+    "upsc": false,
+    "time": "2026-05-14T04:04:08.484986+00:00",
+    "summary": "Israeli airstrikes struck seven vehicles in Lebanon, killing 12 people including a woman and her two children, the Lebanese Health Ministry said",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "The Hindu International",
+    "link": "https://www.thehindu.com/news/international/us-israel-iran-war-live-updates-netanyahu-uae-secret-visit-tehran-strait-of-hormuz/article70976779.ece",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "6e8737429762",
+    "_fetched": "2026-05-14T04:04:08.484986+00:00",
+    "_relevance": 38,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 1984,
+    "title": "India losing investor attention to Asia’s AI-electronics sur",
+    "cat": "economy",
+    "upsc": false,
+    "time": "2026-05-14T04:06:20.826133+00:00",
+    "summary": "Global capital is shifting towards electronics and AI in Asia. India's foreign direct investment slowdown is not a major concern. Asia's export boom o",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "ET Economy",
+    "link": "https://economictimes.indiatimes.com/news/economy/indicators/india-losing-investor-attention-to-asias-ai-electronics-surge-says-dbs-economist/articleshow/131080600.cms",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "dbc16e24917d",
+    "_fetched": "2026-05-14T04:06:20.826133+00:00",
+    "_relevance": 38,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 1985,
+    "title": "PM Modi to leave on five-nation tour tomorrow, discussions i",
+    "cat": "india",
+    "upsc": false,
+    "time": "2026-05-14T04:08:33.258781+00:00",
+    "summary": "Prime Minister Narendra Modi begins a five-nation tour tomorrow. The visit aims to strengthen India's ties with the UAE and four European nations. Dis",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "ET Economy",
+    "link": "https://economictimes.indiatimes.com/news/economy/foreign-trade/pm-modi-to-leave-on-five-nation-tour-tomorrow-discussions-in-uae-to-also-focus-on-strengthening-energy-security/articleshow/131080397.cms",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "723d8553b1a3",
+    "_fetched": "2026-05-14T04:08:33.258781+00:00",
+    "_relevance": 38,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 1986,
+    "title": "Higher diesel, fertilizer prices boost sugar's cost of produ",
+    "cat": "economy",
+    "upsc": false,
+    "time": "2026-05-14T04:10:45.799630+00:00",
+    "summary": "India has banned sugar exports until September 30, 2026, in an effort to control local prices. This decision could boost global sugar prices, benefiti",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "LiveMint",
+    "link": "https://www.livemint.com/news/india-bans-sugar-exports-until-sept-2026-to-cool-local-prices-11778720973531.html",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "6273f9fd788a",
+    "_fetched": "2026-05-14T04:10:45.799630+00:00",
+    "_relevance": 35,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 1987,
+    "title": "Russia to fulfil all agreements on energy supply to India: F",
+    "cat": "world",
+    "upsc": false,
+    "time": "2026-05-14T04:12:58.181601+00:00",
+    "summary": "Stating that 'Hindi-Rusi bhai bhai’ (Indians and Russians are brothers), Mr. Lavrov said that's not just a fun slogan to chant, it has become part of ",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "The Hindu",
+    "link": "https://www.thehindu.com/news/international/russia-to-fulfil-all-agreements-on-energy-supply-to-india-fm-lavrov/article70976782.ece",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "5851d69713ac",
+    "_fetched": "2026-05-14T04:12:58.181601+00:00",
+    "_relevance": 33,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 1988,
+    "title": "Global Market Today: Asian stocks, US futures climb on tech ",
+    "cat": "world",
+    "upsc": false,
+    "time": "2026-05-14T04:15:10.572869+00:00",
+    "summary": "Asian stocks advanced, mirroring Wall Street's record highs driven by a tech surge and strong corporate earnings. Investors are closely watching the U",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "Economic Times",
+    "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-update-asian-stocks-us-futures-climb-on-tech-optimism/articleshow/131079942.cms",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "84d4df231eed",
+    "_fetched": "2026-05-14T04:15:10.572869+00:00",
+    "_relevance": 32,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 1989,
+    "title": "Petrol, diesel prices on 14 May: What fuel costs in New Delh",
+    "cat": "india",
+    "upsc": false,
+    "time": "2026-05-14T04:17:23.102180+00:00",
+    "summary": "Petrol and diesel prices stayed largely stable across major Indian cities on 14 May, even as the escalating conflict in West Asia continued to raise c",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "LiveMint",
+    "link": "https://www.livemint.com/news/india/petrol-diesel-prices-on-14-may-what-fuel-costs-in-new-delhi-mumbai-kolkata-bengaluru-today-11778719832711.html",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "f6f4da977ebd",
+    "_fetched": "2026-05-14T04:17:23.102180+00:00",
+    "_relevance": 30,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 1990,
+    "title": "Govt mulls standardized fees for doctors, basic medical proc",
+    "cat": "india",
+    "upsc": false,
+    "time": "2026-05-14T04:19:35.451243+00:00",
+    "summary": "India plans to regulate consultation fees and common procedure charges at private hospitals by amending the Clinical Establishments Act. The move aims",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "LiveMint Industry",
+    "link": "https://www.livemint.com/industry/government-plans-cap-private-doctor-fees-healthcare-india-11778661096678.html",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "eca97174a8ed",
+    "_fetched": "2026-05-14T04:19:35.451243+00:00",
+    "_relevance": 30,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 1991,
+    "title": "Trading volumes in unlisted shares plunge up to 70%",
+    "cat": "economy",
+    "upsc": false,
+    "time": "2026-05-14T04:21:47.960121+00:00",
+    "summary": "Investor interest in unlisted shares is decreasing. Trading volumes have fallen significantly. This slowdown is due to lower prices and fewer new shar",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "Economic Times",
+    "link": "https://economictimes.indiatimes.com/markets/stocks/news/trading-volumes-in-unlisted-shares-plunge-up-to-70/articleshow/131079676.cms",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "d8a3352236ec",
+    "_fetched": "2026-05-14T04:21:47.960121+00:00",
+    "_relevance": 30,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
   }
 ]
