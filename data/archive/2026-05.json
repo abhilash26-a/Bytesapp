@@ -43200,5 +43200,482 @@
     "_difficulty": 2,
     "_directive": "discuss",
     "_mcqs": []
+  },
+  {
+    "id": 1915,
+    "title": "Hydrogen Buses in Delhi",
+    "cat": "tech",
+    "upsc": true,
+    "time": "2026-05-15T22:04:32.362057+00:00",
+    "summary": "The Delhi Metro Rail Corporation (DMRC) has introduced hydrogen buses in the Central Vista area, aiming to promote green hydrogen as a clean fuel alternative. This initiative is significant for UPSC as it highlights the government's efforts to reduce carbon emissions and promote sustainable public transport. The introduction of hydrogen buses also connects to the broader theme of environmental conservation and sustainable development, which is a key aspect of the GS3 syllabus.",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": 5,
+        "label": "Million tonnes of green hydrogen production target by 2030"
+      },
+      {
+        "val": 2021,
+        "label": "Year the National Hydrogen Mission was launched"
+      },
+      {
+        "val": 15,
+        "label": "Percentage of carbon emissions reduction potential in the transportation sector using hydrogen fuel cells"
+      }
+    ],
+    "src": "The Hindu",
+    "link": "https://www.thehindu.com/news/cities/Delhi/dmrc-rolls-out-hydrogen-buses-in-central-vista/article70982911.ece",
+    "prelims": [
+      "The <strong>National Hydrogen Mission</strong> was launched in 2021 to promote the use of hydrogen as a clean energy source. The mission aims to increase the production of green hydrogen to 5 million tonnes by 2030. India's hydrogen economy is expected to grow significantly in the coming years, driven by government initiatives and investments in the sector.",
+      "The <strong>Hydrogen Fuel Cell</strong> is a type of electrochemical cell that converts chemical energy into electrical energy, with water and heat as byproducts. Hydrogen fuel cells have the potential to replace traditional fossil fuel-based power sources in various applications, including transportation and power generation. The technology has been gaining traction globally, with several countries investing in hydrogen fuel cell research and development.",
+      "The <strong>Central Vista Redevelopment Project</strong> is a major urban development project in New Delhi, aimed at transforming the city's central vista into a modern and sustainable public space. The project includes the development of a new parliament building, a central secretariat, and a revamped Rajpath. The introduction of hydrogen buses in the Central Vista area is part of the project's efforts to promote sustainable transportation and reduce carbon emissions.",
+      "The <strong>Ministry of New and Renewable Energy (MNRE)</strong> is responsible for promoting the development and use of renewable energy sources in India, including hydrogen. The ministry has launched several initiatives to promote the use of hydrogen as a clean energy source, including the National Hydrogen Mission. The MNRE also provides funding and support for research and development in the field of hydrogen energy.",
+      "The <strong>United Nations Framework Convention on Climate Change (UNFCCC)</strong> is an international treaty that aims to stabilize greenhouse gas concentrations in the atmosphere at a level that would prevent dangerous anthropogenic interference with the climate system. The UNFCCC has been instrumental in promoting global efforts to reduce carbon emissions and transition to a low-carbon economy. India has been an active participant in the UNFCCC and has made significant commitments to reduce its carbon footprint."
+    ],
+    "mains": {
+      "q": "Analyze the potential of hydrogen fuel cells in reducing carbon emissions in the transportation sector.",
+      "marks": "15 marks · GS3",
+      "directive": "analyze",
+      "hints": [
+        "Introduction (2 marks): Define hydrogen fuel cells and their potential in reducing carbon emissions.",
+        "Body - Technical aspects (3 marks): Discuss the working principle of hydrogen fuel cells and their advantages over traditional fossil fuel-based power sources.",
+        "Body - Economic and environmental benefits (3 marks): Examine the economic and environmental benefits of using hydrogen fuel cells in the transportation sector, including reduced carbon emissions and improved air quality.",
+        "Body - Challenges and limitations (3 marks): Discuss the challenges and limitations of using hydrogen fuel cells, including the high cost of production and the lack of infrastructure.",
+        "Conclusion (2 marks): Summarize the potential of hydrogen fuel cells in reducing carbon emissions in the transportation sector and suggest ways to overcome the challenges and limitations."
+      ]
+    },
+    "connect": [
+      {
+        "topic": "National Hydrogen Mission",
+        "context": "The mission aims to promote the use of hydrogen as a clean energy source and reduce carbon emissions."
+      },
+      {
+        "topic": "Hydrogen Fuel Cell Technology",
+        "context": "Hydrogen fuel cells have the potential to replace traditional fossil fuel-based power sources in various applications, including transportation and power generation."
+      },
+      {
+        "topic": "Central Vista Redevelopment Project",
+        "context": "The project includes the development of a new parliament building, a central secretariat, and a revamped Rajpath, with a focus on sustainable transportation and reduced carbon emissions."
+      },
+      {
+        "topic": "Ministry of New and Renewable Energy (MNRE)",
+        "context": "The MNRE is responsible for promoting the development and use of renewable energy sources in India, including hydrogen."
+      },
+      {
+        "topic": "United Nations Framework Convention on Climate Change (UNFCCC)",
+        "context": "The UNFCCC aims to stabilize greenhouse gas concentrations in the atmosphere and promote global efforts to reduce carbon emissions and transition to a low-carbon economy."
+      }
+    ],
+    "_hash": "34dfacdcef93",
+    "_fetched": "2026-05-15T22:04:32.362057+00:00",
+    "_relevance": 31,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "analyze",
+    "_mcqs": {
+      "q": "Consider the following statements:\n1. The National Hydrogen Mission was launched in 2020.\n2. Hydrogen fuel cells are a type of renewable energy source.\n3. The Central Vista Redevelopment Project includes the development of a new parliament building and a revamped Rajpath.\nWhich of the above is/are correct?",
+      "options": [
+        "1 only",
+        "1 and 2 only",
+        "2 and 3 only",
+        "1, 2 and 3"
+      ],
+      "correct": 2,
+      "explanation": "Statement 1 is incorrect: The National Hydrogen Mission was launched in 2021, not 2020. Statement 2 is correct: Hydrogen fuel cells are a type of renewable energy source. Statement 3 is correct: The Central Vista Redevelopment Project includes the development of a new parliament building and a revamped Rajpath.",
+      "trap": "Timeline Confusion"
+    }
+  },
+  {
+    "id": 1916,
+    "title": "Election Commission orders probe into voting by foreign nati",
+    "cat": "india",
+    "upsc": false,
+    "time": "2026-05-15T19:51:09.136729+00:00",
+    "summary": "A report has been sought from the returning officers of at least two cities and five districts across the State on how the foreigners managed to vote ",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "The Hindu",
+    "link": "https://www.thehindu.com/elections/tamil-nadu-assembly/eci-orders-probe-into-voting-by-foreign-nationals-in-the-tamil-nadu-assembly-election/article70983594.ece",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "73f3c82c1aaf",
+    "_fetched": "2026-05-15T19:51:09.136729+00:00",
+    "_relevance": 46,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 1917,
+    "title": "New I-T Act is taxpayer-centric, says Principal Chief Commis",
+    "cat": "economy",
+    "upsc": false,
+    "time": "2026-05-15T19:53:21.830778+00:00",
+    "summary": "She encourages taxpayers, professionals, and trade bodies to actively utilise the I-T department’s digital initiatives and facilitation measures for s",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "The Hindu",
+    "link": "https://www.thehindu.com/news/national/karnataka/new-i-t-act-is-taxpayer-centric-says-principal-chief-commissioner-vidisha-kalra/article70984136.ece",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "cb067bf6cd06",
+    "_fetched": "2026-05-15T19:53:21.830778+00:00",
+    "_relevance": 46,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 1918,
+    "title": "GST Tribunal revamps appeal process: Division bench review n",
+    "cat": "economy",
+    "upsc": false,
+    "time": "2026-05-15T19:55:34.568307+00:00",
+    "summary": "The move seeks to prevent smaller benches from deciding cases involving important legal questions, ensure consistent rulings, and streamline the proce",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "ET Economy",
+    "link": "https://economictimes.indiatimes.com/news/economy/policy/gst-tribunal-revamps-appeal-process-division-bench-review-now-mandatory-for-appeals/articleshow/131126990.cms",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "c1f2150d13a5",
+    "_fetched": "2026-05-15T19:55:34.568307+00:00",
+    "_relevance": 45,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "sc-judgment",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 1919,
+    "title": "No question of putting such restrictions: PM Modi dismisses ",
+    "cat": "economy",
+    "upsc": false,
+    "time": "2026-05-15T19:57:47.242717+00:00",
+    "summary": "The Prime Minister’s response follows a news report that suggested that the government was considering levying a tax or a cess or a surcharge on forei",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "The Hindu",
+    "link": "https://www.thehindu.com/news/national/no-question-of-putting-such-restrictions-on-foreign-travel-pm-modi-dismisses-reports-of-govt-mulling-taxation-on-foreign-travel/article70984620.ece",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "79585b534e4a",
+    "_fetched": "2026-05-15T19:57:47.242717+00:00",
+    "_relevance": 41,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 1920,
+    "title": "Fact check: Is central govt planning to impose surcharge on ",
+    "cat": "economy",
+    "upsc": false,
+    "time": "2026-05-15T19:59:59.970952+00:00",
+    "summary": "Prime Minister Narendra Modi on Friday rejected online reports claiming that the government is planning to impose a tax, cess, or surcharge on foreign",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "LiveMint",
+    "link": "https://www.livemint.com/news/india/not-an-iota-of-truth-pm-modi-junks-report-claiming-govt-planning-to-impose-surcharge-on-foreign-travel-11778864833452.html",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "0001f3ad6a3a",
+    "_fetched": "2026-05-15T19:59:59.970952+00:00",
+    "_relevance": 41,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 1921,
+    "title": "Trade, supply chains and economic statecraft",
+    "cat": "economy",
+    "upsc": false,
+    "time": "2026-05-15T20:02:12.635599+00:00",
+    "summary": "The new global order offers India unprecedented strategic and economic opportunities, making a case for balanced ‘policy promiscuity’",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "The Hindu Business",
+    "link": "https://www.thehindu.com/opinion/lead/trade-supply-chains-and-economic-statecraft/article70984368.ece",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "074afc43461e",
+    "_fetched": "2026-05-15T20:02:12.635599+00:00",
+    "_relevance": 38,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 1922,
+    "title": "Film industry should avoid wasteful expenditure, but not at ",
+    "cat": "tech",
+    "upsc": false,
+    "time": "2026-05-15T20:04:25.299496+00:00",
+    "summary": "Calling for an industry-wide conversation, he says together, they must evolve practical and sustainable operating practices for efficient film-making",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "The Hindu",
+    "link": "https://www.thehindu.com/news/national/tamil-nadu/film-industry-should-avoid-wasteful-expenditure-but-not-at-the-cost-of-workers-says-kamal-haasan/article70984307.ece",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "889dfab9cc6d",
+    "_fetched": "2026-05-15T20:04:25.299496+00:00",
+    "_relevance": 36,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 1923,
+    "title": "Take strict action against officers making accused wear only",
+    "cat": "policy",
+    "upsc": false,
+    "time": "2026-05-15T20:06:38.053747+00:00",
+    "summary": "",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "The Hindu",
+    "link": "https://www.thehindu.com/news/national/kerala/take-strict-action-against-officers-making-accused-wear-only-undergarments-in-lockups-kerala-state-human-rights-commission/article70984833.ece",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "b7c94134b103",
+    "_fetched": "2026-05-15T20:06:38.053747+00:00",
+    "_relevance": 36,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 1924,
+    "title": "Trump says U.S., China ‘settled a lot of problems’",
+    "cat": "economy",
+    "upsc": false,
+    "time": "2026-05-15T20:08:50.738325+00:00",
+    "summary": "Chinese President Xi Jinping said both sides “had reached important common understandings on maintaining stable economic and trade ties, expanding pra",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "The Hindu International",
+    "link": "https://www.thehindu.com/news/international/trump-concludes-china-visit-hailing-fantastic-deals/article70983165.ece",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "12f9e55c249a",
+    "_fetched": "2026-05-15T20:08:50.738325+00:00",
+    "_relevance": 36,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 1925,
+    "title": "Growing ‘attacks’on the judiciary by ‘parasites’, CJI Surya ",
+    "cat": "policy",
+    "upsc": false,
+    "time": "2026-05-15T20:11:03.496772+00:00",
+    "summary": "“There are parasites in society who attack the system... they don’t get any employment and don’t have any place in the profession. Some of them become",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "The Hindu",
+    "link": "https://www.thehindu.com/news/national/thousands-in-black-robes-with-doubtful-degrees-says-cji-surya-kant/article70982893.ece",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "219e1b858443",
+    "_fetched": "2026-05-15T20:11:03.496772+00:00",
+    "_relevance": 31,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 1926,
+    "title": "Finance Ministry increases export levy on petrol, reduces th",
+    "cat": "economy",
+    "upsc": false,
+    "time": "2026-05-15T20:13:16.153755+00:00",
+    "summary": "There has been no change in the existing excise duty rates for petrol and diesel for domestic consumption",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "The Hindu",
+    "link": "https://www.thehindu.com/news/national/finance-ministry-increases-export-levy-on-petrol-reduces-that-of-diesel-and-atf/article70984820.ece",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "98425fa57945",
+    "_fetched": "2026-05-15T20:13:16.153755+00:00",
+    "_relevance": 31,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 1927,
+    "title": "CBI conducts searches in Haryana bank scam case",
+    "cat": "tech",
+    "upsc": false,
+    "time": "2026-05-15T20:15:28.823498+00:00",
+    "summary": "“Searches were conducted at seven locations, including residential premises, business establishments and showrooms of jewellers, premises of suspected",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "The Hindu",
+    "link": "https://www.thehindu.com/news/national/haryana/cbi-conducts-searches-in-haryana-bank-scam-case-seizes-financial-records-digital-evidence/article70981844.ece",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "c118f6a80ef3",
+    "_fetched": "2026-05-15T20:15:28.823498+00:00",
+    "_relevance": 31,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 1928,
+    "title": "Israel threatens to sue media over report on sexual abuse of",
+    "cat": "world",
+    "upsc": false,
+    "time": "2026-05-15T20:17:41.564345+00:00",
+    "summary": "Prime Minister Benjamin Netanyahu and Foreign Minister Gideon Saar have ordered the “initiation of a defamation lawsuit against The New York Times”, a",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "The Hindu International",
+    "link": "https://www.thehindu.com/news/international/israel-threatens-to-sue-media-over-report-on-sexual-abuse-of-inmates/article70984664.ece",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "48f72541b5d5",
+    "_fetched": "2026-05-15T20:17:41.564345+00:00",
+    "_relevance": 31,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
   }
 ]
