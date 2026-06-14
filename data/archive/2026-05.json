@@ -41647,5 +41647,526 @@
     "_difficulty": 2,
     "_directive": "discuss",
     "_mcqs": []
+  },
+  {
+    "id": 1927,
+    "title": "India's Trade Deficit",
+    "cat": "economy",
+    "upsc": true,
+    "time": "2026-05-15T14:24:43.113011+00:00",
+    "summary": "India's trade deficit grew to $28.38 billion in April due to a surge in imports amid the Gulf conflict. This increase in trade deficit is significant for UPSC as it affects the country's economic development and foreign exchange reserves. It connects to the syllabus area of economic development and international trade.",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": 28.38,
+        "label": "India's trade deficit in April (billion USD)"
+      },
+      {
+        "val": 43.56,
+        "label": "India's exports in April (billion USD)"
+      },
+      {
+        "val": 71.94,
+        "label": "India's imports in April (billion USD)"
+      }
+    ],
+    "src": "ET Economy",
+    "link": "https://economictimes.indiatimes.com/news/economy/indicators/indias-trade-deficit-widens-to-28-38-billion-in-april-as-merchandise-exports-fall/articleshow/131112691.cms",
+    "prelims": [
+      "<strong>Balance of Trade</strong> is the difference between the monetary value of a nation's exports and imports over a certain period. It is a key indicator of a country's economic health and is used to calculate the balance of payments. India's trade deficit has been a concern for policymakers in recent years.",
+      "<strong>Foreign Exchange Reserves</strong> are assets held by a central bank to back its liabilities, such as its currency. India's foreign exchange reserves have been affected by the trade deficit and are an important factor in determining the country's exchange rate. The Reserve Bank of India (RBI) manages these reserves.",
+      "<strong>Current Account Deficit (CAD)</strong> occurs when a country's total imports of goods, services, and transfers exceed its total exports. A high CAD can lead to a decrease in foreign exchange reserves and put pressure on the exchange rate. India's CAD has been a concern in recent years due to the trade deficit.",
+      "<strong>Import Duty</strong> is a tax imposed on imported goods and services. It is used to protect domestic industries and generate revenue for the government. India has imposed import duties on various goods to reduce the trade deficit and promote domestic manufacturing.",
+      "<strong>Export Promotion Schemes</strong> are initiatives taken by the government to promote exports and increase foreign exchange earnings. These schemes include measures such as tax incentives, subsidies, and trade agreements. India has implemented various export promotion schemes to boost its exports and reduce the trade deficit."
+    ],
+    "mains": {
+      "q": "Analyze the impact of the Gulf conflict on India's trade deficit and suggest measures to reduce it.",
+      "marks": "15 marks · GS3",
+      "directive": "analyze",
+      "hints": [
+        "Introduction (2 marks): Define trade deficit and its significance in the Indian economy.",
+        "Body - Impact of Gulf conflict (3 marks): Discuss how the conflict has affected India's imports and exports, and its impact on the trade deficit.",
+        "Body - Measures to reduce trade deficit (4 marks): Suggest measures such as increasing exports, reducing imports, and promoting domestic manufacturing to reduce the trade deficit.",
+        "Body - Role of government policies (3 marks): Analyze the role of government policies such as import duties and export promotion schemes in reducing the trade deficit.",
+        "Conclusion (3 marks): Summarize the impact of the Gulf conflict on India's trade deficit and suggest a comprehensive approach to reduce it."
+      ]
+    },
+    "connect": [
+      {
+        "topic": "Balance of Payments",
+        "context": "The trade deficit is a key component of the balance of payments, which is an important indicator of a country's economic health."
+      },
+      {
+        "topic": "Foreign Exchange Management",
+        "context": "The trade deficit affects India's foreign exchange reserves, which are managed by the RBI to maintain a stable exchange rate."
+      },
+      {
+        "topic": "International Trade",
+        "context": "The trade deficit is influenced by international trade agreements and policies, such as import duties and export promotion schemes."
+      },
+      {
+        "topic": "Economic Development",
+        "context": "The trade deficit has an impact on India's economic development, as it affects the country's foreign exchange earnings and domestic industries."
+      },
+      {
+        "topic": "Fiscal Policy",
+        "context": "The government's fiscal policy, including taxation and public expenditure, can influence the trade deficit and overall economic development."
+      }
+    ],
+    "_hash": "78f01b2f5b7a",
+    "_fetched": "2026-05-15T14:24:43.113011+00:00",
+    "_relevance": 69,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "analyze",
+    "_mcqs": {
+      "q": "Consider the following statements:\n1. India's trade deficit is primarily due to a surplus in the services sector.\n2. The Gulf conflict has led to a decrease in India's oil imports.\n3. The Reserve Bank of India (RBI) is responsible for managing India's foreign exchange reserves.\nWhich of the above is/are correct?",
+      "options": [
+        "1 only",
+        "1 and 2 only",
+        "2 and 3 only",
+        "1, 2 and 3"
+      ],
+      "correct": 3,
+      "explanation": "Statement 1 is incorrect: India's trade deficit is primarily due to a deficit in the goods sector. Statement 2 is incorrect: The Gulf conflict has led to an increase in India's oil imports. Statement 3 is correct: The RBI is responsible for managing India's foreign exchange reserves.",
+      "trap": "Absolute Language"
+    }
+  },
+  {
+    "id": 1928,
+    "title": "Onion Procurement",
+    "cat": "economy",
+    "upsc": true,
+    "time": "2026-05-15T14:24:59.548451+00:00",
+    "summary": "The government will procure onions at Rs 12.35 per kg to support farmers facing falling prices. This move is significant for UPSC as it relates to agricultural pricing and government intervention in markets. It connects to the broader topic of agricultural economics and food security, which is a crucial aspect of India's development.",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": 12.35,
+        "label": "Procurement price per kg of onions"
+      },
+      {
+        "val": 1958,
+        "label": "Year NAFED was established"
+      }
+    ],
+    "src": "ET Economy",
+    "link": "https://economictimes.indiatimes.com/news/economy/agriculture/centre-to-procure-onions-at-rs-12-35-per-kg-rate-from-farmers-says-chouhan/articleshow/131119738.cms",
+    "prelims": [
+      "The <strong>National Agricultural Cooperative Marketing Federation of India (NAFED)</strong> is a government-backed organization that plays a crucial role in agricultural marketing and procurement. Established in 1958, NAFED operates under the Ministry of Agriculture and Farmers Welfare. Its primary objective is to promote cooperative marketing and provide support to farmers.",
+      "The <strong>Agricultural Produce Market Committee (APMC) Act</strong> regulates the marketing of agricultural produce in India. Enacted in 2003, the APMC Act aims to provide a framework for the establishment and operation of market committees, which facilitate the sale and purchase of agricultural produce. Understanding the APMC Act is essential for analyzing government interventions in agricultural markets.",
+      "The <strong>Minimum Support Price (MSP)</strong> is a critical component of India's agricultural policy. Introduced in the 1960s, the MSP is the price at which the government purchases crops from farmers to ensure a minimum income. The MSP is announced by the government for various crops, including wheat, rice, and pulses, and is a key factor in determining the profitability of farming.",
+      "The <strong>Public Distribution System (PDS)</strong> is a network of fair price shops that distribute subsidized food grains to vulnerable sections of the population. Established in the 1960s, the PDS aims to ensure food security and reduce poverty. The PDS is an essential component of India's social safety net and plays a critical role in addressing hunger and malnutrition.",
+      "The <strong>Essential Commodities Act, 1955</strong> is a legislation that regulates the production, distribution, and supply of essential commodities, including food grains, pulses, and edible oils. The Act empowers the government to control the prices of essential commodities and prevent hoarding and black marketing."
+    ],
+    "mains": {
+      "q": "Analyze the impact of government procurement on agricultural prices and farmers' incomes.",
+      "marks": "15 marks · GS3",
+      "directive": "analyze",
+      "hints": [
+        "Introduction (2 marks): Define government procurement and its significance in agricultural markets.",
+        "Body - Impact on prices (3 marks): Discuss how government procurement affects agricultural prices, including the role of MSP and market dynamics.",
+        "Body - Impact on farmers' incomes (3 marks): Examine the effect of government procurement on farmers' incomes, including the benefits and limitations of MSP.",
+        "Body - Institutional mechanism (3 marks): Analyze the role of NAFED and other institutions in government procurement and their impact on agricultural markets.",
+        "Conclusion (2 marks): Summarize the findings and suggest policy recommendations to improve government procurement and support farmers."
+      ]
+    },
+    "connect": [
+      {
+        "topic": "Agricultural Marketing and Pricing",
+        "context": "The article connects to the broader topic of agricultural marketing and pricing, which is a crucial aspect of India's agricultural policy."
+      },
+      {
+        "topic": "Food Security and Public Distribution System",
+        "context": "The government's procurement of onions is related to food security and the public distribution system, which aims to ensure access to food for vulnerable populations."
+      },
+      {
+        "topic": "Minimum Support Price and Agricultural Income",
+        "context": "The article highlights the significance of MSP in determining agricultural prices and farmers' incomes, which is a critical aspect of India's agricultural policy."
+      },
+      {
+        "topic": "Institutional Mechanisms in Agricultural Marketing",
+        "context": "The role of NAFED and other institutions in government procurement is essential for understanding the functioning of agricultural markets in India."
+      },
+      {
+        "topic": "Agricultural Economics and Policy",
+        "context": "The article connects to the broader topic of agricultural economics and policy, which is a critical aspect of India's development and growth strategy."
+      }
+    ],
+    "_hash": "e28f6f7f2e8e",
+    "_fetched": "2026-05-15T14:24:59.548451+00:00",
+    "_relevance": 67,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 1,
+    "_directive": "analyze",
+    "_mcqs": {
+      "q": "Consider the following statements:\n1. The government procures onions at a fixed price to support farmers.\n2. The APMC Act regulates the marketing of all agricultural produce in India.\n3. The MSP is announced by the government for all crops.\nWhich of the above is/are correct?",
+      "options": [
+        "1 only",
+        "1 and 2 only",
+        "2 and 3 only",
+        "1, 2 and 3"
+      ],
+      "correct": 0,
+      "explanation": "Statement 1 is correct: The government procures onions at a fixed price to support farmers. Statement 2 is incorrect: The APMC Act regulates the marketing of certain agricultural produce, but not all. Statement 3 is incorrect: The MSP is announced by the government for select crops, not all.",
+      "trap": "Scope Confusion"
+    }
+  },
+  {
+    "id": 1929,
+    "title": "India-West Asia Trade",
+    "cat": "economy",
+    "upsc": true,
+    "time": "2026-05-15T14:25:15.876650+00:00",
+    "summary": "India's trade with West Asia has declined by over 28% in April due to shipping disruptions caused by the US-Iran situation. This decline is significant for UPSC as it affects major Indian sectors such as jewels and engineering products, as well as oil, and has implications for India's economic development and foreign policy. The decline in trade also highlights the importance of diversifying India's trade relationships and reducing dependence on any one region.",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": 28,
+        "label": "Decline in India's trade with West Asia (%)"
+      },
+      {
+        "val": 3,
+        "label": "Number of countries in West Asia that are among India's top trading partners"
+      }
+    ],
+    "src": "ET Economy",
+    "link": "https://economictimes.indiatimes.com/news/economy/foreign-trade/indias-trade-with-west-asia-contracts-for-second-straight-month-in-april-amid-shipping-disruptions/articleshow/131119093.cms",
+    "prelims": [
+      "The <strong>West Asia</strong> region is a critical market for Indian exports, with countries such as the UAE, Saudi Arabia, and Iran being among India's top trading partners. The region's strategic location and large consumer base make it an attractive market for Indian businesses. India's trade with West Asia is governed by various agreements, including the <strong>India-UAE Comprehensive Economic Partnership Agreement (CEPA)</strong>.",
+      "The <strong>US-Iran situation</strong> has led to increased tensions in the region, affecting shipping lanes and trade routes. This has resulted in higher transportation costs and longer delivery times, making Indian exports less competitive in the global market. The situation also highlights the importance of <strong>diversifying India's trade relationships</strong> and reducing dependence on any one region.",
+      "The decline in India's trade with West Asia has significant implications for the country's <strong>economic development</strong>. India's economy is heavily dependent on exports, and a decline in trade can lead to a slowdown in economic growth. The government has implemented various policies, including the <strong>Make in India</strong> initiative, to promote exports and boost economic growth.",
+      "The <strong>Indian economy</strong> is also affected by global economic trends, including the <strong>global trade slowdown</strong>. The slowdown has resulted in reduced demand for Indian exports, further exacerbating the decline in trade with West Asia. The government has taken various measures, including <strong>fiscal stimulus packages</strong>, to boost economic growth and mitigate the impact of the global trade slowdown.",
+      "The <strong>foreign policy</strong> implications of the decline in India's trade with West Asia are significant. The region is critical to India's energy security, and a decline in trade can affect the country's ability to meet its energy needs. The government has taken various measures, including <strong>diversifying India's energy sources</strong>, to reduce dependence on any one region."
+    ],
+    "mains": {
+      "q": "Analyze the impact of the US-Iran situation on India's trade with West Asia and suggest measures to mitigate the decline in trade.",
+      "marks": "15 marks · GS3",
+      "directive": "analyze",
+      "hints": [
+        "Introduction (2 marks): Define the US-Iran situation and its impact on global trade, including the decline in India's trade with West Asia.",
+        "Body - Economic impact (3 marks): Discuss the economic implications of the decline in trade, including the impact on India's economic development and foreign policy.",
+        "Body - Strategic importance (3 marks): Explain the strategic importance of the West Asia region for India's trade and energy security, and the implications of the decline in trade for India's foreign policy.",
+        "Body - Mitigation measures (3 marks): Suggest measures to mitigate the decline in trade, including diversifying India's trade relationships and reducing dependence on any one region.",
+        "Conclusion (2 marks): Summarize the main points and suggest a way forward for India to promote its trade with West Asia and reduce dependence on any one region."
+      ]
+    },
+    "connect": [
+      {
+        "topic": "India's Foreign Trade Policy",
+        "context": "The decline in trade with West Asia highlights the need for India to diversify its trade relationships and reduce dependence on any one region."
+      },
+      {
+        "topic": "Global Trade Slowdown",
+        "context": "The decline in trade with West Asia is also affected by the global trade slowdown, which has resulted in reduced demand for Indian exports."
+      },
+      {
+        "topic": "US-Iran Relations",
+        "context": "The US-Iran situation has significant implications for global trade, including the decline in India's trade with West Asia."
+      },
+      {
+        "topic": "India's Energy Security",
+        "context": "The decline in trade with West Asia has significant implications for India's energy security, as the region is critical to India's energy needs."
+      },
+      {
+        "topic": "Make in India Initiative",
+        "context": "The decline in trade with West Asia highlights the need for India to promote its manufacturing sector and reduce dependence on imports."
+      }
+    ],
+    "_hash": "be6c980a4777",
+    "_fetched": "2026-05-15T14:25:15.876650+00:00",
+    "_relevance": 62,
+    "_gs": [
+      "GS2",
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "analyze",
+    "_mcqs": {
+      "q": "Consider the following statements:\n1. The US-Iran situation has led to a decline in India's trade with West Asia.\n2. The decline in trade is due to a global trade slowdown.\n3. The Indian government has implemented policies to promote exports and boost economic growth.\nWhich of the above is/are correct?",
+      "options": [
+        "1 only",
+        "1 and 2 only",
+        "2 and 3 only",
+        "1, 2 and 3"
+      ],
+      "correct": 0,
+      "explanation": "Statement 1 is correct: The US-Iran situation has led to a decline in India's trade with West Asia. Statement 2 is incorrect: The decline in trade is not solely due to a global trade slowdown, but also due to the US-Iran situation. Statement 3 is correct: The Indian government has implemented policies to promote exports and boost economic growth.",
+      "trap": "Absolute Language"
+    }
+  },
+  {
+    "id": 1930,
+    "title": "Ganges Turtle Conservation",
+    "cat": "science",
+    "upsc": true,
+    "time": "2026-05-15T14:25:31.813918+00:00",
+    "summary": "The first satellite-tagged Ganges soft-shell turtle was released in Kaziranga, marking a significant step for wildlife conservation. This event is crucial for UPSC as it highlights the importance of conservation efforts and the role of technology in tracking and protecting endangered species. It connects to the syllabus area of environmental conservation and biodiversity.",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": 1972,
+        "label": "Year the Wildlife Protection Act was enacted"
+      },
+      {
+        "val": 2006,
+        "label": "Year the Indian Wildlife (Protection) Amendment Act was introduced"
+      },
+      {
+        "val": 5,
+        "label": "Number of appendices in the Convention on International Trade in Endangered Species of Wild Fauna and Flora (CITES)"
+      }
+    ],
+    "src": "The Hindu",
+    "link": "https://www.thehindu.com/news/national/assam/indias-first-satellite-tagged-ganges-soft-shell-turtle-released-in-kaziranga/article70982975.ece",
+    "prelims": [
+      "The <strong>Wildlife Protection Act, 1972</strong> is the primary legislation for wildlife conservation in India, providing a framework for the protection of endangered species like the Ganges soft-shell turtle. It has undergone several amendments to strengthen conservation efforts. The Act also establishes the National Board for Wildlife, which plays a crucial role in promoting wildlife conservation.",
+      "The <strong>Convention on International Trade in Endangered Species of Wild Fauna and Flora (CITES)</strong> is an international agreement that regulates the trade of endangered species, including the Ganges soft-shell turtle. India is a signatory to CITES, and its implementation is crucial for preventing the illegal trade of endangered species. CITES categorizes species into three appendices based on their conservation status.",
+      "The <strong>Indian Wildlife (Protection) Amendment Act, 2006</strong> introduced significant changes to the original 1972 Act, including the establishment of the National Wildlife Crime Control Bureau to combat wildlife crime. The amendment also strengthened penalties for wildlife offenses and introduced new provisions for the conservation of endangered species.",
+      "The <strong>Ministry of Environment, Forest and Climate Change (MoEFCC)</strong> is the nodal ministry responsible for the implementation of wildlife conservation policies and laws in India. The ministry plays a crucial role in promoting sustainable development and environmental protection. It also coordinates with state governments and other stakeholders to implement conservation efforts.",
+      "The <strong>United Nations Environment Programme (UNEP)</strong> is a leading global environmental authority that provides guidance and support for environmental conservation efforts, including the protection of endangered species like the Ganges soft-shell turtle. UNEP works closely with governments, NGOs, and other stakeholders to promote sustainable development and environmental protection."
+    ],
+    "mains": {
+      "q": "Analyze the role of technology in wildlife conservation, with a focus on the use of satellite tagging for tracking endangered species.",
+      "marks": "15 marks · GS3",
+      "directive": "analyze",
+      "hints": [
+        "Introduction (2 marks): Define the importance of technology in wildlife conservation, including the use of satellite tagging for tracking endangered species.",
+        "Body - Technical aspects (3 marks): Discuss the technical aspects of satellite tagging, including the types of tags used, their advantages, and limitations.",
+        "Body - Conservation benefits (3 marks): Analyze the benefits of satellite tagging for conservation efforts, including the ability to track migration patterns, habitat use, and population dynamics.",
+        "Body - Challenges and limitations (3 marks): Discuss the challenges and limitations of using satellite tagging for wildlife conservation, including the cost, logistical constraints, and potential impacts on animal behavior.",
+        "Conclusion (2 marks): Summarize the importance of technology in wildlife conservation and the potential for satellite tagging to inform conservation efforts."
+      ]
+    },
+    "connect": [
+      {
+        "topic": "Wildlife Protection Act, 1972",
+        "context": "The Act provides a framework for the protection of endangered species in India, including the Ganges soft-shell turtle."
+      },
+      {
+        "topic": "Convention on International Trade in Endangered Species of Wild Fauna and Flora (CITES)",
+        "context": "CITES regulates the trade of endangered species, including the Ganges soft-shell turtle, and is relevant for international relations and environmental conservation."
+      },
+      {
+        "topic": "Ministry of Environment, Forest and Climate Change (MoEFCC)",
+        "context": "The ministry plays a crucial role in promoting sustainable development and environmental protection, including the conservation of endangered species."
+      },
+      {
+        "topic": "United Nations Environment Programme (UNEP)",
+        "context": "UNEP provides guidance and support for environmental conservation efforts, including the protection of endangered species like the Ganges soft-shell turtle."
+      },
+      {
+        "topic": "Satellite Tagging Technology",
+        "context": "Satellite tagging is a crucial technology for tracking endangered species, providing valuable insights into their migration patterns, habitat use, and population dynamics."
+      }
+    ],
+    "_hash": "2ea7affdcd6f",
+    "_fetched": "2026-05-15T14:25:31.813918+00:00",
+    "_relevance": 57,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "analyze",
+    "_mcqs": {
+      "q": "Consider the following statements:\n1. The Wildlife Protection Act, 1972, provides absolute protection to all endangered species in India.\n2. The use of satellite tagging for tracking endangered species is a relatively new technology.\n3. The Ministry of Environment, Forest and Climate Change is responsible for the implementation of wildlife conservation policies in India.\nWhich of the above is/are correct?",
+      "options": [
+        "1 only",
+        "1 and 2 only",
+        "2 and 3 only",
+        "1, 2 and 3"
+      ],
+      "correct": 3,
+      "explanation": "Statement 1 is incorrect: The Wildlife Protection Act, 1972, provides protection to endangered species, but it is not absolute. Statement 2 is incorrect: Satellite tagging has been used for several decades in wildlife conservation. Statement 3 is correct: The Ministry of Environment, Forest and Climate Change is indeed responsible for the implementation of wildlife conservation policies in India.",
+      "trap": "Absolute Language"
+    }
+  },
+  {
+    "id": 1931,
+    "title": "Gems &amp; jewellery exports fall 9% in April to Rs 20952 cr",
+    "cat": "economy",
+    "upsc": true,
+    "time": "2026-05-15T14:27:44.441569+00:00",
+    "summary": "Indian gems and jewellery exports saw a dip in April 2026. Geopolitical tensions and cautious buyer sentiment impacted trade. While cut and polished d",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "ET Economy",
+    "link": "https://economictimes.indiatimes.com/news/economy/foreign-trade/gems-jewellery-exports-fall-9-in-april-to-rs-20952-cr/articleshow/131118352.cms",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "ef997e81c722",
+    "_fetched": "2026-05-15T14:27:44.441569+00:00",
+    "_relevance": 55,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 1932,
+    "title": "Rupee hits record low of 96.14/dollar, settles at fresh clos",
+    "cat": "economy",
+    "upsc": false,
+    "time": "2026-05-15T14:29:57.004737+00:00",
+    "summary": "Forex traders said global uncertainties, relatively high valuations, and the lack of AI-led investment opportunities have weighed on capital flows",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "The Hindu Business",
+    "link": "https://www.thehindu.com/business/markets/rupee-hits-record-low-of-9614dollar-settles-at-fresh-closing-low-of-9586dollar/article70982736.ece",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "07cd0aa43d70",
+    "_fetched": "2026-05-15T14:29:57.004737+00:00",
+    "_relevance": 45,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 1933,
+    "title": "Gold imports jump 82 pc to USD 5.62 bn in April; silver by 1",
+    "cat": "economy",
+    "upsc": false,
+    "time": "2026-05-15T14:32:09.622941+00:00",
+    "summary": "India saw a significant jump in gold imports in April, reaching USD 5.62 billion. This surge was driven by high prices. However, the government has sh",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "ET Economy",
+    "link": "https://economictimes.indiatimes.com/news/economy/foreign-trade/gold-imports-jump-82-pc-to-usd-5-62-bn-in-april-silver-by-157-pc/articleshow/131118762.cms",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "e42054bf9151",
+    "_fetched": "2026-05-15T14:32:09.622941+00:00",
+    "_relevance": 43,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 1934,
+    "title": "US team likely to visit India next month for trade talks",
+    "cat": "world",
+    "upsc": false,
+    "time": "2026-05-15T14:34:22.257498+00:00",
+    "summary": "US trade officials are anticipated to visit India next month for crucial trade talks, following India's delegation visit to Washington in April. Both ",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "ET Economy",
+    "link": "https://economictimes.indiatimes.com/news/economy/foreign-trade/us-team-likely-to-visit-india-next-month-for-trade-talks/articleshow/131114607.cms",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "6f7dbfa3dee8",
+    "_fetched": "2026-05-15T14:34:22.257498+00:00",
+    "_relevance": 43,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 1935,
+    "title": "Balagopal challenges Antony over Kerala’s fiscal health",
+    "cat": "economy",
+    "upsc": false,
+    "time": "2026-05-15T14:36:34.934366+00:00",
+    "summary": "State’s outgoing Finance Minister extends an invitation to personally meet the senior Congress leader and present official government data, State budg",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "The Hindu",
+    "link": "https://www.thehindu.com/news/national/kerala/balagopal-challenges-antony-over-keralas-fiscal-health/article70982916.ece",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "c65f2996dfa2",
+    "_fetched": "2026-05-15T14:36:34.934366+00:00",
+    "_relevance": 39,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "budget",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 1936,
+    "title": "Amidst West Asia pressures, India’s goods exports grew 14% i",
+    "cat": "economy",
+    "upsc": false,
+    "time": "2026-05-15T14:38:47.576159+00:00",
+    "summary": "The overall trade deficit, counting merchandise and services, fell 30% in April 2026 to $7.8 billion",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "The Hindu",
+    "link": "https://www.thehindu.com/business/Economy/amidst-west-asia-pressures-indias-goods-exports-grew-14-in-april-2026/article70982874.ece",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "cd6b43b6a1a7",
+    "_fetched": "2026-05-15T14:38:47.576159+00:00",
+    "_relevance": 39,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
   }
 ]
