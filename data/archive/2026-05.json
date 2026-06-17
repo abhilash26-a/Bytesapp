@@ -49251,5 +49251,848 @@
     "_difficulty": 2,
     "_directive": "discuss",
     "_mcqs": []
+  },
+  {
+    "id": 1923,
+    "title": "US-China Trade Deal",
+    "cat": "economy",
+    "upsc": true,
+    "time": "2026-05-18T04:18:34.577310+00:00",
+    "summary": "The White House has announced that China will purchase at least $17 billion in US agricultural products every year until 2028. This development is significant for UPSC as it highlights the complexities of international trade agreements and their impact on global economies. The agreement also connects to India's own experiences with trade negotiations and the importance of agricultural exports in the country's economy.",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": 17,
+        "label": "Billion USD - China's annual purchase of US agricultural products"
+      },
+      {
+        "val": 2028,
+        "label": "Year - End of US-China trade agreement"
+      },
+      {
+        "val": 164,
+        "label": "Number of member countries - World Trade Organization (WTO)"
+      }
+    ],
+    "src": "LiveMint",
+    "link": "https://www.livemint.com/news/world/latest-world-news-on-may-18-2026-live-updates-11779061511637.html",
+    "prelims": [
+      "The <strong>World Trade Organization (WTO)</strong> was established in 1995 as the successor to the General Agreement on Tariffs and Trade (GATT), with the aim of promoting free trade and reducing trade barriers. The WTO has 164 member countries and is headquartered in Geneva, Switzerland. Its main function is to facilitate trade negotiations and settle trade disputes between member countries.",
+      "The <strong>United States-China Phase One Trade Deal</strong> was signed in January 2020, marking a significant development in the trade relations between the two countries. The deal includes provisions for China to increase its purchases of US goods and services, including agricultural products, and to strengthen intellectual property protections. The agreement also establishes a dispute resolution mechanism to address trade issues between the two countries.",
+      "The <strong>Agricultural Trade Agreement</strong> between the US and China is part of a broader effort to reduce trade tensions and promote economic cooperation between the two countries. The agreement highlights the importance of agricultural exports in the US economy and the growing demand for high-quality agricultural products in China. The deal also underscores the need for countries to work together to address global trade challenges and promote sustainable economic growth.",
+      "The <strong>General Agreement on Tariffs and Trade (GATT)</strong> was established in 1947 as a multilateral trade agreement aimed at reducing trade barriers and promoting free trade. GATT has undergone several rounds of negotiations, resulting in significant reductions in tariffs and other trade barriers. The agreement has played a crucial role in promoting global trade and economic growth, and its provisions continue to influence international trade policy today.",
+      "The <strong>US Trade Representative (USTR)</strong> is responsible for developing and implementing US trade policy, including negotiating trade agreements and enforcing trade laws. The USTR works closely with other government agencies, including the Department of Commerce and the Department of Agriculture, to promote US trade interests and address trade-related issues. The USTR also plays a key role in representing the US in international trade organizations, such as the WTO."
+    ],
+    "mains": {
+      "q": "Analyze the implications of the US-China trade agreement on the global economy, with a focus on the potential impact on India's trade relations with both countries.",
+      "marks": "15 marks · GS2",
+      "directive": "analyze",
+      "hints": [
+        "Introduction (2 marks): Provide an overview of the US-China trade agreement and its key provisions, including the purchase of US agricultural products by China.",
+        "Body - Global Economic Implications (4 marks): Discuss the potential impact of the agreement on global trade patterns, including the effects on other countries and regions, such as India, the EU, and Southeast Asia.",
+        "Body - India's Trade Relations (4 marks): Examine the potential implications of the agreement for India's trade relations with both the US and China, including the opportunities and challenges that may arise.",
+        "Body - Strategic Considerations (3 marks): Consider the strategic implications of the agreement, including the potential for the US and China to cooperate on trade issues and the impact on global governance.",
+        "Conclusion (2 marks): Summarize the key findings and implications of the analysis, highlighting the importance of the US-China trade agreement for the global economy and India's trade relations."
+      ]
+    },
+    "connect": [
+      {
+        "topic": "WTO and International Trade",
+        "context": "The US-China trade agreement highlights the importance of international trade agreements and the role of the WTO in promoting free trade and reducing trade barriers."
+      },
+      {
+        "topic": "India's Trade Policy",
+        "context": "The agreement has implications for India's trade relations with both the US and China, including potential opportunities and challenges for Indian exporters."
+      },
+      {
+        "topic": "Agricultural Exports",
+        "context": "The agreement underscores the importance of agricultural exports in the US economy and the growing demand for high-quality agricultural products in China."
+      },
+      {
+        "topic": "Global Economic Governance",
+        "context": "The agreement is part of a broader effort to promote global economic governance and cooperation, including the role of international institutions such as the WTO and the IMF."
+      },
+      {
+        "topic": "US-China Relations",
+        "context": "The agreement reflects the complex and multifaceted nature of US-China relations, including both cooperation and competition in areas such as trade, security, and technology."
+      }
+    ],
+    "_hash": "f8e09034632c",
+    "_fetched": "2026-05-18T04:18:34.577310+00:00",
+    "_relevance": 50,
+    "_gs": [
+      "GS2",
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "analyze",
+    "_mcqs": {
+      "q": "Consider the following statements:\n1. The US-China trade agreement requires China to purchase at least $17 billion in US agricultural products every year until 2028.\n2. The agreement is part of a broader effort to reduce trade tensions between the US and China.\n3. The agreement has no implications for India's trade relations with the US and China.\nWhich of the above is/are correct?",
+      "options": [
+        "1 only",
+        "1 and 2 only",
+        "2 and 3 only",
+        "1, 2 and 3"
+      ],
+      "correct": 1,
+      "explanation": "Statement 1 is correct: The US-China trade agreement does require China to purchase at least $17 billion in US agricultural products every year until 2028. Statement 2 is correct: The agreement is part of a broader effort to reduce trade tensions between the US and China. Statement 3 is incorrect: The agreement does have implications for India's trade relations with the US and China, including potential opportunities and challenges.",
+      "trap": "Absolute Language"
+    }
+  },
+  {
+    "id": 1924,
+    "title": "India's Renewable Energy Storage",
+    "cat": "tech",
+    "upsc": true,
+    "time": "2026-05-18T04:18:50.085802+00:00",
+    "summary": "India is increasing its renewable energy capacity but lacks storage infrastructure. This gap matters for UPSC as it connects to India's energy security and environmental sustainability. The government's plan to support long-duration energy storage technologies is crucial for managing renewable power during low generation periods.",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": 500,
+        "label": "Targeted non-fossil fuel capacity (GW) by 2030"
+      },
+      {
+        "val": 1000,
+        "label": "Targeted energy storage capacity (MWh) by 2025"
+      },
+      {
+        "val": 33,
+        "label": "Targeted reduction in greenhouse gas emissions intensity by 2030"
+      }
+    ],
+    "src": "LiveMint Industry",
+    "link": "https://www.livemint.com/industry/energy/india-races-to-build-long-duration-storage-as-renewable-gaps-widen-ldes-bess-11779016322968.html",
+    "prelims": [
+      "The <strong>National Energy Policy</strong> aims to increase the share of non-fossil fuels in the energy mix to 40% by 2030. It also emphasizes the importance of energy storage in ensuring a stable and efficient energy supply. The policy was formulated by the Ministry of Power in 2020.",
+      "The <strong>Ministry of New and Renewable Energy (MNRE)</strong> is responsible for promoting the development and use of renewable energy sources in India. It has set a target of achieving 500 GW of non-fossil fuel capacity by 2030. The ministry was established in 1992 as the Ministry of Non-Conventional Energy Sources.",
+      "The <strong>Energy Storage Mission</strong> was launched by the government in 2022 to promote the development and deployment of energy storage technologies in India. The mission aims to achieve 1,000 MWh of energy storage capacity by 2025. It is being implemented by the Ministry of Heavy Industries and Public Enterprises.",
+      "The <strong>Renewable Energy Certificate (REC)</strong> mechanism is a market-based instrument that enables the promotion of renewable energy sources in India. It allows renewable energy generators to sell their excess energy to the grid and earn certificates, which can be traded with other entities. The REC mechanism was introduced by the Central Electricity Regulatory Commission in 2010.",
+      "The <strong>Intergovernmental Panel on Climate Change (IPCC)</strong> has emphasized the importance of transitioning to a low-carbon economy to mitigate the impacts of climate change. India has committed to reducing its greenhouse gas emissions intensity by 33-35% below 2005 levels by 2030. The IPCC was established in 1988 by the United Nations Environment Programme and the World Meteorological Organization."
+    ],
+    "mains": {
+      "q": "Analyze the role of energy storage in ensuring a stable and efficient energy supply in India.",
+      "marks": "15 marks · GS3",
+      "directive": "analyze",
+      "hints": [
+        "Introduction (2 marks): Define energy storage and its importance in the context of India's energy security.",
+        "Body - Energy storage technologies (3 marks): Discuss the different types of energy storage technologies available, such as battery storage, pumped hydro storage, and compressed air energy storage.",
+        "Body - Benefits of energy storage (3 marks): Explain the benefits of energy storage, including improved grid stability, increased renewable energy penetration, and reduced greenhouse gas emissions.",
+        "Body - Challenges and limitations (3 marks): Discuss the challenges and limitations of energy storage in India, including high upfront costs, limited infrastructure, and lack of policy support.",
+        "Conclusion (2 marks): Summarize the importance of energy storage in India's energy landscape and suggest policy recommendations to promote its development and deployment."
+      ]
+    },
+    "connect": [
+      {
+        "topic": "National Energy Policy",
+        "context": "The policy emphasizes the importance of energy storage in ensuring a stable and efficient energy supply."
+      },
+      {
+        "topic": "Renewable Energy Certificate (REC) Mechanism",
+        "context": "The REC mechanism is a market-based instrument that enables the promotion of renewable energy sources in India."
+      },
+      {
+        "topic": "Energy Storage Mission",
+        "context": "The mission aims to promote the development and deployment of energy storage technologies in India."
+      },
+      {
+        "topic": "Ministry of New and Renewable Energy (MNRE)",
+        "context": "The MNRE is responsible for promoting the development and use of renewable energy sources in India."
+      },
+      {
+        "topic": "Intergovernmental Panel on Climate Change (IPCC)",
+        "context": "The IPCC has emphasized the importance of transitioning to a low-carbon economy to mitigate the impacts of climate change."
+      }
+    ],
+    "_hash": "fa882647a09e",
+    "_fetched": "2026-05-18T04:18:50.085802+00:00",
+    "_relevance": 46,
+    "_gs": [
+      "GS2",
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "analyze",
+    "_mcqs": {
+      "q": "Consider the following statements:\n1. The Ministry of New and Renewable Energy (MNRE) is responsible for promoting the development and use of renewable energy sources in India.\n2. The Energy Storage Mission was launched by the government in 2020 to promote the development and deployment of energy storage technologies in India.\n3. The Renewable Energy Certificate (REC) mechanism is a market-based instrument that enables the promotion of renewable energy sources in India.\nWhich of the above is/are correct?",
+      "options": [
+        "1 only",
+        "1 and 2 only",
+        "2 and 3 only",
+        "1, 2 and 3"
+      ],
+      "correct": 0,
+      "explanation": "Statement 1 is correct: The MNRE is indeed responsible for promoting the development and use of renewable energy sources in India. Statement 2 is incorrect: The Energy Storage Mission was launched in 2022, not 2020. Statement 3 is correct: The REC mechanism is indeed a market-based instrument that enables the promotion of renewable energy sources in India.",
+      "trap": "Timeline Confusion"
+    }
+  },
+  {
+    "id": 1925,
+    "title": "India-Sweden Investment",
+    "cat": "economy",
+    "upsc": true,
+    "time": "2026-05-18T04:19:06.166115+00:00",
+    "summary": "Prime Minister Narendra Modi urged top European companies to increase investments in India during a high-level meeting with the European Round Table for Industry in Gothenburg, Sweden. This development is crucial for UPSC as it highlights India's efforts to attract foreign investment and boost its economy. The event co-hosted by Swedish Prime Minister Ulf Kristersson and European Commission President Ursula von der Leyen underscores the significance of international cooperation in economic development.",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": 60,
+        "label": "Number of European industrial leaders in the ERT"
+      },
+      {
+        "val": 25,
+        "label": "Number of key sectors focused on by the Make in India initiative"
+      },
+      {
+        "val": 100,
+        "label": "Percentage of FDI allowed in most sectors in India"
+      }
+    ],
+    "src": "ET Economy",
+    "link": "https://economictimes.indiatimes.com/news/economy/foreign-trade/pm-modi-pitches-bold-investment-vision-to-europes-top-ceos-at-historic-ert-roundtable-in-gothenburg/articleshow/131164122.cms",
+    "prelims": [
+      "The <strong>European Round Table for Industry (ERT)</strong> is a forum of around 60 European industrial leaders that aims to promote the competitiveness of European industry. It was established in 1983 and is headquartered in Brussels, Belgium. ERT members are CEOs of major European companies, representing a wide range of industrial sectors.",
+      "The <strong>Make in India</strong> initiative was launched in 2014 to promote India as a manufacturing hub and attract foreign investment. The program focuses on 25 key sectors, including automotive, aviation, and textiles. It has led to significant investments in various sectors, including a notable increase in foreign direct investment (FDI) inflows.",
+      "The <strong>Foreign Direct Investment (FDI) Policy</strong> in India is governed by the Department for Promotion of Industry and Internal Trade (DPIIT). The policy allows for 100% FDI in most sectors, with some exceptions such as defense and media. FDI is considered crucial for India's economic growth, as it brings in capital, technology, and expertise.",
+      "The <strong>India-EU Free Trade Agreement (FTA)</strong> is currently under negotiation. The agreement aims to reduce trade barriers and increase economic cooperation between India and the EU. An FTA would provide Indian companies with greater access to the European market, while also increasing competition in the Indian market.",
+      "The <strong>World Investment Report (WIR)</strong> is published annually by the United Nations Conference on Trade and Development (UNCTAD). The report provides an overview of global investment trends and promotes investment for sustainable development. It is an important resource for policymakers and researchers, offering insights into the global investment landscape."
+    ],
+    "mains": {
+      "q": "Analyze the significance of foreign investment in India's economic development, with a focus on the role of international cooperation and trade agreements.",
+      "marks": "15 marks · GS3",
+      "directive": "analyze",
+      "hints": [
+        "Introduction (2 marks): Define foreign investment and its types, and explain its importance in India's economic development.",
+        "Body - Economic benefits (3 marks): Discuss the benefits of foreign investment, including job creation, technology transfer, and increased competitiveness.",
+        "Body - Challenges and limitations (3 marks): Examine the challenges faced by foreign investors in India, including regulatory hurdles, infrastructure gaps, and corruption.",
+        "Body - International cooperation (3 marks): Analyze the role of international cooperation and trade agreements in promoting foreign investment in India, with a focus on the EU-India FTA.",
+        "Conclusion (2 marks): Summarize the key points and suggest policy recommendations to attract more foreign investment in India."
+      ]
+    },
+    "connect": [
+      {
+        "topic": "Foreign Direct Investment (FDI) Policy",
+        "context": "The FDI policy is crucial for attracting foreign investment in India, and its provisions have a significant impact on the country's economic development."
+      },
+      {
+        "topic": "International Trade Agreements",
+        "context": "The India-EU FTA is an example of an international trade agreement that can promote economic cooperation and increase trade between India and the EU."
+      },
+      {
+        "topic": "Make in India Initiative",
+        "context": "The Make in India initiative is a key program aimed at promoting India as a manufacturing hub and attracting foreign investment."
+      },
+      {
+        "topic": "Ease of Doing Business",
+        "context": "The ease of doing business in India is an important factor that affects foreign investment, and the government has implemented various reforms to improve it."
+      },
+      {
+        "topic": "Global Value Chains",
+        "context": "Foreign investment in India can help the country integrate into global value chains, which can increase its competitiveness and promote economic growth."
+      }
+    ],
+    "_hash": "c9e62971ac41",
+    "_fetched": "2026-05-18T04:19:06.166115+00:00",
+    "_relevance": 45,
+    "_gs": [
+      "GS2",
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "analyze",
+    "_mcqs": {
+      "q": "Consider the following statements:\n1. The European Round Table for Industry (ERT) is a forum of European industrial leaders that aims to promote the competitiveness of European industry.\n2. The Make in India initiative allows for 100% FDI in all sectors.\n3. The India-EU Free Trade Agreement (FTA) has been signed and is currently in effect.\nWhich of the above is/are correct?",
+      "options": [
+        "1 only",
+        "1 and 2 only",
+        "2 and 3 only",
+        "1, 2 and 3"
+      ],
+      "correct": 0,
+      "explanation": "Statement 1 is correct: The ERT is indeed a forum of European industrial leaders. Statement 2 is incorrect: While the Make in India initiative allows for 100% FDI in most sectors, there are some exceptions. Statement 3 is incorrect: The India-EU FTA is currently under negotiation and has not been signed.",
+      "trap": "Absolute Language"
+    }
+  },
+  {
+    "id": 1926,
+    "title": "Philanthropy in Asia",
+    "cat": "policy",
+    "upsc": true,
+    "time": "2026-05-18T04:19:21.967550+00:00",
+    "summary": "Tata Trusts-backed digital inclusion platform Haqdarshak is under the government’s Digital India initiative to improve access to welfare schemes. This development is significant for UPSC as it highlights the role of philanthropy in social innovation and digital inclusion. It connects to the syllabus area of governance and policy, particularly in the context of digital India and welfare schemes.",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": 2015,
+        "label": "Year the Digital India initiative was launched"
+      },
+      {
+        "val": 2000,
+        "label": "Year the Information Technology Act was passed"
+      },
+      {
+        "val": 100,
+        "label": "% of Indian villages with mobile phone coverage"
+      }
+    ],
+    "src": "The Hindu",
+    "link": "https://www.thehindu.com/news/national/philanthropy-in-asia-emerging-as-risk-capital-for-social-innovation-report/article70992392.ece",
+    "prelims": [
+      "The <strong>Digital India initiative</strong> was launched in 2015 with the aim of transforming India into a digitally empowered society. It has three core components: digital infrastructure, digital literacy, and digital governance. The initiative is being implemented by the Ministry of Electronics and Information Technology.",
+      "The <strong>Haqdarshak platform</strong> is an example of a digital inclusion initiative that aims to improve access to welfare schemes for marginalized communities. It uses a combination of technology and community outreach to empower people to claim their entitlements. The platform is supported by the Tata Trusts, a philanthropic organization that has been working in the area of social development for over a century.",
+      "The <strong>role of philanthropy</strong> in social innovation is becoming increasingly important in Asia, as governments and corporations recognize the need for collaborative approaches to address complex social problems. Philanthropic organizations are providing risk capital for social innovation, supporting the development of new technologies and business models that can help to address issues such as poverty, inequality, and environmental degradation.",
+      "The <strong>Information Technology Act, 2000</strong> provides the legal framework for digital governance in India. It regulates the use of electronic documents and signatures, and provides for the establishment of a national portal for electronic governance. The Act has been amended several times to keep pace with the rapid evolution of technology and the growing need for digital governance.",
+      "The <strong>Ministry of Electronics and Information Technology</strong> is responsible for implementing the Digital India initiative and promoting the use of technology in governance. It has established a number of initiatives and programs to support digital literacy, digital infrastructure, and digital governance. The Ministry works closely with state governments, industry partners, and civil society organizations to achieve its goals."
+    ],
+    "mains": {
+      "q": "Critically examine the role of philanthropy in social innovation, with reference to the Digital India initiative and the Haqdarshak platform.",
+      "marks": "15 marks · GS2",
+      "directive": "critically_examine",
+      "hints": [
+        "Introduction (2 marks): Define philanthropy and social innovation, and explain their relevance to the Digital India initiative.",
+        "Body - Philanthropy in social innovation (3 marks): Discuss the role of philanthropic organizations in supporting social innovation, with reference to the Tata Trusts and the Haqdarshak platform.",
+        "Body - Digital India initiative (3 marks): Explain the key components of the Digital India initiative, and discuss its potential impact on marginalized communities.",
+        "Body - Challenges and limitations (3 marks): Analyze the challenges and limitations of using philanthropy to support social innovation, including issues of scalability, sustainability, and equity.",
+        "Conclusion (2 marks): Summarize the main arguments, and suggest ways in which philanthropy can be used more effectively to support social innovation and digital inclusion."
+      ]
+    },
+    "connect": [
+      {
+        "topic": "Digital Governance",
+        "context": "The Digital India initiative is a key example of digital governance in action, with the aim of transforming India into a digitally empowered society."
+      },
+      {
+        "topic": "Social Innovation",
+        "context": "The Haqdarshak platform is an example of social innovation, using technology to improve access to welfare schemes for marginalized communities."
+      },
+      {
+        "topic": "Philanthropy and Development",
+        "context": "The role of philanthropy in social innovation is becoming increasingly important, as governments and corporations recognize the need for collaborative approaches to address complex social problems."
+      },
+      {
+        "topic": "Information Technology Act, 2000",
+        "context": "The Act provides the legal framework for digital governance in India, regulating the use of electronic documents and signatures."
+      },
+      {
+        "topic": "Digital Literacy",
+        "context": "The Digital India initiative includes a number of initiatives to promote digital literacy, including the establishment of a national portal for electronic governance."
+      }
+    ],
+    "_hash": "9aaf6499b749",
+    "_fetched": "2026-05-18T04:19:21.967550+00:00",
+    "_relevance": 44,
+    "_gs": [
+      "GS2",
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "critically_examine",
+    "_mcqs": {
+      "q": "Consider the following statements:\n1. The Digital India initiative was launched in 2010.\n2. The Haqdarshak platform is supported by the Bill and Melinda Gates Foundation.\n3. The Information Technology Act, 2000 regulates the use of electronic documents and signatures.\nWhich of the above is/are correct?",
+      "options": [
+        "1 only",
+        "1 and 2 only",
+        "2 and 3 only",
+        "1, 2 and 3"
+      ],
+      "correct": 3,
+      "explanation": "Statement 1 is incorrect: The Digital India initiative was launched in 2015. Statement 2 is incorrect: The Haqdarshak platform is supported by the Tata Trusts. Statement 3 is correct: The Information Technology Act, 2000 regulates the use of electronic documents and signatures.",
+      "trap": "Timeline Confusion"
+    }
+  },
+  {
+    "id": 1927,
+    "title": "WPI Inflation",
+    "cat": "economy",
+    "upsc": true,
+    "time": "2026-05-18T04:19:37.953468+00:00",
+    "summary": "The recent hike in petrol and diesel prices has led to concerns about WPI inflation crossing the 10% mark. This development is crucial for UPSC aspirants as it relates to India's economic stability and the government's fiscal policies. The inflation rate is a key indicator of the country's economic health, and understanding its implications is essential for GS3 preparation.",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": 10,
+        "label": "WPI inflation rate (%)"
+      },
+      {
+        "val": 6,
+        "label": "Upper bound of inflation target (%)"
+      }
+    ],
+    "src": "ET Economy",
+    "link": "https://economictimes.indiatimes.com/news/economy/indicators/wpi-inflation-crossing-10-mark-not-a-tail-risk-but-a-near-term-base-case-report/articleshow/131165244.cms",
+    "prelims": [
+      "The <strong>Wholesale Price Index (WPI)</strong> is a measure of the average change in prices of goods and services sold in the wholesale market. It is calculated by the Office of Economic Adviser, Department for Promotion of Industry and Internal Trade. WPI is used as a benchmark for measuring inflation in the country.",
+      "The <strong>Monetary Policy Committee (MPC)</strong> of the Reserve Bank of India (RBI) is responsible for setting the monetary policy, including the interest rates, to control inflation. The MPC is headed by the Governor of RBI and consists of six members. It meets at least four times a year to review the monetary policy.",
+      "The <strong>Fiscal Policy</strong> of the government plays a crucial role in controlling inflation. The government's fiscal policy decisions, such as taxation and public expenditure, can influence the overall demand for goods and services in the economy. A prudent fiscal policy can help in maintaining a stable inflation rate.",
+      "The <strong>Supply Chain Management</strong> is critical in controlling inflation. Any disruption in the supply chain can lead to a shortage of essential goods, resulting in higher prices. The government and the industry must work together to ensure a smooth supply chain to prevent inflationary pressures.",
+      "The <strong>Inflation Targeting</strong> framework is used by the RBI to set the inflation target. The framework aims to keep the inflation rate within a target range of 2-6% to ensure price stability. The RBI uses various monetary policy tools to achieve this target."
+    ],
+    "mains": {
+      "q": "Analyze the impact of the recent hike in petrol and diesel prices on the overall inflation rate in the country.",
+      "marks": "15 marks · GS3",
+      "directive": "analyze",
+      "hints": [
+        "Introduction (2 marks): Define the Wholesale Price Index (WPI) and its significance in measuring inflation.",
+        "Body - Impact on inflation (3 marks): Discuss the impact of the hike in petrol and diesel prices on the WPI and the overall inflation rate.",
+        "Body - Monetary policy response (3 marks): Analyze the possible monetary policy responses of the RBI to control inflation, including the use of interest rates and other tools.",
+        "Body - Fiscal policy implications (3 marks): Examine the fiscal policy implications of the hike in petrol and diesel prices, including the impact on the government's revenue and expenditure.",
+        "Conclusion (2 marks): Summarize the overall impact of the hike in petrol and diesel prices on the inflation rate and suggest possible policy measures to control inflation."
+      ]
+    },
+    "connect": [
+      {
+        "topic": "Monetary Policy and Inflation Control",
+        "context": "The RBI's monetary policy decisions, including the use of interest rates, play a crucial role in controlling inflation."
+      },
+      {
+        "topic": "Fiscal Policy and Public Finance",
+        "context": "The government's fiscal policy decisions, including taxation and public expenditure, can influence the overall demand for goods and services in the economy and impact inflation."
+      },
+      {
+        "topic": "Supply Chain Management and Logistics",
+        "context": "A smooth supply chain is essential to prevent inflationary pressures, and any disruption can lead to a shortage of essential goods and higher prices."
+      },
+      {
+        "topic": "Inflation Targeting and Price Stability",
+        "context": "The inflation targeting framework is used by the RBI to set the inflation target and ensure price stability in the economy."
+      },
+      {
+        "topic": "Economic Indicators and Data Analysis",
+        "context": "Understanding various economic indicators, including WPI and CPI, is essential to analyze the overall economic health of the country and make informed policy decisions."
+      }
+    ],
+    "_hash": "d7c9887d3542",
+    "_fetched": "2026-05-18T04:19:37.953468+00:00",
+    "_relevance": 43,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "analyze",
+    "_mcqs": {
+      "q": "Consider the following statements:\n1. The Wholesale Price Index (WPI) is used to measure inflation in the retail market.\n2. The Monetary Policy Committee (MPC) is responsible for setting the fiscal policy.\n3. The inflation targeting framework is used by the RBI to set the inflation target.\nWhich of the above is/are correct?",
+      "options": [
+        "1 only",
+        "1 and 2 only",
+        "2 and 3 only",
+        "1, 2 and 3"
+      ],
+      "correct": 3,
+      "explanation": "Statement 1 is incorrect: WPI is used to measure inflation in the wholesale market, not the retail market. Statement 2 is incorrect: MPC is responsible for setting the monetary policy, not the fiscal policy. Statement 3 is correct: The inflation targeting framework is used by the RBI to set the inflation target.",
+      "trap": "Wrong Definition"
+    }
+  },
+  {
+    "id": 1928,
+    "title": "Iran-Israel war LIVE: 'Staggering' Iran toll drives up globa",
+    "cat": "science",
+    "upsc": false,
+    "time": "2026-05-18T04:21:50.414454+00:00",
+    "summary": "UAE reports drone strike at nuclear power plant; Saudi Arabia intercepts three drones from Iraqi airspace",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "The Hindu International",
+    "link": "https://www.thehindu.com/news/international/iran-israel-war-live-may-18-2026/article70992340.ece",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "bede912f8149",
+    "_fetched": "2026-05-18T04:21:50.414454+00:00",
+    "_relevance": 40,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 1929,
+    "title": "India, Sweden agree to elevate bilateral ties to Strategic P",
+    "cat": "india",
+    "upsc": false,
+    "time": "2026-05-18T04:24:02.828105+00:00",
+    "summary": "Sweden confers Royal Order of Polar Star upon PM Modi; it is the 31st global honour for Prime Minister Narendra Modi",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "The Hindu",
+    "link": "https://www.thehindu.com/news/national/narendra-modi-five-nation-tour-live-updates-uae-netherlands-sweden-norway-italy-trade-investment-west-asia-crisis/article70989625.ece",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "23f6150f9c09",
+    "_fetched": "2026-05-18T04:24:02.828105+00:00",
+    "_relevance": 39,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 1930,
+    "title": "Rupee seen testing record lows; bonds to extend fall on Iran",
+    "cat": "economy",
+    "upsc": false,
+    "time": "2026-05-18T04:26:15.364419+00:00",
+    "summary": "The Indian rupee is poised to hit record lows as investors grapple with growth-inflation risks stemming from the Iran war. Rising Brent crude prices a",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "Economic Times",
+    "link": "https://economictimes.indiatimes.com/markets/forex/forex-news/rupee-seen-testing-record-lows-bonds-to-extend-fall-on-iran-war-jitters/articleshow/131164401.cms",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "b33bcd5625f5",
+    "_fetched": "2026-05-18T04:26:15.364419+00:00",
+    "_relevance": 34,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 1931,
+    "title": "Iran fires a fresh threat: After oil, your Insta reels, Amaz",
+    "cat": "world",
+    "upsc": false,
+    "time": "2026-05-18T04:28:27.777877+00:00",
+    "summary": "From Whatsapp chats, Insta reels to Amazon deliveries, everything could be hit as Iran is considering imposing fees on undersea internet cables passin",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "Economic Times",
+    "link": "https://economictimes.indiatimes.com/news/new-updates/iran-fires-a-fresh-threat-after-oil-your-insta-reels-amazon-deliveries-whatsapp-chats-and-netflix-streams-could-be-the-next-target/articleshow/131165610.cms",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "bb154cc3d6f8",
+    "_fetched": "2026-05-18T04:28:27.777877+00:00",
+    "_relevance": 34,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 1932,
+    "title": "Revisiting India’s entry onto the nuclear stage",
+    "cat": "india",
+    "upsc": false,
+    "time": "2026-05-18T04:30:40.191337+00:00",
+    "summary": "On May 18, 1974, India conducted an underground test of a nuclear fission device. This test — codenamed Smiling Buddha — enabled us to became the sixt",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "The Hindu Science",
+    "link": "https://www.thehindu.com/sci-tech/science/revisiting-indias-entry-onto-the-nuclear-stage/article70950018.ece",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "177b7b237111",
+    "_fetched": "2026-05-18T04:30:40.191337+00:00",
+    "_relevance": 33,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 1933,
+    "title": "Iran-Israel War",
+    "cat": "world",
+    "upsc": true,
+    "time": "2026-05-18T04:31:16.205924+00:00",
+    "summary": "A drone strike was reported at a nuclear power plant in the UAE amidst the ongoing Iran-Israel war. This incident is crucial for UPSC as it highlights the geopolitical tensions in the Middle East and their implications on global security. The conflict connects to the GS2 syllabus area, particularly international relations and global governance.",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": 2015,
+        "label": "Year the JCPOA was signed"
+      },
+      {
+        "val": 1957,
+        "label": "Year the IAEA was established"
+      },
+      {
+        "val": 1945,
+        "label": "Year the UN Charter was signed"
+      }
+    ],
+    "src": "The Hindu International",
+    "link": "https://www.thehindu.com/news/international/us-israel-iran-war-live-updates-lebanon-airstrikes-ceasefire-hezbollah-strait-of-hormuz/article70989557.ece",
+    "prelims": [
+      "The <strong>United Nations Security Council (UNSC)</strong> has been involved in resolving the Iran-Israel conflict, with the US, Russia, and China playing key roles as permanent members. The UNSC was established in 1945 under the UN Charter, with the primary responsibility of maintaining international peace and security. Its decisions are binding on all UN member states.",
+      "The <strong>Joint Comprehensive Plan of Action (JCPOA)</strong> is a landmark nuclear deal signed between Iran, the US, Russia, China, France, Germany, the UK, and the EU in 2015. The agreement aimed to restrict Iran's nuclear program in exchange for relief from economic sanctions. The deal's implementation and subsequent withdrawal by the US have significantly impacted the region's geopolitical dynamics.",
+      "The <strong>Middle East Peace Process</strong> has been a longstanding effort to resolve the Israeli-Palestinian conflict, with various initiatives and negotiations taking place over the years. The process involves multiple stakeholders, including the US, the EU, and Arab states, and is crucial for regional stability. Understanding the historical context and current developments in this process is essential for analyzing the Iran-Israel conflict.",
+      "The <strong>International Atomic Energy Agency (IAEA)</strong> plays a critical role in monitoring and verifying the implementation of nuclear agreements, including the JCPOA. The IAEA was established in 1957 and is headquartered in Vienna, Austria. Its primary objective is to promote the peaceful use of nuclear energy and prevent the proliferation of nuclear weapons.",
+      "The <strong>Iran-Israel conflict</strong> has significant implications for global energy security, as the region is a major oil producer and transporter. The conflict can impact oil prices, global trade, and the economy, making it a critical issue for international relations and global governance."
+    ],
+    "mains": {
+      "q": "Analyze the implications of the Iran-Israel conflict on global security and international relations.",
+      "marks": "15 marks · GS2",
+      "directive": "analyze",
+      "hints": [
+        "Introduction (2 marks): Define the key terms and provide an overview of the Iran-Israel conflict, including its historical context and current developments.",
+        "Body - Geopolitical implications (4 marks): Discuss the impact of the conflict on regional stability, including the roles of the US, Russia, and China, and the potential for escalation.",
+        "Body - Global governance (4 marks): Examine the involvement of international organizations, such as the UN and the IAEA, in resolving the conflict and promoting nuclear non-proliferation.",
+        "Body - Economic implications (3 marks): Analyze the potential effects of the conflict on global energy security, oil prices, and trade, and discuss the implications for the global economy.",
+        "Conclusion (2 marks): Summarize the key points and provide recommendations for addressing the conflict and promoting regional stability."
+      ]
+    },
+    "connect": [
+      {
+        "topic": "International Relations and Global Governance",
+        "context": "The Iran-Israel conflict highlights the complexities of international relations and the need for effective global governance, making it a critical topic for GS2."
+      },
+      {
+        "topic": "Nuclear Non-Proliferation and Disarmament",
+        "context": "The JCPOA and the IAEA's role in monitoring nuclear agreements demonstrate the importance of non-proliferation efforts and disarmament initiatives, connecting to GS3."
+      },
+      {
+        "topic": "Global Energy Security and Trade",
+        "context": "The Iran-Israel conflict's implications for global energy security and trade make it a relevant issue for GS3, particularly in the context of economic development and international relations."
+      },
+      {
+        "topic": "United Nations and International Organizations",
+        "context": "The UN's involvement in resolving the Iran-Israel conflict and promoting nuclear non-proliferation highlights the importance of international organizations in maintaining global peace and security, connecting to GS2."
+      },
+      {
+        "topic": "Middle East Peace Process and Geopolitics",
+        "context": "The Iran-Israel conflict is intricately linked to the broader Middle East peace process, making it essential to understand the historical context and current developments in the region, particularly for GS2."
+      }
+    ],
+    "_hash": "29d741b09f72",
+    "_fetched": "2026-05-18T04:31:16.205924+00:00",
+    "_relevance": 31,
+    "_gs": [
+      "GS2"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "analyze",
+    "_mcqs": {
+      "q": "Consider the following statements:\n1. The JCPOA was signed in 2010.\n2. The IAEA is responsible for monitoring and verifying the implementation of nuclear agreements.\n3. The Iran-Israel conflict has no implications for global energy security.",
+      "options": [
+        "1 only",
+        "2 only",
+        "2 and 3 only",
+        "2"
+      ],
+      "correct": 1,
+      "explanation": "Statement 1 is incorrect: The JCPOA was signed in 2015. Statement 2 is correct: The IAEA plays a critical role in monitoring and verifying the implementation of nuclear agreements. Statement 3 is incorrect: The Iran-Israel conflict has significant implications for global energy security.",
+      "trap": "Timeline Confusion"
+    }
+  },
+  {
+    "id": 1934,
+    "title": "Export Subsidy",
+    "cat": "economy",
+    "upsc": true,
+    "time": "2026-05-17T22:00:14.164581+00:00",
+    "summary": "Indian exporters are calling on the government to lift the cap on interest subvention. This move is crucial for UPSC as it relates to India's economic development and trade policies. The issue connects to the syllabus area of economic development and international trade, which is a key aspect of GS3.",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": 2015,
+        "label": "Year the interest subvention scheme was introduced"
+      },
+      {
+        "val": 2020,
+        "label": "Year the scheme was extended to support the export sector"
+      }
+    ],
+    "src": "Economic Times",
+    "link": "https://economictimes.indiatimes.com/news/economy/foreign-trade/exporters-seek-removal-of-cap-on-interest-subvention/articleshow/130341339.cms",
+    "prelims": [
+      "The <strong>Foreign Trade Policy</strong> is formulated by the Ministry of Commerce and Industry, which aims to increase India's exports and promote economic growth. The policy is reviewed and updated every five years. The current policy focuses on increasing India's share in global trade and promoting export-oriented industries.",
+      "The <strong>Interest Subvention Scheme</strong> was introduced to support Indian exporters by providing them with cheaper credit. The scheme is implemented by the Ministry of Commerce and Industry and is aimed at reducing the cost of borrowing for exporters. The scheme has been extended several times to support the export sector.",
+      "The <strong>World Trade Organization (WTO)</strong> has rules and regulations governing international trade, including subsidies. India, as a member of the WTO, has to comply with these rules and regulations. The WTO Agreement on Subsidies and Countervailing Measures (ASCM) regulates the use of subsidies by member countries.",
+      "The <strong>Make in India</strong> initiative was launched by the government to promote manufacturing and exports. The initiative aims to increase India's share in global trade and promote economic growth. The initiative has several components, including the creation of a favorable business environment and the provision of incentives for exporters.",
+      "The <strong>Export-Import Bank of India</strong> provides financial support to Indian exporters. The bank was established in 1982 and is owned by the Government of India. The bank provides a range of financial products and services, including export credit, to support the export sector."
+    ],
+    "mains": {
+      "q": "Analyze the impact of interest subvention on India's export sector.",
+      "marks": "15 marks · GS3",
+      "directive": "analyze",
+      "hints": [
+        "Introduction (2 marks): Define interest subvention and its importance in the export sector.",
+        "Body - Impact on exporters (3 marks): Discuss how interest subvention affects the cost of borrowing for exporters and its impact on their competitiveness in the global market.",
+        "Body - Economic benefits (3 marks): Explain the economic benefits of interest subvention, including its impact on GDP growth and employment generation.",
+        "Body - Challenges and limitations (3 marks): Analyze the challenges and limitations of the interest subvention scheme, including its impact on the fiscal deficit and the potential for misuse.",
+        "Conclusion (2 marks): Summarize the main points and suggest ways to improve the effectiveness of the interest subvention scheme."
+      ]
+    },
+    "connect": [
+      {
+        "topic": "Foreign Trade Policy",
+        "context": "The interest subvention scheme is a part of the Foreign Trade Policy, which aims to increase India's exports and promote economic growth."
+      },
+      {
+        "topic": "World Trade Organization (WTO)",
+        "context": "The WTO regulates the use of subsidies by member countries, including India's interest subvention scheme."
+      },
+      {
+        "topic": "Make in India initiative",
+        "context": "The interest subvention scheme is a part of the Make in India initiative, which aims to promote manufacturing and exports in India."
+      },
+      {
+        "topic": "Export-Import Bank of India",
+        "context": "The Export-Import Bank of India provides financial support to Indian exporters, including the interest subvention scheme."
+      },
+      {
+        "topic": "Economic development",
+        "context": "The interest subvention scheme is a tool for promoting economic development in India by supporting the export sector."
+      }
+    ],
+    "_hash": "05bb60e76dba",
+    "_fetched": "2026-05-17T22:00:14.164581+00:00",
+    "_relevance": 60,
+    "_gs": [
+      "GS2",
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "analyze",
+    "_mcqs": {
+      "q": "Consider the following statements:\n1. The interest subvention scheme is implemented by the Ministry of Finance.\n2. The scheme is available to all exporters, regardless of the type of goods they export.\n3. The scheme is regulated by the World Trade Organization (WTO).",
+      "options": [
+        "1 only",
+        "1 and 2 only",
+        "2 and 3 only",
+        "1, 2 and 3"
+      ],
+      "correct": 2,
+      "explanation": "Statement 1 is incorrect: The interest subvention scheme is implemented by the Ministry of Commerce and Industry. Statement 2 is incorrect: The scheme is available to exporters of specific goods, such as textiles and handicrafts. Statement 3 is correct: The scheme is regulated by the WTO, which has rules and regulations governing international trade, including subsidies.",
+      "trap": "Wrong Ministry"
+    }
+  },
+  {
+    "id": 1935,
+    "title": "RBI Overseas Investment",
+    "cat": "economy",
+    "upsc": true,
+    "time": "2026-05-17T22:00:30.800989+00:00",
+    "summary": "The Reserve Bank of India has tightened scrutiny of overseas investments by Indian companies, seeking details on the purpose and structure of these foreign ventures. This move is significant for UPSC as it highlights the role of the RBI in regulating foreign exchange and its impact on the Indian economy. It connects to the syllabus area of economic development and foreign exchange management.",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": 27,
+        "label": "Outflow of overseas direct investment (billion USD) in FY26"
+      },
+      {
+        "val": 1934,
+        "label": "Year the Reserve Bank of India Act was passed"
+      },
+      {
+        "val": 1999,
+        "label": "Year the Foreign Exchange Management Act (FEMA) was enacted"
+      }
+    ],
+    "src": "ET Economy",
+    "link": "https://economictimes.indiatimes.com/news/economy/finance/rbi-tightens-scrutiny-of-overseas-investments-as-outflows-surgeto-27-billion-in-fy26/articleshow/131161162.cms",
+    "prelims": [
+      "The <strong>Foreign Exchange Management Act (FEMA), 1999</strong>, regulates foreign exchange transactions in India, including overseas investments. It replaced the Foreign Exchange Regulation Act (FERA), 1973, and is administered by the Reserve Bank of India. FEMA's main objective is to facilitate external trade and payments while maintaining the stability of the foreign exchange market.",
+      "The <strong>Reserve Bank of India (RBI)</strong> was established in 1935 under the Reserve Bank of India Act, 1934. It is the central bank of India and plays a crucial role in regulating the country's monetary policy, foreign exchange, and banking system. The RBI's primary objective is to maintain price stability and ensure economic growth.",
+      "The <strong>Overseas Direct Investment (ODI) policy</strong> in India is governed by the RBI and the Ministry of Commerce and Industry. It allows Indian companies to invest abroad, subject to certain conditions and regulations. The policy aims to promote Indian companies' global presence while ensuring that such investments do not harm the domestic economy.",
+      "The <strong>Liberalized Remittance Scheme (LRS)</strong> was introduced by the RBI in 2004 to facilitate remittances by resident individuals for certain purposes, including overseas investments. The scheme has undergone several changes since its introduction, with the current limit set at $250,000 per financial year. LRS has made it easier for Indians to invest abroad, but it also poses risks to the country's foreign exchange reserves.",
+      "The <strong>External Commercial Borrowings (ECB) framework</strong> in India is regulated by the RBI and allows Indian companies to borrow funds from foreign sources. ECB can be used for various purposes, including overseas investments, and is subject to certain conditions, such as minimum maturity periods and end-use restrictions. The ECB framework aims to provide Indian companies with access to foreign funds while minimizing the risks to the country's external sector."
+    ],
+    "mains": {
+      "q": "Analyze the role of the Reserve Bank of India in regulating overseas investments by Indian companies, and discuss the implications of this regulation on the country's economic development.",
+      "marks": "15 marks · GS3",
+      "directive": "analyze",
+      "hints": [
+        "Introduction (2 marks): Define the role of the RBI in regulating foreign exchange transactions, including overseas investments, and explain the significance of this regulation in the context of India's economic development.",
+        "Body - Regulatory framework (3 marks): Discuss the key features of the Foreign Exchange Management Act (FEMA), 1999, and the Overseas Direct Investment (ODI) policy, including the conditions and regulations governing overseas investments by Indian companies.",
+        "Body - Economic implications (4 marks): Analyze the potential impact of the RBI's regulation on overseas investments on India's economic development, including the effects on foreign exchange reserves, trade balance, and economic growth.",
+        "Body - Challenges and opportunities (3 marks): Examine the challenges faced by Indian companies investing abroad, such as regulatory hurdles and currency risks, and discuss the opportunities presented by overseas investments, including access to new markets and technologies.",
+        "Conclusion (3 marks): Summarize the main points and reiterate the importance of the RBI's regulation in promoting India's economic development while minimizing the risks associated with overseas investments."
+      ]
+    },
+    "connect": [
+      {
+        "topic": "Foreign Exchange Management",
+        "context": "The RBI's regulation of overseas investments is a key aspect of foreign exchange management, which is crucial for maintaining the stability of the foreign exchange market and promoting economic development."
+      },
+      {
+        "topic": "Economic Development",
+        "context": "Overseas investments by Indian companies can contribute to the country's economic development by providing access to new markets, technologies, and resources, but they also pose risks to the domestic economy."
+      },
+      {
+        "topic": "International Trade",
+        "context": "The regulation of overseas investments is closely linked to international trade, as it affects the country's trade balance and foreign exchange reserves, which are critical components of the balance of payments."
+      },
+      {
+        "topic": "Monetary Policy",
+        "context": "The RBI's regulation of overseas investments is an integral part of its monetary policy framework, which aims to maintain price stability and promote economic growth while ensuring the stability of the financial system."
+      },
+      {
+        "topic": "Financial Regulation",
+        "context": "The RBI's regulation of overseas investments is a key aspect of financial regulation, which is essential for maintaining the stability of the financial system and protecting the interests of investors and consumers."
+      }
+    ],
+    "_hash": "638fbe8f5c88",
+    "_fetched": "2026-05-17T22:00:30.800989+00:00",
+    "_relevance": 50,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "analyze",
+    "_mcqs": {
+      "q": "Consider the following statements:\n1. The Reserve Bank of India (RBI) regulates foreign exchange transactions in India, including overseas investments, under the Foreign Exchange Management Act (FEMA), 1999.\n2. The Overseas Direct Investment (ODI) policy allows Indian companies to invest abroad without any restrictions.\n3. The Liberalized Remittance Scheme (LRS) has a limit of $500,000 per financial year for resident individuals.\nWhich of the above is/are correct?",
+      "options": [
+        "1 only",
+        "1 and 2 only",
+        "2 and 3 only",
+        "1, 2 and 3"
+      ],
+      "correct": 0,
+      "explanation": "Statement 1 is correct: The RBI regulates foreign exchange transactions, including overseas investments, under FEMA, 1999. Statement 2 is incorrect: The ODI policy has certain conditions and regulations governing overseas investments. Statement 3 is incorrect: The LRS limit is $250,000 per financial year, not $500,000.",
+      "trap": "Absolute Language"
+    }
   }
 ]
