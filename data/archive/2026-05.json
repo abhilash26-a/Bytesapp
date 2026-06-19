@@ -58108,5 +58108,384 @@
     "_difficulty": 2,
     "_directive": "discuss",
     "_mcqs": []
+  },
+  {
+    "id": 1897,
+    "title": "India's R&D Funding",
+    "cat": "science",
+    "upsc": true,
+    "time": "2026-05-20T20:26:45.547238+00:00",
+    "summary": "India's research and development spending lags behind global leaders due to funding issues and bureaucratic delays. This is significant for UPSC as it affects India's competitiveness and economic development. It connects to the syllabus area of science and technology, and economic development.",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": 1958,
+        "label": "Year the Department of Scientific and Industrial Research was established"
+      },
+      {
+        "val": 2000,
+        "label": "Year the National Innovation Foundation was established"
+      }
+    ],
+    "src": "ET Economy",
+    "link": "https://economictimes.indiatimes.com/news/economy/policy/as-indias-rd-faces-funding-talent-crunch-niti-panel-suggests-50-fixes/articleshow/131234829.cms",
+    "prelims": [
+      "The <strong>National Innovation Foundation (NIF)</strong> was established in 2000 to promote grassroots innovations and outstanding traditional knowledge. Its mandate includes documenting, developing, and disseminating innovations. NIF is an autonomous institution under the Department of Science and Technology.",
+      "The <strong>Science, Technology, and Innovation (STI) Policy 2020</strong> aims to promote a robust STI ecosystem in India, focusing on economic development, social well-being, and environmental sustainability. It emphasizes the need for increased investment in R&D and the development of a skilled workforce.",
+      "The <strong>Department of Scientific and Industrial Research (DSIR)</strong> was established in 1958 to promote the development of scientific and industrial research in India. It provides funding and support for R&D projects, and its activities include the promotion of technology development and its transfer to industries.",
+      "The <strong>Indian National Science Academy (INSA)</strong> was established in 1934 to promote the advancement of science in India. It is a premier scientific organization that provides a platform for scientists to interact and collaborate, and it also provides fellowships and awards to young scientists.",
+      "The <strong>Atal Innovation Mission (AIM)</strong> was established in 2016 to promote a culture of innovation and entrepreneurship in India. It aims to create an ecosystem that fosters innovation, and its initiatives include the establishment of Atal Tinkering Labs and the promotion of start-ups."
+    ],
+    "mains": {
+      "q": "Analyze the challenges faced by India's research and development sector and suggest measures to promote innovation and entrepreneurship.",
+      "marks": "15 marks · GS3",
+      "directive": "analyze",
+      "hints": [
+        "Introduction (2 marks): Define the research and development sector and its significance in India's economic development.",
+        "Body - Challenges (3 marks): Discuss the funding issues, bureaucratic delays, and lack of skilled workforce in the R&D sector.",
+        "Body - Measures (4 marks): Suggest measures to promote innovation and entrepreneurship, such as increasing investment in R&D, promoting start-ups, and developing a skilled workforce.",
+        "Body - Institutional mechanism (3 marks): Analyze the role of institutions such as the National Innovation Foundation, the Department of Scientific and Industrial Research, and the Indian National Science Academy in promoting R&D.",
+        "Conclusion (3 marks): Summarize the challenges and measures to promote innovation and entrepreneurship, and suggest a way forward for India's R&D sector."
+      ]
+    },
+    "connect": [
+      {
+        "topic": "Science, Technology, and Innovation Policy 2020",
+        "context": "The policy aims to promote a robust STI ecosystem in India, which is relevant to the R&D sector."
+      },
+      {
+        "topic": "Atal Innovation Mission",
+        "context": "The mission aims to create an ecosystem that fosters innovation, which is connected to the R&D sector."
+      },
+      {
+        "topic": "National Innovation Foundation",
+        "context": "The foundation promotes grassroots innovations, which is relevant to the R&D sector."
+      },
+      {
+        "topic": "Department of Scientific and Industrial Research",
+        "context": "The department promotes the development of scientific and industrial research in India, which is connected to the R&D sector."
+      },
+      {
+        "topic": "Indian National Science Academy",
+        "context": "The academy promotes the advancement of science in India, which is relevant to the R&D sector."
+      }
+    ],
+    "_hash": "6f3be8e81190",
+    "_fetched": "2026-05-20T20:26:45.547238+00:00",
+    "_relevance": 69,
+    "_gs": [
+      "GS2",
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "analyze",
+    "_mcqs": {
+      "q": "Consider the following statements:\n1. The National Innovation Foundation was established in 2000 to promote grassroots innovations.\n2. The Science, Technology, and Innovation Policy 2020 aims to promote a robust STI ecosystem in India.\n3. The Department of Scientific and Industrial Research was established in 1958 to promote the development of scientific and industrial research in India.\nWhich of the above is/are correct?",
+      "options": [
+        "1 only",
+        "1 and 2 only",
+        "2 and 3 only",
+        "1, 2 and 3"
+      ],
+      "correct": 3,
+      "explanation": "Statement 1 is correct: The National Innovation Foundation was indeed established in 2000. Statement 2 is correct: The Science, Technology, and Innovation Policy 2020 does aim to promote a robust STI ecosystem in India. Statement 3 is correct: The Department of Scientific and Industrial Research was indeed established in 1958.",
+      "trap": "Wrong Ministry"
+    }
+  },
+  {
+    "id": 1898,
+    "title": "Rural Employment Scheme",
+    "cat": "policy",
+    "upsc": true,
+    "time": "2026-05-20T20:27:01.579007+00:00",
+    "summary": "The Ministry of Rural Development is set to issue rules for a new rural employment scheme, with 25 states having allocated funds for the programme. This development is crucial for UPSC aspirants as it relates to government policies and schemes, which are frequently tested in the exam. The scheme's implementation will also have implications for rural development and employment, connecting to GS2 and GS3 syllabus areas.",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": 100,
+        "label": "Minimum days of employment guaranteed under NREGA"
+      },
+      {
+        "val": 25,
+        "label": "Number of states that have allocated funds for the new rural employment scheme"
+      },
+      {
+        "val": 2005,
+        "label": "Year the National Rural Employment Guarantee Act was enacted"
+      }
+    ],
+    "src": "The Hindu",
+    "link": "https://www.thehindu.com/news/national/rules-for-new-rural-employment-scheme-to-be-issued-soon/article71002885.ece",
+    "prelims": [
+      "The <strong>National Rural Employment Guarantee Act (NREGA) 2005</strong> provides a legal guarantee of 100 days of employment to rural laborers, aiming to protect them from poverty and hunger. The Act has undergone several amendments since its inception, with the most recent being the <strong>NREGA Amendment Act 2009</strong>. The scheme has been implemented in all states, with a focus on water conservation, drought proofing, and rural infrastructure development.",
+      "The <strong>Ministry of Rural Development</strong> is responsible for the implementation of various rural development schemes, including the <strong>Pradhan Mantri Awaas Yojana (PMAY)</strong> and the <strong>Deen Dayal Upadhyaya Grameen Kaushalya Yojana (DDU-GKY)</strong>. These schemes aim to improve the quality of life of rural citizens, providing them with access to basic amenities like housing, sanitation, and skill development.",
+      "The <strong>73rd Amendment to the Constitution</strong> gave constitutional status to the <strong>Panchayati Raj Institutions (PRIs)</strong>, enabling them to play a crucial role in rural development. The amendment also provided for the establishment of <strong>Gram Sabhas</strong>, which are responsible for planning and implementing development schemes at the village level.",
+      "The <strong>Rural Development Ministry</strong> has launched several initiatives to promote <strong>rural entrepreneurship</strong> and <strong>skill development</strong>, including the <strong>Rural Self Employment Training Institutes (RSETIs)</strong> and the <strong>National Rural Livelihood Mission (NRLM)</strong>. These initiatives aim to provide rural youth with the necessary skills and training to start their own businesses and improve their livelihoods.",
+      "The <strong>Public Finance Management System (PFMS)</strong> is an electronic platform used by the government to track and manage the flow of funds to various schemes and programs, including rural development schemes. The system aims to improve transparency and accountability in public financial management, reducing the risk of corruption and misutilization of funds."
+    ],
+    "mains": {
+      "q": "Critically examine the role of government schemes in promoting rural employment and development, with a focus on the new rural employment scheme.",
+      "marks": "15 marks · GS3",
+      "directive": "critically_examine",
+      "hints": [
+        "Introduction (2 marks): Define the concept of rural employment and its significance in the Indian context, highlighting the need for government intervention.",
+        "Body - Existing schemes (3 marks): Discuss the key features and implementation of existing rural employment schemes, such as NREGA and PMAY, and their impact on rural development.",
+        "Body - New scheme (3 marks): Analyze the proposed new rural employment scheme, its objectives, and its potential to address the challenges faced by rural laborers, including poverty, hunger, and lack of employment opportunities.",
+        "Body - Institutional mechanism (3 marks): Examine the role of institutions, such as the Ministry of Rural Development and Panchayati Raj Institutions, in implementing rural development schemes and promoting rural employment.",
+        "Conclusion (2 marks): Suggest measures to improve the effectiveness of government schemes in promoting rural employment and development, including the need for better implementation, monitoring, and evaluation."
+      ]
+    },
+    "connect": [
+      {
+        "topic": "Rural Development Schemes",
+        "context": "The new rural employment scheme is part of a broader set of initiatives aimed at promoting rural development and employment, including NREGA and PMAY."
+      },
+      {
+        "topic": "Panchayati Raj Institutions",
+        "context": "The implementation of rural development schemes, including the new rural employment scheme, involves the participation of Panchayati Raj Institutions, which play a crucial role in planning and implementing development schemes at the village level."
+      },
+      {
+        "topic": "Public Finance Management",
+        "context": "The new rural employment scheme will be implemented using the Public Finance Management System, which aims to improve transparency and accountability in public financial management."
+      },
+      {
+        "topic": "Rural Entrepreneurship",
+        "context": "The new rural employment scheme may provide opportunities for rural entrepreneurship and skill development, which are critical for promoting rural employment and development."
+      },
+      {
+        "topic": "Constitutional Provisions for Rural Development",
+        "context": "The 73rd Amendment to the Constitution gave constitutional status to Panchayati Raj Institutions, enabling them to play a crucial role in rural development, including the implementation of the new rural employment scheme."
+      }
+    ],
+    "_hash": "cfe4fda5ce87",
+    "_fetched": "2026-05-20T20:27:01.579007+00:00",
+    "_relevance": 65,
+    "_gs": [
+      "GS2",
+      "GS3"
+    ],
+    "_sourceType": "ministry",
+    "_difficulty": 2,
+    "_directive": "critically_examine",
+    "_mcqs": {
+      "q": "Consider the following statements:\n1. The new rural employment scheme is a centrally sponsored scheme.\n2. The scheme aims to provide employment to rural laborers for a minimum of 100 days.\n3. The scheme is implemented by the Ministry of Rural Development in collaboration with state governments.\nWhich of the above is/are correct?",
+      "options": [
+        "1 only",
+        "1 and 2 only",
+        "2 and 3 only",
+        "1, 2 and 3"
+      ],
+      "correct": 3,
+      "explanation": "Statement 1 is correct: The new rural employment scheme is a centrally sponsored scheme. Statement 2 is incorrect: The scheme aims to provide employment to rural laborers, but the duration of employment is not specified. Statement 3 is correct: The scheme is implemented by the Ministry of Rural Development in collaboration with state governments.",
+      "trap": "Wrong Ministry"
+    }
+  },
+  {
+    "id": 1899,
+    "title": "Gujarat LS Polls",
+    "cat": "india",
+    "upsc": true,
+    "time": "2026-05-20T20:27:17.756588+00:00",
+    "summary": "The upcoming Lok Sabha elections in Gujarat are influenced by various factors including PM Narendra Modi's charisma, anti-incumbency, unemployment, inflation, education, and healthcare challenges. This election is crucial for understanding the dynamics of Indian politics and the role of leadership in shaping electoral outcomes. The outcome of this election will have significant implications for the country's governance and policy-making.",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": 26,
+        "label": "Number of Lok Sabha seats in Gujarat"
+      },
+      {
+        "val": 1952,
+        "label": "Year of the first general elections in India"
+      },
+      {
+        "val": 2005,
+        "label": "Year the Right to Information Act was enacted"
+      }
+    ],
+    "src": "Economic Times",
+    "link": "https://economictimes.indiatimes.com/news/elections/lok-sabha/india/modi-charisma-key-factor-in-bjps-bid-to-retain-all-26-seats-in-gujarat/articleshow/108550858.cms",
+    "prelims": [
+      "The <strong>First Past the Post (FPTP) system</strong> is used in Indian parliamentary elections, where the candidate with the most votes in a constituency wins the seat. This system has been criticized for not accurately representing the will of the people, as a candidate can win with less than 50% of the total votes. The FPTP system has been used in India since the first general elections in 1952.",
+      "The <strong>Model Code of Conduct (MCC)</strong> is a set of guidelines that regulate the behavior of political parties and candidates during elections. The MCC is enforced by the Election Commission of India and aims to ensure a free and fair election process. The MCC has been in place since 1974 and has undergone several revisions to keep pace with changing electoral dynamics.",
+      "The <strong>Right to Information (RTI) Act, 2005</strong>, has been instrumental in promoting transparency and accountability in Indian governance. The RTI Act allows citizens to access information from public authorities, which can help in monitoring the implementation of government schemes and policies. The RTI Act has been used by citizens to uncover corruption and inefficiencies in various government departments.",
+      "The <strong>Representation of the People Act, 1951</strong>, is a key legislation that governs the conduct of elections in India. The Act provides for the qualification and disqualification of candidates, the procedure for voting, and the grounds for election petitions. The Act has undergone several amendments to keep pace with changing electoral dynamics and to ensure the integrity of the electoral process.",
+      "The <strong>Election Commission of India (ECI)</strong> is a constitutional body responsible for conducting free and fair elections in India. The ECI is headed by the Chief Election Commissioner and has a team of commissioners who oversee the electoral process. The ECI has been instrumental in promoting electoral reforms and ensuring the integrity of the electoral process."
+    ],
+    "mains": {
+      "q": "Analyze the impact of leadership on electoral outcomes in India, with special reference to the Lok Sabha elections in Gujarat.",
+      "marks": "15 marks · GS2",
+      "directive": "analyze",
+      "hints": [
+        "Introduction (2 marks): Define the concept of leadership in the context of Indian politics and its significance in shaping electoral outcomes.",
+        "Body - Leadership styles (3 marks): Discuss the different leadership styles of prominent politicians in India, including Narendra Modi, and their impact on electoral outcomes.",
+        "Body - Electoral dynamics (3 marks): Examine the role of leadership in influencing voter behavior and the electoral dynamics in Gujarat, including the impact of charisma, anti-incumbency, and local issues.",
+        "Body - Institutional factors (3 marks): Analyze the role of institutions, such as the Election Commission of India, in ensuring free and fair elections and promoting electoral reforms.",
+        "Conclusion (2 marks): Summarize the importance of leadership in Indian politics and its impact on electoral outcomes, highlighting the need for effective leadership to promote good governance and democratic values."
+      ]
+    },
+    "connect": [
+      {
+        "topic": "Election Commission of India",
+        "context": "The ECI plays a crucial role in ensuring free and fair elections in India, and its independence is essential for promoting democratic values."
+      },
+      {
+        "topic": "Model Code of Conduct",
+        "context": "The MCC is a set of guidelines that regulate the behavior of political parties and candidates during elections, and its enforcement is critical for maintaining the integrity of the electoral process."
+      },
+      {
+        "topic": "Right to Information Act, 2005",
+        "context": "The RTI Act has been instrumental in promoting transparency and accountability in Indian governance, and its provisions can be used to access information about government schemes and policies."
+      },
+      {
+        "topic": "Representation of the People Act, 1951",
+        "context": "The Act provides for the qualification and disqualification of candidates, the procedure for voting, and the grounds for election petitions, making it a critical piece of legislation for understanding Indian electoral dynamics."
+      },
+      {
+        "topic": "First Past the Post system",
+        "context": "The FPTP system has been used in Indian parliamentary elections since 1952, and its implications for electoral outcomes and representation are significant and worthy of analysis."
+      }
+    ],
+    "_hash": "f732e8baca84",
+    "_fetched": "2026-05-20T20:27:17.756588+00:00",
+    "_relevance": 56,
+    "_gs": [
+      "GS1",
+      "GS2",
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "analyze",
+    "_mcqs": {
+      "q": "Consider the following statements:\n1. The Election Commission of India is a constitutional body responsible for conducting free and fair elections in India.\n2. The First Past the Post system is used in Indian parliamentary elections, where the candidate with the most votes in a constituency wins the seat.\n3. The Model Code of Conduct is enforced by the government to regulate the behavior of political parties and candidates during elections.\nWhich of the above is/are correct?",
+      "options": [
+        "1 only",
+        "1 and 2 only",
+        "2 and 3 only",
+        "1, 2 and 3"
+      ],
+      "correct": 1,
+      "explanation": "Statement 1 is correct: The Election Commission of India is a constitutional body responsible for conducting free and fair elections in India. Statement 2 is correct: The First Past the Post system is used in Indian parliamentary elections, where the candidate with the most votes in a constituency wins the seat. Statement 3 is incorrect: The Model Code of Conduct is enforced by the Election Commission of India, not the government.",
+      "trap": "Wrong Ministry"
+    }
+  },
+  {
+    "id": 1900,
+    "title": "CCI Enhances Digital Oversight",
+    "cat": "economy",
+    "upsc": true,
+    "time": "2026-05-20T20:27:34.009766+00:00",
+    "summary": "The Competition Commission of India (CCI) is hiring data scientists and analysts to enhance its capabilities in understanding digital markets and artificial intelligence. This move is significant for UPSC aspirants as it highlights the importance of regulatory bodies in the digital economy. The CCI's oversight is crucial in ensuring fair competition and protecting consumer interests in the digital market, which is a key aspect of the Indian economy.",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": 2003,
+        "label": "Year CCI was established"
+      },
+      {
+        "val": 2002,
+        "label": "Year Competition Act was enacted"
+      },
+      {
+        "val": 15,
+        "label": "% of digital market transactions that are subject to CCI oversight"
+      }
+    ],
+    "src": "ET Economy",
+    "link": "https://economictimes.indiatimes.com/news/economy/policy/competition-commission-of-india-enhances-digital-market-insights-by-hiring-data-scientists-and-analysts/articleshow/131234958.cms",
+    "prelims": [
+      "The <strong>Competition Commission of India (CCI)</strong> was established in 2003 under the Competition Act, 2002, with the primary objective of promoting competition and preventing anti-competitive practices in the Indian market. The CCI has its headquarters in New Delhi and is headed by a Chairperson. It has the power to investigate and impose penalties on companies found guilty of violating competition laws.",
+      "The <strong>Competition Act, 2002</strong> replaced the Monopolistic and Restrictive Trade Practices Act, 1969, and provides a framework for promoting competition and regulating anti-competitive practices in India. The Act defines anti-competitive agreements, abuse of dominant position, and combinations, and provides for penalties for violations. The CCI is responsible for enforcing the provisions of the Act.",
+      "The <strong>digital market</strong> in India has grown significantly in recent years, with the increasing use of digital platforms and e-commerce. The CCI has recognized the need to enhance its capabilities to regulate and oversee the digital market, which is characterized by network effects, high barriers to entry, and significant economies of scale. The CCI's oversight is crucial in ensuring that digital platforms do not engage in anti-competitive practices.",
+      "The <strong>artificial intelligence (AI) tools</strong> used by the CCI will help it to analyze large amounts of data and identify patterns and trends in the digital market. The use of AI tools will enable the CCI to make more informed decisions and take enforcement action against companies that violate competition laws. The CCI's use of AI tools is a significant development in the regulation of the digital market.",
+      "The <strong>automated route</strong> for approvals of non-problematic transactions will help to reduce the regulatory burden on companies and promote ease of doing business in India. The automated route will enable companies to obtain approvals quickly and efficiently, which will help to promote investment and growth in the Indian economy."
+    ],
+    "mains": {
+      "q": "Analyze the role of the Competition Commission of India (CCI) in regulating the digital market in India.",
+      "marks": "15 marks · GS3",
+      "directive": "analyze",
+      "hints": [
+        "Introduction (2 marks): Define the CCI and its role in promoting competition in the Indian market.",
+        "Body - Regulatory framework (3 marks): Discuss the Competition Act, 2002, and its provisions for regulating anti-competitive practices in the digital market.",
+        "Body - Digital market characteristics (3 marks): Explain the characteristics of the digital market, including network effects, high barriers to entry, and significant economies of scale.",
+        "Body - CCI's oversight (3 marks): Analyze the CCI's oversight of the digital market, including its use of AI tools and automated route for approvals.",
+        "Conclusion (2 marks): Discuss the significance of the CCI's role in regulating the digital market and promoting competition in the Indian economy."
+      ]
+    },
+    "connect": [
+      {
+        "topic": "Competition Law and Policy",
+        "context": "The CCI's role in regulating the digital market is a key aspect of competition law and policy in India."
+      },
+      {
+        "topic": "Digital Economy and E-commerce",
+        "context": "The growth of the digital economy and e-commerce in India has created new challenges for regulatory bodies like the CCI."
+      },
+      {
+        "topic": "Artificial Intelligence and Machine Learning",
+        "context": "The use of AI tools by the CCI is a significant development in the regulation of the digital market."
+      },
+      {
+        "topic": "Ease of Doing Business",
+        "context": "The automated route for approvals of non-problematic transactions is a key aspect of promoting ease of doing business in India."
+      },
+      {
+        "topic": "Regulatory Framework for Digital Markets",
+        "context": "The CCI's oversight of the digital market is a key aspect of the regulatory framework for digital markets in India."
+      }
+    ],
+    "_hash": "a18352b87345",
+    "_fetched": "2026-05-20T20:27:34.009766+00:00",
+    "_relevance": 50,
+    "_gs": [
+      "GS2",
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "analyze",
+    "_mcqs": {
+      "q": "Consider the following statements:\n1. The CCI was established in 2003 under the Competition Act, 2002.\n2. The CCI has the power to investigate and impose penalties on companies found guilty of violating competition laws.\n3. The automated route for approvals of non-problematic transactions is available for all types of transactions.\nWhich of the above is/are correct?",
+      "options": [
+        "1 only",
+        "1 and 2 only",
+        "2 and 3 only",
+        "1, 2 and 3"
+      ],
+      "correct": 1,
+      "explanation": "Statement 1 is correct: The CCI was indeed established in 2003 under the Competition Act, 2002. Statement 2 is correct: The CCI has the power to investigate and impose penalties on companies found guilty of violating competition laws. Statement 3 is incorrect: The automated route for approvals of non-problematic transactions is not available for all types of transactions.",
+      "trap": "Absolute Language"
+    }
+  },
+  {
+    "id": 1901,
+    "title": "Twisha Sharma death: NCW seeks action taken report from Madh",
+    "cat": "world",
+    "upsc": false,
+    "time": "2026-05-20T20:29:46.711029+00:00",
+    "summary": "Details sought regarding FIR provisions, status of accused persons’ arrest and interrogation, efforts to arrest absconding husband, passport impoundme",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "The Hindu",
+    "link": "https://www.thehindu.com/news/national/madhya-pradesh/twisha-sharma-death-ncw-seeks-report-details-on-accused-husband/article71001554.ece",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "a55b700e7003",
+    "_fetched": "2026-05-20T20:29:46.711029+00:00",
+    "_relevance": 49,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
   }
 ]
