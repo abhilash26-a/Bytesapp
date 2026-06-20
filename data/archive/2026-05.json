@@ -60450,5 +60450,804 @@
     "_difficulty": 2,
     "_directive": "discuss",
     "_mcqs": []
+  },
+  {
+    "id": 1896,
+    "title": "GST E-Way Bill Update",
+    "cat": "economy",
+    "upsc": true,
+    "time": "2026-05-21T15:43:25.958745+00:00",
+    "summary": "The GST Network has introduced a new feature allowing businesses to digitally record 'goods delivered' on the e-way bill portal, enhancing transaction trails and accountability. This development is significant for UPSC as it reflects the government's efforts to improve tax compliance and reduce evasion, which is a crucial aspect of public finance and governance. It connects to the syllabus area of GS3, specifically economic development and governance.",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": 2017,
+        "label": "Year of GST introduction"
+      },
+      {
+        "val": 50000,
+        "label": "Threshold for e-way bill requirement (Rs)"
+      },
+      {
+        "val": 15,
+        "label": "% of GST revenue collected through e-way bills"
+      }
+    ],
+    "src": "ET Economy",
+    "link": "https://economictimes.indiatimes.com/news/economy/policy/businesses-can-digitally-record-goods-delivered-on-e-way-bill-portal-gstn/articleshow/131246218.cms",
+    "prelims": [
+      "The <strong>Goods and Services Tax (GST)</strong> was introduced in 2017 to replace multiple indirect taxes, aiming to create a unified national market. It has undergone several amendments since its inception, including the introduction of the e-way bill system to track the movement of goods. The GST Council, established under the GST Act, is responsible for making recommendations on GST rates and other related matters.",
+      "The <strong>e-way bill system</strong> is an electronic waybill for the movement of goods, which helps in tracking the consignment and reducing tax evasion. It is mandatory for the transportation of goods worth more than Rs 50,000. The system has been instrumental in improving tax compliance and reducing logistics costs. The e-way bill portal is managed by the GST Network (GSTN), which is a non-profit organization responsible for the development and maintenance of the GST system.",
+      "The <strong>Central Board of Indirect Taxes and Customs (CBIC)</strong> is the apex body responsible for the administration of indirect taxes, including GST. It plays a crucial role in the implementation of GST and is responsible for framing rules and regulations related to GST. The CBIC also provides guidance to taxpayers and addresses their grievances. The CBIC is headed by the Chairman, who is also the Special Secretary to the Government of India.",
+      "The <strong>GST Network (GSTN)</strong> is a non-profit organization responsible for the development and maintenance of the GST system. It provides a platform for taxpayers to file their returns, pay taxes, and claim refunds. The GSTN also provides various services, including registration, return filing, and payment of taxes. The GSTN is managed by a Board of Directors, which includes representatives from the government and the private sector.",
+      "The <strong>digital recording of 'goods delivered'</strong> on the e-way bill portal is a significant development, as it enhances the accuracy of tax compliance and reduces the scope for tax evasion. It also helps in improving the efficiency of the logistics and transportation sector, as it provides real-time tracking of goods. The digital recording system is expected to reduce the compliance burden on taxpayers and improve the overall ease of doing business."
+    ],
+    "mains": {
+      "q": "Analyze the impact of the introduction of the e-way bill system on the logistics and transportation sector in India.",
+      "marks": "15 marks · GS3",
+      "directive": "analyze",
+      "hints": [
+        "Introduction (2 marks): Define the e-way bill system and its objectives, and explain its significance in the context of GST.",
+        "Body - Impact on logistics (3 marks): Discuss the impact of the e-way bill system on the logistics and transportation sector, including the reduction in transit times and the improvement in the efficiency of the supply chain.",
+        "Body - Tax compliance (3 marks): Analyze the impact of the e-way bill system on tax compliance, including the reduction in tax evasion and the improvement in the accuracy of tax returns.",
+        "Body - Challenges (3 marks): Discuss the challenges faced by the logistics and transportation sector in implementing the e-way bill system, including the need for investment in technology and the training of personnel.",
+        "Conclusion (2 marks): Summarize the impact of the e-way bill system on the logistics and transportation sector, and suggest measures to address the challenges faced by the sector."
+      ]
+    },
+    "connect": [
+      {
+        "topic": "GST Council and its Functions",
+        "context": "The GST Council plays a crucial role in the implementation of GST, and its functions include making recommendations on GST rates and other related matters."
+      },
+      {
+        "topic": "E-Way Bill System and its Objectives",
+        "context": "The e-way bill system is an electronic waybill for the movement of goods, which helps in tracking the consignment and reducing tax evasion."
+      },
+      {
+        "topic": "Central Board of Indirect Taxes and Customs (CBIC)",
+        "context": "The CBIC is the apex body responsible for the administration of indirect taxes, including GST, and plays a crucial role in the implementation of GST."
+      },
+      {
+        "topic": "GST Network (GSTN) and its Functions",
+        "context": "The GSTN is a non-profit organization responsible for the development and maintenance of the GST system, and provides a platform for taxpayers to file their returns, pay taxes, and claim refunds."
+      },
+      {
+        "topic": "Digital India Initiative and its Impact on Taxation",
+        "context": "The digital recording of 'goods delivered' on the e-way bill portal is a significant development, as it enhances the accuracy of tax compliance and reduces the scope for tax evasion, and is a part of the Digital India initiative to improve the ease of doing business."
+      }
+    ],
+    "_hash": "e7dcadbcf116",
+    "_fetched": "2026-05-21T15:43:25.958745+00:00",
+    "_relevance": 93,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "analyze",
+    "_mcqs": {
+      "q": "Consider the following statements:\n1. The e-way bill system is mandatory for the transportation of goods worth more than Rs 1 lakh.\n2. The GST Network is responsible for the development and maintenance of the GST system.\n3. The Central Board of Indirect Taxes and Customs is the apex body responsible for the administration of indirect taxes, including GST.\nWhich of the above is/are correct?",
+      "options": [
+        "1 only",
+        "2 and 3 only",
+        "1 and 2 only",
+        "1, 2 and 3"
+      ],
+      "correct": 1,
+      "explanation": "Statement 1 is incorrect: The e-way bill system is mandatory for the transportation of goods worth more than Rs 50,000. Statement 2 is correct: The GST Network is responsible for the development and maintenance of the GST system. Statement 3 is correct: The Central Board of Indirect Taxes and Customs is the apex body responsible for the administration of indirect taxes, including GST.",
+      "trap": "Wrong Threshold"
+    }
+  },
+  {
+    "id": 1897,
+    "title": "Niti Aayog on Skilled Workers",
+    "cat": "economy",
+    "upsc": true,
+    "time": "2026-05-21T15:43:42.119442+00:00",
+    "summary": "Niti Aayog has proposed government action to boost skilled Indian worker mobility abroad. This move is significant for UPSC as it relates to India's economic development and international relations. It connects to the syllabus area of GS2 (governance and international relations) and GS3 (economy).",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": 50,
+        "label": "Percentage of India's population under the age of 25"
+      },
+      {
+        "val": 500,
+        "label": "Million skilled workforce to be created by 2022"
+      },
+      {
+        "val": 2009,
+        "label": "Year the National Skill Development Corporation (NSDC) was established"
+      }
+    ],
+    "src": "ET Economy",
+    "link": "https://economictimes.indiatimes.com/news/economy/policy/standardise-documentation-for-advancing-international-mobility-of-skilled-workers-niti/articleshow/131248797.cms",
+    "prelims": [
+      "The <strong>National Skill Development Corporation (NSDC)</strong> was established in 2009 to promote skill development and enhance employability. It has a mandate to create a skilled workforce of 500 million by 2022. The NSDC is governed by a board of directors, which includes representatives from the government, industry, and civil society.",
+      "The <strong>Ministry of Skill Development and Entrepreneurship</strong> was created in 2014 to coordinate and implement skill development programs across the country. It has launched several initiatives, including the Pradhan Mantri Kaushal Vikas Yojana (PMKVY), to promote skill development and entrepreneurship. The ministry works closely with state governments, industry, and training providers to achieve its objectives.",
+      "India has a large <strong>demographic dividend</strong>, with over 50% of its population under the age of 25. This demographic advantage can be leveraged to drive economic growth and development, provided that the workforce is equipped with the necessary skills and training. The government has launched several initiatives to tap into this demographic dividend, including the Skill India mission.",
+      "The <strong>General Agreement on Trade in Services (GATS)</strong> is an international agreement that aims to liberalize trade in services, including the movement of natural persons. India has committed to GATS Mode 4, which allows for the temporary movement of natural persons to provide services. This commitment has implications for the movement of skilled Indian workers abroad.",
+      "The <strong>International Labour Organization (ILO)</strong> is a specialized agency of the United Nations that promotes social and economic justice by setting international labor standards. The ILO has several conventions and recommendations that relate to the movement of workers, including the Migration for Employment Convention, 1949. India is a member of the ILO and has ratified several of its conventions."
+    ],
+    "mains": {
+      "q": "Analyze the implications of the Niti Aayog's proposal to boost skilled Indian worker mobility abroad on India's economic development and international relations.",
+      "marks": "15 marks · GS3",
+      "directive": "analyze",
+      "hints": [
+        "Introduction (2 marks): Define the concept of skilled worker mobility and its significance in the context of India's economic development.",
+        "Body - Economic implications (4 marks): Discuss the potential economic benefits of increased skilled worker mobility, including the potential for increased remittances and the development of a skilled workforce.",
+        "Body - International relations (4 marks): Examine the implications of the proposal on India's international relations, including the potential for increased cooperation with other countries and the promotion of India's soft power.",
+        "Body - Challenges and limitations (3 marks): Discuss the challenges and limitations of implementing the proposal, including the potential for brain drain and the need for effective regulation and monitoring.",
+        "Conclusion (2 marks): Summarize the main points and argue that the proposal has the potential to contribute to India's economic development and international relations, provided that it is implemented effectively and with careful consideration of the potential challenges and limitations."
+      ]
+    },
+    "connect": [
+      {
+        "topic": "General Agreement on Trade in Services (GATS)",
+        "context": "The proposal is in line with India's commitment to GATS Mode 4, which allows for the temporary movement of natural persons to provide services."
+      },
+      {
+        "topic": "International Labour Organization (ILO)",
+        "context": "The ILO has several conventions and recommendations that relate to the movement of workers, including the Migration for Employment Convention, 1949."
+      },
+      {
+        "topic": "National Skill Development Corporation (NSDC)",
+        "context": "The NSDC was established in 2009 to promote skill development and enhance employability."
+      },
+      {
+        "topic": "Ministry of Skill Development and Entrepreneurship",
+        "context": "The ministry was created in 2014 to coordinate and implement skill development programs across the country."
+      },
+      {
+        "topic": "Demographic Dividend",
+        "context": "India has a large demographic dividend, with over 50% of its population under the age of 25, which can be leveraged to drive economic growth and development."
+      }
+    ],
+    "_hash": "1d39786de2e9",
+    "_fetched": "2026-05-21T15:43:42.119442+00:00",
+    "_relevance": 79,
+    "_gs": [
+      "GS2",
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "analyze",
+    "_mcqs": {
+      "q": "Consider the following statements:\n1. The Niti Aayog's proposal to boost skilled Indian worker mobility abroad is aimed at promoting India's economic development.\n2. The proposal is in line with India's commitment to the General Agreement on Trade in Services (GATS) Mode 4.\n3. The International Labour Organization (ILO) has several conventions and recommendations that relate to the movement of workers, including the Migration for Employment Convention, 1949.\nWhich of the above is/are correct?",
+      "options": [
+        "1 only",
+        "1 and 2 only",
+        "2 and 3 only",
+        "1, 2 and 3"
+      ],
+      "correct": 3,
+      "explanation": "Statement 1 is correct: The Niti Aayog's proposal is aimed at promoting India's economic development by increasing the mobility of skilled Indian workers abroad. Statement 2 is correct: The proposal is in line with India's commitment to GATS Mode 4, which allows for the temporary movement of natural persons to provide services. Statement 3 is correct: The ILO has several conventions and recommendations that relate to the movement of workers, including the Migration for Employment Convention, 1949.",
+      "trap": "Wrong Ministry"
+    }
+  },
+  {
+    "id": 1898,
+    "title": "SMC Guidelines",
+    "cat": "policy",
+    "upsc": true,
+    "time": "2026-05-21T15:43:58.286071+00:00",
+    "summary": "The Union Ministry has clarified that SMC guidelines are not applicable to unaided schools that do not receive government grants. This clarification is significant for UPSC as it highlights the nuances of educational policy and governance. The issue connects to the broader theme of school management and accountability, which is a crucial aspect of the Indian education system.",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": 2009,
+        "label": "Year the Right to Education (RTE) Act was enacted"
+      },
+      {
+        "val": 20,
+        "label": "Number of thousands of schools affiliated with the Central Board of Secondary Education (CBSE)"
+      },
+      {
+        "val": 6,
+        "label": "Age at which the right to education begins, as per Article 21A of the Constitution"
+      }
+    ],
+    "src": "The Hindu",
+    "link": "https://www.thehindu.com/news/national/kerala/smc-guidelines-not-applicable-to-unaided-schools-says-national-council-of-cbse-schools/article71006859.ece",
+    "prelims": [
+      "The <strong>National Council of CBSE Schools</strong> plays a crucial role in promoting transparency and accountability in school management. It was established to oversee the functioning of CBSE schools and ensure that they adhere to the guidelines set by the Central Board of Secondary Education. The Council's efforts have led to improved academic standards and better infrastructure in many schools.",
+      "The <strong>Right to Education (RTE) Act, 2009</strong>, mandates the formation of School Management Committees (SMCs) in all schools, including unaided ones. However, the Act also provides exemptions for certain categories of schools, which has led to confusion and controversy. The RTE Act aims to ensure that all children have access to quality education, regardless of their socio-economic background.",
+      "The <strong>Central Board of Secondary Education (CBSE)</strong> is one of the largest school boards in India, with over 20,000 affiliated schools. The CBSE has introduced various initiatives to improve the quality of education, including the implementation of the Continuous and Comprehensive Evaluation (CCE) system. The CCE system aims to reduce the burden of exams on students and promote a more holistic approach to learning.",
+      "The <strong>School Management Committee (SMC)</strong> is a critical component of school governance, responsible for overseeing the management of the school and ensuring that it functions effectively. The SMC typically consists of parents, teachers, and community members, who work together to make decisions about the school's budget, curriculum, and infrastructure. The SMC's role is to promote transparency and accountability in school management.",
+      "The <strong>Constitution of India</strong> guarantees the right to education as a fundamental right, under Article 21A. The Article states that every child between the ages of 6 and 14 has the right to free and compulsory education. The Constitution also emphasizes the importance of education in promoting social and economic development, and in fostering a sense of national unity and integration."
+    ],
+    "mains": {
+      "q": "Analyze the role of School Management Committees (SMCs) in promoting transparency and accountability in school governance.",
+      "marks": "15 marks · GS2",
+      "directive": "analyze",
+      "hints": [
+        "Introduction (2 marks): Define the concept of School Management Committees and their significance in school governance.",
+        "Body - Composition and Functions (3 marks): Discuss the composition and functions of SMCs, including their role in overseeing school management and ensuring transparency and accountability.",
+        "Body - Challenges and Limitations (3 marks): Examine the challenges and limitations faced by SMCs, including issues related to funding, infrastructure, and human resources.",
+        "Body - Best Practices (3 marks): Discuss best practices in SMC management, including examples of successful SMCs and their impact on school governance.",
+        "Conclusion (2 marks): Summarize the importance of SMCs in promoting transparency and accountability in school governance, and suggest ways to strengthen their effectiveness."
+      ]
+    },
+    "connect": [
+      {
+        "topic": "School Management and Governance",
+        "context": "The formation of SMCs is a critical aspect of school governance, and their effectiveness is crucial for promoting transparency and accountability."
+      },
+      {
+        "topic": "Right to Education (RTE) Act, 2009",
+        "context": "The RTE Act guarantees the right to education as a fundamental right, and its implementation is critical for promoting social and economic development."
+      },
+      {
+        "topic": "Central Board of Secondary Education (CBSE)",
+        "context": "The CBSE is one of the largest school boards in India, and its initiatives, such as the CCE system, aim to improve the quality of education."
+      },
+      {
+        "topic": "Constitutional Provisions for Education",
+        "context": "Article 21A of the Constitution guarantees the right to education, and its implementation is critical for promoting social and economic development."
+      },
+      {
+        "topic": "Education Policy and Governance",
+        "context": "The effectiveness of SMCs is critical for promoting transparency and accountability in school governance, and their role is closely linked to the broader theme of education policy and governance."
+      }
+    ],
+    "_hash": "8c88c88edcd7",
+    "_fetched": "2026-05-21T15:43:58.286071+00:00",
+    "_relevance": 54,
+    "_gs": [
+      "GS2"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "analyze",
+    "_mcqs": {
+      "q": "Consider the following statements:\n1. The Right to Education (RTE) Act, 2009, mandates the formation of School Management Committees (SMCs) in all schools, including unaided ones.\n2. The Central Board of Secondary Education (CBSE) has introduced the Continuous and Comprehensive Evaluation (CCE) system to reduce the burden of exams on students.\n3. The School Management Committee (SMC) is responsible for overseeing the management of the school and ensuring that it functions effectively.\nWhich of the above is/are correct?",
+      "options": [
+        "1 only",
+        "1 and 2 only",
+        "2 and 3 only",
+        "1, 2 and 3"
+      ],
+      "correct": 3,
+      "explanation": "Statement 1 is correct: The RTE Act does mandate the formation of SMCs in all schools. Statement 2 is correct: The CBSE has introduced the CCE system. Statement 3 is correct: The SMC is responsible for overseeing school management.",
+      "trap": "Absolute Language"
+    }
+  },
+  {
+    "id": 1899,
+    "title": "ECI SIR Phase 3",
+    "cat": "policy",
+    "upsc": true,
+    "time": "2026-05-21T15:44:14.813487+00:00",
+    "summary": "The Election Commission of India has announced the dates for Special Intensive Revision of electoral rolls across 16 states and three Union Territories. This revision is crucial for UPSC as it relates to the functioning of the Election Commission and the electoral process in India. The revision of electoral rolls is a key aspect of ensuring the integrity of the electoral process, which is a fundamental aspect of Indian democracy.",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": 1950,
+        "label": "Year the Election Commission of India was established"
+      },
+      {
+        "val": 324,
+        "label": "Article of the Constitution of India that establishes the Election Commission of India"
+      },
+      {
+        "val": 16,
+        "label": "Number of states where the Special Intensive Revision of electoral rolls is being conducted"
+      }
+    ],
+    "src": "LiveMint",
+    "link": "https://www.livemint.com/news/india/eci-announces-sir-phase-3-schedule-for-16-states-and-three-union-territories-check-all-dates-here-11779359090081.html",
+    "prelims": [
+      "The <strong>Election Commission of India (ECI)</strong> was established in 1950 under Article 324 of the Constitution of India, which gives it the responsibility of conducting free and fair elections in the country. The ECI is headed by the Chief Election Commissioner and has two Election Commissioners, and it operates under the principle of independence and impartiality. The ECI's main functions include delimitation of constituencies, preparation of electoral rolls, and the conduct of elections to the Parliament and state legislatures.",
+      "The <strong>Special Intensive Revision (SIR) of electoral rolls</strong> is a process undertaken by the Election Commission of India to update and correct the electoral rolls, which is essential for ensuring that all eligible citizens are able to exercise their right to vote. The SIR process involves a door-to-door survey to identify new voters, deletion of names of deceased voters, and correction of errors in the electoral rolls. The SIR process is usually conducted every year, but its frequency and scope can vary depending on the needs of the electoral process.",
+      "The <strong>Electoral Roll</strong> is a list of all eligible voters in a particular constituency, and it is prepared and updated by the Election Commission of India. The electoral roll contains the names and addresses of all eligible voters, and it is used to verify the identity of voters at the time of polling. The electoral roll is a critical component of the electoral process, as it ensures that only eligible citizens are able to cast their votes. The Election Commission of India uses a variety of methods to prepare and update the electoral roll, including door-to-door surveys and online registration.",
+      "The <strong>Model Code of Conduct (MCC)</strong> is a set of guidelines that regulate the behavior of political parties and candidates during elections, and it is enforced by the Election Commission of India. The MCC prohibits political parties and candidates from engaging in certain activities, such as the use of government resources for campaign purposes, the distribution of gifts or money to voters, and the use of hate speech or inflammatory language. The MCC is intended to ensure that elections are conducted in a fair and transparent manner, and that all candidates have an equal opportunity to compete.",
+      "The <strong>Right to Vote</strong> is a fundamental right guaranteed by the Constitution of India, and it is essential for the functioning of a democratic system of government. The right to vote gives citizens the opportunity to participate in the electoral process and to choose their representatives, and it is a critical component of democratic accountability. The Election Commission of India is responsible for ensuring that all eligible citizens are able to exercise their right to vote, and it takes a variety of measures to protect and promote this right, including the preparation of electoral rolls and the conduct of free and fair elections."
+    ],
+    "mains": {
+      "q": "Analyze the role of the Election Commission of India in ensuring the integrity of the electoral process in India.",
+      "marks": "15 marks · GS2",
+      "directive": "analyze",
+      "hints": [
+        "Introduction (2 marks): Define the Election Commission of India and its role in the electoral process, and explain the importance of ensuring the integrity of the electoral process.",
+        "Body - Electoral Roll (3 marks): Discuss the process of preparation and revision of electoral rolls, and explain the measures taken by the Election Commission of India to ensure the accuracy and completeness of the electoral roll.",
+        "Body - Model Code of Conduct (3 marks): Explain the provisions of the Model Code of Conduct and its enforcement by the Election Commission of India, and discuss the impact of the MCC on the electoral process.",
+        "Body - Voter Education (3 marks): Discuss the measures taken by the Election Commission of India to educate voters about the electoral process and their rights and responsibilities, and explain the importance of voter education in ensuring the integrity of the electoral process.",
+        "Conclusion (2 marks): Summarize the role of the Election Commission of India in ensuring the integrity of the electoral process, and suggest measures to further strengthen the electoral system in India."
+      ]
+    },
+    "connect": [
+      {
+        "topic": "Article 324 of the Constitution of India",
+        "context": "The Election Commission of India was established under this article, which gives it the responsibility of conducting free and fair elections in the country."
+      },
+      {
+        "topic": "Model Code of Conduct",
+        "context": "The Model Code of Conduct is a set of guidelines that regulate the behavior of political parties and candidates during elections, and it is enforced by the Election Commission of India."
+      },
+      {
+        "topic": "Electoral Roll",
+        "context": "The electoral roll is a list of all eligible voters in a particular constituency, and it is prepared and updated by the Election Commission of India."
+      },
+      {
+        "topic": "Right to Vote",
+        "context": "The right to vote is a fundamental right guaranteed by the Constitution of India, and it is essential for the functioning of a democratic system of government."
+      },
+      {
+        "topic": "Election Commission of India",
+        "context": "The Election Commission of India is responsible for ensuring the integrity of the electoral process, and it takes a variety of measures to protect and promote the right to vote."
+      }
+    ],
+    "_hash": "6f91a4f45cbd",
+    "_fetched": "2026-05-21T15:44:14.813487+00:00",
+    "_relevance": 48,
+    "_gs": [
+      "GS2"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 1,
+    "_directive": "analyze",
+    "_mcqs": {
+      "q": "Consider the following statements:\n1. The Election Commission of India was established in 1950 under Article 324 of the Constitution of India.\n2. The Special Intensive Revision of electoral rolls is conducted every five years.\n3. The Model Code of Conduct is enforced by the Election Commission of India during elections.\nWhich of the above is/are correct?",
+      "options": [
+        "1 only",
+        "1 and 3 only",
+        "2 and 3 only",
+        "1, 2 and 3"
+      ],
+      "correct": 1,
+      "explanation": "Statement 1 is correct: The Election Commission of India was indeed established in 1950 under Article 324 of the Constitution of India. Statement 2 is incorrect: The Special Intensive Revision of electoral rolls is usually conducted every year, but its frequency and scope can vary depending on the needs of the electoral process. Statement 3 is correct: The Model Code of Conduct is indeed enforced by the Election Commission of India during elections.",
+      "trap": "Timeline Confusion"
+    }
+  },
+  {
+    "id": 1900,
+    "title": "Unincorporated establishments surge to over 9 cr; jobs hit 1",
+    "cat": "economy",
+    "upsc": false,
+    "time": "2026-05-21T15:46:27.265882+00:00",
+    "summary": "India's unincorporated non-agricultural sector shows remarkable growth. Over 9 crore establishments now operate, employing more than 15 crore people. ",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "ET Economy",
+    "link": "https://economictimes.indiatimes.com/news/economy/indicators/unincorporated-non-agricultural-sector-in-india-surges-over-9-crore-establishments-and-15-crore-jobs-created-in-2026/articleshow/131247609.cms",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "be593e40d8df",
+    "_fetched": "2026-05-21T15:46:27.265882+00:00",
+    "_relevance": 48,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 1901,
+    "title": "Let the rupee depreciate past ₹100 to a dollar, 16th Finance",
+    "cat": "economy",
+    "upsc": false,
+    "time": "2026-05-21T15:48:39.773649+00:00",
+    "summary": "In a thread on X, Arvind Panagariya said that whether the current oil shortage is short-term or long-lasting, the central bank should not fear the ₹10",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "The Hindu Business",
+    "link": "https://www.thehindu.com/business/Economy/let-the-rupee-depreciate-past-100-to-a-dollar-16th-finance-commission-chairman-advises-rbi/article71007285.ece",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "b1c33053c555",
+    "_fetched": "2026-05-21T15:48:39.773649+00:00",
+    "_relevance": 45,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 1902,
+    "title": "RBI rate hikes to start in June, says Standard Chartered",
+    "cat": "economy",
+    "upsc": false,
+    "time": "2026-05-21T15:50:52.259885+00:00",
+    "summary": "RBI rate hike: Economists at Standard Chartered anticipate India's central bank will begin raising interest rates as early as June due to escalating i",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "ET Economy",
+    "link": "https://economictimes.indiatimes.com/news/economy/policy/rbi-rate-hikes-to-start-in-june-says-standard-chartered/articleshow/131243980.cms",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "d2d8de9cba3f",
+    "_fetched": "2026-05-21T15:50:52.259885+00:00",
+    "_relevance": 45,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 1903,
+    "title": "Centre monitoring rupee, no curbs on non-essential imports: ",
+    "cat": "economy",
+    "upsc": false,
+    "time": "2026-05-21T15:53:04.860161+00:00",
+    "summary": "Many Indians are responding positively to Prime Minister Narendra Modi’s call to support domestic manufacturing and reduce reliance on imported goods,",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "LiveMint",
+    "link": "https://www.livemint.com/news/india/rupee-dollar-crude-prices-non-essential-imports-piyush-goyal-west-asia-crisis-11779363444939.html",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "885967167510",
+    "_fetched": "2026-05-21T15:53:04.860161+00:00",
+    "_relevance": 37,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 1904,
+    "title": "India-US partnership expanding across tech, defence and supp",
+    "cat": "economy",
+    "upsc": false,
+    "time": "2026-05-21T15:55:17.314809+00:00",
+    "summary": "Commerce minister Goyal pitched India as America’s trusted economic partner as companies expand investments across digital infrastructure, technology ",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "LiveMint",
+    "link": "https://www.livemint.com/news/india/piyush-goyal-us-firms-commit-60-billion-investment-india-six-months-11779355774423.html",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "db359bc62ba4",
+    "_fetched": "2026-05-21T15:55:17.314809+00:00",
+    "_relevance": 37,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 1905,
+    "title": "Mahila Congress seeks fresh probe into Hathras case, cites r",
+    "cat": "india",
+    "upsc": false,
+    "time": "2026-05-21T15:57:29.715624+00:00",
+    "summary": "All India Mahila Congress president Alka Lamba claims the documentary raised ‘serious and disturbing questions’ over the conduct of the police, Hathra",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "The Hindu",
+    "link": "https://www.thehindu.com/news/national/mahila-congress-seeks-fresh-probe-into-hathras-case-cites-revelations-in-new-documentary/article71006915.ece",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "6c89ad72c72f",
+    "_fetched": "2026-05-21T15:57:29.715624+00:00",
+    "_relevance": 36,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 1906,
+    "title": "Rebate for converting B-Khata to A-Khata hits corporation bu",
+    "cat": "economy",
+    "upsc": false,
+    "time": "2026-05-21T15:59:42.161964+00:00",
+    "summary": "Previously, the fee was set at 5% of the guidance value of the plot to be regularised, but it has now been reduced to 2% for a 100-day window due to a",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "The Hindu",
+    "link": "https://www.thehindu.com/news/national/karnataka/rebate-for-converting-b-khata-to-a-khata-hits-corporation-budgets/article71006288.ece",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "7eaf569e6d94",
+    "_fetched": "2026-05-21T15:59:42.161964+00:00",
+    "_relevance": 36,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "budget",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 1907,
+    "title": "\"Confident\" US-India trade deal will be finalised in \"coming",
+    "cat": "world",
+    "upsc": false,
+    "time": "2026-05-21T16:01:54.664306+00:00",
+    "summary": "A pivotal trade agreement between India and the United States is soon to be concluded, promising a new chapter in their bilateral relations. US Ambass",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "ET Economy",
+    "link": "https://economictimes.indiatimes.com/news/economy/foreign-trade/confident-us-india-trade-deal-will-be-finalised-in-coming-weeks-ambassador-gor/articleshow/131246999.cms",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "1c365a23ef21",
+    "_fetched": "2026-05-21T16:01:54.664306+00:00",
+    "_relevance": 36,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 1908,
+    "title": "Explained | West Bengal cattle slaughter ban controversy; ho",
+    "cat": "economy",
+    "upsc": false,
+    "time": "2026-05-21T16:04:07.140819+00:00",
+    "summary": "The BJP government in West Bengal has enforced a law banning the slaughter of animals under 14 years without a vet's certificate. This has disrupted c",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "LiveMint",
+    "link": "https://www.livemint.com/news/india/explained-west-bengal-cattle-slaughter-ban-controversy-how-new-rules-have-hit-eid-cattle-trade-across-state-11779371959016.html",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "4f35c9c00300",
+    "_fetched": "2026-05-21T16:04:07.140819+00:00",
+    "_relevance": 35,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 1909,
+    "title": "Uganda Urges US to Rethink Funding Cuts as It Battles Ebola",
+    "cat": "world",
+    "upsc": false,
+    "time": "2026-05-21T16:06:19.598432+00:00",
+    "summary": "Uganda urged the US and other partners to reverse deep cuts to global health funding, warning the pullback may hamper efforts to contain imported Ebol",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "LiveMint",
+    "link": "https://www.livemint.com/news/world/uganda-urges-us-to-rethink-funding-cuts-as-it-battles-ebola-11779370979402.html",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "f02236bd6ae1",
+    "_fetched": "2026-05-21T16:06:19.598432+00:00",
+    "_relevance": 35,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 1910,
+    "title": "IUML to join TVK-led Cabinet in Tamil Nadu",
+    "cat": "economy",
+    "upsc": false,
+    "time": "2026-05-21T16:08:32.032529+00:00",
+    "summary": "The party’s decision to join the TVK-led government signals the end of its longstanding alliance with the DMK",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "The Hindu",
+    "link": "https://www.thehindu.com/news/national/tamil-nadu/iuml-to-join-tn-cm-vijays-cabinet-am-shahjahan-to-represent-party/article71006250.ece",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "1391f3fc4574",
+    "_fetched": "2026-05-21T16:08:32.032529+00:00",
+    "_relevance": 33,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 1911,
+    "title": "US firms commit over USD 60 bn investment in last 6 months: ",
+    "cat": "economy",
+    "upsc": false,
+    "time": "2026-05-21T16:10:44.519937+00:00",
+    "summary": "American investments in India have surpassed sixty billion dollars, highlighted by ambitious data centre undertakings from Amazon and Google. India st",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "ET Economy",
+    "link": "https://economictimes.indiatimes.com/news/economy/foreign-trade/us-firms-commit-over-usd-60-bn-investment-in-last-6-months-piyush-goyal/articleshow/131246441.cms",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "7fc90d80abc8",
+    "_fetched": "2026-05-21T16:10:44.519937+00:00",
+    "_relevance": 33,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 1912,
+    "title": "PFRDA sets up panel to look at adding more asset classes for",
+    "cat": "economy",
+    "upsc": false,
+    "time": "2026-05-21T16:12:57.312846+00:00",
+    "summary": "PFRDA is exploring new asset classes to boost long-term, stable returns for National Pension System subscribers, aiming to avoid market volatility. Th",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "ET Economy",
+    "link": "https://economictimes.indiatimes.com/news/economy/policy/pfrda-sets-up-panel-to-look-at-induction-of-more-asset-classes-for-better-returns/articleshow/131245501.cms",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "4dda00a9e995",
+    "_fetched": "2026-05-21T16:12:57.312846+00:00",
+    "_relevance": 33,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 1913,
+    "title": "You can now profit from Mumbai rains! Check NCDEX's weather ",
+    "cat": "tech",
+    "upsc": false,
+    "time": "2026-05-21T16:15:09.949508+00:00",
+    "summary": "NCDEX has launched India’s first exchange-traded weather derivative contract, RAINMUMBAI, allowing traders and businesses to hedge against rainfall va",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "Economic Times",
+    "link": "https://economictimes.indiatimes.com/markets/stocks/news/forget-stocks-you-can-now-profit-from-mumbai-rains-heres-how-ncdexs-unique-weather-futures-work/articleshow/131244073.cms",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "1a0bee912afe",
+    "_fetched": "2026-05-21T16:15:09.949508+00:00",
+    "_relevance": 32,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 1914,
+    "title": "India’s unincorporated businesses rise to 9.2 crores in Q4FY",
+    "cat": "tech",
+    "upsc": false,
+    "time": "2026-05-21T16:17:22.383689+00:00",
+    "summary": "India's small businesses are booming. The number of unincorporated establishments grew by 16.7% to 9.2 crore in the January-March quarter. Rural areas",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "ET Economy",
+    "link": "https://economictimes.indiatimes.com/news/economy/indicators/indias-unincorporated-businesses-rise-to-9-2-crores-in-q4fy26/articleshow/131248449.cms",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "0bde18f713ac",
+    "_fetched": "2026-05-21T16:17:22.383689+00:00",
+    "_relevance": 31,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
   }
 ]
