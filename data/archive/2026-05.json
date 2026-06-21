@@ -63147,5 +63147,804 @@
     "_difficulty": 2,
     "_directive": "discuss",
     "_mcqs": []
+  },
+  {
+    "id": 1891,
+    "title": "India's Economy",
+    "cat": "economy",
+    "upsc": true,
+    "time": "2026-05-22T14:53:21.425529+00:00",
+    "summary": "India's economy faces near-term challenges due to supply issues and weather uncertainties. This is significant for UPSC as it impacts India's economic development and growth, which is a key aspect of GS3. The Reserve Bank of India's role in managing these challenges is crucial, connecting to monetary policy and economic governance.",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": 1935,
+        "label": "Year the Reserve Bank of India was established"
+      },
+      {
+        "val": 2016,
+        "label": "Year the Monetary Policy Committee was established"
+      },
+      {
+        "val": 1951,
+        "label": "Year the First Five-Year Plan was launched"
+      }
+    ],
+    "src": "ET Economy",
+    "link": "https://economictimes.indiatimes.com/news/economy/indicators/indias-near-term-outlook-clouded-by-supply-risks-weather-uncertainties-rbi-report/articleshow/131264786.cms",
+    "prelims": [
+      "The <strong>Reserve Bank of India (RBI)</strong> was established in 1935 under the Reserve Bank of India Act, 1934, with its headquarters in Mumbai. It is responsible for regulating the monetary policy of the Indian rupee and is a key institution in India's economic system. The RBI plays a crucial role in maintaining financial stability and promoting economic growth.",
+      "The <strong>Monetary Policy Committee (MPC)</strong> is a committee of the RBI that decides on the monetary policy of India, including setting interest rates and regulating money supply. It was established in 2016 under the Reserve Bank of India Act, 1934, and consists of six members, including the Governor of the RBI. The MPC's decisions have a significant impact on India's economy and are closely watched by policymakers and economists.",
+      "The <strong>Indian economy</strong> is a mixed economy, with both public and private sectors playing important roles. The public sector includes key industries such as banking, telecommunications, and energy, while the private sector drives growth in areas like IT, pharmaceuticals, and manufacturing. Understanding the interplay between these sectors is essential for analyzing India's economic development.",
+      "The <strong>Five-Year Plans</strong> were a series of planned economic development initiatives implemented by the Government of India from 1951 to 2017. These plans aimed to promote rapid economic growth and industrialization, with a focus on key sectors like agriculture, infrastructure, and social welfare. Although the planning process has been replaced by the NITI Aayog, the legacy of the Five-Year Plans continues to shape India's economic policies.",
+      "The <strong>National Financial Reporting Authority (NFRA)</strong> is an independent regulatory body established in 2018 to oversee the accounting and auditing standards in India. It is responsible for ensuring the quality of financial reporting by companies and promoting transparency and accountability in the corporate sector. NFRA's role is critical in maintaining investor confidence and promoting economic stability."
+    ],
+    "mains": {
+      "q": "Analyze the impact of supply chain disruptions and weather uncertainties on India's economic growth, with a focus on the role of the Reserve Bank of India in mitigating these challenges.",
+      "marks": "15 marks · GS3",
+      "directive": "analyze",
+      "hints": [
+        "Introduction (2 marks): Define the key terms related to supply chain disruptions and weather uncertainties, and explain their potential impact on economic growth.",
+        "Body - Supply chain disruptions (3 marks): Discuss the causes and effects of supply chain disruptions in India, including the role of global events, infrastructure constraints, and policy responses.",
+        "Body - Weather uncertainties (3 marks): Examine the impact of weather-related events on India's agriculture sector, including the effects on crop yields, food prices, and rural livelihoods.",
+        "Body - RBI's role (3 marks): Analyze the monetary policy tools available to the RBI to address supply chain disruptions and weather uncertainties, including interest rates, liquidity measures, and forward guidance.",
+        "Conclusion (2 marks): Summarize the main points and suggest policy recommendations for the RBI and the government to mitigate the impact of supply chain disruptions and weather uncertainties on India's economic growth."
+      ]
+    },
+    "connect": [
+      {
+        "topic": "Monetary Policy and its Instruments",
+        "context": "The RBI's role in managing supply chain disruptions and weather uncertainties is closely related to its monetary policy decisions, including setting interest rates and regulating money supply."
+      },
+      {
+        "topic": "Fiscal Policy and its Impact on Economy",
+        "context": "Understanding the distinction between monetary and fiscal policy is crucial for analyzing the government's response to economic challenges, including supply chain disruptions and weather uncertainties."
+      },
+      {
+        "topic": "Indian Economic Planning and Five-Year Plans",
+        "context": "The legacy of the Five-Year Plans continues to influence India's economic development, including the emphasis on key sectors like agriculture, infrastructure, and social welfare."
+      },
+      {
+        "topic": "Global Economic Trends and their Impact on India",
+        "context": "India's economy is increasingly integrated into the global economy, making it vulnerable to global events and trends, including supply chain disruptions and weather uncertainties."
+      },
+      {
+        "topic": "Environmental Economics and Sustainable Development",
+        "context": "The impact of weather uncertainties on India's agriculture sector highlights the need for sustainable development and environmental protection, including climate change mitigation and adaptation strategies."
+      }
+    ],
+    "_hash": "2f341ac7e23d",
+    "_fetched": "2026-05-22T14:53:21.425529+00:00",
+    "_relevance": 100,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "analyze",
+    "_mcqs": {
+      "q": "Consider the following statements:\n1. The Reserve Bank of India was established in 1935.\n2. The Monetary Policy Committee is responsible for setting fiscal policy.\n3. The Indian economy is a planned economy.\nWhich of the above is/are correct?",
+      "options": [
+        "1 only",
+        "1 and 2 only",
+        "2 and 3 only",
+        "1, 2 and 3"
+      ],
+      "correct": 0,
+      "explanation": "Statement 1 is correct: The Reserve Bank of India was indeed established in 1935. Statement 2 is incorrect: The Monetary Policy Committee is responsible for setting monetary policy, not fiscal policy. Statement 3 is incorrect: The Indian economy is a mixed economy, not a planned economy.",
+      "trap": "Wrong Ministry"
+    }
+  },
+  {
+    "id": 1892,
+    "title": "India's Economic Resilience",
+    "cat": "economy",
+    "upsc": true,
+    "time": "2026-05-22T14:53:37.653710+00:00",
+    "summary": "The Reserve Bank of India has warned of global economic dangers from oil prices, debt, and market stress. This warning is crucial for UPSC aspirants as it highlights the importance of understanding global economic trends and their impact on India's economy. The nation's strong domestic demand and government spending support its status as a fast-growing economy, which is a key aspect of GS3.",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": 1935,
+        "label": "Year the Reserve Bank of India was established"
+      },
+      {
+        "val": 2016,
+        "label": "Year the Monetary Policy Committee was established"
+      },
+      {
+        "val": 2003,
+        "label": "Year the Fiscal Responsibility and Budget Management Act was enacted"
+      }
+    ],
+    "src": "ET Economy",
+    "link": "https://economictimes.indiatimes.com/news/economy/indicators/oil-spike-global-debt-market-stress-rbi-flags-mounting-external-shocks-but-lays-out-5-areas-where-india-remains-resilient/articleshow/131264313.cms",
+    "prelims": [
+      "The <strong>Reserve Bank of India (RBI)</strong> was established in 1935 under the Reserve Bank of India Act, 1934, and is responsible for regulating the monetary policy of the Indian rupee. The RBI plays a crucial role in maintaining the stability of the Indian economy, and its warnings on global economic dangers are significant for policymakers and economists. The RBI's establishment is rooted in the British era, with its first governor being Sir Osborne Smith.",
+      "The <strong>External Commercial Borrowings (ECB) framework</strong> was introduced by the RBI to facilitate Indian companies' access to foreign funds. The framework has undergone several revisions, with the most recent being in 2019, to make it more flexible and attractive to borrowers. The ECB framework is a key aspect of India's external sector management and has implications for the country's balance of payments and foreign exchange reserves.",
+      "The <strong>Monetary Policy Committee (MPC)</strong> was established in 2016 under the Reserve Bank of India Act, 1934, to decide on the monetary policy of the country. The MPC is a six-member committee that meets every two months to review the economic situation and decide on the policy repo rate. The MPC's decisions have a significant impact on the Indian economy, and its functioning is a key aspect of GS3.",
+      "The <strong>Fiscal Responsibility and Budget Management (FRBM) Act, 2003</strong>, was enacted to promote fiscal discipline and prudence at the central and state levels. The Act sets out a framework for the government to achieve fiscal stability and reduce its debt burden. The FRBM Act is a crucial aspect of India's fiscal policy and has implications for the country's economic growth and development.",
+      "The <strong>International Monetary Fund (IMF)</strong> was established in 1944 to promote international monetary cooperation and exchange rate stability. The IMF provides financial assistance to countries facing balance of payments difficulties and plays a crucial role in promoting global economic stability. The IMF's role is significant in the context of global economic trends and their impact on India's economy."
+    ],
+    "mains": {
+      "q": "Analyze the impact of global economic trends on India's economic growth, with a focus on the role of the Reserve Bank of India.",
+      "marks": "15 marks · GS3",
+      "directive": "analyze",
+      "hints": [
+        "Introduction (2 marks): Define the key terms related to global economic trends and their impact on India's economy, such as monetary policy, fiscal policy, and external sector management.",
+        "Body - Global economic trends (3 marks): Discuss the current global economic trends, including the impact of oil prices, debt, and market stress on India's economy. Explain the role of the Reserve Bank of India in mitigating these risks.",
+        "Body - RBI's monetary policy (3 marks): Analyze the RBI's monetary policy framework, including the role of the Monetary Policy Committee and the policy repo rate. Explain how the RBI's monetary policy decisions impact India's economic growth.",
+        "Body - Fiscal policy (3 marks): Discuss the government's fiscal policy framework, including the Fiscal Responsibility and Budget Management Act, 2003. Explain how the government's fiscal policy decisions impact India's economic growth.",
+        "Conclusion (2 marks): Summarize the key points and provide a balanced view on the impact of global economic trends on India's economic growth, with a focus on the role of the Reserve Bank of India."
+      ]
+    },
+    "connect": [
+      {
+        "topic": "Monetary Policy and its Instruments",
+        "context": "The RBI's monetary policy framework is a key aspect of GS3, and understanding its instruments, such as the policy repo rate, is crucial for analyzing the impact of global economic trends on India's economy."
+      },
+      {
+        "topic": "Fiscal Policy and its Impact on Economy",
+        "context": "The government's fiscal policy framework, including the Fiscal Responsibility and Budget Management Act, 2003, is a crucial aspect of GS3, and understanding its impact on the economy is essential for analyzing the impact of global economic trends."
+      },
+      {
+        "topic": "External Sector Management",
+        "context": "The RBI's role in managing India's external sector, including its foreign exchange reserves, is a key aspect of GS3, and understanding its implications for the economy is crucial for analyzing the impact of global economic trends."
+      },
+      {
+        "topic": "International Monetary Fund and its Role",
+        "context": "The IMF's role in promoting international monetary cooperation and exchange rate stability is a key aspect of GS3, and understanding its implications for India's economy is essential for analyzing the impact of global economic trends."
+      },
+      {
+        "topic": "Economic Growth and Development",
+        "context": "The impact of global economic trends on India's economic growth and development is a key aspect of GS3, and understanding the role of the RBI and the government's fiscal policy framework is crucial for analyzing this impact."
+      }
+    ],
+    "_hash": "9d89f23c56b9",
+    "_fetched": "2026-05-22T14:53:37.653710+00:00",
+    "_relevance": 96,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "analyze",
+    "_mcqs": {
+      "q": "Consider the following statements:\n1. The Reserve Bank of India was established in 1935.\n2. The Monetary Policy Committee was established in 2016.\n3. The Fiscal Responsibility and Budget Management Act, 2003, applies only to the central government.\nWhich of the above is/are correct?",
+      "options": [
+        "1 only",
+        "1 and 2 only",
+        "2 and 3 only",
+        "1, 2 and 3"
+      ],
+      "correct": 1,
+      "explanation": "Statement 1 is correct: The Reserve Bank of India was indeed established in 1935. Statement 2 is correct: The Monetary Policy Committee was indeed established in 2016. Statement 3 is incorrect: The Fiscal Responsibility and Budget Management Act, 2003, applies to both the central and state governments.",
+      "trap": "Timeline Confusion"
+    }
+  },
+  {
+    "id": 1893,
+    "title": "RBI Dividend",
+    "cat": "economy",
+    "upsc": true,
+    "time": "2026-05-22T14:53:53.512447+00:00",
+    "summary": "The Reserve Bank of India has announced a record surplus transfer to the government for FY27, driven by foreign exchange gains and investment income. This significant payout provides a crucial fiscal buffer amidst rising energy prices and economic pressures, and is relevant to UPSC aspirants as it relates to India's economic development and fiscal policy. The RBI's dividend payout is also connected to the government's budget estimates and fiscal management.",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": 1935,
+        "label": "Year the Reserve Bank of India was established"
+      },
+      {
+        "val": 1999,
+        "label": "Year the Foreign Exchange Management Act was enacted"
+      },
+      {
+        "val": 2003,
+        "label": "Year the Fiscal Responsibility and Budget Management Act was enacted"
+      }
+    ],
+    "src": "ET Economy",
+    "link": "https://economictimes.indiatimes.com/news/economy/finance/rbi-declares-record-rs-2-87-lakh-crore-dividend-to-cushion-war-shock/articleshow/131262023.cms",
+    "prelims": [
+      "The <strong>Reserve Bank of India (RBI)</strong> was established in 1935 under the Reserve Bank of India Act, 1934, and is responsible for regulating the country's monetary policy, including setting interest rates and managing foreign exchange. The RBI is also mandated to maintain financial stability and supervise banks and other financial institutions. Its role in managing the country's foreign exchange reserves is critical to India's economic development.",
+      "The <strong>Foreign Exchange Management Act (FEMA), 1999</strong>, regulates foreign exchange transactions in India and is administered by the RBI. FEMA replaced the Foreign Exchange Regulation Act (FERA), 1973, and provides a framework for managing foreign exchange transactions, including investments, trade, and remittances. Understanding FEMA is essential for analyzing India's foreign exchange management and its impact on the economy.",
+      "The <strong>Monetary Policy Committee (MPC)</strong> is responsible for setting interest rates in India and is headed by the RBI Governor. The MPC was established in 2016 and is mandated to maintain price stability, while also considering economic growth and financial stability. The MPC's decisions have a significant impact on India's economy, including inflation, growth, and employment.",
+      "The <strong>Fiscal Responsibility and Budget Management (FRBM) Act, 2003</strong>, aims to promote fiscal discipline and transparency in the government's budgeting process. The FRBM Act sets targets for reducing fiscal deficits and debt, and provides a framework for managing public finances. Understanding the FRBM Act is crucial for analyzing India's fiscal policy and its impact on the economy.",
+      "The <strong>Public Finance Management System (PFMS)</strong> is a web-based platform that enables the government to manage its finances, including budgeting, accounting, and reporting. PFMS was launched in 2009 and is used by all government ministries and departments to manage their finances. Understanding PFMS is essential for analyzing India's public finance management and its impact on the economy."
+    ],
+    "mains": {
+      "q": "Analyze the role of the Reserve Bank of India in managing India's foreign exchange reserves and its impact on the country's economic development.",
+      "marks": "15 marks · GS3",
+      "directive": "analyze",
+      "hints": [
+        "Introduction (2 marks): Define the Reserve Bank of India and its role in managing foreign exchange reserves, including its establishment under the RBI Act, 1934, and its mandate to maintain financial stability.",
+        "Body - Foreign Exchange Management (3 marks): Discuss the Foreign Exchange Management Act, 1999, and its provisions for regulating foreign exchange transactions, including investments, trade, and remittances.",
+        "Body - Monetary Policy (3 marks): Explain the role of the Monetary Policy Committee in setting interest rates and its impact on inflation, growth, and employment, including the MPC's mandate to maintain price stability.",
+        "Body - Fiscal Policy (3 marks): Analyze the Fiscal Responsibility and Budget Management Act, 2003, and its provisions for promoting fiscal discipline and transparency in the government's budgeting process, including targets for reducing fiscal deficits and debt.",
+        "Conclusion (2 marks): Discuss the importance of effective foreign exchange management and monetary policy in promoting India's economic development, including the need for fiscal discipline and transparency in the government's budgeting process."
+      ]
+    },
+    "connect": [
+      {
+        "topic": "Monetary Policy and Its Instruments",
+        "context": "The RBI's monetary policy decisions have a significant impact on India's economy, including inflation, growth, and employment."
+      },
+      {
+        "topic": "Fiscal Policy and Budgeting",
+        "context": "The government's fiscal policy and budgeting process are critical to India's economic development, including the management of public finances and the promotion of fiscal discipline."
+      },
+      {
+        "topic": "Foreign Exchange Management and Trade",
+        "context": "The Foreign Exchange Management Act, 1999, regulates foreign exchange transactions in India and is essential for understanding India's foreign trade and commerce."
+      },
+      {
+        "topic": "Public Finance and Accounting",
+        "context": "The Public Finance Management System is a web-based platform that enables the government to manage its finances, including budgeting, accounting, and reporting."
+      },
+      {
+        "topic": "Economic Development and Growth",
+        "context": "The RBI's role in managing foreign exchange reserves and setting interest rates is critical to India's economic development and growth, including the promotion of investment, trade, and employment."
+      }
+    ],
+    "_hash": "c3d95f4d8317",
+    "_fetched": "2026-05-22T14:53:53.512447+00:00",
+    "_relevance": 64,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "analyze",
+    "_mcqs": {
+      "q": "Consider the following statements:\n1. The Reserve Bank of India was established in 1935.\n2. The Foreign Exchange Management Act, 1999, regulates foreign exchange transactions in India.\n3. The Monetary Policy Committee is responsible for setting interest rates in India.\nWhich of the above is/are correct?",
+      "options": [
+        "1 only",
+        "1 and 2 only",
+        "2 and 3 only",
+        "1, 2 and 3"
+      ],
+      "correct": 3,
+      "explanation": "Statement 1 is correct: The Reserve Bank of India was indeed established in 1935. Statement 2 is correct: The Foreign Exchange Management Act, 1999, regulates foreign exchange transactions in India. Statement 3 is correct: The Monetary Policy Committee is responsible for setting interest rates in India.",
+      "trap": "Timeline Confusion"
+    }
+  },
+  {
+    "id": 1894,
+    "title": "India Blocks China's WTO Dispute",
+    "cat": "economy",
+    "upsc": true,
+    "time": "2026-05-22T14:54:29.186493+00:00",
+    "summary": "India has blocked China's request for a World Trade Organization dispute panel regarding India's support measures for its solar cells, modules, and information technology sectors. This development is crucial for UPSC as it involves understanding of international trade agreements, WTO rules, and India's economic policies. It connects to the syllabus area of international relations and economic development.",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": 164,
+        "label": "Number of WTO member countries"
+      },
+      {
+        "val": 1995,
+        "label": "Year the WTO was established"
+      },
+      {
+        "val": 1947,
+        "label": "Year the GATT was established"
+      }
+    ],
+    "src": "ET Economy",
+    "link": "https://economictimes.indiatimes.com/news/economy/foreign-trade/india-blocks-chinas-request-for-dispute-panel-on-solar-sector-support-measures-at-wto/articleshow/131264649.cms",
+    "prelims": [
+      "The <strong>World Trade Organization (WTO)</strong> was established in 1995 as the successor to the General Agreement on Tariffs and Trade (GATT), with the aim of promoting free trade and reducing trade barriers. The WTO has 164 member countries and is headquartered in Geneva, Switzerland. Its main function is to facilitate the implementation and administration of trade agreements.",
+      "The <strong>Dispute Settlement Body (DSB)</strong> is a key component of the WTO, responsible for settling trade disputes between member countries. The DSB has the authority to establish dispute settlement panels and to adopt panel and appellate body reports. The DSB's decisions are binding on member countries, making it a crucial mechanism for resolving trade disputes.",
+      "India's <strong>solar sector support measures</strong> are part of the country's efforts to promote renewable energy and reduce its dependence on fossil fuels. The measures include subsidies, tax incentives, and other forms of support for the development of solar energy infrastructure. These measures are crucial for India's energy security and its commitment to reducing greenhouse gas emissions.",
+      "The <strong>Information Technology Agreement (ITA)</strong> is a plurilateral agreement within the WTO, aimed at reducing tariffs on information technology products. The agreement was signed in 1996 and has been expanded several times to include new products. India is a signatory to the ITA and has committed to reducing tariffs on IT products.",
+      "The <strong>General Agreement on Tariffs and Trade (GATT)</strong> is a multilateral agreement that aims to promote free trade and reduce trade barriers. GATT was established in 1947 and was the precursor to the WTO. The agreement sets out rules for international trade, including provisions on tariffs, quotas, and other trade restrictions."
+    ],
+    "mains": {
+      "q": "Analyze the implications of India's decision to block China's request for a WTO dispute panel on the country's solar sector support measures.",
+      "marks": "15 marks · GS3",
+      "directive": "analyze",
+      "hints": [
+        "Introduction (2 marks): Define the WTO and its role in promoting free trade and reducing trade barriers. Explain the significance of the dispute settlement mechanism in the WTO.",
+        "Body - Economic implications (3 marks): Discuss the potential economic implications of India's decision to block China's request for a WTO dispute panel. Analyze the impact on India's solar sector and the country's overall trade relations with China.",
+        "Body - Trade agreements (3 marks): Examine the relevant trade agreements, including the ITA and GATT, and their provisions on tariffs, subsidies, and other trade restrictions. Discuss how these agreements relate to India's solar sector support measures.",
+        "Body - Institutional mechanism (3 marks): Analyze the role of the DSB in settling trade disputes and its implications for India's decision to block China's request. Discuss the potential consequences of the DSB's decisions on India's trade relations with China.",
+        "Conclusion (2 marks): Summarize the main points and reiterate the significance of the WTO dispute settlement mechanism in promoting free trade and reducing trade barriers."
+      ]
+    },
+    "connect": [
+      {
+        "topic": "WTO and International Trade",
+        "context": "The WTO plays a crucial role in promoting free trade and reducing trade barriers, making it a key component of international trade agreements."
+      },
+      {
+        "topic": "Dispute Settlement Mechanism",
+        "context": "The DSB is a critical component of the WTO, responsible for settling trade disputes between member countries."
+      },
+      {
+        "topic": "Solar Sector Support Measures",
+        "context": "India's solar sector support measures are part of the country's efforts to promote renewable energy and reduce its dependence on fossil fuels."
+      },
+      {
+        "topic": "Information Technology Agreement (ITA)",
+        "context": "The ITA is a plurilateral agreement within the WTO, aimed at reducing tariffs on information technology products."
+      },
+      {
+        "topic": "General Agreement on Tariffs and Trade (GATT)",
+        "context": "GATT is a multilateral agreement that aims to promote free trade and reduce trade barriers, making it a precursor to the WTO."
+      }
+    ],
+    "_hash": "d1777ab08e86",
+    "_fetched": "2026-05-22T14:54:29.186493+00:00",
+    "_relevance": 62,
+    "_gs": [
+      "GS2",
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "analyze",
+    "_mcqs": {
+      "q": "Consider the following statements:\n1. The WTO was established in 1995 as the successor to the GATT.\n2. The DSB has the authority to impose trade sanctions on member countries.\n3. India's solar sector support measures are in violation of the ITA.\nWhich of the above is/are correct?",
+      "options": [
+        "1 only",
+        "1 and 2 only",
+        "2 and 3 only",
+        "1, 2 and 3"
+      ],
+      "correct": 0,
+      "explanation": "Statement 1 is correct: The WTO was indeed established in 1995 as the successor to the GATT. Statement 2 is incorrect: The DSB does not have the authority to impose trade sanctions on member countries. Statement 3 is incorrect: There is no evidence to suggest that India's solar sector support measures are in violation of the ITA.",
+      "trap": "Wrong Ministry / Absolute Language"
+    }
+  },
+  {
+    "id": 1895,
+    "title": "NHAI inks MoU with NGI for advanced consultancy support in t",
+    "cat": "world",
+    "upsc": true,
+    "time": "2026-05-22T14:56:41.579624+00:00",
+    "summary": "NHAI has partnered with Norway's Geotechnical Institute. This collaboration will bring advanced international expertise to India's national highway pr",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "ET Economy",
+    "link": "https://economictimes.indiatimes.com/news/economy/infrastructure/nhai-partners-with-norwegian-geotechnical-institute-to-enhance-tunnel-engineering-and-infrastructure-safety-in-india/articleshow/131263633.cms",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "0de898a3ffd7",
+    "_fetched": "2026-05-22T14:56:41.579624+00:00",
+    "_relevance": 57,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 1896,
+    "title": "India’s forex reserves fall by $8.09 bn to $688.89 bn as of ",
+    "cat": "economy",
+    "upsc": true,
+    "time": "2026-05-22T14:58:53.978842+00:00",
+    "summary": "India's foreign exchange reserves saw a significant drop of over eight billion dollars in the week ending May 15. Foreign currency assets and gold res",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "ET Economy",
+    "link": "https://economictimes.indiatimes.com/news/economy/indicators/indias-forex-reserves-fall-by-8-09-bn-to-688-89-bn-as-of-may-15/articleshow/131262899.cms",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "713aa8b6ab44",
+    "_fetched": "2026-05-22T14:58:53.978842+00:00",
+    "_relevance": 52,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 1897,
+    "title": "Are cartoons in NCERT textbooks proper? Supreme Court asks r",
+    "cat": "india",
+    "upsc": false,
+    "time": "2026-05-22T15:01:06.430147+00:00",
+    "summary": "The order came after Solicitor General Tushar Mehta raised the issue and said 'textbook is not a place where you use cartoons'",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "The Hindu",
+    "link": "https://www.thehindu.com/news/national/are-cartoons-in-ncert-textbooks-proper-supreme-court-asks-retired-judge-panel-to-review/article71010201.ece",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "67c70acc2269",
+    "_fetched": "2026-05-22T15:01:06.430147+00:00",
+    "_relevance": 49,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "sc-judgment",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 1898,
+    "title": "139 Indians released from Russian military service, Centre t",
+    "cat": "india",
+    "upsc": false,
+    "time": "2026-05-22T15:03:18.898683+00:00",
+    "summary": "Government says 217 Indian nationals joined Russian Armed Forces during Ukraine conflict; 49 killed and six reported missing",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "The Hindu",
+    "link": "https://www.thehindu.com/news/national/139-indians-released-from-russian-military-service-centre-tells-supreme-court/article71011064.ece",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "eeb06c8abf83",
+    "_fetched": "2026-05-22T15:03:18.898683+00:00",
+    "_relevance": 46,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "sc-judgment",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 1899,
+    "title": "Net foreign investments fell to -$11.7 billion in March 2026",
+    "cat": "economy",
+    "upsc": false,
+    "time": "2026-05-22T15:05:31.316129+00:00",
+    "summary": "RBI data shows that net FDI was positive for the second consecutive month in March 2026. Portfolio investors pulled out more money in March, April and",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "The Hindu Business",
+    "link": "https://www.thehindu.com/business/Economy/net-foreign-investments-fell-to-117-billion-in-march-2026-as-fpi-outflows-eclipsed-fdi-inflows/article71011126.ece",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "ef705d106eb1",
+    "_fetched": "2026-05-22T15:05:31.316129+00:00",
+    "_relevance": 43,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 1900,
+    "title": "Political activity set to pick up in Karnataka with notifica",
+    "cat": "india",
+    "upsc": false,
+    "time": "2026-05-22T15:07:43.715196+00:00",
+    "summary": "The elections have been necessitated by completion of the term of former Prime Minister H.D. Deve Gowda and Leader of Opposition in Rajya Sabha Mallik",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "The Hindu",
+    "link": "https://www.thehindu.com/news/national/karnataka/political-activity-set-to-pick-up-in-karnataka-with-notification-of-elections-to-four-rajya-sabha-seats/article71010022.ece",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "3434c6ccef87",
+    "_fetched": "2026-05-22T15:07:43.715196+00:00",
+    "_relevance": 41,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 1901,
+    "title": "BJP's Bengal win can reshape India's economic direction: Pra",
+    "cat": "economy",
+    "upsc": false,
+    "time": "2026-05-22T15:09:56.109955+00:00",
+    "summary": "Pradeep Gupta pointed out that regions with a strong port infrastructure and trade networks historically became centres of prosperity",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "The Hindu",
+    "link": "https://www.thehindu.com/news/national/bjps-bengal-win-can-reshape-indias-economic-direction-pradeep-gupta/article71011488.ece",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "3c786fc8ee5e",
+    "_fetched": "2026-05-22T15:09:56.109955+00:00",
+    "_relevance": 39,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 1902,
+    "title": "NATO Ministers question U.S. on Trump’s ‘confusing’ troop de",
+    "cat": "world",
+    "upsc": false,
+    "time": "2026-05-22T15:12:08.498624+00:00",
+    "summary": "Ministers from NATO member states sought clarification from the United States over former president Donald Trump’s reported troop movement plans, amid",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "The Hindu International",
+    "link": "https://www.thehindu.com/news/international/nato-ministers-question-us-on-trumps-confusing-troop-decisions/article71010387.ece",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "1e0785d71daf",
+    "_fetched": "2026-05-22T15:12:08.498624+00:00",
+    "_relevance": 36,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 1903,
+    "title": "Taiwan’s government says U.S. hasn’t notified it of any paus",
+    "cat": "world",
+    "upsc": false,
+    "time": "2026-05-22T15:14:20.860026+00:00",
+    "summary": "Fresh uncertainty has emerged over future U.S. military assistance to Taiwan after American officials suggested some foreign arms transfers could face",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "The Hindu International",
+    "link": "https://www.thehindu.com/news/international/taiwans-government-says-us-hasnt-notified-it-of-any-pause-in-a-planned-14-billion-arms-sale/article71010488.ece",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "24974374c1af",
+    "_fetched": "2026-05-22T15:14:20.860026+00:00",
+    "_relevance": 36,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 1904,
+    "title": "UDF government moves to drop aircraft charges in 2022 flight",
+    "cat": "world",
+    "upsc": false,
+    "time": "2026-05-22T15:16:33.273777+00:00",
+    "summary": "The development marks a significant shift from the previous Left Democratic Front (LDF) government’s stand that the onboard protest posed a serious av",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "The Hindu",
+    "link": "https://www.thehindu.com/news/national/kerala/kerala-government-moves-to-drop-aircraft-charges-in-2022-flight-protest-case-against-yc-workers/article71011141.ece",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "33b998232881",
+    "_fetched": "2026-05-22T15:16:33.273777+00:00",
+    "_relevance": 33,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 1905,
+    "title": "Ahead of Bakrid, Delhi Police steps up security arrangements",
+    "cat": "india",
+    "upsc": false,
+    "time": "2026-05-22T15:18:45.639270+00:00",
+    "summary": "Officers urged residents to maintain communal harmony and immediately report any suspicious activity or rumour-mongering",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "The Hindu",
+    "link": "https://www.thehindu.com/news/cities/Delhi/ahead-of-bakrid-delhi-police-steps-up-security-arrangements-across-capital/article71010057.ece",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "2afa2ca52550",
+    "_fetched": "2026-05-22T15:18:45.639270+00:00",
+    "_relevance": 33,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 1906,
+    "title": "Demand driving growth, but economic outlook ‘somewhat cloude",
+    "cat": "economy",
+    "upsc": false,
+    "time": "2026-05-22T15:20:58.004066+00:00",
+    "summary": "The central bank said that while inflation currently was within the tolerance band, the potential pass through of higher prices needed to be monitored",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "The Hindu Business",
+    "link": "https://www.thehindu.com/news/national/demand-driving-growth-but-economic-outlook-somewhat-clouded-by-supply-issues-rbi/article71010816.ece",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "cdbd8b27f8bf",
+    "_fetched": "2026-05-22T15:20:58.004066+00:00",
+    "_relevance": 33,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 1907,
+    "title": "Quote of the day: William Butler Yeats on procrastination- ‘",
+    "cat": "economy",
+    "upsc": false,
+    "time": "2026-05-22T15:23:10.399161+00:00",
+    "summary": "William Butler Yeats' quote highlights the importance of taking an action in the moment, instead of waiting for the perfect time. It addresses the iss",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "LiveMint",
+    "link": "https://www.livemint.com/news/trends/quote-of-the-day-william-butler-yeats-on-procrastination-do-not-wait-to-strike-till-the-iron-is-hot-11779456043935.html",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "c55136438349",
+    "_fetched": "2026-05-22T15:23:10.399161+00:00",
+    "_relevance": 33,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 1908,
+    "title": "Twisha Sharma death case: Absconding husband taken into cust",
+    "cat": "tech",
+    "upsc": false,
+    "time": "2026-05-22T15:25:22.760065+00:00",
+    "summary": "Earlier, Samarth Singh reached the Jabalpur district court on the evening of May 22, to surrender, his lawyer said; the anticipatory bail application ",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "The Hindu",
+    "link": "https://www.thehindu.com/news/national/madhya-pradesh/twisha-sharma-death-case-absconding-husband-jabalpur-district-court/article71010876.ece",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "802199f73e96",
+    "_fetched": "2026-05-22T15:25:22.760065+00:00",
+    "_relevance": 31,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "sc-judgment",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 1909,
+    "title": "RSS economic wing bats for stronger rupee, contrary to Arvin",
+    "cat": "economy",
+    "upsc": false,
+    "time": "2026-05-22T15:27:35.131229+00:00",
+    "summary": "SJM chief says RBI should support the rupee and not let it cross the psychologically significant ₹100 per dollar mark; warns that further depreciation",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "The Hindu",
+    "link": "https://www.thehindu.com/news/national/rss-economic-wing-bats-for-stronger-rupee/article71010750.ece",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "4f4b1e2a74d4",
+    "_fetched": "2026-05-22T15:27:35.131229+00:00",
+    "_relevance": 31,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
   }
 ]
