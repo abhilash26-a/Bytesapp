@@ -69397,5 +69397,124 @@
     "_difficulty": 2,
     "_directive": "discuss",
     "_mcqs": []
+  },
+  {
+    "id": 1905,
+    "title": "US, Iran near nuclear deal framework",
+    "cat": "world",
+    "upsc": true,
+    "time": "2026-05-24T22:01:42.374528+00:00",
+    "summary": "US and Iran are close to finalizing a nuclear deal framework, with talks ongoing over the Strait of Hormuz and uranium stockpile.",
+    "story_fact": "US-Iran nuclear deal framework is 95% complete.",
+    "background": "The US and Iran have been negotiating a nuclear deal since 2015. The deal aims to limit Iran's nuclear program in exchange for relief from economic sanctions.",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "LiveMint",
+    "link": "https://www.livemint.com/news/us-news/usiran-nuclear-deal-framework-95-there-as-talks-continue-over-strait-of-hormuz-and-uranium-stockpile-11779654747715.html",
+    "prelims": [
+      "The <strong>Strait of Hormuz</strong> is a critical waterway for international oil trade, with 20% of global oil passing through it.",
+      "The <strong>Joint Comprehensive Plan of Action (JCPOA)</strong> is the formal name of the Iran nuclear deal, signed in 2015.",
+      "The <strong>International Atomic Energy Agency (IAEA)</strong> monitors Iran's nuclear activities under the JCPOA.",
+      "The <strong>US withdrawal from the JCPOA in 2018</strong> led to renewed tensions between the US and Iran.",
+      "The <strong>European Union</strong> has been a key mediator in the US-Iran nuclear talks."
+    ],
+    "mains": {
+      "q": "The US-Iran nuclear deal framework has been 95% complete for several months. Examine the implications of this development for regional security.",
+      "marks": "15 marks · GS2",
+      "directive": "examine",
+      "hints": [
+        "Frame the central trade-off: nuclear non-proliferation vs. regional security concerns.",
+        "Cite the JCPOA's provisions on uranium enrichment and heavy water reactors.",
+        "Distinguish between the IAEA's monitoring role and the EU's mediation efforts.",
+        "Apply the concept of 'snapback sanctions' to the US-Iran nuclear deal.",
+        "Conclude by proposing a framework for addressing regional security concerns in the context of the US-Iran nuclear deal."
+      ]
+    },
+    "connect": [
+      {
+        "topic": "Nuclear Non-Proliferation Treaty (NPT)",
+        "context": "The US-Iran nuclear deal framework is linked to the NPT, which aims to prevent the spread of nuclear weapons."
+      },
+      {
+        "topic": "United Nations Security Council Resolution 2231",
+        "context": "UNSCR 2231 endorsed the JCPOA, highlighting the international community's support for the nuclear deal and its commitment to regional security."
+      },
+      {
+        "topic": "Middle East Peace Process",
+        "context": "The US-Iran nuclear deal framework has implications for the broader Middle East peace process, particularly in terms of regional security and stability."
+      }
+    ],
+    "_hash": "9d1d34b21f3f",
+    "_fetched": "2026-05-24T22:01:42.374528+00:00",
+    "_relevance": 33,
+    "_gs": [
+      "GS2"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "examine",
+    "_mcqs": [
+      {
+        "q": "Consider the following statements:\n1. The US-Iran nuclear deal framework is 95% complete.\n2. The JCPOA allows Iran to enrich uranium up to 20%.\n3. The IAEA monitors Iran's nuclear activities under the JCPOA.\nWhich of the above is/are correct?",
+        "options": [
+          "1 only",
+          "2 only",
+          "1 and 3 only",
+          "1, 2 and 3"
+        ],
+        "correct": 2,
+        "explanation": "Statement 1 is correct: the US-Iran nuclear deal framework is indeed 95% complete. Statement 2 is incorrect: the JCPOA limits Iran's uranium enrichment to 3.67%. Statement 3 is correct: the IAEA monitors Iran's nuclear activities under the JCPOA.",
+        "trap": "Quantitative Trap"
+      },
+      {
+        "q": "Consider the following statements:\n1. The US withdrew from the JCPOA in 2018.\n2. The EU has been a key mediator in the US-Iran nuclear talks.\n3. The Strait of Hormuz is a critical waterway for international oil trade.\nWhich of the above is/are correct?",
+        "options": [
+          "1 and 2 only",
+          "1 and 3 only",
+          "2 and 3 only",
+          "1, 2 and 3"
+        ],
+        "correct": 3,
+        "explanation": "Statement 1 is correct: the US did withdraw from the JCPOA in 2018. Statement 2 is correct: the EU has been a key mediator in the US-Iran nuclear talks. Statement 3 is correct: the Strait of Hormuz is indeed a critical waterway for international oil trade.",
+        "trap": "Timeline Confusion"
+      }
+    ]
+  },
+  {
+    "id": 1906,
+    "title": "JMM, Cong. bid to divide society, undermine tribal rights wo",
+    "cat": "india",
+    "upsc": false,
+    "time": "2026-05-24T22:03:54.813648+00:00",
+    "summary": "Jharkhand govt. trying to undermine customs through new PESA Act rules, says Marandi; stresses the need to preserve, protect, and develop all sites of",
+    "story_fact": "",
+    "background": "",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "The Hindu",
+    "link": "https://www.thehindu.com/news/national/jharkhand/jmm-cong-bid-to-divide-society-undermine-tribal-rights-wont-succeedbjp/article71017786.ece",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "ed40a30af664",
+    "_fetched": "2026-05-24T22:03:54.813648+00:00",
+    "_relevance": 31,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
   }
 ]
