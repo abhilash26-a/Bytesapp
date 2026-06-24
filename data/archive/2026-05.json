@@ -71808,5 +71808,100 @@
     "_difficulty": 2,
     "_directive": "discuss",
     "_mcqs": []
+  },
+  {
+    "id": 1928,
+    "title": "Netanyahu Admits Limited Influence on Trump Over Iran Deal",
+    "cat": "world",
+    "upsc": true,
+    "time": "2026-05-25T22:14:13.465342+00:00",
+    "summary": "Israel's Prime Minister Netanyahu privately admitted having little ability to influence Trump on the Iran deal, according to a report.",
+    "story_fact": "Netanyahu admitted Israel has 'little ability' to influence Trump on Iran deal.",
+    "background": "The Iran deal, formally known as the Joint Comprehensive Plan of Action (JCPOA), is a nuclear agreement between Iran and major world powers. Israel has been a vocal critic of the deal.",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "LiveMint",
+    "link": "https://www.livemint.com/news/world/total-world-latest-news-on-may-26-2026-live-updates-11779743607615.html",
+    "prelims": [
+      "<strong>Section 19</strong> of the Representation of the People Act, 1951 defines 'service voters' — a concept not directly relevant here but part of the broader electoral framework.",
+      "The <strong>Joint Comprehensive Plan of Action (JCPOA)</strong> is the formal name of the Iran nuclear deal, which Israel has opposed due to security concerns.",
+      "The <strong>Israeli Prime Minister</strong> has significant influence over Israel's foreign policy, including its stance on the Iran deal.",
+      "The <strong>US withdrawal</strong> from the JCPOA in 2018 led to increased tensions between the US and Iran, with Israel watching closely due to its own security concerns.",
+      "The <strong>Iran-Israel conflict</strong> is a longstanding geopolitical issue, with the Iran deal being a point of contention between the two nations."
+    ],
+    "mains": {
+      "q": "The statements by Netanyahu on limited influence over Trump regarding the Iran deal highlight the complexities of international diplomacy. Examine.",
+      "marks": "15 marks · GS2",
+      "directive": "examine",
+      "hints": [
+        "Frame the central issue: the balance between national security concerns and diplomatic influence in international agreements.",
+        "Cite the example of the US withdrawal from the JCPOA and its implications for regional security, including Israel's perspective.",
+        "Distinguish between the roles of the US President and the Israeli Prime Minister in shaping their countries' stances on the Iran deal.",
+        "Apply the concept of realpolitik to understand the motivations behind Netanyahu's admission and its potential impact on future diplomatic efforts.",
+        "Conclude by discussing the potential long-term effects of such admissions on the credibility and influence of national leaders in international affairs."
+      ]
+    },
+    "connect": [
+      {
+        "topic": "Diplomatic Immunity",
+        "context": "The concept of diplomatic immunity can affect how leaders like Netanyahu interact with foreign counterparts, influencing their ability to exert influence."
+      },
+      {
+        "topic": "Nuclear Non-Proliferation Treaty (NPT)",
+        "context": "The NPT provides a framework for preventing the spread of nuclear weapons, relevant to discussions around the Iran deal and its implications for regional and global security."
+      },
+      {
+        "topic": "Camp David Accords",
+        "context": "The Camp David Accords demonstrate successful diplomatic efforts in the Middle East, offering a historical precedent for complex negotiations in the region."
+      },
+      {
+        "topic": "UN Security Council Resolutions",
+        "context": "UNSC resolutions, such as those related to the Iran deal, play a crucial role in international law and diplomacy, affecting the actions and influence of nations like Israel and the US."
+      },
+      {
+        "topic": "Realpolitik",
+        "context": "The concept of realpolitik is essential in understanding the pragmatic considerations that drive nations' actions in international relations, including Israel's stance on the Iran deal."
+      }
+    ],
+    "_hash": "0151f46f4fca",
+    "_fetched": "2026-05-25T22:14:13.465342+00:00",
+    "_relevance": 52,
+    "_gs": [
+      "GS2"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "examine",
+    "_mcqs": [
+      {
+        "q": "Consider the following statements:\n1. The JCPOA is a bilateral agreement between the US and Iran.\n2. Israel has been a vocal supporter of the JCPOA.\n3. The US withdrawal from the JCPOA in 2018 increased tensions in the region.\nWhich of the above is/are correct?",
+        "options": [
+          "1 only",
+          "2 only",
+          "1 and 2 only",
+          "1, 2 and 3"
+        ],
+        "correct": 3,
+        "explanation": "Statement 1 is incorrect: The JCPOA is a multilateral agreement. Statement 2 is incorrect: Israel has been a vocal critic of the JCPOA. Statement 3 is correct: The US withdrawal did increase regional tensions.",
+        "trap": "Wrong Body"
+      },
+      {
+        "q": "Consider the following statements:\n1. Netanyahu's admission of limited influence over Trump is a rare instance of a leader publicly discussing diplomatic limitations.\n2. The Iran deal has been a point of contention between Israel and the US.\nWhich of the above is/are correct?",
+        "options": [
+          "Only 1",
+          "Only 2",
+          "Both 1 and 2",
+          "Neither 1 nor 2"
+        ],
+        "correct": 1,
+        "explanation": "Statement 1 is correct as it reflects a rare instance of such admission. Statement 2 is incorrect as the US and Israel have had differing views but it's not the deal itself that's the contention point between them directly.",
+        "trap": "Absolute Language"
+      }
+    ]
   }
 ]
