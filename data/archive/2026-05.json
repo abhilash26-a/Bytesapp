@@ -69945,5 +69945,935 @@
     "_difficulty": 2,
     "_directive": "discuss",
     "_mcqs": []
+  },
+  {
+    "id": 1893,
+    "title": "RBI to Examine Quantum Tech in Finance",
+    "cat": "tech",
+    "upsc": true,
+    "time": "2026-05-25T15:22:20.667516+00:00",
+    "summary": "RBI forms expert committee to study quantum technology's role in finance, assess current systems, and recommend quantum-safe measures within six months.",
+    "story_fact": "RBI forms expert committee to study quantum technology in finance.",
+    "background": "Quantum technology can revolutionize financial tasks but poses security risks. The RBI aims to make India's financial sector quantum-safe.",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "ET Economy",
+    "link": "https://economictimes.indiatimes.com/news/economy/policy/rbi-to-examine-role-of-quantum-technology-in-strengthening-financial-sector/articleshow/131308957.cms",
+    "prelims": [
+      "The <strong>Reserve Bank of India</strong> is forming an expert committee to study quantum technology's role in finance, focusing on security risks and potential applications.",
+      "The <strong>Information Technology Act, 2000</strong> provides the legal framework for electronic transactions and data protection in India, which will be relevant to quantum technology integration.",
+      "The RBI committee will assess current financial systems and recommend ways to make them <strong>quantum-safe</strong> within six months.",
+      "The <strong>National Cyber Security Policy, 2013</strong> aims to protect India's critical information infrastructure, which includes the financial sector and will be impacted by quantum technology.",
+      "The use of <strong>quantum cryptography</strong> can enhance the security of financial transactions, but its implementation requires careful consideration of technical and regulatory aspects."
+    ],
+    "mains": {
+      "q": "The integration of quantum technology in finance raises concerns about data security and regulatory frameworks. Examine.",
+      "marks": "15 marks · GS3",
+      "directive": "examine",
+      "hints": [
+        "Frame the central trade-off: enhanced security through quantum cryptography versus potential disruptions to existing financial systems.",
+        "Cite the example of other countries' experiences with quantum technology in finance, such as the use of quantum-resistant algorithms.",
+        "Distinguish between the short-term and long-term implications of quantum technology on financial sector security and efficiency.",
+        "Apply the principles of the Information Technology Act, 2000, to the integration of quantum technology in Indian finance.",
+        "Conclude by proposing a phased approach to quantum technology adoption, emphasizing the need for continuous monitoring and evaluation."
+      ]
+    },
+    "connect": [
+      {
+        "topic": "Data Protection Bill, 2020",
+        "context": "The bill's provisions on data localization and privacy will impact how quantum technology is implemented in the financial sector."
+      },
+      {
+        "topic": "Blockchain Technology",
+        "context": "The use of blockchain in finance can be complemented by quantum technology, enhancing security and efficiency."
+      },
+      {
+        "topic": "National Payment Corporation of India (NPCI)",
+        "context": "The NPCI's role in regulating and facilitating digital payments will be important in the context of quantum technology integration in finance."
+      }
+    ],
+    "_hash": "da0612cfbda3",
+    "_fetched": "2026-05-25T15:22:20.667516+00:00",
+    "_relevance": 69,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "examine",
+    "_mcqs": [
+      {
+        "q": "Consider the following statements:\n1. Quantum technology can enhance the security of financial transactions.\n2. The RBI has already implemented quantum technology in its financial systems.\n3. Quantum technology poses significant security risks to the financial sector.\nWhich of the above is/are correct?",
+        "options": [
+          "1 and 3 only",
+          "1 only",
+          "2 only",
+          "1, 2 and 3"
+        ],
+        "correct": 0,
+        "explanation": "Statement 1 is correct: Quantum technology, such as quantum cryptography, can enhance security. Statement 2 is incorrect: The RBI is just forming a committee to study quantum technology. Statement 3 is correct: Quantum technology also poses security risks if not properly managed.",
+        "trap": "Definitional Trap"
+      },
+      {
+        "q": "Consider the following statements:\n1. The Information Technology Act, 2000, regulates the use of quantum technology in finance.\n2. The RBI is the sole regulator for quantum technology in the financial sector.\n3. Quantum technology is currently used in all Indian financial transactions.\nWhich of the above is/are correct?",
+        "options": [
+          "1 only",
+          "2 only",
+          "1 and 2 only",
+          "None"
+        ],
+        "correct": 0,
+        "explanation": "Statement 1 is correct: The IT Act provides a framework that could apply to quantum technology. Statement 2 is incorrect: Other regulators might also be involved. Statement 3 is incorrect: Quantum technology is not yet widely used in Indian finance.",
+        "trap": "Scope Confusion"
+      }
+    ]
+  },
+  {
+    "id": 1894,
+    "title": "SC Rules Exxsol Hexane a Pure Hydrocarbon, Cuts Duty to 2.5%",
+    "cat": "economy",
+    "upsc": true,
+    "time": "2026-05-25T15:22:37.682055+00:00",
+    "summary": "The Supreme Court has ruled that exxsol hexane is a pure hydrocarbon, reducing customs duty to 2.5% from 10% for imported exxsol hexane.",
+    "story_fact": "Exxsol hexane is classified as a pure hydrocarbon, attracting 2.5% customs duty.",
+    "background": "Exxsol hexane is used as a solvent. The customs duty reduction impacts import costs.",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "ET Economy",
+    "link": "https://economictimes.indiatimes.com/news/economy/foreign-trade/sc-rules-exxsol-hexane-a-pure-hydrocarbon-duty-cut-to-2-5/articleshow/131312166.cms",
+    "prelims": [
+      "The <strong>Supreme Court</strong> has upheld a tribunal's order favoring lower duty on exxsol hexane, impacting imports.",
+      "Exxsol hexane is classified under <strong>Section</strong> of the Customs Tariff Act, which defines pure hydrocarbons.",
+      "The customs duty on exxsol hexane has been reduced from <strong>10%</strong> to 2.5%, affecting import costs.",
+      "The <strong>Central Board of Excise and Customs</strong> is responsible for implementing customs duty changes.",
+      "The reduction in customs duty may increase <strong>exxsol hexane</strong> imports, benefiting industries that use it as a solvent."
+    ],
+    "mains": {
+      "q": "The Supreme Court's ruling on exxsol hexane as a pure hydrocarbon has implications for customs duty. Examine the potential impact on India's import-export status.",
+      "marks": "15 marks · GS3",
+      "directive": "examine",
+      "hints": [
+        "Frame the central trade-off: reduced customs duty may increase exxsol hexane imports but could also affect domestic production.",
+        "Cite the Customs Tariff Act and relevant sections that define pure hydrocarbons and their duty structures.",
+        "Distinguish between the impact on industries that use exxsol hexane as a solvent and those that produce it domestically.",
+        "Apply the concept of comparative advantage to argue whether the reduced duty benefits India's trade balance.",
+        "Conclude by suggesting measures to balance the interests of domestic producers and importers of exxsol hexane."
+      ]
+    },
+    "connect": [
+      {
+        "topic": "Customs Tariff Act",
+        "context": "The Act defines the duty structure for pure hydrocarbons like exxsol hexane, directly impacting import costs."
+      },
+      {
+        "topic": "Comparative Advantage",
+        "context": "The concept helps analyze whether the reduced duty on exxsol hexane benefits India's trade balance by increasing imports of a product where India may not have a comparative advantage in production."
+      },
+      {
+        "topic": "Solvent Import Regulations",
+        "context": "Regulations on solvent imports, including exxsol hexane, are crucial for industries that rely on these chemicals, and changes in customs duty can significantly impact their operations."
+      },
+      {
+        "topic": "Domestic Production of Solvents",
+        "context": "The impact of reduced customs duty on exxsol hexane on domestic production of solvents needs consideration, as it could lead to increased competition from imports, affecting local manufacturers."
+      }
+    ],
+    "_hash": "9003b1909f89",
+    "_fetched": "2026-05-25T15:22:37.682055+00:00",
+    "_relevance": 67,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "sc-judgment",
+    "_difficulty": 2,
+    "_directive": "examine",
+    "_mcqs": [
+      {
+        "q": "Consider the following statements:\n1. Exxsol hexane is classified as a pure hydrocarbon.\n2. The customs duty on exxsol hexane has been reduced to 2.5%.\n3. The reduction in customs duty applies to all solvents.\nWhich of the above is/are correct?",
+        "options": [
+          "1 only",
+          "2 only",
+          "1 and 2 only",
+          "1, 2 and 3"
+        ],
+        "correct": 2,
+        "explanation": "Statement 1 is correct: Exxsol hexane is indeed classified as a pure hydrocarbon. Statement 2 is correct: The customs duty has been reduced to 2.5%. Statement 3 is incorrect: The reduction applies specifically to exxsol hexane, not all solvents.",
+        "trap": "Scope Confusion"
+      },
+      {
+        "q": "Consider the following statements:\n1. The Supreme Court's ruling on exxsol hexane affects only imports.\n2. The customs duty reduction applies to both exxsol hexane and its by-products.\n3. The Central Board of Excise and Customs implements customs duty changes.\nWhich of the above is/are correct?",
+        "options": [
+          "1 only",
+          "1 and 2 only",
+          "2 and 3 only",
+          "1, 2 and 3"
+        ],
+        "correct": 3,
+        "explanation": "Statement 1 is incorrect: The ruling could impact both imports and domestic production. Statement 2 is incorrect: The reduction specifically applies to exxsol hexane, not its by-products. Statement 3 is correct: The Central Board of Excise and Customs is responsible for implementing customs duty changes.",
+        "trap": "Compositional Error"
+      }
+    ]
+  },
+  {
+    "id": 1895,
+    "title": "Government forwent Rs 1 lakh crore via excise duty cuts to s",
+    "cat": "economy",
+    "upsc": true,
+    "time": "2026-05-25T15:24:50.050534+00:00",
+    "summary": "India's Finance Minister Nirmala Sitharaman explains recent fuel price increases are market-driven by oil companies. She noted the government previous",
+    "story_fact": "",
+    "background": "",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "ET Economy",
+    "link": "https://economictimes.indiatimes.com/news/economy/policy/government-forwent-rs-1-lakh-crore-via-excise-duty-cuts-to-shield-consumers-from-fuel-inflation-fm/articleshow/131312070.cms",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "33e421e121cd",
+    "_fetched": "2026-05-25T15:24:50.050534+00:00",
+    "_relevance": 67,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 1896,
+    "title": "Adequate availability of fertilisers for upcoming Kharif sow",
+    "cat": "economy",
+    "upsc": true,
+    "time": "2026-05-25T15:27:02.438636+00:00",
+    "summary": "India is set for a robust Kharif season with ample fertilizer supplies. Domestic production and imports have ensured comfortable stock levels. Over 20",
+    "story_fact": "",
+    "background": "",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "ET Economy",
+    "link": "https://economictimes.indiatimes.com/news/economy/agriculture/india-ensures-sufficient-fertilizer-supply-for-kharif-2026-amidst-global-price-surge/articleshow/131307915.cms",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "f0308dd747a2",
+    "_fetched": "2026-05-25T15:27:02.438636+00:00",
+    "_relevance": 64,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 1912,
+    "title": "India to Boost EV Subsidies Under PM E-Drive Scheme",
+    "cat": "policy",
+    "upsc": true,
+    "time": "2026-05-25T10:23:15.302000+00:00",
+    "summary": "The government will increase subsidies for electric two-wheelers under the PM E-Drive scheme to promote clean mobility and reduce oil import dependence.",
+    "story_fact": "The heavy industries ministry seeks additional funds for the PM E-Drive scheme to boost electric two-wheeler subsidies.",
+    "background": "The PM E-Drive scheme aims to promote electric vehicles. The heavy industries ministry oversees the scheme's implementation.",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "ET Economy",
+    "link": "https://economictimes.indiatimes.com/news/economy/policy/govt-plans-to-double-down-on-electric-two-wheeler-subsidies-report/articleshow/131303708.cms",
+    "prelims": [
+      "The <strong>PM E-Drive scheme</strong> promotes clean mobility by incentivizing electric two-wheeler purchases.",
+      "The <strong>heavy industries ministry</strong> is responsible for the PM E-Drive scheme's implementation and funding.",
+      "The government has already <strong>subsidized a large number of electric two-wheelers</strong> under the PM E-Drive scheme.",
+      "The <strong>National Electric Mobility Mission Plan (NEMMP) 2020</strong> aims to promote electric vehicles in India.",
+      "The <strong>Faster Adoption and Manufacturing of Electric Vehicles (FAME) scheme</strong> provides subsidies for electric vehicles."
+    ],
+    "mains": {
+      "q": "The recent boost in subsidies for electric two-wheelers under the PM E-Drive scheme raises questions about the efficacy of such measures in reducing oil import dependence. Examine.",
+      "marks": "15 marks · GS3",
+      "directive": "examine",
+      "hints": [
+        "Frame the central trade-off: increased subsidies for electric two-wheelers may reduce oil imports but could also strain government finances.",
+        "Cite the National Electric Mobility Mission Plan (NEMMP) 2020 and its targets for electric vehicle adoption in India.",
+        "Distinguish between the benefits of subsidizing electric two-wheelers versus other types of electric vehicles, such as cars or buses.",
+        "Apply the concept of externalities: how do subsidies for electric two-wheelers internalize the environmental benefits of reduced oil consumption?",
+        "Conclude by proposing a comprehensive approach to promoting electric vehicles in India, including subsidies, infrastructure development, and public awareness campaigns."
+      ]
+    },
+    "connect": [
+      {
+        "topic": "National Electric Mobility Mission Plan (NEMMP) 2020",
+        "context": "The NEMMP 2020 provides a framework for promoting electric vehicles in India, including the PM E-Drive scheme."
+      },
+      {
+        "topic": "Faster Adoption and Manufacturing of Electric Vehicles (FAME) scheme",
+        "context": "The FAME scheme provides subsidies for electric vehicles, which complements the PM E-Drive scheme's goals."
+      },
+      {
+        "topic": "Societies Registration Act, 1860",
+        "context": "Many organizations promoting electric vehicles are registered under the Societies Registration Act, 1860, which provides a legal framework for their operations."
+      },
+      {
+        "topic": "Automotive Mission Plan (AMP) 2016-2026",
+        "context": "The AMP 2016-2026 outlines the government's vision for the automotive sector, including the promotion of electric vehicles."
+      },
+      {
+        "topic": "Electric Vehicle Policy, 2019",
+        "context": "Several states have introduced their own electric vehicle policies, which often provide additional incentives for electric vehicle adoption beyond the PM E-Drive scheme."
+      }
+    ],
+    "_hash": "11ff251cacdd",
+    "_fetched": "2026-05-25T10:23:15.302000+00:00",
+    "_relevance": 64,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "examine",
+    "_mcqs": [
+      {
+        "q": "Consider the following statements:\n1. The PM E-Drive scheme is administered by the Ministry of Environment, Forest and Climate Change.\n2. The scheme provides subsidies only for electric four-wheelers.\n3. The scheme aims to reduce India's oil import dependence.\nWhich of the above is/are correct?",
+        "options": [
+          "1 only",
+          "2 only",
+          "1 and 2 only",
+          "3 only"
+        ],
+        "correct": 3,
+        "explanation": "Statement 1 is incorrect: the PM E-Drive scheme is administered by the heavy industries ministry. Statement 2 is incorrect: the scheme provides subsidies for electric two-wheelers. Statement 3 is correct: the scheme aims to reduce oil import dependence.",
+        "trap": "Wrong Body"
+      },
+      {
+        "q": "Consider the following statements:\n1. The National Electric Mobility Mission Plan (NEMMP) 2020 aims to have 30% of new vehicle sales be electric by 2030.\n2. The Faster Adoption and Manufacturing of Electric Vehicles (FAME) scheme provides subsidies for electric vehicles.\n3. The PM E-Drive scheme is a part of the FAME scheme.\nWhich of the above is/are correct?",
+        "options": [
+          "1 and 2 only",
+          "1 and 3 only",
+          "2 and 3 only",
+          "1, 2 and 3"
+        ],
+        "correct": 0,
+        "explanation": "Statement 1 is correct: NEMMP 2020 aims for 30% electric vehicle sales. Statement 2 is correct: FAME provides subsidies for electric vehicles. Statement 3 is incorrect: the PM E-Drive scheme is not explicitly stated to be part of FAME.",
+        "trap": "Compositional Error"
+      }
+    ]
+  },
+  {
+    "id": 1913,
+    "title": "Sitharaman Flags Fuel, Fertiliser, Forex Management",
+    "cat": "economy",
+    "upsc": true,
+    "time": "2026-05-25T10:23:51.605116+00:00",
+    "summary": "Finance Minister Nirmala Sitharaman advocates managing fuel, fertiliser, and foreign exchange resources amid global oil shock and forex strain.",
+    "story_fact": "Sitharaman flags fuel, fertiliser, and forex management as key areas.",
+    "background": "The government aims to conserve foreign currency and reduce discretionary imports. The Prime Minister has appealed for foreign currency conservation.",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "ET Economy",
+    "link": "https://economictimes.indiatimes.com/news/economy/indicators/sitharaman-3fs-fuel-fertiliser-forex-focus-india-economy-gulf-crisis-crude-oil-price-rise-msme-payment-delay-external-sector-pressure/articleshow/131301446.cms",
+    "prelims": [
+      "The <strong>Finance Minister</strong> has appealed for conservation of foreign currency and reduction of discretionary imports.",
+      "The <strong>Foreign Exchange Management Act, 1999</strong> regulates foreign exchange transactions in India.",
+      "India's <strong>foreign exchange reserves</strong> have been affected by the global oil shock and forex strain.",
+      "The <strong>Prime Minister's</strong> appeal for foreign currency conservation is aimed at reducing the impact of the global oil shock.",
+      "The <strong>fertiliser subsidy</strong> is a significant component of India's fiscal expenditure, and its management is crucial for the economy."
+    ],
+    "mains": {
+      "q": "The Finance Minister's emphasis on managing fuel, fertiliser, and foreign exchange resources raises questions about the trade-offs between fiscal prudence and economic growth. Examine.",
+      "marks": "15 marks · GS3",
+      "directive": "examine",
+      "hints": [
+        "Frame the central trade-off: fiscal prudence vs. economic growth.",
+        "Cite the example of the 1991 economic crisis and the subsequent reforms.",
+        "Distinguish between the role of the Finance Minister and the Reserve Bank of India in managing foreign exchange reserves.",
+        "Apply the concept of opportunity cost to the decision to conserve foreign currency.",
+        "Conclude by proposing a balanced approach to managing fuel, fertiliser, and foreign exchange resources."
+      ]
+    },
+    "connect": [
+      {
+        "topic": "Fiscal Responsibility and Budget Management Act, 2003",
+        "context": "The Act regulates fiscal deficits and debt levels, which are affected by the management of fuel, fertiliser, and foreign exchange resources."
+      },
+      {
+        "topic": "Monetary Policy Committee (MPC)",
+        "context": "The MPC regulates monetary policy, which is influenced by the management of foreign exchange reserves and the impact of the global oil shock on the economy."
+      },
+      {
+        "topic": "Economic Survey of India",
+        "context": "The Survey provides an overview of the economy, including the impact of the global oil shock and the management of fuel, fertiliser, and foreign exchange resources."
+      },
+      {
+        "topic": "Reserve Bank of India (RBI) Act, 1934",
+        "context": "The Act regulates the RBI's functions, including the management of foreign exchange reserves and the regulation of foreign exchange transactions."
+      }
+    ],
+    "_hash": "f3a14482cd20",
+    "_fetched": "2026-05-25T10:23:51.605116+00:00",
+    "_relevance": 62,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "examine",
+    "_mcqs": [
+      {
+        "q": "Consider the following statements:\n1. The Finance Minister has the power to regulate foreign exchange transactions.\n2. The Reserve Bank of India is responsible for managing foreign exchange reserves.\n3. The Foreign Exchange Management Act, 1999, regulates foreign exchange transactions.\nWhich of the above is/are correct?",
+        "options": [
+          "1 only",
+          "2 only",
+          "1 and 2 only",
+          "1, 2 and 3"
+        ],
+        "correct": 3,
+        "explanation": "Statement 1 is incorrect: the Finance Minister does not have the power to regulate foreign exchange transactions. Statement 2 is correct: the Reserve Bank of India is responsible for managing foreign exchange reserves. Statement 3 is correct: the Foreign Exchange Management Act, 1999, regulates foreign exchange transactions.",
+        "trap": "Wrong Body"
+      },
+      {
+        "q": "Consider the following statements:\n1. The fertiliser subsidy is a significant component of India's fiscal expenditure.\n2. The Prime Minister's appeal for foreign currency conservation is aimed at reducing the impact of the global oil shock.\n3. The Foreign Exchange Management Act, 1999, regulates foreign exchange transactions.\nWhich of the above is/are correct?",
+        "options": [
+          "1 only",
+          "2 only",
+          "1 and 2 only",
+          "1, 2 and 3"
+        ],
+        "correct": 3,
+        "explanation": "Statement 1 is correct: the fertiliser subsidy is a significant component of India's fiscal expenditure. Statement 2 is correct: the Prime Minister's appeal for foreign currency conservation is aimed at reducing the impact of the global oil shock. Statement 3 is correct: the Foreign Exchange Management Act, 1999, regulates foreign exchange transactions.",
+        "trap": "Quantitative Trap"
+      }
+    ]
+  },
+  {
+    "id": 1914,
+    "title": "Karnataka Apiculture Farmers Hit by Low Budget Allocation",
+    "cat": "policy",
+    "upsc": true,
+    "time": "2026-05-25T10:24:07.819286+00:00",
+    "summary": "Low budgetary allocation has forced the department to provide only two to three beekeeping boxes to farmers instead of providing a minimum of 10 boxes to each under the State Apiculture Development Scheme.",
+    "story_fact": "Karnataka provides only 2-3 beekeeping boxes to farmers due to low budget allocation.",
+    "background": "The State Apiculture Development Scheme aims to promote apiculture in Karnataka. Beekeeping boxes are essential for farmers to maintain bee colonies.",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "The Hindu",
+    "link": "https://www.thehindu.com/news/national/karnataka/apiculture-farmers-hit-by-low-budget-allocation-in-karnataka/article71017341.ece",
+    "prelims": [
+      "The <strong>State Apiculture Development Scheme</strong> provides beekeeping boxes to farmers to promote apiculture in Karnataka.",
+      "Under the scheme, each farmer is entitled to a minimum of <strong>10 beekeeping boxes</strong>.",
+      "The <strong>Karnataka government</strong> has allocated a low budget for the scheme, resulting in only 2-3 boxes being provided to farmers.",
+      "The <strong>Apiculture Department</strong> is responsible for implementing the scheme and providing beekeeping boxes to farmers.",
+      "The low budget allocation has affected the livelihood of <strong>apiculture farmers</strong> in Karnataka."
+    ],
+    "mains": {
+      "q": "How does the low budget allocation for the State Apiculture Development Scheme impact the livelihood of apiculture farmers in Karnataka? Examine.",
+      "marks": "10 marks · GS3",
+      "directive": "examine",
+      "hints": [
+        "Frame the central issue: low budget allocation affects the number of beekeeping boxes provided to farmers.",
+        "Cite the impact on farmers' livelihood: reduced income, decreased bee colony maintenance.",
+        "Distinguish between the scheme's objectives and the actual implementation.",
+        "Apply the concept of sustainable agriculture: apiculture's role in pollination and ecosystem services.",
+        "Conclude by suggesting alternative funding mechanisms or policy reforms."
+      ]
+    },
+    "connect": [
+      {
+        "topic": "National Beekeeping and Honey Mission",
+        "context": "The mission aims to promote apiculture and increase honey production, which is related to the State Apiculture Development Scheme in Karnataka."
+      },
+      {
+        "topic": "Agricultural Marketing Scheme",
+        "context": "The scheme helps farmers market their products, including honey, which is a byproduct of apiculture and related to the State Apiculture Development Scheme."
+      },
+      {
+        "topic": "Sustainable Agriculture Practices",
+        "context": "Apiculture is a sustainable agriculture practice that promotes pollination and ecosystem services, which is connected to the State Apiculture Development Scheme."
+      },
+      {
+        "topic": "Rural Development Schemes",
+        "context": "The State Apiculture Development Scheme is a rural development scheme that aims to promote apiculture and improve the livelihood of farmers in rural areas."
+      },
+      {
+        "topic": "Horticulture Mission",
+        "context": "The mission aims to promote horticulture, including apiculture, which is related to the State Apiculture Development Scheme in Karnataka."
+      }
+    ],
+    "_hash": "63d265e30fed",
+    "_fetched": "2026-05-25T10:24:07.819286+00:00",
+    "_relevance": 54,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "budget",
+    "_difficulty": 2,
+    "_directive": "examine",
+    "_mcqs": [
+      {
+        "q": "Consider the following statements:\n1. The State Apiculture Development Scheme provides a minimum of 10 beekeeping boxes to each farmer.\n2. The scheme is implemented by the Apiculture Department.\n3. The low budget allocation has affected the livelihood of apiculture farmers.\nWhich of the above is/are correct?",
+        "options": [
+          "1 and 2 only",
+          "1 and 3 only",
+          "2 and 3 only",
+          "1, 2 and 3"
+        ],
+        "correct": 3,
+        "explanation": "Statement 1 is correct: the scheme provides a minimum of 10 boxes. Statement 2 is correct: the Apiculture Department implements the scheme. Statement 3 is correct: low budget allocation affects farmers' livelihood.",
+        "trap": "Quantitative Trap"
+      },
+      {
+        "q": "Consider the following statements:\n1. The State Apiculture Development Scheme is funded by the central government.\n2. The scheme aims to promote apiculture in Karnataka.\n3. The low budget allocation has resulted in only 2-3 beekeeping boxes being provided to farmers.\nWhich of the above is/are correct?",
+        "options": [
+          "1 only",
+          "2 only",
+          "1 and 2 only",
+          "2 and 3 only"
+        ],
+        "correct": 2,
+        "explanation": "Statement 1 is incorrect: the scheme is funded by the state government. Statement 2 is correct: the scheme aims to promote apiculture. Statement 3 is correct: low budget allocation results in only 2-3 boxes being provided.",
+        "trap": "Wrong Body"
+      }
+    ]
+  },
+  {
+    "id": 1915,
+    "title": "SC Reacts to NEET-UG 2026 Paper Leak",
+    "cat": "policy",
+    "upsc": true,
+    "time": "2026-05-25T10:25:24.809284+00:00",
+    "summary": "The Supreme Court issued a notice to the Ministry of Education and the NTA regarding pleas to restructure the NTA and make it answerable to Parliament due to the NEET-UG 2026 paper leak.",
+    "story_fact": "SC issues notice to Ministry of Education, NTA over NEET-UG 2026 paper leak.",
+    "background": "The National Testing Agency (NTA) is responsible for conducting entrance examinations in India. The Supreme Court has the power to issue notices and orders to ensure fairness and transparency in such examinations.",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "The Hindu",
+    "link": "https://www.thehindu.com/news/national/neet-paper-leak-sc-seeks-response-from-centre-nta-says-its-sad-they-have-not-learnt-lesson-despite-several-directions/article71020032.ece",
+    "prelims": [
+      "The <strong>Supreme Court</strong> has issued notices to the Ministry of Education and the NTA over the NEET-UG 2026 paper leak, seeking a response on the pleas to restructure the NTA.",
+      "The <strong>NTA</strong> is responsible for conducting entrance examinations in India, including NEET-UG, and is answerable to the Ministry of Education.",
+      "The <strong>NEET-UG 2026</strong> paper leak has raised concerns about the fairness and transparency of the examination process, prompting the Supreme Court to intervene.",
+      "The <strong>Constitution of India</strong> grants the Supreme Court the power to issue notices and orders to ensure fairness and transparency in examinations, under <strong>Article 32</strong>.",
+      "The <strong>Right to Education</strong> is a fundamental right under <strong>Article 21A</strong> of the Constitution, and the Supreme Court has consistently upheld the importance of fair and transparent examination processes."
+    ],
+    "mains": {
+      "q": "The NTA's handling of the NEET-UG 2026 paper leak raises questions about its accountability and transparency. Examine.",
+      "marks": "15 marks · GS2",
+      "directive": "examine",
+      "hints": [
+        "Frame the central issue: the NTA's accountability and transparency in conducting entrance examinations.",
+        "Cite the <strong>Constitution of India</strong>, specifically <strong>Article 14</strong>, which guarantees equality before the law and equal protection of the laws.",
+        "Distinguish between the NTA's role in conducting examinations and its accountability to the Ministry of Education and the Parliament.",
+        "Apply the principles of <strong>natural justice</strong> and <strong>fair play</strong> to the examination process, highlighting the importance of transparency and accountability.",
+        "Conclude by suggesting measures to improve the NTA's accountability and transparency, such as regular audits and parliamentary oversight."
+      ]
+    },
+    "connect": [
+      {
+        "topic": "Natural Justice",
+        "context": "The principles of natural justice and fair play are essential in ensuring transparency and accountability in the examination process, as highlighted by the Supreme Court in various judgments."
+      },
+      {
+        "topic": "Parliamentary Oversight",
+        "context": "The NTA's accountability to the Parliament is crucial in ensuring transparency and fairness in the examination process, and regular audits and parliamentary oversight can help achieve this goal."
+      },
+      {
+        "topic": "Constitutional Provisions for Education",
+        "context": "The Constitution of India provides for the promotion of education and the development of the human personality, and the Supreme Court has consistently upheld the importance of fair and transparent examination processes in achieving these goals."
+      }
+    ],
+    "_hash": "def87379c43e",
+    "_fetched": "2026-05-25T10:25:24.809284+00:00",
+    "_relevance": 44,
+    "_gs": [
+      "GS2"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "examine",
+    "_mcqs": [
+      {
+        "q": "Consider the following statements:\n1. The NTA is responsible for conducting entrance examinations in India.\n2. The Supreme Court has the power to issue notices and orders to the NTA.\n3. The NEET-UG 2026 paper leak is a matter of state jurisdiction.\nWhich of the above is/are correct?",
+        "options": [
+          "1 only",
+          "2 only",
+          "1 and 2 only",
+          "1, 2 and 3"
+        ],
+        "correct": 2,
+        "explanation": "Statement 1 is correct: The NTA is indeed responsible for conducting entrance examinations in India. Statement 2 is correct: The Supreme Court has the power to issue notices and orders to the NTA. Statement 3 is incorrect: The NEET-UG 2026 paper leak is a matter of national importance and falls under the jurisdiction of the Supreme Court.",
+        "trap": "Wrong Body"
+      },
+      {
+        "q": "Consider the following statements:\n1. The Supreme Court can issue notices to the NTA under <strong>Article 32</strong> of the Constitution.\n2. The NTA is answerable to the Ministry of Education.\n3. The NEET-UG 2026 paper leak is a violation of the <strong>Right to Education</strong> under <strong>Article 21A</strong>.\nWhich of the above is/are correct?",
+        "options": [
+          "1 only",
+          "2 only",
+          "1 and 2 only",
+          "1, 2 and 3"
+        ],
+        "correct": 3,
+        "explanation": "Statement 1 is correct: The Supreme Court can indeed issue notices to the NTA under Article 32 of the Constitution. Statement 2 is correct: The NTA is answerable to the Ministry of Education. Statement 3 is correct: The NEET-UG 2026 paper leak is a violation of the Right to Education under Article 21A.",
+        "trap": "Quantitative Trap"
+      }
+    ]
+  },
+  {
+    "id": 1916,
+    "title": "Nirmala Sitharaman urges focus on Fuel, Fertiliser, Forex; h",
+    "cat": "india",
+    "upsc": false,
+    "time": "2026-05-25T10:27:37.291961+00:00",
+    "summary": "Stating that India's policy response has been calibrated to preserve domestic growth, FM said the cut in diesel and petrol excise duties will lead to ",
+    "story_fact": "",
+    "background": "",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "The Hindu",
+    "link": "https://www.thehindu.com/news/national/nirmala-sitharaman-urges-focus-on-fuel-fertiliser-forex/article71020462.ece",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "12d168ee0f31",
+    "_fetched": "2026-05-25T10:27:37.291961+00:00",
+    "_relevance": 44,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 1917,
+    "title": "India’s AI boom could turn data centres into the next big in",
+    "cat": "tech",
+    "upsc": false,
+    "time": "2026-05-25T10:29:49.832041+00:00",
+    "summary": "India's data centre sector is set for massive growth, reaching nearly $46 billion by 2033. AI workloads and cloud adoption are key drivers. The market",
+    "story_fact": "",
+    "background": "",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "ET Economy",
+    "link": "https://economictimes.indiatimes.com/news/economy/infrastructure/indias-ai-boom-could-turn-data-centres-into-the-next-big-infrastructure-race-kpmg/articleshow/131305192.cms",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "9ca19cd61fd0",
+    "_fetched": "2026-05-25T10:29:49.832041+00:00",
+    "_relevance": 43,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 1918,
+    "title": "Supreme Court grants bail to Chhattisgarh's former excise co",
+    "cat": "india",
+    "upsc": false,
+    "time": "2026-05-25T10:32:02.276163+00:00",
+    "summary": "A Bench comprising Chief Justice Surya Kant and Justices Joymalya Bagchi and Vipup M. Pancholi granted the bail",
+    "story_fact": "",
+    "background": "",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "The Hindu",
+    "link": "https://www.thehindu.com/news/national/chhattisgarh/supreme-court-grants-bail-to-chhattisgarhs-former-excise-commissioner-in-two-liquor-policy-cases/article71020254.ece",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "009f310d4400",
+    "_fetched": "2026-05-25T10:32:02.276163+00:00",
+    "_relevance": 41,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 1919,
+    "title": "Energy infrastructure damaged in missile attack on Russia's ",
+    "cat": "world",
+    "upsc": false,
+    "time": "2026-05-25T10:34:14.722711+00:00",
+    "summary": "The ‌casualties were the result of the drone and missile ‌strike, the missiles cut power ‌and ⁠water supplies, authorities said",
+    "story_fact": "",
+    "background": "",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "The Hindu International",
+    "link": "https://www.thehindu.com/news/international/energy-infrastructure-damaged-in-missile-attack-on-russias-belgorod-region/article71019938.ece",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "734c1d7219b7",
+    "_fetched": "2026-05-25T10:34:14.722711+00:00",
+    "_relevance": 40,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 1920,
+    "title": "Why FIIs are dumping bluechips to hunt small &amp; midcaps",
+    "cat": "world",
+    "upsc": false,
+    "time": "2026-05-25T10:36:27.513188+00:00",
+    "summary": "Foreign institutional investors are shifting their focus from India's top blue-chip stocks to a wider array of mid- and small-cap companies. This stra",
+    "story_fact": "",
+    "background": "",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "Economic Times",
+    "link": "https://economictimes.indiatimes.com/markets/stocks/news/why-foreign-investors-are-exiting-nifty-giants-to-hunt-in-indias-small-and-midcap-market/articleshow/131300313.cms",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "512db3ab14d2",
+    "_fetched": "2026-05-25T10:36:27.513188+00:00",
+    "_relevance": 36,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 1921,
+    "title": "India turns net importer of finished steel in April, data sh",
+    "cat": "economy",
+    "upsc": false,
+    "time": "2026-05-25T10:38:40.068038+00:00",
+    "summary": "India has become a net importer of finished steel. In April, imports rose significantly while exports also saw an increase. Major suppliers to India i",
+    "story_fact": "",
+    "background": "",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "ET Economy",
+    "link": "https://economictimes.indiatimes.com/news/economy/foreign-trade/india-turns-net-importer-of-finished-steel-in-april-data-shows/articleshow/131304660.cms",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "ae86d0e18452",
+    "_fetched": "2026-05-25T10:38:40.068038+00:00",
+    "_relevance": 36,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 1922,
+    "title": "Brick kiln workers stage road blockade in Vellore against TV",
+    "cat": "world",
+    "upsc": false,
+    "time": "2026-05-25T10:40:52.604900+00:00",
+    "summary": "The TVK functionary and a few party cadre reportedly demanded each brick kiln operator to pay ₹1 lakh every month to run their units smoothly without ",
+    "story_fact": "",
+    "background": "",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "The Hindu",
+    "link": "https://www.thehindu.com/news/national/tamil-nadu/brick-kiln-workers-stage-road-blockade-in-vellore-against-tvk-functionary-for-demanding-extortion-money-to-run-units/article71020437.ece",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "764d66e39b34",
+    "_fetched": "2026-05-25T10:40:52.604900+00:00",
+    "_relevance": 33,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 1923,
+    "title": "Orbital data centres, extraterrestrial energy: Detailing Mus",
+    "cat": "tech",
+    "upsc": false,
+    "time": "2026-05-25T10:43:05.100906+00:00",
+    "summary": "",
+    "story_fact": "",
+    "background": "",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "IE Explained",
+    "link": "https://indianexpress.com/article/explained/explained-sci-tech/spacex-ipo-ai-starlink-musk-takeaways-10706513/",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "1781443567f6",
+    "_fetched": "2026-05-25T10:43:05.100906+00:00",
+    "_relevance": 33,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 1924,
+    "title": "Padma Awards 2027 nominations invited online; SETVIS sets Ju",
+    "cat": "tech",
+    "upsc": false,
+    "time": "2026-05-25T10:45:17.649856+00:00",
+    "summary": "The Ministry of Home Affairs seeks entries through the Rashtriya Puraskar Portal; in Visakhapatnam, SETVIS asks applicants to send a photocopy, biodat",
+    "story_fact": "",
+    "background": "",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "The Hindu",
+    "link": "https://www.thehindu.com/news/national/andhra-pradesh/padma-awards-2027-nominations-invited-online-setvis-sets-june-3-deadline-for-documents/article71020242.ece",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "211d11ab8768",
+    "_fetched": "2026-05-25T10:45:17.649856+00:00",
+    "_relevance": 31,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 1925,
+    "title": "CM directs heightened vigilance during Eid-ul-Azha; reviews ",
+    "cat": "tech",
+    "upsc": false,
+    "time": "2026-05-25T10:47:30.420835+00:00",
+    "summary": "He directed that namaz be offered only at traditional venues, and said under no circumstances should permission be granted to offer prayers by blockin",
+    "story_fact": "",
+    "background": "",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "The Hindu",
+    "link": "https://www.thehindu.com/news/national/uttar-pradesh/cm-directs-heightened-vigilance-during-eid-ul-azha-reviews-security-in-sensitive-up-districts/article71020247.ece",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "117bbc839114",
+    "_fetched": "2026-05-25T10:47:30.420835+00:00",
+    "_relevance": 31,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
   }
 ]
