@@ -3069,5 +3069,461 @@
     "_difficulty": 2,
     "_directive": "discuss",
     "_mcqs": []
+  },
+  {
+    "id": 1931,
+    "title": "India, US Resume Trade Talks",
+    "cat": "economy",
+    "upsc": true,
+    "time": "2026-06-02T04:47:37.648271+00:00",
+    "summary": "India and the US are resuming trade talks to finalize a bilateral trade agreement, with India seeking relief from US tariffs and both nations aiming for a mutually beneficial deal.",
+    "story_fact": "India and the US are resuming trade talks this week to finalize a bilateral trade agreement.",
+    "background": "The US and India have been negotiating a trade agreement to boost economic ties. The talks involve discussions on tariffs, market access, and trade facilitation.",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "ET Economy",
+    "link": "https://economictimes.indiatimes.com/news/economy/foreign-trade/india-us-trade-deal-meet-to-resolve-final-commas-and-full-stops-of-bilateral-pact/articleshow/131452848.cms",
+    "prelims": [
+      "The <strong>US Trade Act of 1974</strong> grants the US President the authority to negotiate trade agreements, which must be approved by Congress.",
+      "The <strong>Generalized System of Preferences (GSP)</strong> is a US trade program that provides duty-free access to certain products from developing countries, including India.",
+      "India has been seeking <strong>tariff relief</strong> on certain products, including textiles and pharmaceuticals, as part of the trade agreement.",
+      "The US has been pushing for <strong>greater market access</strong> for its agricultural products, including dairy and poultry, in the Indian market.",
+      "The trade agreement is expected to include <strong>provisions on trade facilitation</strong>, including customs clearance and logistics, to improve the ease of doing business between the two countries."
+    ],
+    "mains": {
+      "q": "The US Trade Act of 1974 provides the framework for US trade agreements. Examine the implications of this act on India-US trade relations. (15 marks · GS2)",
+      "marks": "15 marks · GS2",
+      "directive": "examine",
+      "hints": [
+        "Frame the central issue: the US Trade Act of 1974 grants the President significant authority to negotiate trade agreements, which can impact India-US trade relations.",
+        "Cite the example of the US withdrawal from the Trans-Pacific Partnership (TPP) in 2017, which highlighted the risks of relying on executive agreements in trade policy.",
+        "Distinguish between the trade agreements negotiated under the Trade Act of 1974 and those negotiated under the Trade Promotion Authority (TPA), highlighting the differences in congressional approval requirements.",
+        "Apply the concept of trade facilitation to the India-US trade agreement, discussing how provisions on customs clearance and logistics can improve the ease of doing business between the two countries.",
+        "Conclude by suggesting that the India-US trade agreement should include provisions for regular review and consultation to ensure that the agreement remains relevant and effective in promoting bilateral trade."
+      ]
+    },
+    "connect": [
+      {
+        "topic": "Trade Promotion Authority (TPA)",
+        "context": "The TPA provides a framework for congressional approval of trade agreements, which is relevant to the India-US trade talks."
+      },
+      {
+        "topic": "General Agreement on Tariffs and Trade (GATT)",
+        "context": "The GATT provides a multilateral framework for trade agreements, which can inform the India-US trade agreement."
+      },
+      {
+        "topic": "North American Free Trade Agreement (NAFTA)",
+        "context": "The NAFTA experience can provide lessons for the India-US trade agreement, particularly on issues like trade facilitation and dispute settlement."
+      },
+      {
+        "topic": "World Trade Organization (WTO) Dispute Settlement Body",
+        "context": "The WTO Dispute Settlement Body can play a role in resolving trade disputes between India and the US, particularly if the trade agreement is notified to the WTO."
+      },
+      {
+        "topic": "US Trade Representative (USTR)",
+        "context": "The USTR plays a key role in negotiating trade agreements on behalf of the US, including the India-US trade agreement."
+      }
+    ],
+    "_hash": "337ce02412de",
+    "_fetched": "2026-06-02T04:47:37.648271+00:00",
+    "_relevance": 50,
+    "_gs": [
+      "GS2"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "examine",
+    "_mcqs": [
+      {
+        "q": "Consider the following statements:\n1. The US Trade Act of 1974 requires congressional approval for all trade agreements.\n2. The Generalized System of Preferences (GSP) provides duty-free access to all products from developing countries.\n3. India has been seeking tariff relief on textiles and pharmaceuticals in the trade talks.\nWhich of the above is/are correct?",
+        "options": [
+          "1 only",
+          "2 only",
+          "1 and 2 only",
+          "1, 2 and 3"
+        ],
+        "correct": 3,
+        "explanation": "Statement 1 is incorrect: the US Trade Act of 1974 grants the President authority to negotiate trade agreements, which must be approved by Congress, but not all trade agreements require congressional approval. Statement 2 is incorrect: the GSP provides duty-free access to certain products from developing countries, not all products. Statement 3 is correct: India has been seeking tariff relief on certain products, including textiles and pharmaceuticals, in the trade talks.",
+        "trap": "Wrong Article"
+      },
+      {
+        "q": "Consider the following statements:\n1. The US has been pushing for greater market access for its agricultural products in the Indian market.\n2. The trade agreement is expected to include provisions on trade facilitation, including customs clearance and logistics.\n3. The India-US trade agreement will be limited to trade in goods and will not cover services.\nWhich of the above is/are correct?",
+        "options": [
+          "1 and 2 only",
+          "1 and 3 only",
+          "2 and 3 only",
+          "1, 2 and 3"
+        ],
+        "correct": 0,
+        "explanation": "Statement 1 is correct: the US has been pushing for greater market access for its agricultural products in the Indian market. Statement 2 is correct: the trade agreement is expected to include provisions on trade facilitation, including customs clearance and logistics. Statement 3 is incorrect: the India-US trade agreement is likely to cover both goods and services.",
+        "trap": "Scope Confusion"
+      }
+    ]
+  },
+  {
+    "id": 1932,
+    "title": "Black Box, AIONOS forge AI-led infra alliance",
+    "cat": "tech",
+    "upsc": true,
+    "time": "2026-06-02T04:48:13.882823+00:00",
+    "summary": "Black Box and AIONOS collaborate on AI-led infrastructure and applications across India, North America, EMEA, and APAC.",
+    "story_fact": "Black Box and AIONOS forge alliance to scale AI-led infra and applications.",
+    "background": "Black Box is a leading digital solutions provider, and AIONOS is an AI-focused company. Their alliance aims to develop industry-focused solutions.",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "The Hindu Business",
+    "link": "https://www.thehindu.com/business/Industry/black-box-aionos-forge-alliance-to-scale-up-ai-led-infra-applications/article71047977.ece",
+    "prelims": [
+      "The <strong>Electronically Transmitted Postal Ballot System (ETPBS)</strong> was rolled out in 2016 for service voters, but this story is about AI-led infrastructure.",
+      "The <strong>Information Technology Act, 2000</strong> provides the legal basis for electronic transactions, including those related to AI-led infrastructure.",
+      "The <strong>Ministry of Electronics and Information Technology (MeitY)</strong> oversees the development of AI in India, including its applications in infrastructure.",
+      "The <strong>National Artificial Intelligence Strategy</strong> aims to make India a global leader in AI, with applications in various sectors, including infrastructure.",
+      "The <strong>AI Task Force Report (2018)</strong> recommended the establishment of an AI mission to promote the development of AI in India, including its applications in infrastructure."
+    ],
+    "mains": {
+      "q": "How does the alliance between Black Box and AIONOS reflect the growing importance of AI in infrastructure development? Examine.",
+      "marks": "15 marks · GS3",
+      "directive": "examine",
+      "hints": [
+        "Frame the central trade-off: AI-led infrastructure boosts efficiency but raises concerns about job displacement and data security.",
+        "Cite the National Artificial Intelligence Strategy and its goals for AI adoption in infrastructure.",
+        "Distinguish between the applications of AI in public and private infrastructure development.",
+        "Apply the principles of the Information Technology Act, 2000, to the development of AI-led infrastructure.",
+        "Conclude by proposing a framework for the responsible development and deployment of AI in infrastructure."
+      ]
+    },
+    "connect": [
+      {
+        "topic": "Digital India Initiative",
+        "context": "The alliance between Black Box and AIONOS is part of the broader Digital India Initiative, which aims to promote the use of technology, including AI, to improve the lives of citizens and promote economic growth."
+      }
+    ],
+    "_hash": "cba91003019c",
+    "_fetched": "2026-06-02T04:48:13.882823+00:00",
+    "_relevance": 48,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "examine",
+    "_mcqs": [
+      {
+        "q": "Consider the following statements:\n1. The alliance between Black Box and AIONOS is focused on AI-led infrastructure development.\n2. The alliance covers four regions, including India and North America.\n3. The alliance is limited to the development of AI applications in the private sector.\nWhich of the above is/are correct?",
+        "options": [
+          "1 only",
+          "2 only",
+          "1 and 2 only",
+          "1, 2 and 3"
+        ],
+        "correct": 2,
+        "explanation": "Statement 1 is correct: The alliance is focused on AI-led infrastructure development. Statement 2 is correct: The alliance covers four regions, including India and North America. Statement 3 is incorrect: The alliance is not limited to the private sector.",
+        "trap": "Scope Confusion"
+      },
+      {
+        "q": "Consider the following statements:\n1. The National Artificial Intelligence Strategy aims to make India a global leader in AI.\n2. The alliance between Black Box and AIONOS is a result of the National Artificial Intelligence Strategy.\n3. The alliance is focused on the development of AI applications in the public sector.\nWhich of the above is/are correct?",
+        "options": [
+          "1 only",
+          "1 and 2 only",
+          "2 and 3 only",
+          "1, 2 and 3"
+        ],
+        "correct": 0,
+        "explanation": "Statement 1 is correct: The National Artificial Intelligence Strategy aims to make India a global leader in AI. Statement 2 is incorrect: The alliance is not a direct result of the National Artificial Intelligence Strategy. Statement 3 is incorrect: The alliance is not limited to the public sector.",
+        "trap": "Quantitative Trap"
+      }
+    ]
+  },
+  {
+    "id": 1933,
+    "title": "India's CPI inflation expected to rise to 4.8% in FY27",
+    "cat": "economy",
+    "upsc": true,
+    "time": "2026-06-02T04:48:50.496688+00:00",
+    "summary": "India's inflation is forecasted to reach 4.8% by FY27, driven by crude oil prices averaging USD 90 per barrel, influenced by the ongoing conflict in West Asia and a less favorable monsoon outlook.",
+    "story_fact": "India's CPI inflation to rise to 4.8% in FY27 with crude oil at USD 90/bbl",
+    "background": "The Consumer Price Index (CPI) measures inflation based on the price of a basket of goods and services. Crude oil prices significantly impact India's inflation due to its effect on fuel and transportation costs.",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "ET Economy",
+    "link": "https://economictimes.indiatimes.com/news/economy/indicators/indias-cpi-inflation-expected-to-rise-to-4-8-with-crude-oil-averaging-usd-90/bbl-in-fy27-report-west-asia-conflict/articleshow/131454123.cms",
+    "prelims": [
+      "The <strong>Consumer Price Index (CPI)</strong> is the official measure of inflation in India, calculated by the National Statistical Office (NSO).",
+      "The <strong>Monetary Policy Committee (MPC)</strong> of the Reserve Bank of India (RBI) uses CPI inflation as a key indicator for setting interest rates.",
+      "India's <strong>crude oil imports</strong> are heavily influenced by global prices, with the country relying on imports for approximately 80% of its oil needs.",
+      "The <strong>West Asia conflict</strong> has led to volatility in global crude oil markets, affecting India's import bills and inflation.",
+      "The <strong>RBI's inflation targeting framework</strong> aims to keep CPI inflation within a range of 2-6%, with a medium-term target of 4%."
+    ],
+    "mains": {
+      "q": "The RBI's inflation targeting framework has been criticized for prioritizing price stability over growth. Examine the trade-offs between these objectives in the context of India's economic development.",
+      "marks": "15 marks · GS3",
+      "directive": "examine",
+      "hints": [
+        "Frame the central trade-off between inflation control and economic growth, considering the impact on employment and investment.",
+        "Cite the example of the 2020-21 economic contraction, where inflation concerns were temporarily set aside to prioritize stimulus measures.",
+        "Distinguish between the RBI's monetary policy tools, such as interest rates and reserve requirements, and their effects on inflation and growth.",
+        "Apply the concept of the Phillips Curve, which suggests a trade-off between inflation and unemployment, to the Indian context.",
+        "Conclude by proposing a balanced approach that considers both price stability and growth objectives, taking into account India's unique economic challenges."
+      ]
+    },
+    "connect": [
+      {
+        "topic": "Fiscal Policy and Inflation",
+        "context": "The government's fiscal policy, including taxation and expenditure, can influence inflation and economic growth, making it essential to coordinate with monetary policy."
+      },
+      {
+        "topic": "Monetary Policy Transmission",
+        "context": "The effectiveness of monetary policy in controlling inflation depends on the transmission mechanism, which involves the impact of interest rates on aggregate demand and prices."
+      },
+      {
+        "topic": "Supply-Side Inflation",
+        "context": "Inflation can also be driven by supply-side factors, such as agricultural production and global commodity prices, which can affect India's inflation outlook."
+      },
+      {
+        "topic": "Inflation Expectations",
+        "context": "Inflation expectations, as measured by surveys and market indicators, can influence actual inflation, making it essential to manage expectations through effective communication and policy actions."
+      },
+      {
+        "topic": "GDP Deflator and Inflation",
+        "context": "The GDP deflator, which measures the overall price level of goods and services, can provide insights into inflation trends and the effectiveness of monetary policy."
+      }
+    ],
+    "_hash": "26ce5cdcf6ad",
+    "_fetched": "2026-06-02T04:48:50.496688+00:00",
+    "_relevance": 43,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "examine",
+    "_mcqs": [
+      {
+        "q": "Consider the following statements:\n1. The RBI's inflation targeting framework prioritizes price stability over economic growth.\n2. The Consumer Price Index (CPI) is the official measure of inflation in India.\n3. The Monetary Policy Committee (MPC) sets interest rates based solely on GDP growth rates.\nWhich of the above is/are correct?",
+        "options": [
+          "1 only",
+          "2 only",
+          "1 and 2 only",
+          "1, 2 and 3"
+        ],
+        "correct": 2,
+        "explanation": "Statement 1 is incorrect: the RBI's framework aims to balance price stability and growth. Statement 2 is correct: CPI is the official inflation measure. Statement 3 is incorrect: the MPC considers multiple factors, including inflation and growth.",
+        "trap": "Quantitative Trap"
+      },
+      {
+        "q": "Consider the following statements:\n1. India's crude oil imports are heavily influenced by global prices.\n2. The West Asia conflict has led to a decrease in global crude oil prices.\n3. The RBI's inflation targeting framework has been effective in maintaining price stability.\nWhich of the above is/are correct?",
+        "options": [
+          "1 only",
+          "2 only",
+          "1 and 2 only",
+          "1, 2 and 3"
+        ],
+        "correct": 0,
+        "explanation": "Statement 1 is correct: India relies heavily on crude oil imports. Statement 2 is incorrect: the conflict has led to price volatility, not a decrease. Statement 3 is incorrect: the framework has faced challenges in maintaining price stability.",
+        "trap": "Timeline Confusion"
+      }
+    ]
+  },
+  {
+    "id": 1934,
+    "title": "Government Notifies Changes in Immigration and Foreigners Rules, 2025",
+    "cat": "policy",
+    "upsc": true,
+    "time": "2026-06-02T04:49:06.449418+00:00",
+    "summary": "The government has notified changes in the Immigration and Foreigners Rules, replacing the previous rule that required registration within fourteen days after the expiry of one hundred and eighty days of arrival in India.",
+    "story_fact": "The new provision replaces the previous rule that required registration within fourteen days after the expiry of one hundred and eighty days of arrival in India.",
+    "background": "The Immigration and Foreigners Rules are governed by the Foreigners Act, 1946, and the Registration of Foreigners Act, 1939. These rules regulate the entry and stay of foreigners in India.",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "The Hindu",
+    "link": "https://www.thehindu.com/news/national/government-notifies-changes-in-immigration-and-foreigners-rules-2025/article71050961.ece",
+    "prelims": [
+      "The <strong>Foreigners Act, 1946</strong> empowers the Central Government to regulate the entry and stay of foreigners in India. The Act also defines the term 'foreigner' and prescribes the procedure for registration.",
+      "The <strong>Registration of Foreigners Act, 1939</strong> requires foreigners to register with the authorities within a specified period of their arrival in India. The Act also prescribes the procedure for registration and the consequences of non-registration.",
+      "The <strong>Immigration and Foreigners Rules, 2025</strong> have been notified to replace the previous rules that required registration within fourteen days after the expiry of one hundred and eighty days of arrival in India.",
+      "The <strong>Ministry of Home Affairs</strong> is responsible for regulating the entry and stay of foreigners in India. The Ministry also issues guidelines and instructions for the registration of foreigners.",
+      "The <strong>Registration process</strong> for foreigners involves submitting an application with the required documents and paying the prescribed fee. The registration certificate is issued after verification of the documents and payment of the fee."
+    ],
+    "mains": {
+      "q": "The recent changes in the Immigration and Foreigners Rules, 2025, have raised questions about the balance between national security and individual rights. Examine.",
+      "marks": "15 marks · GS2",
+      "directive": "examine",
+      "hints": [
+        "The changes in the Immigration and Foreigners Rules, 2025, have been made to strengthen national security and prevent illegal immigration.",
+        "The rules prescribe a more stringent registration process for foreigners, which may infringe upon their individual rights.",
+        "The Supreme Court has held that the right to privacy is a fundamental right, and any infringement upon this right must be reasonable and justifiable.",
+        "The changes in the rules may have a disproportionate impact on certain groups, such as refugees and asylum seekers.",
+        "The government must balance national security concerns with individual rights and ensure that the rules are reasonable and justifiable."
+      ]
+    },
+    "connect": [
+      {
+        "topic": "Human Rights",
+        "context": "The rules prescribe a more stringent registration process for foreigners, which may infringe upon their individual rights."
+      },
+      {
+        "topic": "Refugee Law",
+        "context": "The changes in the rules may have a disproportionate impact on certain groups, such as refugees and asylum seekers."
+      },
+      {
+        "topic": "Privacy Law",
+        "context": "The Supreme Court has held that the right to privacy is a fundamental right, and any infringement upon this right must be reasonable and justifiable."
+      },
+      {
+        "topic": "Administrative Law",
+        "context": "The government must balance national security concerns with individual rights and ensure that the rules are reasonable and justifiable."
+      }
+    ],
+    "_hash": "568d1516e582",
+    "_fetched": "2026-06-02T04:49:06.449418+00:00",
+    "_relevance": 41,
+    "_gs": [
+      "GS2"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "examine",
+    "_mcqs": [
+      {
+        "q": "Consider the following statements:\n1. The Foreigners Act, 1946, empowers the Central Government to regulate the entry and stay of foreigners in India.\n2. The Registration of Foreigners Act, 1939, requires foreigners to register with the authorities within a specified period of their arrival in India.\n3. The Immigration and Foreigners Rules, 2025, have been notified to replace the previous rules that required registration within fourteen days after the expiry of one hundred and eighty days of arrival in India.\nWhich of the above is/are correct?",
+        "options": [
+          "1 only",
+          "2 only",
+          "1 and 2 only",
+          "1, 2 and 3"
+        ],
+        "correct": 3,
+        "explanation": "Statement 1 is correct: The Foreigners Act, 1946, empowers the Central Government to regulate the entry and stay of foreigners in India. Statement 2 is correct: The Registration of Foreigners Act, 1939, requires foreigners to register with the authorities within a specified period of their arrival in India. Statement 3 is correct: The Immigration and Foreigners Rules, 2025, have been notified to replace the previous rules that required registration within fourteen days after the expiry of one hundred and eighty days of arrival in India.",
+        "trap": "Recent Update Trap"
+      },
+      {
+        "q": "Consider the following statements:\n1. The Ministry of Home Affairs is responsible for regulating the entry and stay of foreigners in India.\n2. The Registration process for foreigners involves submitting an application with the required documents and paying the prescribed fee.\nWhich of the above is/are correct?",
+        "options": [
+          "Only 1",
+          "Only 2",
+          "Both 1 and 2",
+          "Neither 1 nor 2"
+        ],
+        "correct": 3,
+        "explanation": "Statement 1 is correct: The Ministry of Home Affairs is responsible for regulating the entry and stay of foreigners in India. Statement 2 is correct: The Registration process for foreigners involves submitting an application with the required documents and paying the prescribed fee.",
+        "trap": "Compositional Error"
+      }
+    ]
+  },
+  {
+    "id": 1935,
+    "title": "Sensex falls over 400 points, Nifty below 23,250 amid US-Ira",
+    "cat": "economy",
+    "upsc": false,
+    "time": "2026-06-02T04:51:18.961956+00:00",
+    "summary": "Indian stock markets experienced a significant downturn on Tuesday. Both the Sensex and Nifty indices saw substantial declines. This drop was influenc",
+    "story_fact": "",
+    "background": "",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "Economic Times",
+    "link": "https://economictimes.indiatimes.com/markets/stocks/news/sensex-falls-over-400-points-nifty-below-23250-amid-us-iran-tensions-persistent-fii-selling/articleshow/131454214.cms",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "d3cb1a4ca1e5",
+    "_fetched": "2026-06-02T04:51:18.961956+00:00",
+    "_relevance": 34,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 1936,
+    "title": "30 Indians living and working illegally in U.S. as truck dri",
+    "cat": "india",
+    "upsc": false,
+    "time": "2026-06-02T04:53:31.527826+00:00",
+    "summary": "Operation Checkmate is aimed at enhancing public safety through enforcement of immigration statutes to detect and arrest illegal persons operating com",
+    "story_fact": "",
+    "background": "",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "The Hindu",
+    "link": "https://www.thehindu.com/news/international/30-indians-living-and-working-illegally-in-us-as-truck-drivers-arrested-will-be-deported/article71050971.ece",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "5a4a1f2910b6",
+    "_fetched": "2026-06-02T04:53:31.527826+00:00",
+    "_relevance": 31,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 1937,
+    "title": "Every eligible student in every village should be able to pu",
+    "cat": "tech",
+    "upsc": false,
+    "time": "2026-06-02T04:55:43.927596+00:00",
+    "summary": "Highlighting the role of facilitation centres set up across the State to provide assistance to students during the admission process, the Minister sai",
+    "story_fact": "",
+    "background": "",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "The Hindu",
+    "link": "https://www.thehindu.com/news/national/tamil-nadu/every-eligible-student-in-every-village-should-be-able-to-pursue-higher-education-that-is-our-governments-goal-tn-higher-education-minister/article71048711.ece",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "db3a2d400f51",
+    "_fetched": "2026-06-02T04:55:43.927596+00:00",
+    "_relevance": 31,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
   }
 ]
