@@ -6083,5 +6083,403 @@
     "_difficulty": 2,
     "_directive": "discuss",
     "_mcqs": []
+  },
+  {
+    "id": 1928,
+    "title": "US Plans 12.5% Tariffs on India",
+    "cat": "economy",
+    "upsc": true,
+    "time": "2026-06-03T04:57:33.382715+00:00",
+    "summary": "The US plans to impose new tariffs on imports from India and 59 other countries due to forced-labor practices, with certain countries facing a higher 12.5% tariff.",
+    "story_fact": "US to impose 12.5% tariffs on India and 59 other countries",
+    "background": "The US has laws to prevent importation of goods made with forced labor. Countries must enforce these laws to avoid tariffs.",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "LiveMint",
+    "link": "https://www.livemint.com/money/personal-finance/us-plans-extra-12-5-tariffs-on-india-59-other-countries-for-not-enforcing-forced-labour-ban-report-11780456894355.html",
+    "prelims": [
+      "The <strong>US Tariff Act of 1930</strong> prohibits importation of goods made with forced labor. Countries must comply to avoid tariffs.",
+      "The <strong>Forced Labor Convention, 1930</strong> is an ILO convention that aims to suppress forced labor. The US is a signatory.",
+      "The US has imposed tariffs on <strong>60 countries</strong>, including India, for not enforcing forced-labor bans.",
+      "The <strong>US Trade Act of 1974</strong> gives the President the authority to impose tariffs on countries that do not comply with US trade laws.",
+      "The <strong>WTO's General Agreement on Tariffs and Trade (GATT)</strong> allows countries to impose tariffs for certain reasons, including to protect human rights."
+    ],
+    "mains": {
+      "q": "The imposition of tariffs by the US on countries for not enforcing forced-labor bans raises questions about the balance between trade and human rights. Examine.",
+      "marks": "15 marks · GS2",
+      "directive": "examine",
+      "hints": [
+        "Frame the central trade-off: tariffs can reduce forced labor but also harm trade and economic growth.",
+        "Cite the US Tariff Act of 1930 and the Forced Labor Convention, 1930, to argue that the US has a legal basis for imposing tariffs.",
+        "Distinguish between the US approach and the EU's approach to addressing forced labor in trade.",
+        "Apply the concept of human rights to argue that tariffs are a necessary measure to protect workers.",
+        "Conclude by proposing a multilateral approach to addressing forced labor, involving international organizations and governments."
+      ]
+    },
+    "connect": [
+      {
+        "topic": "Generalized System of Preferences (GSP)",
+        "context": "The US GSP program provides tariff benefits to countries that comply with US trade laws, including those related to forced labor."
+      },
+      {
+        "topic": "International Labour Organization (ILO)",
+        "context": "The ILO is responsible for promoting fair labor practices globally, including the suppression of forced labor."
+      },
+      {
+        "topic": "World Trade Organization (WTO) Dispute Settlement Body",
+        "context": "The WTO's Dispute Settlement Body can hear cases related to trade disputes, including those related to tariffs imposed for forced labor."
+      },
+      {
+        "topic": "US Trade Representative (USTR)",
+        "context": "The USTR is responsible for negotiating trade agreements and enforcing US trade laws, including those related to forced labor."
+      },
+      {
+        "topic": "Tariff Act of 1930, Section 307",
+        "context": "Section 307 of the Tariff Act of 1930 prohibits the importation of goods made with forced labor, and is the basis for the US tariffs imposed on countries for not enforcing forced-labor bans."
+      }
+    ],
+    "_hash": "9a92a4c69dfd",
+    "_fetched": "2026-06-03T04:57:33.382715+00:00",
+    "_relevance": 46,
+    "_gs": [
+      "GS2",
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "examine",
+    "_mcqs": [
+      {
+        "q": "Consider the following statements:\n1. The US Tariff Act of 1930 prohibits importation of goods made with forced labor.\n2. The US has imposed tariffs on 60 countries, including India, for not enforcing forced-labor bans.\n3. The WTO's GATT allows countries to impose tariffs for certain reasons, including to protect human rights.\nWhich of the above is/are correct?",
+        "options": [
+          "1 only",
+          "2 only",
+          "1 and 2 only",
+          "1, 2 and 3"
+        ],
+        "correct": 3,
+        "explanation": "Statement 1 is correct: the US Tariff Act of 1930 prohibits importation of goods made with forced labor. Statement 2 is correct: the US has imposed tariffs on 60 countries, including India, for not enforcing forced-labor bans. Statement 3 is correct: the WTO's GATT allows countries to impose tariffs for certain reasons, including to protect human rights.",
+        "trap": "Definitional Trap"
+      },
+      {
+        "q": "Consider the following statements:\n1. The US Trade Act of 1974 gives the President the authority to impose tariffs on countries that do not comply with US trade laws.\n2. The Forced Labor Convention, 1930, is an ILO convention that aims to suppress forced labor.\n3. The US is not a signatory to the Forced Labor Convention, 1930.\nWhich of the above is/are correct?",
+        "options": [
+          "1 only",
+          "2 only",
+          "1 and 2 only",
+          "1, 2 and 3"
+        ],
+        "correct": 2,
+        "explanation": "Statement 1 is correct: the US Trade Act of 1974 gives the President the authority to impose tariffs on countries that do not comply with US trade laws. Statement 2 is correct: the Forced Labor Convention, 1930, is an ILO convention that aims to suppress forced labor. Statement 3 is incorrect: the US is a signatory to the Forced Labor Convention, 1930.",
+        "trap": "Recent Update Trap"
+      }
+    ]
+  },
+  {
+    "id": 1929,
+    "title": "Crypto Fuels Drone Purchases in Russia and Iran",
+    "cat": "tech",
+    "upsc": true,
+    "time": "2026-06-03T04:58:09.451529+00:00",
+    "summary": "Chainalysis found that while most drone purchases are made using traditional financial rails, procurement networks are increasingly intersecting with the blockchain, particularly in Russia and Iran.",
+    "story_fact": "Chainalysis reports crypto fuels drone purchases in Russia and Iran.",
+    "background": "The blockchain is a public digital ledger on which cryptocurrencies are based. Procurement networks are using cryptocurrencies for transactions.",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "The Hindu International",
+    "link": "https://www.thehindu.com/sci-tech/technology/crypto-fuels-drone-purchases-in-russia-and-iran-report/article70805618.ece",
+    "prelims": [
+      "The <strong>blockchain</strong> is a public digital ledger on which cryptocurrencies are based, enabling secure and transparent transactions.",
+      "The <strong>Representation of the People Act, 1951</strong> does not directly address the use of cryptocurrencies in electoral processes, but it does outline the framework for elections in India.",
+      "Chainalysis found that <strong>1468</strong> service voters were not the focus of their report, but rather the intersection of procurement networks with the blockchain in Russia and Iran.",
+      "The <strong>Supreme Court</strong> has ruled on the use of technology in elections, but the specific application of cryptocurrencies in drone purchases is a new development.",
+      "The use of <strong>cryptocurrencies</strong> in drone purchases raises questions about the regulation of such transactions and their potential impact on national security."
+    ],
+    "mains": {
+      "q": "The intersection of blockchain technology and procurement networks raises questions about the regulation of such transactions. Examine.",
+      "marks": "15 marks · GS3",
+      "directive": "examine",
+      "hints": [
+        "Frame the central issue: the lack of clear regulations on the use of cryptocurrencies in procurement networks creates uncertainty.",
+        "Cite the example of Russia and Iran, where cryptocurrencies are being used to fuel drone purchases, highlighting the need for international cooperation.",
+        "Distinguish between the use of blockchain for secure transactions and the specific application of cryptocurrencies in procurement networks.",
+        "Apply the concept of national security to the use of cryptocurrencies in drone purchases, considering the potential risks and benefits.",
+        "Conclude by proposing a framework for regulating the use of cryptocurrencies in procurement networks, balancing security concerns with the need for innovation."
+      ]
+    },
+    "connect": [
+      {
+        "topic": "National Security Doctrine",
+        "context": "The use of cryptocurrencies in drone purchases raises questions about national security and the need for regulation."
+      },
+      {
+        "topic": "International Cooperation",
+        "context": "The use of cryptocurrencies in procurement networks requires international cooperation to regulate and prevent illicit activities."
+      },
+      {
+        "topic": "Procurement Networks",
+        "context": "The intersection of procurement networks with the blockchain raises questions about the efficiency and security of such transactions, and the potential benefits of using cryptocurrencies in procurement processes."
+      }
+    ],
+    "_hash": "ee57b4811277",
+    "_fetched": "2026-06-03T04:58:09.451529+00:00",
+    "_relevance": 40,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "examine",
+    "_mcqs": [
+      {
+        "q": "Consider the following statements:\n1. The use of cryptocurrencies in procurement networks is regulated by the government.\n2. The blockchain is a private digital ledger.\n3. Chainalysis reported on the intersection of procurement networks with the blockchain in Russia and Iran.\nWhich of the above is/are correct?",
+        "options": [
+          "1 only",
+          "2 only",
+          "1 and 2 only",
+          "3"
+        ],
+        "correct": 3,
+        "explanation": "Statement 1 is incorrect: the use of cryptocurrencies in procurement networks is not regulated by the government. Statement 2 is incorrect: the blockchain is a public digital ledger. Statement 3 is correct: Chainalysis did report on the intersection of procurement networks with the blockchain in Russia and Iran.",
+        "trap": "Wrong Article"
+      },
+      {
+        "q": "Consider the following statements:\n1. The Supreme Court has ruled on the use of technology in elections.\n2. The Representation of the People Act, 1951 addresses the use of cryptocurrencies in electoral processes.\n3. Chainalysis found that cryptocurrencies are being used to fuel drone purchases in Russia and Iran.\nWhich of the above is/are correct?",
+        "options": [
+          "1 only",
+          "1 and 2 only",
+          "2 and 3 only",
+          "1, 2 and 3"
+        ],
+        "correct": 1,
+        "explanation": "Statement 1 is correct: the Supreme Court has ruled on the use of technology in elections. Statement 2 is incorrect: the Representation of the People Act, 1951 does not address the use of cryptocurrencies in electoral processes. Statement 3 is correct: Chainalysis did find that cryptocurrencies are being used to fuel drone purchases in Russia and Iran.",
+        "trap": "Compositional Error"
+      }
+    ]
+  },
+  {
+    "id": 1930,
+    "title": "USTR Proposes 12.5% Duties on India Over Forced Labour",
+    "cat": "economy",
+    "upsc": true,
+    "time": "2026-06-03T04:58:45.900909+00:00",
+    "summary": "The USTR has proposed 12.5% additional duties on India and 53 other countries over forced labour import violations, following investigations into their failure to impose and enforce bans on such imports.",
+    "story_fact": "USTR proposes 12.5% duties on India under forced labour import violations",
+    "background": "The USTR investigates countries for failure to impose and enforce bans on imports made with forced labour. Section 307 of the Tariff Act of 1930 prohibits the importation of goods made with forced labour.",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "The Hindu",
+    "link": "https://www.thehindu.com/news/international/ustr-proposes-125-additional-duties-on-india-53-other-countries-over-forced-labour-import-violations/article71055423.ece",
+    "prelims": [
+      "The <strong>USTR</strong> has proposed additional duties on 54 countries, including India, for violating forced labour import norms.",
+      "The <strong>Tariff Act of 1930</strong> prohibits the importation of goods made with forced labour, under Section 307.",
+      "The USTR has proposed a <strong>12.5%</strong> additional duty on Indian goods due to forced labour import violations.",
+      "The <strong>International Labour Organization (ILO)</strong> has identified forced labour as a major concern in several countries, including India.",
+      "The <strong>US Customs and Border Protection</strong> has the authority to seize goods suspected of being made with forced labour."
+    ],
+    "mains": {
+      "q": "The USTR's proposal to impose additional duties on India for forced labour import violations raises questions about the effectiveness of international labour standards. Examine.",
+      "marks": "15 marks · GS2",
+      "directive": "examine",
+      "hints": [
+        "Frame the central issue: the USTR's proposal highlights the tension between trade and labour rights.",
+        "Cite the ILO's definition of forced labour and its relevance to the USTR's investigation.",
+        "Distinguish between the USTR's authority under Section 307 of the Tariff Act of 1930 and the ILO's role in promoting international labour standards.",
+        "Apply the concept of 'comparative advantage' to argue for or against the imposition of duties on Indian goods.",
+        "Conclude by suggesting ways to balance trade and labour rights, including the role of international cooperation and domestic regulation."
+      ]
+    },
+    "connect": [
+      {
+        "topic": "Generalized System of Preferences (GSP)",
+        "context": "The USTR's proposal to impose duties on India may be related to the GSP, which provides preferential tariff treatment to certain countries, including India."
+      },
+      {
+        "topic": "Section 301 of the Trade Act of 1974",
+        "context": "The USTR's authority to investigate and impose duties on countries for unfair trade practices, including forced labour, is based on Section 301 of the Trade Act of 1974."
+      },
+      {
+        "topic": "World Trade Organization (WTO) Agreements",
+        "context": "The USTR's proposal to impose duties on India may be subject to WTO agreements, including the General Agreement on Tariffs and Trade (GATT) and the Agreement on Trade-Related Aspects of Intellectual Property Rights (TRIPS)."
+      }
+    ],
+    "_hash": "d05d9b10a1cf",
+    "_fetched": "2026-06-03T04:58:45.900909+00:00",
+    "_relevance": 39,
+    "_gs": [
+      "GS2",
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "examine",
+    "_mcqs": [
+      {
+        "q": "Consider the following statements:\n1. The USTR has proposed additional duties on India for violating forced labour import norms.\n2. The Tariff Act of 1930 prohibits the importation of goods made with forced labour.\n3. The ILO has identified forced labour as a major concern in several countries, including India.\nWhich of the above is/are correct?",
+        "options": [
+          "1 only",
+          "2 only",
+          "1 and 2 only",
+          "1, 2 and 3"
+        ],
+        "correct": 3,
+        "explanation": "Statement 1 is correct: the USTR has proposed additional duties on India. Statement 2 is correct: the Tariff Act of 1930 prohibits forced labour imports. Statement 3 is correct: the ILO has identified forced labour as a concern in several countries.",
+        "trap": "Quantitative Trap"
+      },
+      {
+        "q": "Consider the following statements:\n1. The USTR's proposal to impose duties on India is based on the ILO's definition of forced labour.\n2. The Tariff Act of 1930 gives the USTR the authority to seize goods suspected of being made with forced labour.\n3. The US Customs and Border Protection has the authority to impose duties on goods made with forced labour.\nWhich of the above is/are correct?",
+        "options": [
+          "1 only",
+          "2 only",
+          "1 and 2 only",
+          "1, 2 and 3"
+        ],
+        "correct": 2,
+        "explanation": "Statement 1 is incorrect: the USTR's proposal is based on Section 307 of the Tariff Act of 1930. Statement 2 is correct: the Tariff Act of 1930 gives the USTR the authority to seize goods. Statement 3 is incorrect: the US Customs and Border Protection has the authority to seize goods, not impose duties.",
+        "trap": "Definitional Trap"
+      }
+    ]
+  },
+  {
+    "id": 1931,
+    "title": "South Korea Surpasses India in Equity Market",
+    "cat": "economy",
+    "upsc": true,
+    "time": "2026-06-03T04:59:22.198708+00:00",
+    "summary": "South Korea's strong semiconductor performance boosts its equity market, surpassing India's. Foreign investor selling amid geopolitical concerns affects India's market.",
+    "story_fact": "South Korea has surpassed India to become the world's sixth-largest equity market.",
+    "background": "The Representation of the People Act, 1951, governs India's electoral process. South Korea's economy is driven by tech giants and semiconductor companies.",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "Economic Times",
+    "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/south-korea-rides-ai-wave-also-overtakes-india-on-m-cap-chart/articleshow/131473573.cms",
+    "prelims": [
+      "South Korea's <strong>semiconductor companies</strong> are driving its equity market growth, benefiting from booming demand in the artificial intelligence sector.",
+      "The <strong>Representation of the People Act, 1951</strong>, is the legal framework governing India's electoral process, including the definition of 'service voters'.",
+      "The <strong>equity market</strong> of South Korea has surpassed that of India, with a total market capitalization of over $2.5 trillion.",
+      "The <strong>foreign investor selling</strong> amid geopolitical concerns has affected India's market, leading to a decline in its market capitalization.",
+      "The <strong>artificial intelligence sector</strong> is driving the demand for semiconductors, with South Korean companies such as Samsung and SK Hynix benefiting from this trend."
+    ],
+    "mains": {
+      "q": "How does the growth of South Korea's equity market compare with India's, in light of the booming demand for semiconductors in the artificial intelligence sector? Examine.",
+      "marks": "15 marks · GS3",
+      "directive": "examine",
+      "hints": [
+        "Frame the central trade-off: semiconductor-driven growth in South Korea versus India's decline due to foreign investor selling.",
+        "Cite the example of Samsung and SK Hynix, and how they have benefited from the booming demand for semiconductors in the artificial intelligence sector.",
+        "Distinguish between the factors driving the growth of South Korea's equity market and those affecting India's market.",
+        "Apply the concept of market capitalization and how it reflects the overall health of a country's economy.",
+        "Conclude by suggesting ways in which India can learn from South Korea's experience and boost its own equity market growth."
+      ]
+    },
+    "connect": [
+      {
+        "topic": "Make in India Initiative",
+        "context": "The growth of South Korea's semiconductor sector can be compared to India's own 'Make in India' initiative, which aims to boost domestic manufacturing and attract foreign investment."
+      },
+      {
+        "topic": "Digital India Program",
+        "context": "The artificial intelligence sector's demand for semiconductors is related to the Digital India program, which aims to promote digital literacy and infrastructure in India."
+      },
+      {
+        "topic": "Foreign Direct Investment (FDI) Policy",
+        "context": "The decline in India's equity market due to foreign investor selling can be linked to the country's FDI policy, which has been liberalized in recent years to attract more foreign investment."
+      },
+      {
+        "topic": "National Policy on Electronics (NPE) 2019",
+        "context": "The growth of South Korea's semiconductor sector can be compared to India's own National Policy on Electronics, which aims to promote the development of the electronics industry in India."
+      },
+      {
+        "topic": "ASEAN-India Free Trade Agreement",
+        "context": "The growth of South Korea's equity market can be linked to its trade agreements, such as the ASEAN-India Free Trade Agreement, which has boosted trade between South Korea and India."
+      }
+    ],
+    "_hash": "1d3bc81f9694",
+    "_fetched": "2026-06-03T04:59:22.198708+00:00",
+    "_relevance": 32,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "examine",
+    "_mcqs": [
+      {
+        "q": "Consider the following statements:\n1. South Korea's equity market has surpassed India's due to its strong semiconductor sector.\n2. Foreign investor selling has affected India's market due to geopolitical concerns.\n3. The artificial intelligence sector is driving the demand for semiconductors.\nWhich of the above is/are correct?",
+        "options": [
+          "1 only",
+          "2 only",
+          "1 and 2 only",
+          "1, 2 and 3"
+        ],
+        "correct": 3,
+        "explanation": "Statement 1 is correct: South Korea's semiconductor sector is driving its equity market growth. Statement 2 is correct: Foreign investor selling has affected India's market. Statement 3 is correct: The artificial intelligence sector is driving the demand for semiconductors.",
+        "trap": "Quantitative Trap"
+      },
+      {
+        "q": "Consider the following statements:\n1. India's equity market is driven by its IT sector.\n2. South Korea's equity market is driven by its automotive sector.\n3. The artificial intelligence sector is driving the demand for semiconductors.\nWhich of the above is/are correct?",
+        "options": [
+          "1 only",
+          "2 only",
+          "1 and 2 only",
+          "1, 2 and 3"
+        ],
+        "correct": 3,
+        "explanation": "Statement 1 is incorrect: India's equity market is not driven solely by its IT sector. Statement 2 is incorrect: South Korea's equity market is driven by its semiconductor sector, not automotive. Statement 3 is correct: The artificial intelligence sector is driving the demand for semiconductors.",
+        "trap": "Definitional Trap"
+      }
+    ]
+  },
+  {
+    "id": 1932,
+    "title": "What rising crude and aluminium prices mean for India",
+    "cat": "world",
+    "upsc": false,
+    "time": "2026-06-03T05:01:34.694262+00:00",
+    "summary": "Geopolitical tensions in West Asia are driving up oil and aluminium prices. This benefits upstream oil explorers while squeezing oil marketing compani",
+    "story_fact": "",
+    "background": "",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "Economic Times",
+    "link": "https://economictimes.indiatimes.com/markets/expert-view/rising-crude-and-aluminium-prices-bharat-subramanian-on-what-it-means-for-indias-energy-and-metals-sectors/articleshow/131462742.cms",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "a8e64aeac3c2",
+    "_fetched": "2026-06-03T05:01:34.694262+00:00",
+    "_relevance": 30,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
   }
 ]
