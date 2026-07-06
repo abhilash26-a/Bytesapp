@@ -19131,5 +19131,100 @@
     "_difficulty": 2,
     "_directive": "discuss",
     "_mcqs": []
+  },
+  {
+    "id": 1807,
+    "title": "SC Upholds Curbs on Online Gaming",
+    "cat": "policy",
+    "upsc": true,
+    "time": "2026-06-06T22:10:18.341924+00:00",
+    "summary": "The Supreme Court backed curbs on online gaming, considering two sets of appeals regarding regulation and taxation of platforms, with gaming companies objecting to the GST levy.",
+    "story_fact": "SC approved curbs on online gaming under GST levy objections",
+    "background": "The Information Technology Act, 2000, and the GST Act, 2017, frame the regulatory environment for online gaming. The GST Council decides tax rates.",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "The Hindu",
+    "link": "https://www.thehindu.com/sci-tech/technology/why-did-supreme-court-back-curbs-on-online-gaming-explained/article71070728.ece",
+    "prelims": [
+      "The <strong>Supreme Court</strong> has upheld the curbs on online gaming, considering the regulatory and taxation aspects of the industry. The Court examined the objections raised by gaming companies against the GST levy.",
+      "The <strong>GST Act, 2017</strong>, provides the framework for taxation of online gaming platforms. The GST Council decides the tax rates applicable to these platforms.",
+      "The <strong>Information Technology Act, 2000</strong>, regulates the online gaming industry in India. The Act provides for the regulation of online content and the liability of intermediaries.",
+      "The <strong>Online Gaming Regulation</strong> is a recent development, with several states imposing bans on online gaming platforms. The Supreme Court's decision will have implications for the industry.",
+      "The <strong>taxation of online gaming</strong> is a complex issue, with the GST levy being a major point of contention. The Supreme Court's decision will provide clarity on the taxation aspects of the industry."
+    ],
+    "mains": {
+      "q": "The Supreme Court's decision to uphold curbs on online gaming raises questions about the balance between regulation and individual freedom. Examine.",
+      "marks": "15 marks · GS2",
+      "directive": "examine",
+      "hints": [
+        "Frame the central issue: the tension between regulatory oversight and individual freedom in the context of online gaming.",
+        "Cite the <strong>Puttaswamy judgment (2017)</strong>, which recognized the right to privacy as a fundamental right, and argue for its relevance in the online gaming context.",
+        "Distinguish between <strong>regulation</strong> and <strong>prohibition</strong>, and examine the implications of each approach for the online gaming industry.",
+        "Apply the <strong>test of proportionality</strong> to evaluate the reasonableness of the curbs imposed on online gaming.",
+        "Conclude by proposing a <strong>framework for regulation</strong> that balances individual freedom with the need for regulatory oversight."
+      ]
+    },
+    "connect": [
+      {
+        "topic": "Public Gaming Act, 1867",
+        "context": "The Public Gaming Act, 1867, is a precursor to the regulation of online gaming, as it prohibits gaming in public places."
+      },
+      {
+        "topic": "Information Technology (Intermediary Guidelines and Digital Media Ethics Code) Rules, 2021",
+        "context": "The Information Technology (Intermediary Guidelines and Digital Media Ethics Code) Rules, 2021, regulate online content and provide a framework for the regulation of online gaming platforms."
+      },
+      {
+        "topic": "S. Rangarajan v. P. Jagjivan Ram (1989)",
+        "context": "The S. Rangarajan v. P. Jagjivan Ram (1989) judgment recognized the importance of freedom of expression in the context of artistic and creative works, which has implications for online gaming content."
+      },
+      {
+        "topic": "GST Council",
+        "context": "The GST Council plays a crucial role in deciding the tax rates applicable to online gaming platforms, which has significant implications for the industry."
+      },
+      {
+        "topic": "Shreya Singhal v. Union of India (2015)",
+        "context": "The Shreya Singhal v. Union of India (2015) judgment recognized the importance of intermediary liability in the context of online content regulation, which has implications for online gaming platforms."
+      }
+    ],
+    "_hash": "37a72f746670",
+    "_fetched": "2026-06-06T22:10:18.341924+00:00",
+    "_relevance": 52,
+    "_gs": [
+      "GS2"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "examine",
+    "_mcqs": [
+      {
+        "q": "Consider the following statements:\n1. The Supreme Court has upheld the curbs on online gaming.\n2. The GST levy on online gaming platforms is 18%.\n3. The Information Technology Act, 2000, regulates online gaming.\nWhich of the above is/are correct?",
+        "options": [
+          "1 only",
+          "2 only",
+          "1 and 2 only",
+          "1, 2 and 3"
+        ],
+        "correct": 3,
+        "explanation": "Statement 1 is correct: The Supreme Court has upheld the curbs on online gaming. Statement 2 is correct: The GST levy on online gaming platforms is indeed 18%. Statement 3 is correct: The Information Technology Act, 2000, regulates online gaming.",
+        "trap": "Wrong Article"
+      },
+      {
+        "q": "Consider the following statements:\n1. The GST Council decides the tax rates applicable to online gaming platforms.\n2. The Supreme Court has recognized the right to online gaming as a fundamental right.\n3. The Information Technology Act, 2000, provides for the regulation of online content.\nWhich of the above is/are correct?",
+        "options": [
+          "1 only",
+          "1 and 2 only",
+          "2 and 3 only",
+          "1, 2 and 3"
+        ],
+        "correct": 0,
+        "explanation": "Statement 1 is correct: The GST Council decides the tax rates applicable to online gaming platforms. Statement 2 is incorrect: The Supreme Court has not recognized the right to online gaming as a fundamental right. Statement 3 is correct: The Information Technology Act, 2000, provides for the regulation of online content.",
+        "trap": "Definitional Trap"
+      }
+    ]
   }
 ]
