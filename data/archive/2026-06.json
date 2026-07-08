@@ -23315,5 +23315,655 @@
     "_difficulty": 2,
     "_directive": "discuss",
     "_mcqs": []
+  },
+  {
+    "id": 1804,
+    "title": "India's Exports Rise 15% in April-May",
+    "cat": "economy",
+    "upsc": true,
+    "time": "2026-06-08T16:08:35.462099+00:00",
+    "summary": "India's merchandise exports grew 15% in April-May 2026-27, driven by petroleum products, despite global economic uncertainties.",
+    "story_fact": "India's exports rose by 15% in April-May 2026-27.",
+    "background": "The Commerce Ministry tracks India's export and import data. The trade deficit is the difference between exports and imports.",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "ET Economy",
+    "link": "https://economictimes.indiatimes.com/news/economy/foreign-trade/exports-rise-15-per-cent-during-april-may-government-official-says/articleshow/131589906.cms",
+    "prelims": [
+      "The <strong>Commerce Ministry</strong> releases monthly trade data, including exports and imports.",
+      "The <strong>trade deficit</strong> widened due to increased imports, despite a rise in exports.",
+      "In April, <strong>petroleum products</strong> drove outbound shipments, reaching a four-year high.",
+      "The <strong>Export-Import Bank of India</strong> provides financial assistance to exporters.",
+      "The <strong>Foreign Trade Policy</strong> aims to increase India's exports and reduce the trade deficit."
+    ],
+    "mains": {
+      "q": "The recent rise in India's exports, despite global economic uncertainties, raises questions about the sustainability of this growth. Examine.",
+      "marks": "15 marks · GS3",
+      "directive": "examine",
+      "hints": [
+        "Frame the central trade-off: export growth boosts economic activity but may be vulnerable to global demand shocks.",
+        "Cite the example of the 2020-21 export surge, which was driven by pharmaceuticals and IT services, and contrast with the current drivers of growth.",
+        "Distinguish between the impact of monetary policy and fiscal policy on export competitiveness.",
+        "Apply the concept of the J-curve effect, which suggests that export growth may be followed by a temporary decline in the trade balance.",
+        "Conclude by proposing policy measures to sustain export growth, such as investment in infrastructure and human capital."
+      ]
+    },
+    "connect": [
+      {
+        "topic": "Monetary Policy",
+        "context": "Monetary policy can impact export competitiveness, and the recent export growth may be influenced by monetary policy decisions."
+      },
+      {
+        "topic": "J-curve Effect",
+        "context": "The J-curve effect suggests that export growth may be followed by a temporary decline in the trade balance, which is relevant to the recent export surge."
+      }
+    ],
+    "_hash": "dc5352a8c543",
+    "_fetched": "2026-06-08T16:08:35.462099+00:00",
+    "_relevance": 81,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "examine",
+    "_mcqs": [
+      {
+        "q": "Consider the following statements:\n1. India's exports have been growing steadily over the past year.\n2. The trade deficit has widened due to increased imports.\n3. The Commerce Ministry has announced plans to reduce import duties on certain goods.\nWhich of the above is/are correct?",
+        "options": [
+          "1 only",
+          "2 only",
+          "1 and 2 only",
+          "1, 2 and 3"
+        ],
+        "correct": 2,
+        "explanation": "Statement 1 is incorrect: export growth has been erratic. Statement 2 is correct: the trade deficit has widened. Statement 3 is incorrect: no such announcement has been made.",
+        "trap": "Quantitative Trap"
+      },
+      {
+        "q": "Consider the following statements:\n1. The Export-Import Bank of India provides financial assistance to exporters.\n2. The Foreign Trade Policy aims to reduce the trade deficit.\n3. The Commerce Ministry releases quarterly trade data.\nWhich of the above is/are correct?",
+        "options": [
+          "1 only",
+          "1 and 2 only",
+          "2 and 3 only",
+          "1, 2 and 3"
+        ],
+        "correct": 1,
+        "explanation": "Statement 1 is correct: the Export-Import Bank of India provides financial assistance. Statement 2 is incorrect: the Foreign Trade Policy aims to increase exports. Statement 3 is incorrect: the Commerce Ministry releases monthly trade data.",
+        "trap": "Wrong Article"
+      }
+    ]
+  },
+  {
+    "id": 1805,
+    "title": "RBI Boosts Rupee Defense to Record $110-$115 Billion",
+    "cat": "economy",
+    "upsc": true,
+    "time": "2026-06-08T16:09:11.653324+00:00",
+    "summary": "The Reserve Bank of India has increased its net-short dollar book to a record $110-$115 billion to defend the rupee, primarily through forward dollar sales in offshore markets.",
+    "story_fact": "RBI's net-short dollar book reaches $110-$115 billion",
+    "background": "The RBI manages the rupee through forward dollar sales and purchases. The forward market is used to hedge against exchange rate fluctuations.",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "ET Economy",
+    "link": "https://economictimes.indiatimes.com/news/economy/policy/india-rupee-defense-lifts-key-forex-tool-past-110-billion-mark/articleshow/131583723.cms",
+    "prelims": [
+      "The <strong>Reserve Bank of India</strong> is responsible for managing India's foreign exchange.",
+      "The <strong>Foreign Exchange Management Act, 1999</strong>, regulates foreign exchange transactions in India.",
+      "The RBI's <strong>net-short dollar book</strong> has increased to $110-$115 billion to defend the rupee.",
+      "The <strong>forward market</strong> is used by the RBI to hedge against exchange rate fluctuations.",
+      "The RBI's actions are guided by the <strong>Monetary Policy Framework Agreement</strong>, which aims to maintain price stability."
+    ],
+    "mains": {
+      "q": "The RBI's decision to absorb forex risk on USD-denominated sovereign issuance raises questions about the independence of monetary policy. Examine.",
+      "marks": "15 marks · GS3",
+      "directive": "examine",
+      "hints": [
+        "Frame the central trade-off: forex inflows boost reserves but absorbing currency risk creates a contingent sovereign liability.",
+        "Cite the report of the <strong>Subramanian Panel (2018)</strong> on the risks of sovereign forex guarantees.",
+        "Distinguish between the RBI's actions on inward flows (FPI/FDI) and outward flows (Liberalised Remittance Scheme).",
+        "Apply the <strong>FRBM Act, 2003</strong>, which requires disclosure of contingent liabilities in the annual Fiscal Responsibility statement.",
+        "Conclude by proposing a sunset clause and quarterly review by the Monetary Policy Committee."
+      ]
+    },
+    "connect": [
+      {
+        "topic": "Subramanian Panel (2018)",
+        "context": "The Subramanian Panel (2018) recommended against sovereign forex guarantees, citing the risks of contingent liabilities."
+      },
+      {
+        "topic": "Liberalised Remittance Scheme",
+        "context": "The Liberalised Remittance Scheme applies to outward flows, allowing individuals to remit up to $250,000 per year."
+      },
+      {
+        "topic": "Fiscal Responsibility and Budget Management Act, 2003",
+        "context": "The Fiscal Responsibility and Budget Management Act, 2003, requires the government to disclose contingent liabilities in the annual Fiscal Responsibility statement."
+      }
+    ],
+    "_hash": "bd2046989838",
+    "_fetched": "2026-06-08T16:09:11.653324+00:00",
+    "_relevance": 64,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "examine",
+    "_mcqs": [
+      {
+        "q": "Consider the following statements:\n1. The RBI's net-short dollar book is used to defend the rupee.\n2. The forward market is used by the RBI to hedge against exchange rate fluctuations.\nWhich of the above is/are correct?",
+        "options": [
+          "1 only",
+          "2 only",
+          "1 and 2 only",
+          "1, 2 and 3"
+        ],
+        "correct": 2,
+        "explanation": "Statement 1 is correct: The RBI's net-short dollar book is used to defend the rupee. Statement 2 is correct: The forward market is used by the RBI to hedge against exchange rate fluctuations.",
+        "trap": "Quantitative Trap"
+      },
+      {
+        "q": "Consider the following statements:\n1. The RBI's decision to absorb forex risk is guided by the Monetary Policy Framework Agreement.\n2. The Liberalised Remittance Scheme applies to inward flows.\nWhich of the above is/are correct?",
+        "options": [
+          "1 only",
+          "1 and 2 only",
+          "2 and 3 only",
+          "1, 2 and 3"
+        ],
+        "correct": 0,
+        "explanation": "Statement 1 is correct: The RBI's decision to absorb forex risk is guided by the Monetary Policy Framework Agreement. Statement 2 is incorrect: The Liberalised Remittance Scheme applies to outward flows.",
+        "trap": "Scope Confusion"
+      }
+    ]
+  },
+  {
+    "id": 1806,
+    "title": "BHAVYA scheme to help attract huge investments, create jobs:",
+    "cat": "economy",
+    "upsc": true,
+    "time": "2026-06-08T16:11:24.030375+00:00",
+    "summary": "A new Rs 33,660 crore scheme, BHAVYA, will develop 100 industrial parks across India. This initiative aims to attract significant investments and crea",
+    "story_fact": "",
+    "background": "",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "ET Economy",
+    "link": "https://economictimes.indiatimes.com/news/economy/policy/bhavya-scheme-to-help-attract-huge-investments-create-jobs-piyush-goyal/articleshow/131590532.cms",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "d63de2350713",
+    "_fetched": "2026-06-08T16:11:24.030375+00:00",
+    "_relevance": 57,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 1807,
+    "title": "India's current account surplus at $7.1 bn in Q4 FY26, aided",
+    "cat": "economy",
+    "upsc": true,
+    "time": "2026-06-08T16:13:36.472842+00:00",
+    "summary": "India achieved a current account surplus of $7.1 billion in Q4 FY26, driven by robust services exports and remittances. Despite a growing merchandise ",
+    "story_fact": "",
+    "background": "",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "ET Economy",
+    "link": "https://economictimes.indiatimes.com/news/economy/indicators/india-posts-7-1-billion-current-account-surplus-in-q4-fy26-aided-by-robust-services-exports-and-remittances/articleshow/131587971.cms",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "bc6a9156bf75",
+    "_fetched": "2026-06-08T16:13:36.472842+00:00",
+    "_relevance": 52,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 1808,
+    "title": "India gets EU approval to export aquaculture products, eggs,",
+    "cat": "economy",
+    "upsc": false,
+    "time": "2026-06-08T16:15:48.875875+00:00",
+    "summary": "India will continue exporting aquaculture products, eggs, honey, and animal casings to the European Union. The EU has revised its regulations, with ne",
+    "story_fact": "",
+    "background": "",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "ET Economy",
+    "link": "https://economictimes.indiatimes.com/news/economy/foreign-trade/india-gets-eu-approval-to-export-aquaculture-products-eggs-honey-beyond-september/articleshow/131590378.cms",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "1968af14bbe6",
+    "_fetched": "2026-06-08T16:15:48.875875+00:00",
+    "_relevance": 48,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 1809,
+    "title": "India, US trade pact can be finalised after conclusion of Se",
+    "cat": "world",
+    "upsc": false,
+    "time": "2026-06-08T16:18:01.306630+00:00",
+    "summary": "India and the US are nearing the completion of their interim trade agreement's first phase. This crucial step hinges on the conclusion of America's Se",
+    "story_fact": "",
+    "background": "",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "ET Economy",
+    "link": "https://economictimes.indiatimes.com/news/economy/foreign-trade/india-us-trade-pact-can-be-finalised-after-conclusion-of-sec-301-investigations-official/articleshow/131589078.cms",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "67edb9132c36",
+    "_fetched": "2026-06-08T16:18:01.306630+00:00",
+    "_relevance": 45,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 1810,
+    "title": "India, UK talks progressing on resolving issues for trade pa",
+    "cat": "economy",
+    "upsc": false,
+    "time": "2026-06-08T16:20:13.698447+00:00",
+    "summary": "India and the UK are making good progress on their free trade agreement. Discussions are ongoing to resolve issues like the UK's steel safeguard measu",
+    "story_fact": "",
+    "background": "",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "ET Economy",
+    "link": "https://economictimes.indiatimes.com/news/economy/foreign-trade/india-uk-talks-progressing-on-resolving-issues-for-trade-pact-implementation-official/articleshow/131589393.cms",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "af5adf065a56",
+    "_fetched": "2026-06-08T16:20:13.698447+00:00",
+    "_relevance": 43,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 1811,
+    "title": "Digital fertiliser reform faces first test in kharif season",
+    "cat": "tech",
+    "upsc": false,
+    "time": "2026-06-08T16:22:26.239191+00:00",
+    "summary": "Government says APAIMS 2.0 will streamline distribution and improve accountability, while tenant farmers raise concerns over access to subsidised inpu",
+    "story_fact": "",
+    "background": "",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "The Hindu",
+    "link": "https://www.thehindu.com/news/national/andhra-pradesh/digital-fertiliser-reform-faces-first-test-in-kharif-season/article71077139.ece",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "1fb9cd4f3c84",
+    "_fetched": "2026-06-08T16:22:26.239191+00:00",
+    "_relevance": 41,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 1812,
+    "title": "Free ride for women: A challenging balancing act awaits Stat",
+    "cat": "tech",
+    "upsc": false,
+    "time": "2026-06-08T16:24:38.669448+00:00",
+    "summary": "An estimate prepared by KSRTC reveals that the Corporation would incur a revenue loss of around ₹112 crore if the scheme were extended to all categori",
+    "story_fact": "",
+    "background": "",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "The Hindu",
+    "link": "https://www.thehindu.com/news/national/kerala/free-ride-for-women-a-challenging-balancing-act-awaits-state-ksrtc/article71077377.ece",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "0bda47449ae8",
+    "_fetched": "2026-06-08T16:24:38.669448+00:00",
+    "_relevance": 39,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 1813,
+    "title": "India's Q4 FY26 current account surplus at $7.1 bln, driven ",
+    "cat": "economy",
+    "upsc": false,
+    "time": "2026-06-08T16:26:51.059907+00:00",
+    "summary": "India achieved a $7.1 billion current account surplus in the fourth quarter of the last fiscal year. This positive outcome was driven by strong servic",
+    "story_fact": "",
+    "background": "",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "ET Economy",
+    "link": "https://economictimes.indiatimes.com/news/economy/finance/indias-current-account-deficit-widens-in-fy26-rbi-data-reveals/articleshow/131589940.cms",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "d20133001f6a",
+    "_fetched": "2026-06-08T16:26:51.059907+00:00",
+    "_relevance": 38,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 1814,
+    "title": "Government to sell 3% stake in NLC India through OFS, sets f",
+    "cat": "economy",
+    "upsc": false,
+    "time": "2026-06-08T16:29:03.696170+00:00",
+    "summary": "The government has launched a two-day offer for sale in NLC India, aiming to divest up to 3% stake through a base offer and greenshoe option. The issu",
+    "story_fact": "",
+    "background": "",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "Economic Times",
+    "link": "https://economictimes.indiatimes.com/markets/stocks/news/government-to-sell-3-stake-in-nlc-india-through-ofs-sets-floor-price-at-rs-303/articleshow/131590726.cms",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "6513d8eb2f3f",
+    "_fetched": "2026-06-08T16:29:03.696170+00:00",
+    "_relevance": 36,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 1815,
+    "title": "Radhika Gupta reveals India's next 4 wealth creation themes ",
+    "cat": "economy",
+    "upsc": false,
+    "time": "2026-06-08T16:31:16.147975+00:00",
+    "summary": "Radhika Gupta, Edelweiss Mutual Fund CEO, champions Specialised Investment Funds (SIFs) as a new product category offering lower market dependence and",
+    "story_fact": "",
+    "background": "",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "Economic Times",
+    "link": "https://economictimes.indiatimes.com/markets/expert-view/radhika-gupta-reveals-indias-next-3-wealth-creation-themes-why-sifs-are-the-investment-product-of-the-decade/articleshow/131586867.cms",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "816ce739f8b6",
+    "_fetched": "2026-06-08T16:31:16.147975+00:00",
+    "_relevance": 36,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 1816,
+    "title": "'Last year we exported Rs 35,000 crore components to China':",
+    "cat": "economy",
+    "upsc": false,
+    "time": "2026-06-08T16:33:28.591928+00:00",
+    "summary": "India's electronics manufacturing is on the rise. Last year, components worth 35,000 crore rupees were exported to China. Around 250 new component man",
+    "story_fact": "",
+    "background": "",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "ET Economy",
+    "link": "https://economictimes.indiatimes.com/news/economy/foreign-trade/last-year-we-exported-rs-35000-crore-components-to-china-ashwini-vaishnaw/articleshow/131589957.cms",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "01731621a1ad",
+    "_fetched": "2026-06-08T16:33:28.591928+00:00",
+    "_relevance": 36,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 1817,
+    "title": "'God save us all if...': Delhi HC slams govt over plan to ta",
+    "cat": "india",
+    "upsc": false,
+    "time": "2026-06-08T16:35:40.988059+00:00",
+    "summary": "While hearing a plea filed by the Indian Polo Association over the government's eviction notice, Justice Neena Bansal Krishna expressed concern about ",
+    "story_fact": "",
+    "background": "",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "LiveMint",
+    "link": "https://www.livemint.com/news/india/god-save-us-all-if-delhi-hc-slams-govt-over-plan-to-take-over-little-green-space-in-gymkhana-club-polo-grounds-11780925303795.html",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "1055f24d62d9",
+    "_fetched": "2026-06-08T16:35:40.988059+00:00",
+    "_relevance": 33,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 1818,
+    "title": "Hardeep Puri optimistic on fuel reserves, says India has oil",
+    "cat": "economy",
+    "upsc": false,
+    "time": "2026-06-08T16:37:53.606227+00:00",
+    "summary": "India anticipates a decline in petroleum and gas costs shortly, as ample supplies remain intact despite the ongoing US-Israeli conflict, Puri stated.",
+    "story_fact": "",
+    "background": "",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "LiveMint Industry",
+    "link": "https://www.livemint.com/industry/hardeep-puri-optimistic-on-fuel-reserves-says-india-has-oil-and-gas-stockpiles-for-76-days-thats-comfortable-11780910382407.html",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "c7a3fbb4714d",
+    "_fetched": "2026-06-08T16:37:53.606227+00:00",
+    "_relevance": 32,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 1819,
+    "title": "Nepal Foreign Minister Shishir Khanal to visit China in mid-",
+    "cat": "world",
+    "upsc": false,
+    "time": "2026-06-08T16:40:06.114744+00:00",
+    "summary": "Nepal FM Shishir Khanal is expected to meet the Chief of the International Department of the Communist Party of China Liu Haixing, besides holding bil",
+    "story_fact": "",
+    "background": "",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "The Hindu International",
+    "link": "https://www.thehindu.com/news/international/nepal-foreign-minister-shishir-khanal-to-visit-china-in-mid-june/article71076314.ece",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "44354afe08cd",
+    "_fetched": "2026-06-08T16:40:06.114744+00:00",
+    "_relevance": 31,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 1820,
+    "title": "Quote of the day by Michael Dell on AI: ‘Just as electricity",
+    "cat": "tech",
+    "upsc": false,
+    "time": "2026-06-08T16:42:18.517047+00:00",
+    "summary": "Michael Dell compares AI to electricity, arguing that its greatest impact will come when it moves beyond screens into everyday life. The quote highlig",
+    "story_fact": "",
+    "background": "",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "LiveMint",
+    "link": "https://www.livemint.com/news/quote-of-the-day-by-michael-dell-on-ai-just-as-electricity-transformed-the-world-when-it-left-the-power-plant-11780915221257.html",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "4133b2de8390",
+    "_fetched": "2026-06-08T16:42:18.517047+00:00",
+    "_relevance": 30,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
   }
 ]
