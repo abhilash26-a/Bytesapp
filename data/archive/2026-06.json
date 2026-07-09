@@ -27192,5 +27192,120 @@
     "_difficulty": 2,
     "_directive": "discuss",
     "_mcqs": []
+  },
+  {
+    "id": 1829,
+    "title": "NHRC Flags ₹52,976 Crore Cyber Fraud Losses",
+    "cat": "policy",
+    "upsc": true,
+    "time": "2026-06-09T22:41:31.300855+00:00",
+    "summary": "The NHRC warns of severe psychological trauma and human rights violations due to 'digital arrest' scams, with ₹52,976 crore in cyber fraud losses.",
+    "story_fact": "NHRC reports ₹52,976 crore in cyber fraud losses.",
+    "background": "The NHRC investigates human rights violations. Cyber frauds cause financial and psychological harm.",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "The Hindu",
+    "link": "https://www.thehindu.com/sci-tech/technology/nhrc-flags-52976-crore-cyber-fraud-losses-seeks-urgent-action-against-digital-arrest-scams/article71081619.ece",
+    "prelims": [
+      "The <strong>NHRC</strong> has flagged ₹52,976 crore in cyber fraud losses, seeking urgent action against 'digital arrest' scams.",
+      "The <strong>Information Technology Act, 2000</strong>, Section 43A, addresses implementation of reasonable security practices for sensitive personal data or information.",
+      "The <strong>NHRC</strong> has reported that cyber frauds cause not only financial devastation but also severe psychological trauma and violations of human rights, with 1,468 cases in the last year.",
+      "The <strong>Cyber and Information Security division</strong> of the MHA has been working to prevent and investigate cybercrimes, including 'digital arrest' scams.",
+      "The <strong>Indian Cyber Crime Coordination Centre</strong> has been set up to deal with all types of cybercrimes in a comprehensive and coordinated manner."
+    ],
+    "mains": {
+      "q": "The NHRC's flagging of ₹52,976 crore in cyber fraud losses highlights the need for stricter regulations. Examine.",
+      "marks": "15 marks · GS2",
+      "directive": "examine",
+      "hints": [
+        "Frame the central issue: the lack of effective regulations has led to a surge in cyber frauds, causing significant financial and psychological harm.",
+        "Cite the IT Act, 2000, and its limitations in addressing the current scale of cybercrimes, particularly 'digital arrest' scams.",
+        "Distinguish between the roles of the NHRC and the Cyber and Information Security division of the MHA in addressing cybercrimes.",
+        "Apply the principles of the Indian Cyber Crime Coordination Centre in dealing with cybercrimes, including the need for a coordinated approach.",
+        "Conclude by proposing stricter regulations and enhanced coordination between agencies to combat cyber frauds."
+      ]
+    },
+    "connect": [
+      {
+        "topic": "National Cyber Security Policy, 2013",
+        "context": "The National Cyber Security Policy, 2013, aims to create a secure cyber ecosystem, and its implementation is essential in preventing and investigating cybercrimes, including 'digital arrest' scams."
+      },
+      {
+        "topic": "Section 43A of the IT Act, 2000",
+        "context": "Section 43A of the IT Act, 2000, addresses implementation of reasonable security practices for sensitive personal data or information, and its application is essential in preventing cybercrimes, including 'digital arrest' scams."
+      }
+    ],
+    "_hash": "c341d009ba2a",
+    "_fetched": "2026-06-09T22:41:31.300855+00:00",
+    "_relevance": 52,
+    "_gs": [
+      "GS2"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "examine",
+    "_mcqs": [
+      {
+        "q": "Consider the following statements:\n1. The NHRC has the power to investigate human rights violations.\n2. The IT Act, 2000, addresses implementation of reasonable security practices for sensitive personal data or information.\n3. The Indian Cyber Crime Coordination Centre deals with all types of cybercrimes.\nWhich of the above is/are correct?",
+        "options": [
+          "1 and 2 only",
+          "1 and 3 only",
+          "2 and 3 only",
+          "1, 2 and 3"
+        ],
+        "correct": 3,
+        "explanation": "Statement 1 is correct: The NHRC has the power to investigate human rights violations. Statement 2 is correct: The IT Act, 2000, addresses implementation of reasonable security practices for sensitive personal data or information. Statement 3 is correct: The Indian Cyber Crime Coordination Centre deals with all types of cybercrimes.",
+        "trap": "Definitional Trap"
+      },
+      {
+        "q": "Consider the following statements:\n1. The NHRC is responsible for enforcing the IT Act, 2000.\n2. The Cyber and Information Security division of the MHA works to prevent and investigate cybercrimes.\nWhich of the above is/are correct?",
+        "options": [
+          "Only 1",
+          "Only 2",
+          "Both 1 and 2",
+          "Neither 1 nor 2"
+        ],
+        "correct": 1,
+        "explanation": "Statement 1 is incorrect: The NHRC is not responsible for enforcing the IT Act, 2000. Statement 2 is correct: The Cyber and Information Security division of the MHA works to prevent and investigate cybercrimes.",
+        "trap": "Wrong Body"
+      }
+    ]
+  },
+  {
+    "id": 1830,
+    "title": "US stocks: S&amp;P 500, Nasdaq fall as tech selling resumes,",
+    "cat": "economy",
+    "upsc": false,
+    "time": "2026-06-09T22:43:44.004540+00:00",
+    "summary": "U.S. stocks fell Tuesday as technology shares reversed earlier gains amid renewed selling pressure. President Trump's vow to respond to Iran shooting ",
+    "story_fact": "",
+    "background": "",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "Economic Times",
+    "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-sp-500-nasdaq-fall-as-tech-selling-resumes-trump-vows-to-react-to-downed-us-helicopter/articleshow/131619933.cms",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "d7679eafb34c",
+    "_fetched": "2026-06-09T22:43:44.004540+00:00",
+    "_relevance": 38,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
   }
 ]
