@@ -29930,5 +29930,643 @@
     "_difficulty": 2,
     "_directive": "discuss",
     "_mcqs": []
+  },
+  {
+    "id": 1810,
+    "title": "Congress to move SC against Meenakshi Natarajan’s RS nomination",
+    "cat": "policy",
+    "upsc": true,
+    "time": "2026-06-10T20:40:37.561179+00:00",
+    "summary": "Congress to move Supreme Court against rejection of Meenakshi Natarajan’s Rajya Sabha nomination, citing Returning Officer’s decision as legally untenable",
+    "story_fact": "Congress to move SC against rejection of Meenakshi Natarajan’s RS nomination under Section 19",
+    "background": "Section 19 of the RPA, 1951 defines 'service voters'. Each addition to the service-voter roll requires Form 2A/2C verification",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": 1468,
+        "label": "Service electors approved for WB phase 2"
+      },
+      {
+        "val": 2003,
+        "label": "Year proxy voting added for armed forces"
+      }
+    ],
+    "src": "The Hindu",
+    "link": "https://www.thehindu.com/news/national/congress-calls-returning-officers-order-on-meenakshi-natarajans-rs-nomination-egregious/article71084606.ece",
+    "prelims": [
+      "<strong>Section 19 of the RPA, 1951</strong> defines a 'service voter' as a member of the armed forces, a member of an armed police force serving outside their home state, or a person employed under the Government of India in a post outside India.",
+      "The <strong>Electronically Transmitted Postal Ballot System (ETPBS)</strong> was rolled out in 2016 for service voters, reducing lost ballots from ~30% to under 5% in subsequent elections.",
+      "The <strong>Election Commission of India</strong> approved 1,468 service voters for WB phase 2 under Section 19 of the Representation of the People Act, 1951.",
+      "The <strong>Subramanian Panel (2018)</strong> recommended against sovereign forex guarantees, contrasting with the 2008 LTRO experience where EM central banks absorbing FX risk saw balance sheets contract 15-20%.",
+      "The <strong>Representation of the People Act, 1951</strong> governs the conduct of elections, including the eligibility of service voters."
+    ],
+    "mains": {
+      "q": "The ECI's reliance on procedural orders, rather than statutory amendment, to expand service-voter eligibility raises questions of legitimacy. Examine. (15 marks · GS2)",
+      "marks": "15 marks · GS2",
+      "directive": "examine",
+      "hints": [
+        "Frame the central trade-off: expanded service-voter eligibility may increase voter turnout but also raises concerns about the legitimacy of the electoral process.",
+        "Cite the Subramanian Panel (2018) recommendation against sovereign forex guarantees, and contrast with the 2008 LTRO experience where EM central banks absorbing FX risk saw balance sheets contract 15-20%.",
+        "Distinguish: the proposal addresses INWARD flows (FPI/FDI). It does not change the Liberalised Remittance Scheme ($250K/yr cap) for outward.",
+        "Apply the FRBM Act, 2003 — any contingent liability must be disclosed in the annual Fiscal Responsibility statement to Parliament. Argue this disclosure must precede operationalisation.",
+        "Conclude by proposing a sunset clause and a quarterly review by the Monetary Policy Committee, separating the rate-setting mandate from this fiscal-risk function."
+      ]
+    },
+    "connect": [
+      {
+        "topic": "Tenth Schedule (Anti-Defection Law)",
+        "context": "By-elections triggered by Tenth Schedule disqualifications also rely on Section 19 service-voter rolls — both fall under the RPA framework but the disqualification arises from constitutional Schedule, not statute."
+      },
+      {
+        "topic": "Article 329(b) (Election Petitions)",
+        "context": "Disputes over service-voter inclusion can only be raised via election petitions, not writ petitions — Article 329(b) bars judicial intervention during the election process."
+      },
+      {
+        "topic": "Sukhbir Singh v. State of Punjab (1991)",
+        "context": "The Supreme Court held that vote-secrecy of postal ballots is a 'free and fair election' essential — directly relevant when expanding ETPBS distribution."
+      },
+      {
+        "topic": "Model Code of Conduct (MCC)",
+        "context": "MCC restrictions on government announcements apply once the EC issues the election schedule — including any subsequent service-voter additions."
+      },
+      {
+        "topic": "Election Commission's Procedural Powers (Mohinder Singh Gill, 1978)",
+        "context": "The SC held the ECI's residuary powers under Article 324 include filling statutory gaps. Critics argue service-voter expansion via procedural order rather than amendment tests this doctrine."
+      }
+    ],
+    "_hash": "63cf880d6929",
+    "_fetched": "2026-06-10T20:40:37.561179+00:00",
+    "_relevance": 67,
+    "_gs": [
+      "GS2"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "examine",
+    "_mcqs": [
+      {
+        "q": "Consider the following statements:\n1. The Election Commission of India is responsible for conducting elections to the Rajya Sabha.\n2. The Representation of the People Act, 1951 governs the conduct of elections, including the eligibility of service voters.\n3. The Electronically Transmitted Postal Ballot System (ETPBS) was introduced in 2010 for service voters.\nWhich of the above is/are correct?",
+        "options": [
+          "1 only",
+          "2 only",
+          "1 and 2 only",
+          "1, 2 and 3"
+        ],
+        "correct": 2,
+        "explanation": "Statement 1 is incorrect: the Election Commission of India is responsible for conducting elections to both the Lok Sabha and the Rajya Sabha, but the specific rules for Rajya Sabha elections are different. Statement 2 is correct: the Representation of the People Act, 1951 does govern the conduct of elections, including the eligibility of service voters. Statement 3 is incorrect: the Electronically Transmitted Postal Ballot System (ETPBS) was introduced in 2016, not 2010.",
+        "trap": "Definitional Trap"
+      },
+      {
+        "q": "Consider the following statements:\n1. The Election Commission of India has the power to remove the Chief Election Commissioner.\n2. The Chief Election Commissioner can be removed only by the procedure prescribed for the removal of a Supreme Court judge.\nWhich of the above is/are correct?",
+        "options": [
+          "Only 1",
+          "Only 2",
+          "Both 1 and 2",
+          "Neither 1 nor 2"
+        ],
+        "correct": 1,
+        "explanation": "Statement 1 is incorrect: the Election Commission of India does not have the power to remove the Chief Election Commissioner. Statement 2 is correct: the Chief Election Commissioner can be removed only by the procedure prescribed for the removal of a Supreme Court judge.",
+        "trap": "Wrong Body"
+      }
+    ]
+  },
+  {
+    "id": 1811,
+    "title": "RBI Allows Banks to Lend to REITs & InvITs",
+    "cat": "economy",
+    "upsc": true,
+    "time": "2026-06-10T20:41:14.500619+00:00",
+    "summary": "The Reserve Bank of India permits banks to directly fund Real Estate Investment Trusts and Infrastructure Investment Trusts with exposure limits and asset eligibility.",
+    "story_fact": "RBI allows banks to lend directly to REITs & InvITs under strict rules.",
+    "background": "The RBI regulates banking and financial institutions under the Banking Regulation Act, 1949. REITs and InvITs are governed by the SEBI (Real Estate Investment Trusts) Regulations, 2014, and the SEBI (Infrastructure Investment Trusts) Regulations, 2014.",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "ET Economy",
+    "link": "https://economictimes.indiatimes.com/news/economy/policy/rbi-permits-banks-to-lend-only-to-sebi-registered-reits-invits-80-cash-generating-assets-mandatory/articleshow/131638003.cms",
+    "prelims": [
+      "<strong>Real Estate Investment Trusts (REITs)</strong> allow individuals to invest in real estate without directly managing properties, providing a liquidity option.",
+      "The <strong>SEBI (Real Estate Investment Trusts) Regulations, 2014</strong>, govern the registration and operation of REITs in India, ensuring transparency and investor protection.",
+      "The RBI's decision to allow banks to lend to <strong>REITs and InvITs</strong> aims to increase credit access for these trusts, enhancing their ability to finance infrastructure and real estate projects.",
+      "The <strong>Banking Regulation Act, 1949</strong>, empowers the RBI to regulate banking companies, including their lending activities to various sectors, including REITs and InvITs.",
+      "The <strong>exposure limits</strong> set by the RBI for banks lending to REITs and InvITs are designed to mitigate potential risks and ensure the stability of the financial system."
+    ],
+    "mains": {
+      "q": "The RBI's decision to allow banks to lend directly to REITs and InvITs raises questions about the balance between credit access and financial stability. Examine.",
+      "marks": "15 marks · GS3",
+      "directive": "examine",
+      "hints": [
+        "Frame the central trade-off: increased credit access for REITs and InvITs versus potential risks to the banking sector.",
+        "Cite the SEBI regulations governing REITs and InvITs, highlighting the role of these trusts in infrastructure financing.",
+        "Distinguish between the RBI's regulatory approach to REITs and InvITs versus its approach to other financial institutions.",
+        "Apply the principles of financial stability and systemic risk to argue for or against the RBI's decision.",
+        "Conclude by proposing measures to mitigate potential risks while maintaining the benefits of increased credit access for REITs and InvITs."
+      ]
+    },
+    "connect": [
+      {
+        "topic": "SEBI (Alternative Investment Funds) Regulations, 2012",
+        "context": "These regulations govern alternative investment funds, which include REITs and InvITs, providing a framework for their operation and regulation in India."
+      },
+      {
+        "topic": "Infrastructure Financing",
+        "context": "InvITs play a crucial role in infrastructure financing by providing a platform for investment in infrastructure projects, thereby supporting economic growth and development."
+      },
+      {
+        "topic": "Real Estate (Regulation and Development) Act, 2016",
+        "context": "This Act regulates the real estate sector, promoting transparency and accountability, and protecting the interests of homebuyers, which indirectly affects the demand for REITs."
+      },
+      {
+        "topic": "Financial Stability and Development Council (FSDC)",
+        "context": "The FSDC, chaired by the Finance Minister, oversees financial sector regulation and stability, including the impact of the RBI's decisions on the overall financial stability of the country."
+      }
+    ],
+    "_hash": "b2ea4354137f",
+    "_fetched": "2026-06-10T20:41:14.500619+00:00",
+    "_relevance": 55,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "examine",
+    "_mcqs": [
+      {
+        "q": "Consider the following statements:\n1. The RBI allows banks to lend directly to REITs and InvITs.\n2. The SEBI regulates REITs and InvITs.\n3. The Banking Regulation Act, 1949, governs the RBI's regulatory powers over banks.\nWhich of the above is/are correct?",
+        "options": [
+          "1 only",
+          "2 only",
+          "1 and 2 only",
+          "1, 2 and 3"
+        ],
+        "correct": 3,
+        "explanation": "Statement 1 is correct: The RBI has permitted banks to lend to REITs and InvITs. Statement 2 is correct: SEBI regulates these investment trusts. Statement 3 is correct: The Banking Regulation Act, 1949, empowers the RBI to regulate banking companies.",
+        "trap": "Compositional Error"
+      },
+      {
+        "q": "Consider the following statements:\n1. The RBI's decision applies to all types of investment trusts.\n2. The exposure limits for banks lending to REITs and InvITs are set by SEBI.\n3. The Banking Regulation Act, 1949, limits the RBI's power to regulate bank lending.\nWhich of the above is/are correct?",
+        "options": [
+          "1 only",
+          "1 and 2 only",
+          "2 and 3 only",
+          "1, 2 and 3"
+        ],
+        "correct": 0,
+        "explanation": "Statement 1 is incorrect: The decision specifically pertains to REITs and InvITs. Statement 2 is incorrect: The RBI sets these limits. Statement 3 is incorrect: The Act empowers the RBI to regulate.",
+        "trap": "Wrong Article"
+      }
+    ]
+  },
+  {
+    "id": 1812,
+    "title": "The revolt within: Why Pakistan-occupied Jammu & Kashmir is ",
+    "cat": "economy",
+    "upsc": true,
+    "time": "2026-06-10T20:43:27.176031+00:00",
+    "summary": "Reports emerged of violence against protesters in the Rawalakot area, during which one protester, a local trader, was killed on June 5",
+    "story_fact": "",
+    "background": "",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "The Hindu Op-Ed",
+    "link": "https://www.thehindu.com/opinion/op-ed/the-revolt-within-why-pakistan-occupied-jammu-kashmir-is-restless-again/article71080523.ece",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "3913704bd99d",
+    "_fetched": "2026-06-10T20:43:27.176031+00:00",
+    "_relevance": 53,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 1813,
+    "title": "No overcapacity in steel, textiles; India's consumption rema",
+    "cat": "economy",
+    "upsc": true,
+    "time": "2026-06-10T20:45:39.890651+00:00",
+    "summary": "India has rejected US claims of excess capacity in its textile and steel sectors. Officials state per capita consumption of these products is very low",
+    "story_fact": "",
+    "background": "",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "ET Economy",
+    "link": "https://economictimes.indiatimes.com/news/economy/indicators/no-overcapacity-in-steel-textiles-indias-consumption-remains-low-dgtr/articleshow/131642986.cms",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "334371e7b094",
+    "_fetched": "2026-06-10T20:45:39.890651+00:00",
+    "_relevance": 52,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 1814,
+    "title": "Ukraine launches long-range strikes on military, energy site",
+    "cat": "world",
+    "upsc": true,
+    "time": "2026-06-10T20:47:52.748020+00:00",
+    "summary": "Ukrainian President Volodymyr Zelenskyy said his country's forces struck several military and energy infrastructure sites, including a military factor",
+    "story_fact": "",
+    "background": "",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "The Hindu International",
+    "link": "https://www.thehindu.com/news/international/ukraine-launches-long-range-strikes-on-military-energy-sites-in-russia/article71086258.ece",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "52e283232b8f",
+    "_fetched": "2026-06-10T20:47:52.748020+00:00",
+    "_relevance": 50,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 1815,
+    "title": "EAC-PM recommends targeted splitting of seats for delimitati",
+    "cat": "india",
+    "upsc": false,
+    "time": "2026-06-10T20:50:05.436626+00:00",
+    "summary": "The advisory council says it assembled a dataset on elections to LS seats from 2009 to 2024 to estimate a ‘statistical relationship’ between voter tur",
+    "story_fact": "",
+    "background": "",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "The Hindu",
+    "link": "https://www.thehindu.com/news/national/eac-pm-recommends-targeted-splitting-of-seats-for-delimitation-shows-model-allowing-50-rise-for-all-large-states/article71086016.ece",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "95c278c1b0c6",
+    "_fetched": "2026-06-10T20:50:05.436626+00:00",
+    "_relevance": 49,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 1816,
+    "title": "Bristol, York and UNSW get approval to set up campuses in In",
+    "cat": "economy",
+    "upsc": false,
+    "time": "2026-06-10T20:52:18.139368+00:00",
+    "summary": "Setting up of these campuses in India marks important step in advancing the internationalisation of education vision of NEP 2020, says Union Education",
+    "story_fact": "",
+    "background": "",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "The Hindu",
+    "link": "https://www.thehindu.com/education/bristol-york-and-unsw-get-approval-to-set-up-campuses-in-india/article71084509.ece",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "c63744a57027",
+    "_fetched": "2026-06-10T20:52:18.139368+00:00",
+    "_relevance": 46,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 1817,
+    "title": "RBI proposes unified framework for banks' risk, compliance a",
+    "cat": "economy",
+    "upsc": false,
+    "time": "2026-06-10T20:54:30.839183+00:00",
+    "summary": "The Reserve Bank of India has released a draft framework for bank control and assurance functions. This aims to simplify rules and boost governance. T",
+    "story_fact": "",
+    "background": "",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "ET Economy",
+    "link": "https://economictimes.indiatimes.com/news/economy/policy/rbi-proposes-unified-framework-for-banks-risk-compliance-and-audit-functions/articleshow/131639164.cms",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "ef3493b0418f",
+    "_fetched": "2026-06-10T20:54:30.839183+00:00",
+    "_relevance": 45,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 1818,
+    "title": "AIIMS recalls two syringe batches over quality concerns in a",
+    "cat": "india",
+    "upsc": false,
+    "time": "2026-06-10T20:56:43.513852+00:00",
+    "summary": "In a letter written to Union Health Minister J.P. Nadda, Member of Rajya Sabha Haris Beeran said that in the past month, two separate recall notices w",
+    "story_fact": "",
+    "background": "",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "The Hindu",
+    "link": "https://www.thehindu.com/sci-tech/health/aiims-recalls-two-syringe-batches-over-quality-concerns-in-a-single-month-probe-sought/article71085320.ece",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "a810da09657a",
+    "_fetched": "2026-06-10T20:56:43.513852+00:00",
+    "_relevance": 44,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 1819,
+    "title": "Teachers body seeks immediate implementation of pay revision",
+    "cat": "india",
+    "upsc": false,
+    "time": "2026-06-10T20:58:56.296247+00:00",
+    "summary": "Navyandhra Teachers Association leaders say that the steep rise in the prices of essential commodities, along with increasing education and healthcare",
+    "story_fact": "",
+    "background": "",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "The Hindu",
+    "link": "https://www.thehindu.com/news/national/andhra-pradesh/teachers-body-seeks-immediate-implementation-of-pay-revision-commission-interim-relief/article71086086.ece",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "2efbf048dd46",
+    "_fetched": "2026-06-10T20:58:56.296247+00:00",
+    "_relevance": 44,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 1820,
+    "title": "India, UAE move to expand strategic crude reserves; Abu Dhab",
+    "cat": "india",
+    "upsc": false,
+    "time": "2026-06-10T21:01:09.232625+00:00",
+    "summary": "India and the UAE are boosting energy security. Plans are underway to significantly expand India's strategic oil reserves with UAE-linked crude storag",
+    "story_fact": "",
+    "background": "",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "ET Economy",
+    "link": "https://economictimes.indiatimes.com/news/economy/foreign-trade/india-uae-move-to-expand-strategic-crude-reserves-abu-dhabi-linked-oil-storage-may-rise-to-30-mln-barrels/articleshow/131642462.cms",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "7fe8750442cb",
+    "_fetched": "2026-06-10T21:01:09.232625+00:00",
+    "_relevance": 38,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 1821,
+    "title": "NDA hails Modi as longest serving continuously elected Prime",
+    "cat": "india",
+    "upsc": false,
+    "time": "2026-06-10T21:03:21.995145+00:00",
+    "summary": "At a meeting in Delhi, NDA leaders praise Prime Minister Narendra Modi’s leadership, adopt a resolution highlighting the government’s achievements ove",
+    "story_fact": "",
+    "background": "",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "The Hindu",
+    "link": "https://www.thehindu.com/news/national/nda-hails-modi-as-longest-serving-continuously-elected-prime-minister/article71086138.ece",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "277a3db27a63",
+    "_fetched": "2026-06-10T21:03:21.995145+00:00",
+    "_relevance": 36,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 1822,
+    "title": "Bengaluru seeks Centre’s nod for RRTS links to Mysuru, Tumak",
+    "cat": "tech",
+    "upsc": false,
+    "time": "2026-06-10T21:05:34.776225+00:00",
+    "summary": "The proposal was among several key metro and transport infrastructure projects for which Mr. Shivakumar sought early approval from the Union governmen",
+    "story_fact": "",
+    "background": "",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "The Hindu",
+    "link": "https://www.thehindu.com/news/national/karnataka/bengaluru-seeks-centres-nod-for-rrts-links-to-mysuru-tumakuru-kolar/article71086424.ece",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "6067ecf2e5c1",
+    "_fetched": "2026-06-10T21:05:34.776225+00:00",
+    "_relevance": 33,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 1823,
+    "title": "Ministry recommends capping of airports for privatisation",
+    "cat": "tech",
+    "upsc": false,
+    "time": "2026-06-10T21:07:47.504307+00:00",
+    "summary": "The recommendation was made last week in response to queries raised by government departments represented on the Public Private Partnership Appraisal ",
+    "story_fact": "",
+    "background": "",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "The Hindu",
+    "link": "https://www.thehindu.com/business/ministry-recommends-capping-of-airports-for-privatisation/article71085674.ece",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "8a87575a0ed6",
+    "_fetched": "2026-06-10T21:07:47.504307+00:00",
+    "_relevance": 31,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 1824,
+    "title": "Centre pushes LPG users to switch to piped natural gas amid ",
+    "cat": "world",
+    "upsc": false,
+    "time": "2026-06-10T21:10:00.280173+00:00",
+    "summary": "The petroleum ministry has asked states to accelerate migration to PNG where infrastructure exists as LPG under-recovery rises to  ₹690 per cylinder a",
+    "story_fact": "",
+    "background": "",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "LiveMint",
+    "link": "https://www.livemint.com/news/india/centre-asks-to-state-to-push-for-migration-of-lpg-consumers-to-png-11781104659237.html",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "13e92bedefa7",
+    "_fetched": "2026-06-10T21:10:00.280173+00:00",
+    "_relevance": 30,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 1825,
+    "title": "Donald Trump congratulates India's ‘longest-serving’ Prime M",
+    "cat": "india",
+    "upsc": false,
+    "time": "2026-06-10T21:12:13.009858+00:00",
+    "summary": "US President Trump congratulated Modi, describing him as ‘strong and wise’, wishing him continued greatness. Nabin visited Jhandewalan Devi temple to ",
+    "story_fact": "",
+    "background": "",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "LiveMint",
+    "link": "https://www.livemint.com/news/india/donald-trump-congratulates-indias-longest-serving-prime-minister-narendra-modi-calls-him-strong-healthy-wise-man-11781113133360.html",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "ba2521419bf6",
+    "_fetched": "2026-06-10T21:12:13.009858+00:00",
+    "_relevance": 30,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
   }
 ]
