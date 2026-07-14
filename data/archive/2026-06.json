@@ -38084,5 +38084,124 @@
     "_difficulty": 2,
     "_directive": "discuss",
     "_mcqs": []
+  },
+  {
+    "id": 1823,
+    "title": "Zojila Tunnel Fortifies India's Strategic Interests",
+    "cat": "policy",
+    "upsc": true,
+    "time": "2026-06-13T22:12:06.576001+00:00",
+    "summary": "The newly constructed Zojila Tunnel strengthens India's road infrastructure and strategic interests in the region, offering hope to locals and their economy.",
+    "story_fact": "The Zojila Tunnel is built to withstand avalanches, shooting stones, and snowfall.",
+    "background": "The Zojila Pass is a critical mountain pass in the Himalayas. The tunnel is part of India's growing road infrastructure.",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "The Hindu",
+    "link": "https://www.thehindu.com/news/national/in-zojila-light-at-the-end-of-tunnel/article71094344.ece",
+    "prelims": [
+      "The <strong>Zojila Tunnel</strong> is a 13.2 km long tunnel, built to reduce travel time between Srinagar and Leh.",
+      "The tunnel is constructed under the <strong>Brookings Plan</strong>, a strategic infrastructure development plan.",
+      "The <strong>Border Roads Organisation (BRO)</strong> is responsible for the construction of the tunnel.",
+      "The tunnel is designed to withstand <strong>avalanches and shooting stones</strong>, common in the region.",
+      "The <strong>Atal Tunnel</strong>, also built by the BRO, is a similar strategic infrastructure project."
+    ],
+    "mains": {
+      "q": "The construction of strategic tunnels like Zojila and Atal underscores the role of infrastructure in national security. Examine.",
+      "marks": "15 marks · GS3",
+      "directive": "examine",
+      "hints": [
+        "Frame the central trade-off: strategic infrastructure development versus environmental and social concerns.",
+        "Cite the example of the Atal Tunnel, which has improved connectivity and reduced travel time in the region.",
+        "Distinguish between the roles of the Border Roads Organisation and other infrastructure development agencies.",
+        "Apply the concept of 'strategic infrastructure' to the Zojila Tunnel project, highlighting its significance.",
+        "Conclude by proposing measures to balance infrastructure development with environmental and social considerations."
+      ]
+    },
+    "connect": [
+      {
+        "topic": "Strategic Infrastructure Development",
+        "context": "The construction of tunnels like Zojila and Atal underscores the role of infrastructure in national security and strategic development."
+      },
+      {
+        "topic": "Environmental Concerns in Infrastructure Development",
+        "context": "The construction of the Zojila Tunnel has raised environmental concerns, highlighting the need for sustainable infrastructure development."
+      },
+      {
+        "topic": "National Security and Infrastructure",
+        "context": "The Zojila Tunnel project demonstrates the importance of infrastructure in national security, particularly in border regions."
+      }
+    ],
+    "_hash": "c32d569d49a9",
+    "_fetched": "2026-06-13T22:12:06.576001+00:00",
+    "_relevance": 36,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "examine",
+    "_mcqs": [
+      {
+        "q": "Consider the following statements:\n1. The Zojila Tunnel is constructed by the Border Roads Organisation.\n2. The tunnel is designed to withstand avalanches and shooting stones.\n3. The tunnel is part of the Golden Quadrilateral project.\nWhich of the above is/are correct?",
+        "options": [
+          "1 and 2 only",
+          "1 and 3 only",
+          "2 and 3 only",
+          "1, 2 and 3"
+        ],
+        "correct": 0,
+        "explanation": "Statement 1 is correct: The BRO is responsible for the construction of the tunnel. Statement 2 is correct: The tunnel is designed to withstand avalanches and shooting stones. Statement 3 is incorrect: The Zojila Tunnel is not part of the Golden Quadrilateral project.",
+        "trap": "Definitional Trap"
+      },
+      {
+        "q": "Consider the following statements:\n1. The Zojila Tunnel is a 13.2 km long tunnel.\n2. The tunnel is constructed under the Brookings Plan.\n3. The tunnel is expected to be completed by 2025.\nWhich of the above is/are correct?",
+        "options": [
+          "1 only",
+          "2 only",
+          "1 and 2 only",
+          "1, 2 and 3"
+        ],
+        "correct": 2,
+        "explanation": "Statement 1 is correct: The Zojila Tunnel is indeed 13.2 km long. Statement 2 is correct: The tunnel is constructed under the Brookings Plan. Statement 3 is incorrect: The expected completion year is 2026, not 2025.",
+        "trap": "Timeline Confusion"
+      }
+    ]
+  },
+  {
+    "id": 1824,
+    "title": "Male nurse’s suicide in Jaipur sparks protests; wife to get ",
+    "cat": "india",
+    "upsc": false,
+    "time": "2026-06-13T22:14:19.002908+00:00",
+    "summary": "The State government has decided to remove about 6,500 contractual nursing personnel employed through private placement agencies in the government hos",
+    "story_fact": "",
+    "background": "",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "The Hindu",
+    "link": "https://www.thehindu.com/news/national/rajasthan/male-nurses-suicide-in-jaipur-sparks-protests-wife-to-get-contractual-job/article71098009.ece",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "81b2cbf340e8",
+    "_fetched": "2026-06-13T22:14:19.002908+00:00",
+    "_relevance": 31,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
   }
 ]
