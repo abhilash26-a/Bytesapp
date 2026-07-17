@@ -47573,5 +47573,379 @@
     "_difficulty": 2,
     "_directive": "discuss",
     "_mcqs": []
+  },
+  {
+    "id": 1973,
+    "title": "UK-India FTA Reduces Tariffs by $480M",
+    "cat": "economy",
+    "upsc": true,
+    "time": "2026-06-17T15:53:48.966581+00:00",
+    "summary": "The UK-India Free Trade Agreement will reduce tariffs on UK exports to India, including Scotch whisky and automotive products, starting July 15.",
+    "story_fact": "UK-India FTA cuts tariffs by over $480M in year one.",
+    "background": "The UK-India Free Trade Agreement aims to boost trade between the two nations. Tariffs on many UK exports to India will be reduced.",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "ET Economy",
+    "link": "https://economictimes.indiatimes.com/news/economy/foreign-trade/uk-india-free-trade-deal-to-kick-in-on-july-15-cutting-tariffs-by-over-480-mn-in-year-one/articleshow/131804310.cms",
+    "prelims": [
+      "The <strong>UK-India Free Trade Agreement</strong> will reduce tariffs on many UK exports to India, including Scotch whisky and automotive products.",
+      "The <strong>General Agreement on Tariffs and Trade (GATT)</strong> Article XXIV allows for customs unions and free trade areas, which the UK-India FTA utilizes.",
+      "The UK-India FTA will <strong>eliminate tariffs on most UK imports</strong> to India, effective July 15.",
+      "The <strong>WTO's Enabling Clause</strong> permits developed countries to provide preferential treatment to developing countries, relevant to the UK-India FTA.",
+      "The <strong>tariff reduction</strong> of over $480M in the first year is expected to increase trade between the UK and India."
+    ],
+    "mains": {
+      "q": "The UK-India Free Trade Agreement's tariff reductions raise questions about the impact on India's economic development. Examine.",
+      "marks": "15 marks · GS3",
+      "directive": "examine",
+      "hints": [
+        "Frame the central trade-off: tariff reductions boost trade but may erode domestic industry competitiveness.",
+        "Cite the WTO's <strong>Enabling Clause</strong> and its implications for preferential trade agreements like the UK-India FTA.",
+        "Distinguish between the <strong>static and dynamic effects</strong> of tariff reductions on India's economy.",
+        "Apply the concept of <strong>comparative advantage</strong> to argue for or against the FTA's potential to increase India's exports.",
+        "Conclude by proposing measures to mitigate potential negative impacts on Indian industries while leveraging the FTA's benefits."
+      ]
+    },
+    "connect": [
+      {
+        "topic": "WTO's Most Favoured Nation (MFN) Clause",
+        "context": "The UK-India FTA must comply with the MFN principle, which requires that any trade advantage granted to one country be extended to all WTO members."
+      },
+      {
+        "topic": "EU-India Free Trade Agreement",
+        "context": "The UK-India FTA may impact the ongoing negotiations for an EU-India FTA, as India may seek similar concessions from the EU."
+      },
+      {
+        "topic": "India's Foreign Trade Policy",
+        "context": "The UK-India FTA aligns with India's Foreign Trade Policy, which aims to increase exports and reduce trade deficits."
+      },
+      {
+        "topic": "Regional Comprehensive Economic Partnership (RCEP)",
+        "context": "The UK-India FTA may influence India's decision to join the RCEP, a mega-regional trade agreement in Asia."
+      },
+      {
+        "topic": "Brexit's Impact on UK Trade Policy",
+        "context": "The UK-India FTA reflects the UK's post-Brexit trade policy, which seeks to establish new trade relationships with non-EU countries."
+      }
+    ],
+    "_hash": "18c49848021a",
+    "_fetched": "2026-06-17T15:53:48.966581+00:00",
+    "_relevance": 57,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "examine",
+    "_mcqs": [
+      {
+        "q": "Consider the following statements:\n1. The UK-India FTA reduces tariffs on all UK exports to India.\n2. The FTA is expected to increase trade between the UK and India by over $1B in the first year.\n3. The FTA's implementation requires parliamentary approval in both the UK and India.\nWhich of the above is/are correct?",
+        "options": [
+          "1 only",
+          "2 only",
+          "1 and 2 only",
+          "1, 2 and 3"
+        ],
+        "correct": 2,
+        "explanation": "Statement 1 is incorrect: not all UK exports will have reduced tariffs. Statement 2 is correct: the FTA aims to increase trade. Statement 3 is incorrect: the FTA's implementation does not require parliamentary approval in both countries.",
+        "trap": "Quantitative Trap"
+      },
+      {
+        "q": "Consider the following statements:\n1. The UK-India FTA is a customs union.\n2. The FTA allows for the free movement of goods and services between the UK and India.\nWhich of the above is/are correct?",
+        "options": [
+          "Only 1",
+          "Only 2",
+          "Both 1 and 2",
+          "Neither 1 nor 2"
+        ],
+        "correct": 3,
+        "explanation": "Statement 1 is incorrect: the UK-India FTA is not a customs union. Statement 2 is incorrect: the FTA does not allow for the free movement of goods and services.",
+        "trap": "Definitional Trap"
+      }
+    ]
+  },
+  {
+    "id": 1974,
+    "title": "RBI Eases FCNR(B), NRE Deposit Rate Norms",
+    "cat": "economy",
+    "upsc": true,
+    "time": "2026-06-17T15:54:25.403265+00:00",
+    "summary": "The Reserve Bank of India has temporarily eased interest rate rules for overseas deposits to attract foreign funds until September 2026.",
+    "story_fact": "RBI eases FCNR(B), NRE deposit rate norms to attract overseas funds until September 2026.",
+    "background": "The RBI manages foreign exchange reserves and regulates foreign currency deposits. The Foreign Currency Non-Resident (Banks) scheme and Non-Resident External accounts are two types of foreign currency deposits.",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "ET Economy",
+    "link": "https://economictimes.indiatimes.com/news/economy/policy/rbi-temporarily-eases-nri-deposit-rate-norms-to-attract-overseas-funds/articleshow/131800955.cms",
+    "prelims": [
+      "The <strong>Reserve Bank of India</strong> regulates foreign currency deposits, including FCNR(B) and NRE accounts, to manage foreign exchange reserves.",
+      "The <strong>Foreign Exchange Management Act, 1999</strong>, governs foreign exchange transactions, including foreign currency deposits.",
+      "The RBI has eased interest rate rules for <strong>FCNR(B) deposits</strong> with a maturity period of 1-5 years.",
+      "The <strong>Liberalized Remittance Scheme</strong> allows residents to remit up to $250,000 per year for foreign currency deposits.",
+      "The <strong>Foreign Currency Non-Resident (Banks) scheme</strong> is a type of foreign currency deposit that allows banks to accept deposits from non-resident Indians."
+    ],
+    "mains": {
+      "q": "The RBI's decision to ease interest rate rules for foreign currency deposits raises questions about the independence of monetary policy. Examine.",
+      "marks": "15 marks · GS3",
+      "directive": "examine",
+      "hints": [
+        "Frame the central trade-off: foreign exchange inflows boost reserves but absorbing currency risk creates a contingent sovereign liability.",
+        "Cite the report of the <strong>Subramanian Committee (2018)</strong> on the external sector, which recommended against sovereign forex guarantees.",
+        "Distinguish between the RBI's <strong>monetary policy mandate</strong> and its <strong>fiscal risk management function</strong>.",
+        "Apply the <strong>Foreign Exchange Management Act, 1999</strong>, which governs foreign exchange transactions, including foreign currency deposits.",
+        "Conclude by proposing a <strong>sunset clause</strong> and a <strong>quarterly review</strong> by the Monetary Policy Committee."
+      ]
+    },
+    "connect": [
+      {
+        "topic": "Monetary Policy Committee",
+        "context": "The Committee is responsible for setting monetary policy, including interest rates, and is relevant to the RBI's decision to ease interest rate rules for foreign currency deposits."
+      },
+      {
+        "topic": "Foreign Currency Non-Resident (Banks) scheme",
+        "context": "The scheme is a type of foreign currency deposit that allows banks to accept deposits from non-resident Indians and is connected to the RBI's decision to ease interest rate rules for FCNR(B) and NRE accounts."
+      },
+      {
+        "topic": "Subramanian Committee (2018)",
+        "context": "The Committee recommended against sovereign forex guarantees, which is relevant to the RBI's decision to ease interest rate rules for foreign currency deposits and absorb currency risk."
+      }
+    ],
+    "_hash": "a631b39b9e6f",
+    "_fetched": "2026-06-17T15:54:25.403265+00:00",
+    "_relevance": 52,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "examine",
+    "_mcqs": [
+      {
+        "q": "Consider the following statements:\n1. The RBI regulates foreign currency deposits to manage foreign exchange reserves.\n2. The Foreign Exchange Management Act, 1999, governs foreign exchange transactions, including foreign currency deposits.\n3. The Liberalized Remittance Scheme allows residents to remit up to $500,000 per year for foreign currency deposits.\nWhich of the above is/are correct?",
+        "options": [
+          "1 only",
+          "2 only",
+          "1 and 2 only",
+          "1, 2 and 3"
+        ],
+        "correct": 2,
+        "explanation": "Statement 1 is correct: The RBI regulates foreign currency deposits to manage foreign exchange reserves. Statement 2 is correct: The Foreign Exchange Management Act, 1999, governs foreign exchange transactions, including foreign currency deposits. Statement 3 is incorrect: The Liberalized Remittance Scheme allows residents to remit up to $250,000 per year for foreign currency deposits, not $500,000.",
+        "trap": "Quantitative Trap"
+      },
+      {
+        "q": "Consider the following statements:\n1. The RBI's decision to ease interest rate rules for foreign currency deposits is a monetary policy decision.\n2. The RBI's decision to ease interest rate rules for foreign currency deposits is a fiscal policy decision.\nWhich of the above is/are correct?",
+        "options": [
+          "Only 1",
+          "Only 2",
+          "Both 1 and 2",
+          "Neither 1 nor 2"
+        ],
+        "correct": 0,
+        "explanation": "Statement 1 is correct: The RBI's decision to ease interest rate rules for foreign currency deposits is a monetary policy decision. Statement 2 is incorrect: The RBI's decision to ease interest rate rules for foreign currency deposits is not a fiscal policy decision.",
+        "trap": "Wrong Body"
+      }
+    ]
+  },
+  {
+    "id": 1975,
+    "title": "PM Modi, German Chancellor Merz hold bilateral talks on trad",
+    "cat": "economy",
+    "upsc": false,
+    "time": "2026-06-17T15:56:37.775742+00:00",
+    "summary": "We discussed possibilities for how we can further strengthen bilateral cooperation through joint efforts in the areas of trade, investments, circular ",
+    "story_fact": "",
+    "background": "",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "The Hindu International",
+    "link": "https://www.thehindu.com/news/international/pm-modi-german-chancellor-merz-hold-bilateral-talks-on-trade-and-defence/article71114030.ece",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "5d1062168f80",
+    "_fetched": "2026-06-17T15:56:37.775742+00:00",
+    "_relevance": 45,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 1976,
+    "title": "UK-India FTA worth $6.5 billion to come into force on July 1",
+    "cat": "india",
+    "upsc": false,
+    "time": "2026-06-17T15:58:50.471784+00:00",
+    "summary": "The two sides reportedly agreed to move ahead with the agreement despite concerns raised by India over Britain's upcoming steel tariff regime, which i",
+    "story_fact": "",
+    "background": "",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "LiveMint",
+    "link": "https://www.livemint.com/news/india/ukindia-fta-worth-6-5-billion-to-come-into-force-on-july-15-after-starmer-modi-talks-at-g7-11781708515283.html",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "b8109da34211",
+    "_fetched": "2026-06-17T15:58:50.471784+00:00",
+    "_relevance": 41,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 1977,
+    "title": "Maharashtra advises farmers to do fodder planning to avoid a",
+    "cat": "tech",
+    "upsc": false,
+    "time": "2026-06-17T16:01:02.949900+00:00",
+    "summary": "Maharashtra farmers are urged to plan for fodder shortages due to El Nino. The Animal Husbandry Department advises cultivating nutritious, multipurpos",
+    "story_fact": "",
+    "background": "",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "ET Economy",
+    "link": "https://economictimes.indiatimes.com/news/economy/agriculture/maharashtra-advises-farmers-to-do-fodder-planning-to-avoid-a-potential-shortage-due-to-el-nino/articleshow/131803962.cms",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "08a839539f5b",
+    "_fetched": "2026-06-17T16:01:02.949900+00:00",
+    "_relevance": 38,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 1978,
+    "title": "India-EU free trade deal to be inked by year-end: Ursula von",
+    "cat": "world",
+    "upsc": false,
+    "time": "2026-06-17T16:03:15.524520+00:00",
+    "summary": "In the meeting, held on the sidelines of the G7 summit in this French commune, the two sides also resolved to step up security and defence cooperation",
+    "story_fact": "",
+    "background": "",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "The Hindu Business",
+    "link": "https://www.thehindu.com/business/Economy/india-eu-free-trade-deal-to-be-inked-by-year-end-ursula-von-der-leyen/article71113949.ece",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "f52dd21fb67b",
+    "_fetched": "2026-06-17T16:03:15.524520+00:00",
+    "_relevance": 36,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 1979,
+    "title": "Nepal Govt wants stronger ties with India, China: Nepal Fore",
+    "cat": "india",
+    "upsc": false,
+    "time": "2026-06-17T16:05:27.959567+00:00",
+    "summary": "Mr. Khanal's visit to Beijing followed closely on his trip to India during which he said his government would accord “highest priority” to relations w",
+    "story_fact": "",
+    "background": "",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "The Hindu International",
+    "link": "https://www.thehindu.com/news/international/nepal-govt-wants-stronger-ties-with-india-china-nepal-foreign-minister-khanal/article71113778.ece",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "5b0e0c666ac5",
+    "_fetched": "2026-06-17T16:05:27.959567+00:00",
+    "_relevance": 36,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 1980,
+    "title": "Buying US stocks via Gift City to get easier as Zerodha, oth",
+    "cat": "economy",
+    "upsc": false,
+    "time": "2026-06-17T16:07:40.376192+00:00",
+    "summary": "Buying US stocks could soon become easier for Indian retail investors after Zerodha, Groww, Angel One and Upstox secured regulatory approvals from GIF",
+    "story_fact": "",
+    "background": "",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "Economic Times",
+    "link": "https://economictimes.indiatimes.com/markets/stocks/news/buying-us-stocks-via-gift-city-to-get-easier-as-zerodha-groww-angel-one-and-upstox-get-nod/articleshow/131796743.cms",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "9873c65d693c",
+    "_fetched": "2026-06-17T16:07:40.376192+00:00",
+    "_relevance": 32,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
   }
 ]
