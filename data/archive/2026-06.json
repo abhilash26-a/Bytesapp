@@ -51430,5 +51430,324 @@
     "_difficulty": 2,
     "_directive": "discuss",
     "_mcqs": []
+  },
+  {
+    "id": 1960,
+    "title": "Deutsche India Showcases AI Banking Applications",
+    "cat": "tech",
+    "upsc": true,
+    "time": "2026-06-18T22:59:09.155399+00:00",
+    "summary": "Deutsche Bank uses AI to analyze market volatility factors like geopolitical developments and regulatory changes, minimizing portfolio risk.",
+    "story_fact": "Deutsche Bank uses AI to analyze market volatility factors.",
+    "background": "Deutsche Bank utilizes AI applications to streamline banking operations. AI analyzes various factors causing market volatility.",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "The Hindu Business",
+    "link": "https://www.thehindu.com/business/deutsche-india-showcases-cutting-edge-ai-applications-that-speed-up-banking-operations/article71118785.ece",
+    "prelims": [
+      "Deutsche Bank's <strong>AI application</strong> analyzes market volatility factors, allowing the bank to minimize portfolio risk.",
+      "The <strong>Representation of the People Act, 1951</strong> is not directly related to AI in banking, but it shows how technology can impact various sectors.",
+      "The <strong>number of AI applications</strong> in banking is increasing, with Deutsche Bank being one of the pioneers in this field.",
+      "The <strong>precedent for AI in banking</strong> can be seen in the use of machine learning algorithms for risk assessment and portfolio management.",
+      "A <strong>subtle nuance</strong> in AI banking is the need for explainability and transparency in decision-making processes."
+    ],
+    "mains": {
+      "q": "The increasing use of AI in banking raises questions about data privacy and security. Examine.",
+      "marks": "15 marks · GS3",
+      "directive": "examine",
+      "hints": [
+        "Frame the central issue: AI in banking enhances efficiency but poses data privacy risks.",
+        "Cite the example of Deutsche Bank's AI application and its potential impact on the banking sector.",
+        "Distinguish between the use of AI in banking and other industries, such as healthcare.",
+        "Apply the concept of data protection and privacy in the context of AI in banking.",
+        "Conclude by proposing measures to mitigate the risks associated with AI in banking."
+      ]
+    },
+    "connect": [
+      {
+        "topic": "Data Protection Act",
+        "context": "The use of AI in banking raises concerns about data protection and privacy, which is addressed by the Data Protection Act."
+      },
+      {
+        "topic": "Artificial Intelligence in Healthcare",
+        "context": "The use of AI in healthcare and banking shares similarities, such as the need for explainability and transparency in decision-making processes."
+      },
+      {
+        "topic": "Cybersecurity in Banking",
+        "context": "The increasing use of AI in banking also increases the risk of cyber attacks, highlighting the need for robust cybersecurity measures."
+      },
+      {
+        "topic": "Digital Payments",
+        "context": "The growth of digital payments has led to an increase in the use of AI in banking, enhancing customer experience and reducing the risk of fraud."
+      },
+      {
+        "topic": "Regulatory Framework for AI",
+        "context": "The lack of a specific regulatory framework for AI in banking poses challenges for the industry, highlighting the need for clear guidelines and regulations."
+      }
+    ],
+    "_hash": "df1346fa655b",
+    "_fetched": "2026-06-18T22:59:09.155399+00:00",
+    "_relevance": 50,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "examine",
+    "_mcqs": [
+      {
+        "q": "Consider the following statements:\n1. Deutsche Bank's AI application analyzes market volatility factors.\n2. The use of AI in banking is a recent phenomenon.\n3. AI in banking poses significant data privacy risks.\nWhich of the above is/are correct?",
+        "options": [
+          "1 only",
+          "1 and 2 only",
+          "1 and 3 only",
+          "1, 2 and 3"
+        ],
+        "correct": 2,
+        "explanation": "Statement 1 is correct: Deutsche Bank's AI application analyzes market volatility factors. Statement 2 is incorrect: The use of AI in banking is not a recent phenomenon. Statement 3 is correct: AI in banking poses significant data privacy risks.",
+        "trap": "Quantitative Trap"
+      },
+      {
+        "q": "Consider the following statements:\n1. The use of AI in banking is regulated by a specific law.\n2. AI in banking can enhance customer experience.\n3. AI in banking can reduce the risk of fraud.\nWhich of the above is/are correct?",
+        "options": [
+          "1 only",
+          "1 and 2 only",
+          "2 and 3 only",
+          "1, 2 and 3"
+        ],
+        "correct": 1,
+        "explanation": "Statement 1 is incorrect: There is no specific law regulating the use of AI in banking. Statement 2 is correct: AI in banking can enhance customer experience. Statement 3 is correct: AI in banking can reduce the risk of fraud.",
+        "trap": "Wrong Body"
+      }
+    ]
+  },
+  {
+    "id": 1961,
+    "title": "IRDAI forms working group on AI",
+    "cat": "tech",
+    "upsc": false,
+    "time": "2026-06-18T23:01:21.849858+00:00",
+    "summary": "The seven-member working group, will study AI’s impact, including potential challenges and risks, and assess implications for insurers, policyholders ",
+    "story_fact": "",
+    "background": "",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "The Hindu Business",
+    "link": "https://www.thehindu.com/business/irdai-forms-working-group-on-ai/article71118712.ece",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "af2aa6c296f2",
+    "_fetched": "2026-06-18T23:01:21.849858+00:00",
+    "_relevance": 38,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 1962,
+    "title": "Why a 70:30 India-global portfolio makes sense in a changing",
+    "cat": "tech",
+    "upsc": false,
+    "time": "2026-06-18T23:03:34.567692+00:00",
+    "summary": "As global markets outperform India, diversification is gaining urgency. Subho Moulik explains why a 70:30 India global portfolio improves risk adjuste",
+    "story_fact": "",
+    "background": "",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "Economic Times",
+    "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/why-a-7030-india-global-portfolio-makes-sense-in-a-changing-world-subho-moulik-decodes/articleshow/127604085.cms",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "256e07d2b58e",
+    "_fetched": "2026-06-18T23:03:34.567692+00:00",
+    "_relevance": 38,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 1963,
+    "title": "Twitter's India policy head to step down; will transition in",
+    "cat": "india",
+    "upsc": false,
+    "time": "2026-06-18T23:05:47.305578+00:00",
+    "summary": "This comes as the San-Francisco based firm is at the receiving end of the Indian government over an issue of blocking and unblocking certain handles t",
+    "story_fact": "",
+    "background": "",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "Economic Times",
+    "link": "https://economictimes.indiatimes.com/tech/tech-bytes/twitters-india-policy-head-to-step-down-will-transition-in-march/articleshow/80732868.cms",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "9664e0b768f4",
+    "_fetched": "2026-06-18T23:05:47.305578+00:00",
+    "_relevance": 36,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 1964,
+    "title": "Warren Buffett is buying, Michael Burry is shorting: The AI ",
+    "cat": "economy",
+    "upsc": false,
+    "time": "2026-06-18T23:08:00.040364+00:00",
+    "summary": "Warren Buffett and Michael Burry are taking opposing stances on the AI boom, highlighting investor uncertainty. Buffett’s Berkshire Hathaway has added",
+    "story_fact": "",
+    "background": "",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "Economic Times",
+    "link": "https://economictimes.indiatimes.com/markets/stocks/news/warren-buffett-is-buying-michael-burry-is-shorting-the-ai-trade-splitting-wall-street/articleshow/125815521.cms",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "40b9c5efb1b0",
+    "_fetched": "2026-06-18T23:08:00.040364+00:00",
+    "_relevance": 36,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 1965,
+    "title": "U.P. CM Adityanath accuses SP and Congress of nepotism, corr",
+    "cat": "india",
+    "upsc": false,
+    "time": "2026-06-18T23:10:12.870436+00:00",
+    "summary": "He was speaking during a public gathering in Unnao where he inaugurated and laid the foundation stones for 101 development projects valued at over ₹57",
+    "story_fact": "",
+    "background": "",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "The Hindu",
+    "link": "https://www.thehindu.com/news/national/uttar-pradesh/up-cm-adityanath-accuses-sp-and-congress-of-nepotism-corruption/article71118699.ece",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "2acd224d2a71",
+    "_fetched": "2026-06-18T23:10:12.870436+00:00",
+    "_relevance": 33,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 1966,
+    "title": "Every decision of government needn’t be a big reform: Anand ",
+    "cat": "economy",
+    "upsc": false,
+    "time": "2026-06-18T23:12:25.659866+00:00",
+    "summary": "\"The fact that we are the world’s largest democracy and we are all aware that power and a role in global affairs for a nation comes from economic stre",
+    "story_fact": "",
+    "background": "",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "Economic Times",
+    "link": "https://economictimes.indiatimes.com/opinion/interviews/every-decision-of-government-neednt-be-a-big-reform-anand-mahindra/articleshow/35919571.cms",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "524d15f56136",
+    "_fetched": "2026-06-18T23:12:25.659866+00:00",
+    "_relevance": 32,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 1967,
+    "title": "Inflation reflects growth dynamics in India: Christopher Woo",
+    "cat": "economy",
+    "upsc": false,
+    "time": "2026-06-18T23:14:38.437966+00:00",
+    "summary": "India has inflation and it reflects the fundamental growth, Christopher Wood, equity strategist, CLSA, said at ET Now Mkt Summit-2010.",
+    "story_fact": "",
+    "background": "",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "Economic Times",
+    "link": "https://economictimes.indiatimes.com/inflation-reflects-growth-dynamics-in-india-christopher-wood/articleshow/6274053.cms",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "82274ab7e9b8",
+    "_fetched": "2026-06-18T23:14:38.437966+00:00",
+    "_relevance": 30,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
   }
 ]
