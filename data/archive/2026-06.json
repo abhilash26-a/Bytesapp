@@ -56358,5 +56358,180 @@
     "_difficulty": 2,
     "_directive": "discuss",
     "_mcqs": []
+  },
+  {
+    "id": 1966,
+    "title": "India Upgrades Statistical Databases",
+    "cat": "economy",
+    "upsc": true,
+    "time": "2026-06-20T22:16:23.009866+00:00",
+    "summary": "India's statistical databases have been upgraded, revising key economic indicators. The overhaul was necessary due to changes in the national accounts and GDP estimates.",
+    "story_fact": "India revised its GDP estimates under the new database system.",
+    "background": "The national accounts and GDP estimates are calculated by the Central Statistical Office. The new database system aims to improve the accuracy of these estimates.",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "The Hindu Business",
+    "link": "https://www.thehindu.com/business/Economy/why-have-indias-statistical-databases-been-upgraded-explained/article71127004.ece",
+    "prelims": [
+      "The <strong>Central Statistical Office</strong> is responsible for calculating India's national accounts and GDP estimates. It uses a new database system to improve accuracy.",
+      "The <strong>national accounts</strong> are a statistical framework that provides a comprehensive picture of a country's economy. India's national accounts have been revised under the new database system.",
+      "The <strong>GDP estimates</strong> have been revised under the new database system, providing a more accurate picture of India's economy.",
+      "The <strong>base year</strong> for India's national accounts has been revised to 2011-12, improving the accuracy of GDP estimates.",
+      "The <strong>new database system</strong> aims to improve the timeliness and accuracy of India's statistical data, enabling better economic decision-making."
+    ],
+    "mains": {
+      "q": "The recent upgrade of India's statistical databases has raised questions about the accuracy of GDP estimates. Examine.",
+      "marks": "15 marks · GS3",
+      "directive": "examine",
+      "hints": [
+        "Frame the central issue: the need for accurate GDP estimates in economic decision-making.",
+        "Cite the example of the 2011-12 base year revision, and its impact on GDP estimates.",
+        "Distinguish between the old and new database systems, highlighting improvements in timeliness and accuracy.",
+        "Apply the concept of national accounts, and its relevance to GDP estimates.",
+        "Conclude by suggesting measures to further improve the accuracy of India's statistical data."
+      ]
+    },
+    "connect": [
+      {
+        "topic": "Statistical Data",
+        "context": "The new database system aims to improve the timeliness and accuracy of India's statistical data, enabling better economic decision-making."
+      }
+    ],
+    "_hash": "7a29b23feb46",
+    "_fetched": "2026-06-20T22:16:23.009866+00:00",
+    "_relevance": 45,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "examine",
+    "_mcqs": [
+      {
+        "q": "Consider the following statements:\n1. The Central Statistical Office is responsible for calculating India's national accounts.\n2. The base year for India's national accounts is 2011-12.\n3. The new database system aims to improve the timeliness of statistical data.\nWhich of the above is/are correct?",
+        "options": [
+          "1 only",
+          "2 only",
+          "1 and 2 only",
+          "1, 2 and 3"
+        ],
+        "correct": 3,
+        "explanation": "Statement 1 is correct: The Central Statistical Office is indeed responsible for calculating India's national accounts. Statement 2 is correct: The base year for India's national accounts is indeed 2011-12. Statement 3 is correct: The new database system does aim to improve the timeliness of statistical data.",
+        "trap": "Quantitative Trap"
+      },
+      {
+        "q": "Consider the following statements:\n1. The new database system has improved the accuracy of GDP estimates.\n2. The base year for India's national accounts is 2001-02.\nWhich of the above is/are correct?",
+        "options": [
+          "Only 1",
+          "Only 2",
+          "Both 1 and 2",
+          "Neither 1 nor 2"
+        ],
+        "correct": 0,
+        "explanation": "Statement 1 is correct: The new database system has indeed improved the accuracy of GDP estimates. Statement 2 is incorrect: The base year for India's national accounts is 2011-12, not 2001-02.",
+        "trap": "Wrong Article"
+      }
+    ]
+  },
+  {
+    "id": 1967,
+    "title": "Regular yoga practice makes healthy ageing possible: AIIMS",
+    "cat": "tech",
+    "upsc": false,
+    "time": "2026-06-20T22:18:35.435923+00:00",
+    "summary": "With the world’s elderly population rapidly expanding, making healthy ageing a public health priority is more critical than ever, says the AIIMS Profe",
+    "story_fact": "",
+    "background": "",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "The Hindu",
+    "link": "https://www.thehindu.com/sci-tech/health/regular-yoga-practice-makes-healthy-ageing-possible-aiims/article71125927.ece",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "51198605e8d5",
+    "_fetched": "2026-06-20T22:18:35.435923+00:00",
+    "_relevance": 41,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 1968,
+    "title": "What does the U.S.-Iran agreement say? | Explained",
+    "cat": "tech",
+    "upsc": false,
+    "time": "2026-06-20T22:20:48.002411+00:00",
+    "summary": "What are the main provisions of the U.S.-Iran memorandum of understanding signed on June 15? What commitments have the two countries made under the de",
+    "story_fact": "",
+    "background": "",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "The Hindu International",
+    "link": "https://www.thehindu.com/news/international/what-does-the-us-iran-agreement-say-explained/article71127001.ece",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "422f1bb2ed10",
+    "_fetched": "2026-06-20T22:20:48.002411+00:00",
+    "_relevance": 40,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 1969,
+    "title": "U.K. PM Starmer expected to resign on June 22 and set out or",
+    "cat": "economy",
+    "upsc": false,
+    "time": "2026-06-20T22:23:00.380223+00:00",
+    "summary": "Reports said Mr. Starmer ​had ‌reached the conclusion that his position was no longer tenable ‌after speaking ​to cabinet minister, advisers, donors a",
+    "story_fact": "",
+    "background": "",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "The Hindu International",
+    "link": "https://www.thehindu.com/news/international/united-kingdom-prime-minister-keir-starmer-resignation-reports-june-21-2026/article71127365.ece",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "84b497653fad",
+    "_fetched": "2026-06-20T22:23:00.380223+00:00",
+    "_relevance": 36,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
   }
 ]
