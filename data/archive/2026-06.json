@@ -58854,5 +58854,128 @@
     "_difficulty": 2,
     "_directive": "discuss",
     "_mcqs": []
+  },
+  {
+    "id": 2001,
+    "title": "Czechs Protest Government Plan to Overhaul Public Broadcaster Funding",
+    "cat": "world",
+    "upsc": true,
+    "time": "2026-06-21T22:19:20.510775+00:00",
+    "summary": "The Czech government plans to finance public radio and television from the state budget, replacing individual and household fees, starting next year.",
+    "story_fact": "Czech government approved a plan to finance public broadcasters from the state budget",
+    "background": "Public broadcasters are funded through a combination of government subsidies and user fees in many countries. The Czech Republic's current system relies on fees paid by individuals, households, and businesses.",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "The Hindu International",
+    "link": "https://www.thehindu.com/news/international/thousands-of-czechs-rally-against-government-plan-to-overhaul-funding-of-public-broadcasters/article71130490.ece",
+    "prelims": [
+      "The <strong>Czech Republic</strong> has a public broadcasting system funded by user fees, which the government plans to replace with state budget financing.",
+      "The <strong>European Broadcasting Union</strong> has expressed concerns over the proposed changes to public broadcaster funding in the Czech Republic.",
+      "The Czech government's plan to finance public broadcasters from the state budget has sparked <strong>protests from thousands of citizens</strong>.",
+      "The proposed funding overhaul has been compared to similar models in <strong>Germany and France</strong>, where public broadcasters are funded through a combination of government subsidies and user fees.",
+      "The <strong>European Court of Human Rights</strong> has ruled on cases related to public broadcaster funding and freedom of expression in the past."
+    ],
+    "mains": {
+      "q": "The Czech government's decision to finance public broadcasters from the state budget raises questions about the independence of these institutions. Examine.",
+      "marks": "15 marks · GS2",
+      "directive": "examine",
+      "hints": [
+        "Frame the central issue: state financing can lead to increased government control over public broadcasters, potentially compromising their independence.",
+        "Cite the example of <strong>Germany's public broadcasting system</strong>, which is funded through a combination of government subsidies and user fees, to argue for a balanced approach.",
+        "Distinguish between <strong>public service broadcasting</strong> and <strong>state-controlled media</strong> to highlight the importance of maintaining independence in public broadcasting.",
+        "Apply the principles of <strong>Article 10 of the European Convention on Human Rights</strong>, which guarantees freedom of expression, to argue for the importance of independent public broadcasters.",
+        "Conclude by proposing a framework for ensuring the independence of public broadcasters, including <strong>arm's-length governance structures</strong> and <strong>transparent funding mechanisms</strong>."
+      ]
+    },
+    "connect": [
+      {
+        "topic": "Public Service Broadcasting",
+        "context": "The concept of public service broadcasting is closely related to the idea of independent public broadcasters, which is being debated in the context of the Czech government's funding overhaul."
+      },
+      {
+        "topic": "European Convention on Human Rights",
+        "context": "The European Convention on Human Rights guarantees freedom of expression, which is relevant to the discussion of public broadcaster independence and the potential impact of state financing on editorial content."
+      },
+      {
+        "topic": "Media Regulation",
+        "context": "The regulation of media is a critical aspect of ensuring the independence of public broadcasters, and the Czech government's proposed funding overhaul raises questions about the potential for increased government control over media content."
+      },
+      {
+        "topic": "Freedom of Expression",
+        "context": "The concept of freedom of expression is closely tied to the idea of independent public broadcasters, and the Czech government's funding overhaul has sparked debates about the potential impact on freedom of expression in the country."
+      }
+    ],
+    "_hash": "333219916153",
+    "_fetched": "2026-06-21T22:19:20.510775+00:00",
+    "_relevance": 40,
+    "_gs": [
+      "GS2"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "examine",
+    "_mcqs": [
+      {
+        "q": "Consider the following statements:\n1. The Czech government's plan to finance public broadcasters from the state budget is a common practice in European countries.\n2. The proposed funding overhaul has been criticized by the European Broadcasting Union.\n3. The Czech Republic's current public broadcasting system is funded entirely through user fees.\nWhich of the above is/are correct?",
+        "options": [
+          "1 only",
+          "2 only",
+          "1 and 2 only",
+          "1, 2 and 3"
+        ],
+        "correct": 2,
+        "explanation": "Statement 1 is incorrect: while some European countries have state-financed public broadcasting systems, others rely on user fees or a combination of both. Statement 2 is correct: the European Broadcasting Union has expressed concerns over the proposed changes. Statement 3 is incorrect: the Czech Republic's current system relies on a combination of user fees and government subsidies.",
+        "trap": "Wrong Article"
+      },
+      {
+        "q": "Consider the following statements:\n1. The Czech government's decision to finance public broadcasters from the state budget is subject to approval by the European Commission.\n2. The proposed funding overhaul has sparked protests from thousands of citizens in the Czech Republic.\nWhich of the above is/are correct?",
+        "options": [
+          "Only 1",
+          "Only 2",
+          "Both 1 and 2",
+          "Neither 1 nor 2"
+        ],
+        "correct": 3,
+        "explanation": "Statement 1 is incorrect: the Czech government's decision is not subject to approval by the European Commission. Statement 2 is correct: the proposed funding overhaul has sparked protests from thousands of citizens.",
+        "trap": "Scope Confusion"
+      }
+    ]
+  },
+  {
+    "id": 2002,
+    "title": "Cyber scam hubs across Southeast Asia fuelled by human traff",
+    "cat": "india",
+    "upsc": false,
+    "time": "2026-06-21T22:21:32.958684+00:00",
+    "summary": "Government says 6,998 Indians have been rescued from cyber scam hubs since 2022—2,533 from Cambodia, 2,297 from Lao PDR, and 2,168 from Myanmar",
+    "story_fact": "",
+    "background": "",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "The Hindu",
+    "link": "https://www.thehindu.com/news/national/cyber-scam-hubs-across-southeast-asia-fuelled-by-human-trafficking-apg-report/article71129934.ece",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "d8001e7965e7",
+    "_fetched": "2026-06-21T22:21:32.958684+00:00",
+    "_relevance": 36,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
   }
 ]
