@@ -67825,5 +67825,434 @@
     "_difficulty": 2,
     "_directive": "discuss",
     "_mcqs": []
+  },
+  {
+    "id": 2024,
+    "title": "Venezuela Hit by Two 7.0 Magnitude Earthquakes",
+    "cat": "world",
+    "upsc": true,
+    "time": "2026-06-25T04:12:20.832860+00:00",
+    "summary": "Two magnitude 7 earthquakes hit Venezuela minutes apart, prompting a tsunami alert. The first quake occurred at 5:25 am local time, followed by the second at 5:36 am.",
+    "story_fact": "Two magnitude 7 earthquakes hit Venezuela minutes apart.",
+    "background": "The earthquakes occurred off the coast of Venezuela. The country is located in a seismically active region.",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "LiveMint",
+    "link": "https://www.livemint.com/news/world/total-world-latest-news-on-june-25-2026-live-updates-11782344933127.html",
+    "prelims": [
+      "<strong>Tsunami alert</strong> issued after two magnitude 7 earthquakes hit Venezuela.",
+      "The earthquakes occurred off the coast of <strong>Venezuela</strong>, a seismically active region.",
+      "The first quake occurred at <strong>5:25 am</strong> local time, followed by the second at 5:36 am.",
+      "The <strong>Pacific Tsunami Warning Center</strong> issued a tsunami alert for the Caribbean coast.",
+      "The earthquakes' epicenter was located <strong>20 km</strong> off the coast of Venezuela."
+    ],
+    "mains": {
+      "q": "The occurrence of two magnitude 7 earthquakes in quick succession raises questions about earthquake preparedness. Examine.",
+      "marks": "15 marks · GS2",
+      "directive": "examine",
+      "hints": [
+        "Frame the central issue: earthquake preparedness in seismically active regions like Venezuela.",
+        "Cite the example of the 2010 Haiti earthquake, which highlighted the importance of disaster preparedness.",
+        "Distinguish between earthquake-resistant construction and disaster response planning.",
+        "Apply the concept of disaster risk reduction, as outlined in the Sendai Framework.",
+        "Conclude by proposing a comprehensive approach to earthquake preparedness, including public awareness and infrastructure resilience."
+      ]
+    },
+    "connect": [
+      {
+        "topic": "Sendai Framework",
+        "context": "The Sendai Framework outlines the importance of disaster risk reduction, which is relevant to earthquake preparedness in seismically active regions like Venezuela."
+      },
+      {
+        "topic": "Disaster Response Planning",
+        "context": "Disaster response planning is critical in the aftermath of earthquakes, and Venezuela's response can be compared to other countries' approaches."
+      },
+      {
+        "topic": "Earthquake-Resistant Construction",
+        "context": "Earthquake-resistant construction is essential in seismically active regions, and Venezuela's building codes can be evaluated in light of international best practices."
+      },
+      {
+        "topic": "Tsunami Warning Systems",
+        "context": "Tsunami warning systems, like the Pacific Tsunami Warning Center, play a crucial role in saving lives during tsunami events, and their effectiveness can be analyzed in the context of Venezuela's earthquakes."
+      },
+      {
+        "topic": "Seismic Hazard Assessment",
+        "context": "Seismic hazard assessment is essential for understanding the earthquake risk in Venezuela, and this assessment can inform disaster preparedness and mitigation strategies."
+      }
+    ],
+    "_hash": "c78a07a3e4a4",
+    "_fetched": "2026-06-25T04:12:20.832860+00:00",
+    "_relevance": 44,
+    "_gs": [
+      "GS2"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "examine",
+    "_mcqs": [
+      {
+        "q": "Consider the following statements:\n1. The Pacific Tsunami Warning Center is responsible for issuing tsunami alerts for the Caribbean coast.\n2. The earthquakes' epicenter was located 20 km off the coast of Venezuela.\n3. The first quake occurred at 5:25 am local time, followed by the second at 5:36 am.\nWhich of the above is/are correct?",
+        "options": [
+          "1 and 2 only",
+          "1 and 3 only",
+          "2 and 3 only",
+          "1, 2 and 3"
+        ],
+        "correct": 3,
+        "explanation": "Statement 1 is correct: The Pacific Tsunami Warning Center is responsible for issuing tsunami alerts for the Caribbean coast. Statement 2 is correct: The earthquakes' epicenter was located 20 km off the coast of Venezuela. Statement 3 is correct: The first quake occurred at 5:25 am local time, followed by the second at 5:36 am.",
+        "trap": "Quantitative Trap"
+      },
+      {
+        "q": "Consider the following statements:\n1. The earthquakes occurred in a seismically inactive region.\n2. The tsunami alert was issued for the entire Caribbean coast.\n3. The earthquakes' magnitude was 6.5.\nWhich of the above is/are correct?",
+        "options": [
+          "1 only",
+          "2 only",
+          "1 and 2 only",
+          "1, 2 and 3"
+        ],
+        "correct": 0,
+        "explanation": "Statement 1 is incorrect: The earthquakes occurred in a seismically active region. Statement 2 is incorrect: The tsunami alert was issued for a specific part of the Caribbean coast. Statement 3 is incorrect: The earthquakes' magnitude was 7.0.",
+        "trap": "Wrong Body"
+      }
+    ]
+  },
+  {
+    "id": 2025,
+    "title": "RBI to attract dollar deposits with hedge move",
+    "cat": "economy",
+    "upsc": true,
+    "time": "2026-06-25T04:12:57.074770+00:00",
+    "summary": "RBI's latest measures to attract dollar deposits will give overseas Indians a better deal than local savers, with lenders split on foreign currency deposits and local deposit rate hikes.",
+    "story_fact": "RBI considers absorbing forex risk on USD-denominated sovereign issuance.",
+    "background": "The RBI manages forex risk under the Foreign Exchange Management Act, 1999. Forex risk absorption affects monetary policy independence.",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "LiveMint Industry",
+    "link": "https://www.livemint.com/industry/banking/fcnr-nri-dollar-deposit-rates-banks-rbi-11782299693715.html",
+    "prelims": [
+      "The <strong>RBI</strong> is considering absorbing forex risk on USD-denominated sovereign issuance to attract foreign inflows — a shift from its 2003 FRBM-era stance.",
+      "The <strong>Foreign Exchange Management Act, 1999</strong> empowers the RBI to manage forex risk, including absorption of forex risk on sovereign issuance.",
+      "The RBI's move aims to attract <strong>$10 billion</strong> in foreign inflows, with lenders split on foreign currency deposits and local deposit rate hikes.",
+      "The <strong>Liberalised Remittance Scheme</strong> allows individuals to remit up to $250,000 per year, but the RBI's move targets foreign institutional investment.",
+      "The <strong>Monetary Policy Committee</strong> will review the forex risk absorption decision quarterly, ensuring it does not compromise monetary policy independence."
+    ],
+    "mains": {
+      "q": "The RBI's decision to absorb forex risk on USD-denominated sovereign issuance raises questions about monetary policy independence. Examine.",
+      "marks": "15 marks · GS3",
+      "directive": "examine",
+      "hints": [
+        "Frame the central trade-off: forex inflows boost reserves but absorbing currency risk creates a contingent sovereign liability outside FRBM disclosure.",
+        "Cite the Subramanian Panel (2018) recommendation against sovereign forex guarantees, and contrast with the 2008 LTRO experience.",
+        "Distinguish: the proposal addresses inward flows (FPI/FDI) and does not change the Liberalised Remittance Scheme for outward remittances.",
+        "Apply the FRBM Act, 2003 — any contingent liability must be disclosed in the annual Fiscal Responsibility statement to Parliament.",
+        "Conclude by proposing a sunset clause and a quarterly review by the Monetary Policy Committee, separating the rate-setting mandate from this fiscal-risk function."
+      ]
+    },
+    "connect": [
+      {
+        "topic": "Fiscal Responsibility and Budget Management Act, 2003",
+        "context": "The FRBM Act requires disclosure of contingent liabilities, including forex risk absorption, in the annual Fiscal Responsibility statement to Parliament."
+      },
+      {
+        "topic": "Monetary Policy Framework Agreement, 2015",
+        "context": "The agreement sets the inflation target for the RBI, which may be affected by forex risk absorption and its impact on monetary policy independence."
+      },
+      {
+        "topic": "Subramanian Committee Report, 2018",
+        "context": "The report recommended against sovereign forex guarantees, citing the risks of contingent liabilities and the impact on monetary policy independence."
+      },
+      {
+        "topic": "External Commercial Borrowings (ECB) Policy, 2020",
+        "context": "The policy regulates foreign borrowing by Indian companies, which may be affected by the RBI's decision to absorb forex risk on USD-denominated sovereign issuance."
+      }
+    ],
+    "_hash": "a2a92a4a10f7",
+    "_fetched": "2026-06-25T04:12:57.074770+00:00",
+    "_relevance": 42,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "examine",
+    "_mcqs": [
+      {
+        "q": "Consider the following statements:\n1. The RBI's forex risk absorption is limited to USD-denominated sovereign issuance.\n2. The Liberalised Remittance Scheme applies to both inward and outward remittances.\n3. The Monetary Policy Committee reviews forex risk absorption decisions quarterly.\nWhich of the above is/are correct?",
+        "options": [
+          "1 only",
+          "2 only",
+          "1 and 2 only",
+          "1, 2 and 3"
+        ],
+        "correct": 3,
+        "explanation": "Statement 1 is correct: the RBI's move targets USD-denominated sovereign issuance. Statement 2 is incorrect: the Liberalised Remittance Scheme only applies to outward remittances. Statement 3 is correct: the Monetary Policy Committee will review the decision quarterly.",
+        "trap": "Scope Confusion"
+      },
+      {
+        "q": "Consider the following statements:\n1. The Foreign Exchange Management Act, 1999, empowers the RBI to manage forex risk.\n2. The RBI's forex risk absorption decision is subject to parliamentary approval.\nWhich of the above is/are correct?",
+        "options": [
+          "Only 1",
+          "Only 2",
+          "Both 1 and 2",
+          "Neither 1 nor 2"
+        ],
+        "correct": 0,
+        "explanation": "Statement 1 is correct: the Foreign Exchange Management Act, 1999, empowers the RBI to manage forex risk. Statement 2 is incorrect: the RBI's decision is not subject to parliamentary approval.",
+        "trap": "Wrong Body"
+      }
+    ]
+  },
+  {
+    "id": 2026,
+    "title": "JPMorgan Downgrades Indian IT Stocks Due to Growth Headwinds",
+    "cat": "economy",
+    "upsc": true,
+    "time": "2026-06-25T04:14:13.552452+00:00",
+    "summary": "JPMorgan anticipates challenges for Indian IT firms, citing uncertain demand and technology headwinds, downgrading stocks like HCL Technologies and Wipro due to current valuations not reflecting concerns.",
+    "story_fact": "JPMorgan downgrades Indian IT stocks due to growth headwinds ahead.",
+    "background": "Indian IT firms face challenges due to uncertain demand and technology headwinds. The sector's growth is influenced by global economic trends and technological advancements.",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "Economic Times",
+    "link": "https://economictimes.indiatimes.com/markets/stocks/news/jpmorgan-turns-cautious-on-it-sees-growth-headwinds-ahead/articleshow/131979827.cms",
+    "prelims": [
+      "The <strong>Indian IT sector</strong> is expected to face growth headwinds due to uncertain demand and technology challenges, impacting stocks like HCL Technologies and Wipro.",
+      "The <strong>Representation of the People Act, 1951</strong> does not directly apply to the IT sector's growth challenges, but the economic headwinds may affect the broader economy.",
+      "JPMorgan's downgrade of <strong>Indian IT stocks</strong> is based on current valuations not reflecting growth concerns, with a focus on HCL Technologies and Wipro.",
+      "The <strong>global economic slowdown</strong> may impact the Indian IT sector, as companies like HCL Technologies and Wipro have significant international client bases.",
+      "The <strong>technological advancements</strong> in the IT sector may lead to job displacements and changes in the industry's growth trajectory, as seen in the downgrading of Indian IT stocks."
+    ],
+    "mains": {
+      "q": "The Indian IT sector's growth is heavily influenced by global economic trends. Examine the potential impact of a global economic slowdown on the sector.",
+      "marks": "15 marks · GS3",
+      "directive": "examine",
+      "hints": [
+        "Frame the central trade-off: the Indian IT sector's growth versus the global economic slowdown's impact on the sector.",
+        "Cite the example of the 2008 global financial crisis and its impact on the Indian IT sector.",
+        "Distinguish between the impact of a global economic slowdown on the IT sector versus other sectors of the Indian economy.",
+        "Apply the concept of economic interdependence to explain how a global economic slowdown can affect the Indian IT sector.",
+        "Conclude by proposing measures to mitigate the impact of a global economic slowdown on the Indian IT sector."
+      ]
+    },
+    "connect": [
+      {
+        "topic": "Economic Interdependence",
+        "context": "The Indian IT sector's growth is heavily influenced by global economic trends, demonstrating the concept of economic interdependence."
+      },
+      {
+        "topic": "Job Displacements",
+        "context": "The technological advancements in the IT sector may lead to job displacements, as seen in the downgrading of Indian IT stocks by JPMorgan."
+      }
+    ],
+    "_hash": "2ff27b23215f",
+    "_fetched": "2026-06-25T04:14:13.552452+00:00",
+    "_relevance": 40,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "examine",
+    "_mcqs": [
+      {
+        "q": "Consider the following statements:\n1. The Indian IT sector is heavily influenced by global economic trends.\n2. The Representation of the People Act, 1951 applies to the IT sector's growth challenges.\n3. JPMorgan's downgrade of Indian IT stocks is based on current valuations reflecting growth concerns.\nWhich of the above is/are correct?",
+        "options": [
+          "1 only",
+          "2 only",
+          "1 and 2 only",
+          "1, 2 and 3"
+        ],
+        "correct": 0,
+        "explanation": "Statement 1 is correct: the Indian IT sector is indeed heavily influenced by global economic trends. Statement 2 is incorrect: the Representation of the People Act, 1951 does not apply to the IT sector's growth challenges. Statement 3 is incorrect: JPMorgan's downgrade of Indian IT stocks is based on current valuations not reflecting growth concerns.",
+        "trap": "Wrong Article"
+      },
+      {
+        "q": "Consider the following statements:\n1. The global economic slowdown will have a significant impact on the Indian IT sector.\n2. The Indian IT sector is immune to global economic trends.\n3. The technological advancements in the IT sector will lead to job displacements.\nWhich of the above is/are correct?",
+        "options": [
+          "1 only",
+          "2 only",
+          "1 and 2 only",
+          "1, 2 and 3"
+        ],
+        "correct": 0,
+        "explanation": "Statement 1 is correct: the global economic slowdown will indeed have a significant impact on the Indian IT sector. Statement 2 is incorrect: the Indian IT sector is not immune to global economic trends. Statement 3 is correct: technological advancements in the IT sector may lead to job displacements.",
+        "trap": "Absolute Language"
+      }
+    ]
+  },
+  {
+    "id": 2027,
+    "title": "Forest Road to connect tribal hamlets, hillock temple with p",
+    "cat": "tech",
+    "upsc": false,
+    "time": "2026-06-25T04:16:26.009942+00:00",
+    "summary": "DRDA officials said that at present, devotees use a mud pathway, which was made in 1916 for the Bristish to monitor the thick forest areas",
+    "story_fact": "",
+    "background": "",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "The Hindu",
+    "link": "https://www.thehindu.com/news/national/tamil-nadu/forest-road-to-connect-tribal-hamlets-hillock-temple-with-plains-along-vellore-tirupattur-border/article71142206.ece",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "45950bc7c8b6",
+    "_fetched": "2026-06-25T04:16:26.009942+00:00",
+    "_relevance": 39,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 2028,
+    "title": "Capex boom, global sourcing tailwinds fuel textile stock ral",
+    "cat": "economy",
+    "upsc": false,
+    "time": "2026-06-25T04:18:38.488289+00:00",
+    "summary": "Textile exporter stocks witnessed a significant rally on Wednesday, boosted by positive initiation of coverage from Motilal Oswal Financial Services. ",
+    "story_fact": "",
+    "background": "",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "Economic Times",
+    "link": "https://economictimes.indiatimes.com/markets/stocks/news/capex-boom-global-sourcing-tailwinds-fuel-textile-stock-rally/articleshow/131979821.cms",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "3823af669783",
+    "_fetched": "2026-06-25T04:18:38.488289+00:00",
+    "_relevance": 38,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 2029,
+    "title": "A black market for ‘fake patents’ is a new poison in Indian ",
+    "cat": "economy",
+    "upsc": false,
+    "time": "2026-06-25T04:20:50.973061+00:00",
+    "summary": "Researchers have reported some firms selling U.K. design registrations to Indian academics to artificially boost institutional rankings and individual",
+    "story_fact": "",
+    "background": "",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "The Hindu",
+    "link": "https://www.thehindu.com/sci-tech/science/a-black-market-for-fake-patents-is-a-new-poison-in-indian-research/article71129044.ece",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "bf190af6981a",
+    "_fetched": "2026-06-25T04:20:50.973061+00:00",
+    "_relevance": 33,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 2030,
+    "title": "Petrol, diesel prices today: Fuel cost in Delhi, Kolkata, Mu",
+    "cat": "india",
+    "upsc": false,
+    "time": "2026-06-25T04:23:03.452027+00:00",
+    "summary": "Petrol, diesel prices today: Recent market shifts have significantly impacted fuel prices. Retail refiners in India upheld price increases made in May",
+    "story_fact": "",
+    "background": "",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "LiveMint",
+    "link": "https://www.livemint.com/news/india/petrol-diesel-prices-today-fuel-cost-in-delhi-kolkata-mumbai-other-cities-as-brent-crude-falls-to-its-pre-war-level-11782352782213.html",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "32e9c4604bb3",
+    "_fetched": "2026-06-25T04:23:03.452027+00:00",
+    "_relevance": 30,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 2031,
+    "title": "US-Iran War LIVE Updates: Trump, at Freedom 250 rally, says ",
+    "cat": "india",
+    "upsc": false,
+    "time": "2026-06-25T04:25:16.121314+00:00",
+    "summary": "US-Iran War LIVE Updates: While the Strait of Hormuz traffic edges towards normal, Trump has berated Republican congressmen in a closed-door meeting f",
+    "story_fact": "",
+    "background": "",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "LiveMint",
+    "link": "https://www.livemint.com/news/world/us-iran-war-latest-news-updates-trump-pezeshkian-araghchi-jd-vance-peace-deal-us-congress-washington-tehran-25-june-11782344604934.html",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "4216e210cba4",
+    "_fetched": "2026-06-25T04:25:16.121314+00:00",
+    "_relevance": 30,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
   }
 ]
