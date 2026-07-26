@@ -70409,5 +70409,132 @@
     "_difficulty": 2,
     "_directive": "discuss",
     "_mcqs": []
+  },
+  {
+    "id": 2002,
+    "title": "Nasdaq, S&P Decline as Tech Megacap Stocks Fall",
+    "cat": "economy",
+    "upsc": true,
+    "time": "2026-06-25T22:25:37.073408+00:00",
+    "summary": "The Nasdaq and S&P 500 dipped due to concerns over Big Tech's AI spending, despite strong earnings from chipmakers like Micron and a robust GDP growth.",
+    "story_fact": "Nasdaq and S&P 500 declined due to tech megacap declines.",
+    "background": "The US stock market is influenced by various factors including economic data and company earnings. The Federal Reserve's decisions also impact the market.",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "Economic Times",
+    "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-nasdaq-sp-end-lower-as-tech-megacap-declines-outweigh-upbeat-chip-outlook/articleshow/132002977.cms",
+    "prelims": [
+      "The <strong>Nasdaq</strong> is a stock market index that includes technology and growth stocks. It is often seen as an indicator of the US tech industry's performance.",
+      "The <strong>S&P 500</strong> is a stock market index that represents the market value of 500 large, publicly traded companies in the US. It is widely considered a leading indicator of the US stock market.",
+      "The <strong>Federal Reserve</strong> is the central bank of the United States, responsible for setting monetary policy and regulating the banking system. Its decisions can impact the stock market.",
+      "The <strong>GDP growth</strong> of a country is the rate at which its economy is growing. A robust GDP growth can lead to increased investor confidence and a rise in stock prices.",
+      "The <strong>chipmakers</strong> like Micron have reported strong earnings, which can have a positive impact on the stock market. However, concerns over tech megacap stocks can outweigh these gains."
+    ],
+    "mains": {
+      "q": "The recent decline in the Nasdaq and S&P 500 despite strong earnings from chipmakers highlights the complexities of the US stock market. Examine the role of the Federal Reserve in influencing the market.",
+      "marks": "15 marks · GS3",
+      "directive": "examine",
+      "hints": [
+        "The Federal Reserve's monetary policy decisions can have a significant impact on the stock market, with interest rate changes affecting investor sentiment and stock prices.",
+        "The recent robust GDP growth can lead to increased investor confidence, but concerns over tech megacap stocks can outweigh these gains.",
+        "The performance of chipmakers like Micron can be an indicator of the overall health of the tech industry, which in turn can impact the stock market.",
+        "The Federal Reserve's decisions are influenced by various factors, including inflation rates, unemployment rates, and economic growth, which can have a ripple effect on the stock market.",
+        "The stock market is also influenced by global events and geopolitical tensions, which can impact investor confidence and stock prices."
+      ]
+    },
+    "connect": [
+      {
+        "topic": "Monetary Policy Committee (MPC)",
+        "context": "The MPC is responsible for setting interest rates, which can impact the stock market and influence investor confidence."
+      },
+      {
+        "topic": "Fiscal Responsibility and Budget Management (FRBM) Act",
+        "context": "The FRBM Act is a law that aims to promote fiscal discipline and transparency in government finances, which can have an indirect impact on the stock market."
+      },
+      {
+        "topic": "Securities and Exchange Board of India (SEBI)",
+        "context": "SEBI is the regulator of the Indian stock market, and its decisions can impact the market and influence investor confidence."
+      },
+      {
+        "topic": "International Monetary Fund (IMF)",
+        "context": "The IMF is an international organization that aims to promote global economic stability and cooperation, and its reports and forecasts can impact the stock market."
+      },
+      {
+        "topic": "Dow Jones Industrial Average",
+        "context": "The Dow Jones Industrial Average is a stock market index that represents the market value of 30 large, publicly traded companies in the US, and its performance can be compared to the Nasdaq and S&P 500."
+      }
+    ],
+    "_hash": "31c1cb7927ef",
+    "_fetched": "2026-06-25T22:25:37.073408+00:00",
+    "_relevance": 44,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "examine",
+    "_mcqs": [
+      {
+        "q": "Consider the following statements:\n1. The Nasdaq is a stock market index that includes technology and growth stocks.\n2. The S&P 500 is a stock market index that represents the market value of 500 small, publicly traded companies in the US.\n3. The Federal Reserve is responsible for setting fiscal policy in the US.\nWhich of the above is/are correct?",
+        "options": [
+          "1 only",
+          "2 only",
+          "1 and 2 only",
+          "1, 2 and 3"
+        ],
+        "correct": 0,
+        "explanation": "Statement 1 is correct: The Nasdaq is a stock market index that includes technology and growth stocks. Statement 2 is incorrect: The S&P 500 represents the market value of 500 large, publicly traded companies in the US. Statement 3 is incorrect: The Federal Reserve is responsible for setting monetary policy, not fiscal policy.",
+        "trap": "Wrong Body"
+      },
+      {
+        "q": "Consider the following statements:\n1. The GDP growth of a country is the rate at which its population is growing.\n2. The chipmakers like Micron have reported strong earnings, which can have a positive impact on the stock market.\nWhich of the above is/are correct?",
+        "options": [
+          "Only 1",
+          "Only 2",
+          "Both 1 and 2",
+          "Neither 1 nor 2"
+        ],
+        "correct": 1,
+        "explanation": "Statement 1 is incorrect: The GDP growth of a country is the rate at which its economy is growing, not its population. Statement 2 is correct: The chipmakers like Micron have reported strong earnings, which can have a positive impact on the stock market.",
+        "trap": "Definitional Trap"
+      }
+    ]
+  },
+  {
+    "id": 2003,
+    "title": "Digital Arrest scams: CBI conducts searches at over 80 locat",
+    "cat": "economy",
+    "upsc": false,
+    "time": "2026-06-25T22:27:49.442158+00:00",
+    "summary": "The arrested accused were involved in the incorporation of shell companies and the opening and operation of mule bank accounts. These accounts were re",
+    "story_fact": "",
+    "background": "",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "The Hindu",
+    "link": "https://www.thehindu.com/news/national/digital-arrest-scams-cbi-conducts-searches-at-over-80-locations-across-india/article71144963.ece",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "22e350ab06ad",
+    "_fetched": "2026-06-25T22:27:49.442158+00:00",
+    "_relevance": 33,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
   }
 ]
