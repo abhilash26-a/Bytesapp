@@ -77489,5 +77489,132 @@
     "_difficulty": 2,
     "_directive": "discuss",
     "_mcqs": []
+  },
+  {
+    "id": 2063,
+    "title": "Putin Seeks Enhanced Air Defence Capability",
+    "cat": "world",
+    "upsc": true,
+    "time": "2026-06-28T22:07:27.940805+00:00",
+    "summary": "Putin stated Russia will not allow Ukrainian strikes to detract from Moscow's plans to advance on the front lines, amid a four-year-old conflict.",
+    "story_fact": "Russia aims to enhance air defence capability amid Ukrainian strikes.",
+    "background": "The conflict between Russia and Ukraine has been ongoing for over four years. Russia's air defence system is crucial for its military strategy.",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "The Hindu International",
+    "link": "https://www.thehindu.com/news/international/putin-says-russia-needs-more-air-defence-capability-tackling-fuel-issues/article71159024.ece",
+    "prelims": [
+      "The <strong>Russian-Ukrainian conflict</strong> has been ongoing since 2018, with multiple attempts at ceasefire agreements.",
+      "The <strong>Minsk Agreement</strong> aimed to resolve the conflict but has been repeatedly violated by both sides.",
+      "Russia's <strong>air defence system</strong> includes the S-400 and S-500 systems, which provide advanced missile defence capabilities.",
+      "The <strong>Ukrainian military</strong> has been receiving support from Western countries, including the United States and European nations.",
+      "The <strong>conflict's impact</strong> on global politics and economy has been significant, with trade and diplomatic relations affected."
+    ],
+    "mains": {
+      "q": "The ongoing conflict between Russia and Ukraine has significant implications for global politics. Examine.",
+      "marks": "15 marks · GS2",
+      "directive": "examine",
+      "hints": [
+        "Frame the central issue: the conflict's impact on regional stability and global politics.",
+        "Cite the Minsk Agreement and its violations as a key factor in the conflict's escalation.",
+        "Distinguish between the military and diplomatic approaches to resolving the conflict.",
+        "Apply the concept of sovereignty and territorial integrity in the context of the conflict.",
+        "Conclude by proposing a potential solution, such as increased international mediation or economic sanctions."
+      ]
+    },
+    "connect": [
+      {
+        "topic": "Budapest Memorandum",
+        "context": "The memorandum's guarantee of Ukraine's territorial integrity has been repeatedly violated, contributing to the ongoing conflict."
+      },
+      {
+        "topic": "NATO-Russia Relations",
+        "context": "The conflict has strained relations between NATO and Russia, with both sides engaging in a military buildup along the border."
+      },
+      {
+        "topic": "International Humanitarian Law",
+        "context": "The conflict has raised concerns about the application of international humanitarian law, particularly with regards to civilian casualties and war crimes."
+      },
+      {
+        "topic": "Economic Sanctions",
+        "context": "Economic sanctions have been imposed on Russia in response to its actions in Ukraine, affecting its economy and trade relations."
+      },
+      {
+        "topic": "United Nations Peacekeeping",
+        "context": "The United Nations has been involved in peacekeeping efforts in the region, but its effectiveness has been limited due to the complexity of the conflict."
+      }
+    ],
+    "_hash": "15c5aa8d2815",
+    "_fetched": "2026-06-28T22:07:27.940805+00:00",
+    "_relevance": 31,
+    "_gs": [
+      "GS2"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "examine",
+    "_mcqs": [
+      {
+        "q": "Consider the following statements:\n1. The Russian-Ukrainian conflict began in 2014.\n2. The Minsk Agreement was signed in 2015.\n3. Russia's air defence system includes the S-400 and S-500 systems.\nWhich of the above is/are correct?",
+        "options": [
+          "1 only",
+          "2 only",
+          "1 and 2 only",
+          "1, 2 and 3"
+        ],
+        "correct": 3,
+        "explanation": "Statement 1 is incorrect: the conflict began in 2018. Statement 2 is incorrect: the Minsk Agreement was signed in 2015, but it refers to a different agreement. Statement 3 is correct: Russia's air defence system includes the S-400 and S-500 systems.",
+        "trap": "Timeline Confusion"
+      },
+      {
+        "q": "Consider the following statements:\n1. The Ukrainian military receives support from Western countries.\n2. The conflict has had a significant impact on global trade.\n3. Russia's air defence system is solely based on the S-400 system.\nWhich of the above is/are correct?",
+        "options": [
+          "1 only",
+          "2 only",
+          "1 and 2 only",
+          "1, 2 and 3"
+        ],
+        "correct": 2,
+        "explanation": "Statement 1 is correct: the Ukrainian military receives support from Western countries. Statement 2 is correct: the conflict has had a significant impact on global trade. Statement 3 is incorrect: Russia's air defence system includes both the S-400 and S-500 systems.",
+        "trap": "Quantitative Trap"
+      }
+    ]
+  },
+  {
+    "id": 2064,
+    "title": "Explained: Why NASA is racing to save the Swift space telesc",
+    "cat": "tech",
+    "upsc": false,
+    "time": "2026-06-28T22:09:40.327638+00:00",
+    "summary": "The agency has partnered with startup Katalyst Space Technologies to launch a robotic spacecraft that will capture the Swift Observatory, lift it into",
+    "story_fact": "",
+    "background": "",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "LiveMint",
+    "link": "https://www.livemint.com/news/us-news/explained-why-nasa-is-racing-to-save-the-swift-space-telescope-before-it-falls-to-earth-11782678458794.html",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "1242c0ec43a7",
+    "_fetched": "2026-06-28T22:09:40.327638+00:00",
+    "_relevance": 30,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
   }
 ]
