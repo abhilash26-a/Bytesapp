@@ -80333,5 +80333,92 @@
     "_difficulty": 2,
     "_directive": "discuss",
     "_mcqs": []
+  },
+  {
+    "id": 2104,
+    "title": "US Supreme Court Rules on Birthright Citizenship, Transgender Athletes",
+    "cat": "world",
+    "upsc": true,
+    "time": "2026-06-29T22:15:05.075757+00:00",
+    "summary": "The US Supreme Court issued four rulings with implications for immigration, transgender rights, and election campaign finance, affecting areas like birthright citizenship and athletes' rights.",
+    "story_fact": "US Supreme Court ruled on birthright citizenship and transgender athletes' rights.",
+    "background": "The US Supreme Court has the final say on matters of federal law and the Constitution. Its rulings set precedents for lower courts and shape the country's legal landscape.",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "LiveMint",
+    "link": "https://www.livemint.com/news/us-news/us-supreme-court-rulings-on-birthright-citizenship-transgender-athletes-rights-election-campaign-finance-today-11782766790479.html",
+    "prelims": [
+      "The <strong>US Supreme Court</strong> has ruled on cases involving birthright citizenship, which is governed by the <strong>14th Amendment</strong> to the US Constitution.",
+      "The <strong>Immigration and Nationality Act</strong> of 1952 is a key piece of legislation related to US immigration policy and has been the subject of numerous court challenges.",
+      "The US Supreme Court's decision on <strong>transgender athletes' rights</strong> may impact the participation of transgender individuals in sports, with potential implications for <strong>Title IX</strong> of the Education Amendments of 1972.",
+      "A <strong>2019 survey</strong> by the Pew Research Center found that a majority of Americans support allowing transgender athletes to compete in sports according to their gender identity.",
+      "The <strong>Equal Protection Clause</strong> of the 14th Amendment has been used in various court cases to argue for the rights of marginalized groups, including transgender individuals."
+    ],
+    "mains": {
+      "q": "The US Supreme Court's rulings on birthright citizenship and transgender athletes' rights reflect a tension between individual rights and societal norms. Examine.",
+      "marks": "15 marks · GS2",
+      "directive": "examine",
+      "hints": [
+        "Frame the central debate: individual rights versus collective identity and social cohesion, with reference to the <strong>Due Process Clause</strong> of the 14th Amendment.",
+        "Cite the <strong>Obergefell v. Hodges</strong> (2015) decision, which established a right to same-sex marriage, and contrast with the current rulings on transgender rights.",
+        "Distinguish between <strong>de jure</strong> and <strong>de facto</strong> discrimination, and argue how the Court's decisions may impact these forms of discrimination.",
+        "Apply the <strong>strict scrutiny</strong> standard to evaluate the constitutionality of laws affecting marginalized groups, such as transgender individuals.",
+        "Conclude by proposing a framework for balancing individual rights with societal concerns, drawing on the <strong>principle of equal protection</strong> under the 14th Amendment."
+      ]
+    },
+    "connect": [
+      {
+        "topic": "Dred Scott v. Sandford (1857)",
+        "context": "This landmark case, which denied citizenship to African Americans, has been cited in discussions of birthright citizenship and its historical context."
+      },
+      {
+        "topic": "Title VII of the Civil Rights Act of 1964",
+        "context": "Title VII, which prohibits employment discrimination based on sex, has been used in arguments regarding transgender rights and employment protections."
+      },
+      {
+        "topic": "Obergefell v. Hodges (2015)",
+        "context": "This decision, which established a right to same-sex marriage, has been cited in discussions of LGBTQ+ rights and the implications for transgender individuals."
+      }
+    ],
+    "_hash": "6c530193d7f1",
+    "_fetched": "2026-06-29T22:15:05.075757+00:00",
+    "_relevance": 44,
+    "_gs": [
+      "GS2"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 3,
+    "_directive": "examine",
+    "_mcqs": [
+      {
+        "q": "Consider the following statements:\n1. The US Supreme Court's ruling on birthright citizenship is based on the 14th Amendment.\n2. The Court's decision on transgender athletes' rights is a departure from its previous stance on LGBTQ+ issues.\n3. The rulings have no implications for US election campaign finance laws.\nWhich of the above is/are correct?",
+        "options": [
+          "1 only",
+          "2 only",
+          "1 and 2 only",
+          "1, 2 and 3"
+        ],
+        "correct": 2,
+        "explanation": "Statement 1 is correct: the 14th Amendment does govern birthright citizenship. Statement 2 is correct: the decision does mark a shift in the Court's approach to transgender rights. Statement 3 is incorrect: the rulings do have implications for election campaign finance.",
+        "trap": "Wrong Article"
+      },
+      {
+        "q": "Consider the following statements:\n1. The US Supreme Court has consistently upheld the rights of transgender individuals in recent decisions.\n2. The Court's rulings on birthright citizenship and transgender athletes' rights are unrelated to each other.\n3. The decisions reflect a trend towards greater judicial activism on social issues.\nWhich of the above is/are correct?",
+        "options": [
+          "1 only",
+          "2 only",
+          "1 and 2 only",
+          "1, 2 and 3"
+        ],
+        "correct": 1,
+        "explanation": "Statement 1 is incorrect: the Court's record on transgender rights is mixed. Statement 2 is correct: the rulings are distinct, though both involve individual rights. Statement 3 is incorrect: the trend is towards greater scrutiny of social issues, not necessarily activism.",
+        "trap": "Recent Update Trap"
+      }
+    ]
   }
 ]
