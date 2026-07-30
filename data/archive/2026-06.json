@@ -81558,5 +81558,707 @@
     "_difficulty": 2,
     "_directive": "discuss",
     "_mcqs": []
+  },
+  {
+    "id": 2097,
+    "title": "RBI: US-Iran Thaw to Boost India's Economic Growth",
+    "cat": "economy",
+    "upsc": true,
+    "time": "2026-06-30T14:33:53.140194+00:00",
+    "summary": "The Reserve Bank of India reports that India's economic growth may benefit from the Iran-US peace deal, despite risks from elevated commodity prices and a weaker global outlook.",
+    "story_fact": "RBI expects US-Iran thaw to provide tailwinds for India's growth.",
+    "background": "The RBI monitors global economic trends to forecast India's growth. The Iran-US peace deal may impact global commodity prices and trade.",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "ET Economy",
+    "link": "https://economictimes.indiatimes.com/news/economy/indicators/us-iran-thaw-to-provide-tailwinds-for-growth-rbi/articleshow/132093653.cms",
+    "prelims": [
+      "The <strong>Reserve Bank of India</strong> has reported that India's economic growth may be boosted by the Iran-US peace deal, citing reduced geopolitical risks.",
+      "The <strong>Iran-US peace deal</strong> may lead to lower global commodity prices, benefiting India's economy, as per the RBI's latest report.",
+      "The RBI has flagged potential <strong>fiscal deficit pressure</strong> due to higher energy costs and subsidies, despite the positive impact of the Iran-US peace deal.",
+      "The <strong>US-Iran peace deal</strong> may increase foreign investment in India, as investors seek to diversify their portfolios, according to the RBI.",
+      "The RBI has noted that <strong>MSMEs and exports</strong> will be supported through various measures to mitigate the impact of global economic uncertainty."
+    ],
+    "mains": {
+      "q": "The US-Iran peace deal is expected to have a positive impact on India's economy. Examine the potential benefits and challenges of this development. (15 marks · GS3)",
+      "marks": "15 marks · GS3",
+      "directive": "examine",
+      "hints": [
+        "Frame the central trade-off: reduced geopolitical risks may boost foreign investment, but also lead to increased competition for Indian exports.",
+        "Cite the RBI's report on the potential impact of the US-Iran peace deal on India's fiscal deficit and inflation rate.",
+        "Distinguish between the short-term and long-term effects of the US-Iran peace deal on India's economy, including the potential impact on MSMEs and exports.",
+        "Apply the concept of comparative advantage to argue that the US-Iran peace deal may lead to increased trade between India and Iran.",
+        "Conclude by suggesting policy measures to mitigate the potential challenges and maximize the benefits of the US-Iran peace deal for India's economy."
+      ]
+    },
+    "connect": [
+      {
+        "topic": "Foreign Exchange Management",
+        "context": "The US-Iran peace deal may impact India's foreign exchange reserves and exchange rates, requiring effective management by the RBI."
+      },
+      {
+        "topic": "Monetary Policy Committee (MPC)",
+        "context": "The MPC's decisions on interest rates and money supply may be influenced by the US-Iran peace deal's impact on India's economy and inflation rate."
+      },
+      {
+        "topic": "Fiscal Responsibility and Budget Management (FRBM) Act",
+        "context": "The FRBM Act's provisions on fiscal deficit and debt management may be relevant in the context of the US-Iran peace deal's potential impact on India's fiscal situation."
+      },
+      {
+        "topic": "International Trade Agreements",
+        "context": "The US-Iran peace deal may lead to increased trade between India and Iran, requiring consideration of international trade agreements and their implications for India's economy."
+      },
+      {
+        "topic": "Economic Survey of India",
+        "context": "The Economic Survey's analysis of India's economic trends and outlook may be relevant in understanding the potential impact of the US-Iran peace deal on India's economy."
+      }
+    ],
+    "_hash": "66340c74f8c9",
+    "_fetched": "2026-06-30T14:33:53.140194+00:00",
+    "_relevance": 91,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "examine",
+    "_mcqs": [
+      {
+        "q": "Consider the following statements:\n1. The US-Iran peace deal is expected to reduce India's fiscal deficit.\n2. The deal may lead to increased foreign investment in India.\n3. The RBI has flagged potential fiscal deficit pressure due to higher energy costs and subsidies.\nWhich of the above is/are correct?",
+        "options": [
+          "1 only",
+          "2 only",
+          "1 and 2 only",
+          "1, 2 and 3"
+        ],
+        "correct": 3,
+        "explanation": "Statement 1 is incorrect: the RBI has flagged potential fiscal deficit pressure. Statement 2 is correct: the deal may lead to increased foreign investment. Statement 3 is correct: the RBI has flagged potential fiscal deficit pressure.",
+        "trap": "Quantitative Trap"
+      },
+      {
+        "q": "Consider the following statements:\n1. The US-Iran peace deal will have no impact on India's economy.\n2. The deal may lead to lower global commodity prices.\n3. The RBI has reported that the deal will boost India's economic growth.\nWhich of the above is/are correct?",
+        "options": [
+          "1 only",
+          "2 only",
+          "1 and 2 only",
+          "1, 2 and 3"
+        ],
+        "correct": 2,
+        "explanation": "Statement 1 is incorrect: the deal may have an impact on India's economy. Statement 2 is correct: the deal may lead to lower global commodity prices. Statement 3 is correct: the RBI has reported that the deal will boost India's economic growth.",
+        "trap": "Absolute Language"
+      }
+    ]
+  },
+  {
+    "id": 2098,
+    "title": "FinMin: AI tools help identify GST evasion",
+    "cat": "economy",
+    "upsc": true,
+    "time": "2026-06-30T14:34:29.815103+00:00",
+    "summary": "India's GST system uses AI and data analytics to combat tax evasion, with a surge in registrations and gross collections, reflecting economic formalization.",
+    "story_fact": "GST system leverages AI to combat tax evasion",
+    "background": "The GST system is a value-added tax levied on most goods and services. It is administered by the GST Council, which comprises state and central government representatives.",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "ET Economy",
+    "link": "https://economictimes.indiatimes.com/news/economy/policy/ai-tools-helping-identify-gst-evasion-easing-compliance-for-honest-taxpayers-finmin/articleshow/132095071.cms",
+    "prelims": [
+      "The <strong>Goods and Services Tax (GST)</strong> system is leveraging advanced technologies like AI and data analytics to combat tax evasion and streamline processes.",
+      "The <strong>GST Council</strong> is responsible for deciding tax rates and exemptions under the GST regime, with the aim of reducing tax evasion and increasing revenue.",
+      "The number of <strong>GST registrations</strong> has surged significantly, reflecting economic formalization, with gross collections also seeing substantial growth.",
+      "The <strong>Central Board of Indirect Taxes and Customs (CBIC)</strong> is the apex body responsible for administering the GST, with a focus on reducing tax evasion and increasing compliance.",
+      "The use of <strong>AI and data analytics</strong> in the GST system is aimed at identifying high-risk taxpayers and streamlining the tax payment process, reducing the compliance burden on honest taxpayers."
+    ],
+    "mains": {
+      "q": "The use of AI in tax administration raises questions about data privacy and surveillance. Examine.",
+      "marks": "15 marks · GS3",
+      "directive": "examine",
+      "hints": [
+        "Frame the central trade-off: AI-driven tax administration can increase revenue but may compromise individual privacy.",
+        "Cite the <strong>Puttaswamy judgment (2017)</strong>, which established the right to privacy as a fundamental right, and discuss its implications for AI-driven tax surveillance.",
+        "Distinguish between <strong>tax evasion</strong> and <strong>tax avoidance</strong>, and argue how AI can help reduce the former while respecting individual rights.",
+        "Apply the <strong>General Data Protection Regulation (GDPR)</strong> framework to the Indian context, and discuss the need for a similar regulatory framework to govern AI-driven tax administration.",
+        "Conclude by proposing a <strong>data protection framework</strong> for AI-driven tax administration, balancing revenue goals with individual rights."
+      ]
+    },
+    "connect": [
+      {
+        "topic": "Taxation Principles",
+        "context": "The GST system is based on the principle of destination-based taxation, which aims to reduce tax evasion and increase revenue."
+      },
+      {
+        "topic": "Data Protection Laws",
+        "context": "The use of AI in tax administration raises concerns about data privacy and surveillance, highlighting the need for a robust data protection framework."
+      },
+      {
+        "topic": "E-Governance Initiatives",
+        "context": "The GST system is an example of an e-governance initiative, which aims to increase transparency and efficiency in tax administration."
+      },
+      {
+        "topic": "Fiscal Federalism",
+        "context": "The GST system is a example of fiscal federalism, where the central and state governments share tax revenues and responsibilities."
+      },
+      {
+        "topic": "Digital India Initiative",
+        "context": "The GST system is part of the Digital India initiative, which aims to promote digital literacy and increase the use of technology in governance."
+      }
+    ],
+    "_hash": "33547f2d8f42",
+    "_fetched": "2026-06-30T14:34:29.815103+00:00",
+    "_relevance": 62,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "examine",
+    "_mcqs": [
+      {
+        "q": "Consider the following statements:\n1. The GST Council is responsible for deciding tax rates and exemptions.\n2. The CBIC is the apex body responsible for administering the GST.\n3. The use of AI in tax administration is aimed at reducing tax evasion and increasing compliance.\nWhich of the above is/are correct?",
+        "options": [
+          "1 only",
+          "2 only",
+          "1 and 2 only",
+          "1, 2 and 3"
+        ],
+        "correct": 3,
+        "explanation": "Statement 1 is correct: The GST Council is responsible for deciding tax rates and exemptions. Statement 2 is correct: The CBIC is the apex body responsible for administering the GST. Statement 3 is correct: The use of AI in tax administration is aimed at reducing tax evasion and increasing compliance.",
+        "trap": "Wrong Body"
+      },
+      {
+        "q": "Consider the following statements:\n1. The GST system uses AI to identify high-risk taxpayers.\n2. The CBIC is responsible for implementing the GST.\n3. The use of AI in tax administration is mandatory for all taxpayers.\nWhich of the above is/are correct?",
+        "options": [
+          "1 only",
+          "1 and 2 only",
+          "2 and 3 only",
+          "1, 2 and 3"
+        ],
+        "correct": 1,
+        "explanation": "Statement 1 is correct: The GST system uses AI to identify high-risk taxpayers. Statement 2 is incorrect: The CBIC is responsible for administering the GST, not implementing it. Statement 3 is incorrect: The use of AI in tax administration is not mandatory for all taxpayers.",
+        "trap": "Absolute Language"
+      }
+    ]
+  },
+  {
+    "id": 2099,
+    "title": "Bank credit to industry grows at robust 17.5% in May: RBI",
+    "cat": "economy",
+    "upsc": true,
+    "time": "2026-06-30T14:36:42.185120+00:00",
+    "summary": "Indian banks witnessed a significant surge in credit to industries, with a robust 17.5% annual growth in May. This expansion was driven by accelerated",
+    "story_fact": "",
+    "background": "",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "ET Economy",
+    "link": "https://economictimes.indiatimes.com/news/economy/policy/bank-credit-to-industry-grows-at-robust-17-5-in-may-rbi/articleshow/132094808.cms",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "828550819ea8",
+    "_fetched": "2026-06-30T14:36:42.185120+00:00",
+    "_relevance": 62,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 2100,
+    "title": "Pension savings can help fund infrastructure, support Viksit",
+    "cat": "economy",
+    "upsc": true,
+    "time": "2026-06-30T14:38:54.736786+00:00",
+    "summary": "India's burgeoning pension savings hold immense potential to fund infrastructure and propel the 'Viksit Bharat' vision, while ensuring stable returns ",
+    "story_fact": "",
+    "background": "",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "ET Economy",
+    "link": "https://economictimes.indiatimes.com/news/economy/finance/maximizing-pension-savings-key-to-infrastructure-and-viksit-bharats-success/articleshow/132091825.cms",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "227dd10260f6",
+    "_fetched": "2026-06-30T14:38:54.736786+00:00",
+    "_relevance": 50,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 2101,
+    "title": "Manufacturing growth seen moderating in Q1 as West Asia cris",
+    "cat": "economy",
+    "upsc": false,
+    "time": "2026-06-30T14:41:07.193684+00:00",
+    "summary": "India's manufacturing sector anticipates a slowdown in April-June FY27, influenced by West Asia tensions impacting business confidence. Despite this, ",
+    "story_fact": "",
+    "background": "",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "ET Economy",
+    "link": "https://economictimes.indiatimes.com/news/economy/policy/indias-manufacturing-growth-set-to-slow-amid-west-asia-crisis-ficci-survey-reveals-key-insights-for-q1-fy27/articleshow/132092555.cms",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "bce0bcd437e5",
+    "_fetched": "2026-06-30T14:41:07.193684+00:00",
+    "_relevance": 48,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 2102,
+    "title": "Fintechs capture 57% share of small personal loans as stress",
+    "cat": "economy",
+    "upsc": false,
+    "time": "2026-06-30T14:43:19.606473+00:00",
+    "summary": "Fintech lenders now dominate India's small personal loan market, holding over half of loans under Rs 50,000 by March 2026. This rapid expansion, howev",
+    "story_fact": "",
+    "background": "",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "ET Economy",
+    "link": "https://economictimes.indiatimes.com/news/economy/finance/fintechs-capture-57-share-of-small-personal-loans-as-stress-mounts-rbi-report/articleshow/132094721.cms",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "1a6a8ba251e2",
+    "_fetched": "2026-06-30T14:43:19.606473+00:00",
+    "_relevance": 45,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 2103,
+    "title": "India's April-May fiscal deficit at ₹1.62 lakh crore, widens",
+    "cat": "economy",
+    "upsc": false,
+    "time": "2026-06-30T14:45:32.015504+00:00",
+    "summary": "India's fiscal deficit stood at ₹1.62 lakh crore during April-May, accounting for 9.6% of the full-year budget estimate, according to government data ",
+    "story_fact": "",
+    "background": "",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "ET Economy",
+    "link": "https://economictimes.indiatimes.com/news/economy/indicators/indias-april-may-fiscal-deficit-at-1-62-lakh-crore-at-9-6-of-fy27-target/articleshow/132091507.cms",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "2b1bf80adf2f",
+    "_fetched": "2026-06-30T14:45:32.015504+00:00",
+    "_relevance": 45,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 2104,
+    "title": "Students have a key role in epidemic prevention, says Kerala",
+    "cat": "tech",
+    "upsc": false,
+    "time": "2026-06-30T14:47:44.427044+00:00",
+    "summary": "Minister said that cleaning and sanitation work was not the responsibility of local self-government institutions alone and that these programmes can b",
+    "story_fact": "",
+    "background": "",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "The Hindu",
+    "link": "https://www.thehindu.com/news/national/kerala/students-have-a-key-role-in-epidemic-prevention-says-kerala-health-minister/article71165967.ece",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "ff4fdd9b30bd",
+    "_fetched": "2026-06-30T14:47:44.427044+00:00",
+    "_relevance": 41,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 2105,
+    "title": "CPI(M) urges Election Commission of India to extend SIR proc",
+    "cat": "india",
+    "upsc": false,
+    "time": "2026-06-30T14:49:56.836167+00:00",
+    "summary": "Extension of the deadline is essential as voters have no adequate awareness about the process and BLOs are yet to distribute application forms to all ",
+    "story_fact": "",
+    "background": "",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "The Hindu",
+    "link": "https://www.thehindu.com/news/national/andhra-pradesh/cpim-urges-election-commission-of-india-to-extend-sir-process-by-a-month/article71165934.ece",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "230d81002269",
+    "_fetched": "2026-06-30T14:49:56.836167+00:00",
+    "_relevance": 41,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 2106,
+    "title": "Credit guarantee of Rs 13 lakh cr to micro, small cos in las",
+    "cat": "india",
+    "upsc": false,
+    "time": "2026-06-30T14:52:09.244803+00:00",
+    "summary": "The government has provided substantial credit guarantees, totaling Rs 13 lakh crore, to micro and small enterprises, significantly boosting credit in",
+    "story_fact": "",
+    "background": "",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "ET Economy",
+    "link": "https://economictimes.indiatimes.com/news/economy/finance/credit-guarantee-of-rs-13-lakh-cr-to-micro-small-cos-in-last-few-yrs-delayed-payments-under-lens/articleshow/132094122.cms",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "b31e2b442b46",
+    "_fetched": "2026-06-30T14:52:09.244803+00:00",
+    "_relevance": 40,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 2107,
+    "title": "Strait of Hormuz: Strategic chokepoint in shadow of geopolit",
+    "cat": "world",
+    "upsc": false,
+    "time": "2026-06-30T14:54:21.636902+00:00",
+    "summary": "The Strait of Hormuz, a key chokepoint for the global trade of crude oil and liquefied natural gas, is at the centre of disputes in negotiations to en",
+    "story_fact": "",
+    "background": "",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "ET Economy",
+    "link": "https://economictimes.indiatimes.com/news/economy/foreign-trade/strait-of-hormuz-strategic-chokepoint-in-shadow-of-geopolitics/articleshow/132090311.cms",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "7b6cfe818bb5",
+    "_fetched": "2026-06-30T14:54:21.636902+00:00",
+    "_relevance": 40,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 2108,
+    "title": "Supreme Court directs status quo on Karnataka HC order which",
+    "cat": "india",
+    "upsc": false,
+    "time": "2026-06-30T14:56:34.033187+00:00",
+    "summary": "Attorney General R. Venkataramani submitted that the 20% ethanol blending programme in petrol is still an ongoing experiment and the impact of the pol",
+    "story_fact": "",
+    "background": "",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "The Hindu",
+    "link": "https://www.thehindu.com/news/national/ethanol-allocation-blending-in-petrol-experiment-supreme-court-case-june-30-2026/article71166111.ece",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "d9ce712d439d",
+    "_fetched": "2026-06-30T14:56:34.033187+00:00",
+    "_relevance": 39,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "sc-judgment",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 2109,
+    "title": "Centre extends duty relief on key petrochemical products til",
+    "cat": "economy",
+    "upsc": false,
+    "time": "2026-06-30T14:58:46.502101+00:00",
+    "summary": "The government has extended the import duty exemption on about 40 key petrochemical products by 15 days, now until July 15. This move aims to support ",
+    "story_fact": "",
+    "background": "",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "ET Economy",
+    "link": "https://economictimes.indiatimes.com/news/economy/foreign-trade/centre-extends-duty-relief-on-key-petrochemical-products-till-july-15/articleshow/132092369.cms",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "9960616225ad",
+    "_fetched": "2026-06-30T14:58:46.502101+00:00",
+    "_relevance": 38,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 2110,
+    "title": "Massive tree felling and illegal construction pose threat to",
+    "cat": "tech",
+    "upsc": false,
+    "time": "2026-06-30T15:00:59.192964+00:00",
+    "summary": "Around 296 acres of land, claimed by local and Tamil Nadu residents, is being cleared under the guise of cardamom farming. Despite the Forest departme",
+    "story_fact": "",
+    "background": "",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "The Hindu",
+    "link": "https://www.thehindu.com/news/national/kerala/massive-tree-felling-and-illegal-construction-posing-threat-to-chr-lands-in-idukki/article71166080.ece",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "5e93bae63238",
+    "_fetched": "2026-06-30T15:00:59.192964+00:00",
+    "_relevance": 36,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 2111,
+    "title": "DMK seeks FIR over alleged participation of private individu",
+    "cat": "india",
+    "upsc": false,
+    "time": "2026-06-30T15:03:11.670562+00:00",
+    "summary": "A complaint addressed to the DGP alleges that John Arockiasamy and Vishnu Reddy, both described as ‘close associates’ of Chief Minister C. Joseph Vija",
+    "story_fact": "",
+    "background": "",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "The Hindu",
+    "link": "https://www.thehindu.com/news/national/tamil-nadu/dmk-seeks-fir-over-alleged-participation-of-private-individuals-in-cabinet-meetings/article71166249.ece",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "24c54acb2966",
+    "_fetched": "2026-06-30T15:03:11.670562+00:00",
+    "_relevance": 36,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 2112,
+    "title": "Despite war, net remittances from West Asia to India rose 70",
+    "cat": "economy",
+    "upsc": false,
+    "time": "2026-06-30T15:05:24.070745+00:00",
+    "summary": "The Finance Ministry says this resilience in remittances is because they are pegged to labour market conditions in the region and do not get affected ",
+    "story_fact": "",
+    "background": "",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "The Hindu Business",
+    "link": "https://www.thehindu.com/business/Economy/despite-war-net-remittances-from-west-asia-to-india-rose-70-in-april-2026/article71165898.ece",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "bd5b4b63995b",
+    "_fetched": "2026-06-30T15:05:24.070745+00:00",
+    "_relevance": 36,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 2113,
+    "title": "Restrictive regulations will slow Indian startup formation b",
+    "cat": "tech",
+    "upsc": false,
+    "time": "2026-06-30T15:07:36.487195+00:00",
+    "summary": "According to the report, digital regulations are increasingly shaping the trajectory of India’s startup ecosystem, with the design and implementation ",
+    "story_fact": "",
+    "background": "",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "The Hindu Business",
+    "link": "https://www.thehindu.com/business/Industry/restrictive-regulations-will-slow-indian-startup-formation-by-20-vc-flows-by-25-report/article71162648.ece",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "6ec0e9738d9e",
+    "_fetched": "2026-06-30T15:07:36.487195+00:00",
+    "_relevance": 33,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 2114,
+    "title": "Warren Buffett breaks 20-year tradition, pauses donation to ",
+    "cat": "economy",
+    "upsc": false,
+    "time": "2026-06-30T15:09:48.881757+00:00",
+    "summary": "Warren Buffett's longstanding friendship with Bill Gates has reportedly come under considerable strain following the public release of the Justice Dep",
+    "story_fact": "",
+    "background": "",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "LiveMint",
+    "link": "https://www.livemint.com/news/world/warren-buffett-breaks-20-year-tradition-pauses-donation-to-gates-foundation-amid-epstein-files-probe-11782823443226.html",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "eb08b18a55d2",
+    "_fetched": "2026-06-30T15:09:48.881757+00:00",
+    "_relevance": 33,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
   }
 ]
