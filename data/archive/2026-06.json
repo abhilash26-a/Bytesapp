@@ -82324,5 +82324,608 @@
     "_difficulty": 2,
     "_directive": "discuss",
     "_mcqs": []
+  },
+  {
+    "id": 2113,
+    "title": "RBI Report: India's Economy Remains Exposed to Energy Price Shocks",
+    "cat": "economy",
+    "upsc": true,
+    "time": "2026-06-30T17:08:55.734129+00:00",
+    "summary": "India's economy faces potential exchange rate volatility due to rising oil prices and supply chain issues, an RBI report revealed, despite strong fundamentals and recent policy measures easing pressure on the rupee and bond yields.",
+    "story_fact": "RBI report highlights India's economy remains vulnerable to energy price shocks and geopolitical tensions.",
+    "background": "The RBI monitors India's economic exposure to global energy price fluctuations. India's strong economic fundamentals have helped mitigate some risks.",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "ET Economy",
+    "link": "https://economictimes.indiatimes.com/news/economy/indicators/indian-economy-remains-exposed-to-energy-price-shocks-rbi-report/articleshow/132095310.cms",
+    "prelims": [
+      "The <strong>RBI</strong> has been managing India's foreign exchange reserves to mitigate the impact of global energy price shocks.",
+      "The <strong>Foreign Exchange Management Act, 1999</strong>, empowers the RBI to regulate foreign exchange transactions and maintain exchange rate stability.",
+      "India's <strong>crude oil imports</strong> account for a significant portion of its total imports, making it vulnerable to global oil price fluctuations.",
+      "The <strong>Oil and Natural Gas Corporation (ONGC)</strong> is India's largest oil and gas producer, playing a crucial role in the country's energy security.",
+      "The <strong>International Energy Agency (IEA)</strong> has warned of potential global energy price shocks due to geopolitical tensions and supply chain disruptions."
+    ],
+    "mains": {
+      "q": "The RBI's consideration to absorb forex risk on USD-denominated sovereign issuance raises questions about the independence of monetary policy. Examine.",
+      "marks": "15 marks · GS3",
+      "directive": "examine",
+      "hints": [
+        "Frame the central trade-off: forex inflows boost reserves but absorbing currency risk creates a contingent sovereign liability outside FRBM disclosure.",
+        "Cite the Subramanian Panel (2018) recommendation against sovereign forex guarantees, and contrast with the 2008 LTRO experience.",
+        "Distinguish: the proposal addresses INWARD flows (FPI/FDI) and does not change the Liberalised Remittance Scheme ($250K/yr cap) for outward flows.",
+        "Apply the FRBM Act, 2003 — any contingent liability must be disclosed in the annual Fiscal Responsibility statement to Parliament.",
+        "Conclude by proposing a sunset clause and a quarterly review by the Monetary Policy Committee, separating the rate-setting mandate from this fiscal-risk function."
+      ]
+    },
+    "connect": [
+      {
+        "topic": "Fiscal Responsibility and Budget Management (FRBM) Act, 2003",
+        "context": "The FRBM Act requires the government to disclose all contingent liabilities, including those arising from the RBI's forex risk absorption."
+      },
+      {
+        "topic": "Monetary Policy Committee (MPC)",
+        "context": "The MPC is responsible for setting interest rates and regulating money supply, and its mandate may be affected by the RBI's forex risk absorption."
+      },
+      {
+        "topic": "Liberalised Remittance Scheme (LRS)",
+        "context": "The LRS allows individuals to remit up to $250,000 per year, and its interaction with the RBI's forex risk absorption needs to be considered."
+      },
+      {
+        "topic": "Subramanian Panel (2018) on RBI's Economic Capital Framework",
+        "context": "The Subramanian Panel recommended against sovereign forex guarantees, and its findings are relevant to the RBI's consideration of forex risk absorption."
+      }
+    ],
+    "_hash": "333b3c50265b",
+    "_fetched": "2026-06-30T17:08:55.734129+00:00",
+    "_relevance": 79,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "examine",
+    "_mcqs": [
+      {
+        "q": "Consider the following statements:\n1. The RBI's forex risk absorption is limited to USD-denominated sovereign issuance.\n2. The FRBM Act, 2003, requires disclosure of all contingent liabilities.\n3. The Liberalised Remittance Scheme applies to both inward and outward flows.\nWhich of the above is/are correct?",
+        "options": [
+          "1 only",
+          "2 only",
+          "1 and 2 only",
+          "1, 2 and 3"
+        ],
+        "correct": 2,
+        "explanation": "Statement 1 is correct: The RBI's consideration is specifically for USD-denominated sovereign issuance. Statement 2 is correct: The FRBM Act requires disclosure of all contingent liabilities. Statement 3 is incorrect: The Liberalised Remittance Scheme applies only to outward flows.",
+        "trap": "Quantitative Trap"
+      },
+      {
+        "q": "Consider the following statements:\n1. The RBI's forex risk absorption will increase the country's foreign exchange reserves.\n2. The RBI's forex risk absorption will reduce the country's dependence on foreign capital.\n3. The RBI's forex risk absorption will increase the country's fiscal liabilities.\nWhich of the above is/are correct?",
+        "options": [
+          "1 only",
+          "2 only",
+          "1 and 2 only",
+          "1, 2 and 3"
+        ],
+        "correct": 3,
+        "explanation": "Statement 1 is incorrect: The RBI's forex risk absorption may not necessarily increase foreign exchange reserves. Statement 2 is incorrect: The RBI's forex risk absorption may not reduce dependence on foreign capital. Statement 3 is correct: The RBI's forex risk absorption will increase the country's fiscal liabilities.",
+        "trap": "Wrong Body"
+      }
+    ]
+  },
+  {
+    "id": 2114,
+    "title": "Economy resilient but risks from monsoon, geopolitical uncer",
+    "cat": "world",
+    "upsc": true,
+    "time": "2026-06-30T17:11:08.135723+00:00",
+    "summary": "India's economy shows resilience despite a slight slowdown in some key indicators. While global commodity prices ease, risks loom from an uneven monso",
+    "story_fact": "",
+    "background": "",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "ET Economy",
+    "link": "https://economictimes.indiatimes.com/news/economy/policy/economy-resilient-but-risks-from-monsoon-geopolitical-uncertainties-remain-finmin-report/articleshow/132095875.cms",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "1d59f818d19c",
+    "_fetched": "2026-06-30T17:11:08.135723+00:00",
+    "_relevance": 72,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 2115,
+    "title": "Govt approves proposal to amend Khadi and Village Industries",
+    "cat": "policy",
+    "upsc": true,
+    "time": "2026-06-30T17:13:20.509279+00:00",
+    "summary": "The government has approved amendments to the KVIC Act, 1956, to modernize the Khadi and Village Industries sector. These changes aim to boost rural e",
+    "story_fact": "",
+    "background": "",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "ET Economy",
+    "link": "https://economictimes.indiatimes.com/news/economy/policy/govt-approves-proposal-to-amend-khadi-and-village-industries-commission-act/articleshow/132096693.cms",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "1764eef29f50",
+    "_fetched": "2026-06-30T17:13:20.509279+00:00",
+    "_relevance": 55,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 2116,
+    "title": "TTD allocates ₹6 crore SRIVANI funds to develop Kadapa Sival",
+    "cat": "economy",
+    "upsc": true,
+    "time": "2026-06-30T17:15:33.004921+00:00",
+    "summary": "As such allocations require public contribution to the tune of 15% of the budget, local devotees come out in large numbers to offer support; temple ch",
+    "story_fact": "",
+    "background": "",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "The Hindu",
+    "link": "https://www.thehindu.com/news/national/andhra-pradesh/ttd-allocates-6-crore-srivani-funds-to-develop-kadapa-sivalayam/article71166417.ece",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "bee0d03f602d",
+    "_fetched": "2026-06-30T17:15:33.004921+00:00",
+    "_relevance": 52,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 2117,
+    "title": "Row over proposal to appoint Seshadrinathan as State Electio",
+    "cat": "india",
+    "upsc": true,
+    "time": "2026-06-30T17:17:45.376745+00:00",
+    "summary": "Kerala Pradesh Congress Committee general secretary P.M. Niyas petitions Home Minister, urging him to order an antecedents verification of Seshadrinat",
+    "story_fact": "",
+    "background": "",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "The Hindu",
+    "link": "https://www.thehindu.com/news/national/kerala/row-over-proposal-to-appoint-seshadrinathan-as-state-election-commissioner-intensifies/article71166211.ece",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "b3e20f31631d",
+    "_fetched": "2026-06-30T17:17:45.376745+00:00",
+    "_relevance": 52,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 2118,
+    "title": "Household sector debt climbs to 45.5 pc of GDP in Sep 2025: ",
+    "cat": "economy",
+    "upsc": true,
+    "time": "2026-06-30T17:19:57.825424+00:00",
+    "summary": "Household debt has climbed to 45.5% of India's GDP, driven by a surge in non-housing retail loans, now making up over half of total borrowings. Despit",
+    "story_fact": "",
+    "background": "",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "ET Economy",
+    "link": "https://economictimes.indiatimes.com/news/economy/indicators/household-sector-debt-climbs-to-45-5-pc-of-gdp-in-sep-2025-rbi-report/articleshow/132095335.cms",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "f286dc03b55e",
+    "_fetched": "2026-06-30T17:19:57.825424+00:00",
+    "_relevance": 50,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 2119,
+    "title": "India’s tourism sector remains constrained by regulatory com",
+    "cat": "world",
+    "upsc": false,
+    "time": "2026-06-30T17:22:10.190855+00:00",
+    "summary": "Scaling visa facilitation in line with global benchmarks critical to enhancing India’s international accessibility and competitiveness, notes the repo",
+    "story_fact": "",
+    "background": "",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "The Hindu",
+    "link": "https://www.thehindu.com/news/national/indias-tourism-sector-remains-constrained-by-regulatory-complexity-says-report/article71165980.ece",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "0662cebb4a70",
+    "_fetched": "2026-06-30T17:22:10.190855+00:00",
+    "_relevance": 49,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 2120,
+    "title": "RBI flags emerging fault lines in private credit market, cal",
+    "cat": "economy",
+    "upsc": false,
+    "time": "2026-06-30T17:24:22.595196+00:00",
+    "summary": "The Reserve Bank of India has identified growing concerns within the booming private credit market. The central bank's latest report highlights an upt",
+    "story_fact": "",
+    "background": "",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "ET Economy",
+    "link": "https://economictimes.indiatimes.com/news/economy/policy/rbi-flags-emerging-fault-lines-in-private-credit-market-calls-for-close-monitoring/articleshow/132095687.cms",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "d372aa98e552",
+    "_fetched": "2026-06-30T17:24:22.595196+00:00",
+    "_relevance": 43,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 2121,
+    "title": "External shock risks rise as geopolitics, AI reshape global ",
+    "cat": "economy",
+    "upsc": false,
+    "time": "2026-06-30T17:26:35.045495+00:00",
+    "summary": "",
+    "story_fact": "",
+    "background": "",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "IE Business",
+    "link": "https://indianexpress.com/article/business/rbi-financial-stability-report-2026-sanjay-malhotra-ai-10765033/",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "76aacd604e44",
+    "_fetched": "2026-06-30T17:26:35.045495+00:00",
+    "_relevance": 39,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 2122,
+    "title": "RBI sees fragmented geopolitics, AI bubble as biggest threat",
+    "cat": "economy",
+    "upsc": false,
+    "time": "2026-06-30T17:28:47.428883+00:00",
+    "summary": "A sharp correction in global markets, due to inflated AI stocks, can spill over into India's stock markets, RBI says in its half-yearly Financial Stab",
+    "story_fact": "",
+    "background": "",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "LiveMint Industry",
+    "link": "https://www.livemint.com/industry/banking/rbi-sanjay-malhotra-global-equities-energy-price-shocks-domestic-markets-11782832389098.html",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "aebdd2b14b2d",
+    "_fetched": "2026-06-30T17:28:47.428883+00:00",
+    "_relevance": 38,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 2123,
+    "title": "AI-led cyber threats top risk for lenders over next 12 month",
+    "cat": "tech",
+    "upsc": false,
+    "time": "2026-06-30T17:30:59.847407+00:00",
+    "summary": "With the advent of AI models like Claude Mythos, cybersecurity has become a key financial stability concern in an increasingly digital and interconnec",
+    "story_fact": "",
+    "background": "",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "LiveMint Industry",
+    "link": "https://www.livemint.com/industry/ai-cyber-threat-indiabanks-nbfc-rbi-survey-cybersecurity-11782830669520.html",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "55651f40ec6e",
+    "_fetched": "2026-06-30T17:30:59.847407+00:00",
+    "_relevance": 34,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 2124,
+    "title": "Rights groups seek government aid for families of deceased f",
+    "cat": "tech",
+    "upsc": false,
+    "time": "2026-06-30T17:33:12.234855+00:00",
+    "summary": "According to information collated by the Human Rights Forum (HRF), around 150 farmers reportedly ended their lives in the combined Anantapur district ",
+    "story_fact": "",
+    "background": "",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "The Hindu",
+    "link": "https://www.thehindu.com/news/national/andhra-pradesh/rights-groups-seek-government-aid-for-families-of-18-deceased-farmers/article71165484.ece",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "c8700112fd8d",
+    "_fetched": "2026-06-30T17:33:12.234855+00:00",
+    "_relevance": 33,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 2125,
+    "title": "Corporate debt-servicing capacity improves, but share of vul",
+    "cat": "economy",
+    "upsc": false,
+    "time": "2026-06-30T17:35:24.670300+00:00",
+    "summary": "Indian companies are showing improved debt-servicing capabilities, with the interest coverage ratio reaching a two-year high of 6.5 in March 2026. Thi",
+    "story_fact": "",
+    "background": "",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "ET Economy",
+    "link": "https://economictimes.indiatimes.com/news/economy/policy/corporate-debt-servicing-capacity-improves-but-share-of-vulnerable-firms-rises-in-q4-fy26-rbi/articleshow/132097126.cms",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "7e843dc36d37",
+    "_fetched": "2026-06-30T17:35:24.670300+00:00",
+    "_relevance": 33,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 2126,
+    "title": "Insurance sector seeing strong interest from foreign investo",
+    "cat": "tech",
+    "upsc": false,
+    "time": "2026-06-30T17:37:37.083720+00:00",
+    "summary": "The regulator has cleared one application for 100% foreign ownership and is reviewing another, IRDAI chairperson Ajay Seth said on Tuesday.",
+    "story_fact": "",
+    "background": "",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "LiveMint Industry",
+    "link": "https://www.livemint.com/industry/banking/insurance-sector-seeing-strong-interest-from-foreign-investors-since-100-fdi-irdai-chief-11782825890522.html",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "0c564ba8eacc",
+    "_fetched": "2026-06-30T17:37:37.083720+00:00",
+    "_relevance": 32,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 2127,
+    "title": "Finance Ministry extends customs duty exemption on petrochem",
+    "cat": "economy",
+    "upsc": false,
+    "time": "2026-06-30T17:39:49.508231+00:00",
+    "summary": "“As the situation is gradually normalising, to ensure a smooth and non-disruptive transition for the affected sectors, it has been decided to extend t",
+    "story_fact": "",
+    "background": "",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "The Hindu Business",
+    "link": "https://www.thehindu.com/business/Economy/import-duty-waiver-on-40-petrochemical-products-extended-till-july-15/article71165945.ece",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "00a4549ca897",
+    "_fetched": "2026-06-30T17:39:49.508231+00:00",
+    "_relevance": 31,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 2128,
+    "title": "U.K. PM Starmer unveils defence funds to boost drone warfare",
+    "cat": "economy",
+    "upsc": false,
+    "time": "2026-06-30T17:42:01.917652+00:00",
+    "summary": "In one of his final big-ticket policy interventions after he announced his resignation last week, Mr. Starmer said the ‘Defence Investment Plan’ will ",
+    "story_fact": "",
+    "background": "",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "The Hindu International",
+    "link": "https://www.thehindu.com/news/international/uk-pm-starmer-unveils-defence-funds-to-boost-drone-warfare-capabilities/article71167075.ece",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "d107e08a7673",
+    "_fetched": "2026-06-30T17:42:01.917652+00:00",
+    "_relevance": 31,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 2129,
+    "title": "US Supreme Court upholds birthright citizenship, rejects Tru",
+    "cat": "india",
+    "upsc": false,
+    "time": "2026-06-30T17:44:14.354428+00:00",
+    "summary": "In a landmark ruling, the justices reaffirmed the long-standing interpretation of the 14th Amendment, holding that nearly everyone born on US soil is ",
+    "story_fact": "",
+    "background": "",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "LiveMint",
+    "link": "https://www.livemint.com/news/us-news/us-supreme-court-strikes-down-trumps-birthright-citizenship-order-11782830542326.html",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "91eaaecbcf47",
+    "_fetched": "2026-06-30T17:44:14.354428+00:00",
+    "_relevance": 30,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "sc-judgment",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
   }
 ]
