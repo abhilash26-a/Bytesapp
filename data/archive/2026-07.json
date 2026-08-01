@@ -2904,5 +2904,510 @@
     "_difficulty": 2,
     "_directive": "discuss",
     "_mcqs": []
+  },
+  {
+    "id": 2116,
+    "title": "India's Economy Grows 13.9% in Q1 FY27",
+    "cat": "economy",
+    "upsc": true,
+    "time": "2026-07-02T04:08:56.638811+00:00",
+    "summary": "India's economy grew 13.9% in Q1 FY27, with GST collections rising to Rs 1.95 lakh crore in June, and car sales surging 24%.",
+    "story_fact": "GST collections rose 13.9% to Rs 1.95 lakh crore in June.",
+    "background": "The Goods and Services Tax (GST) is a value-added tax introduced in 2017 to streamline India's tax system. GST collections are a key indicator of India's economic growth.",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "ET Economy",
+    "link": "https://economictimes.indiatimes.com/news/economy/indicators/growth-engine-revving-as-gst-auto-sales-rise-despite-global-roadblocks/articleshow/132123926.cms",
+    "prelims": [
+      "<strong>GST collections</strong> rose 13.9% to Rs 1.95 lakh crore in June, indicating a strong economic growth.",
+      "The <strong>Goods and Services Tax</strong> is a value-added tax introduced in 2017 to streamline India's tax system.",
+      "India's <strong>car sales</strong> surged 24% in June, contributing to the country's economic growth.",
+      "The <strong>Ministry of Finance</strong> reported a 11.6% rise in power consumption, indicating a growth in industrial activity.",
+      "The <strong>RBI</strong> is considering absorbing forex risk on USD-denominated sovereign issuance to attract foreign inflows."
+    ],
+    "mains": {
+      "q": "The recent growth in India's economy, driven by a rise in GST collections and car sales, has sparked debates about the effectiveness of the government's economic policies. Examine.",
+      "marks": "15 marks · GS3",
+      "directive": "examine",
+      "hints": [
+        "Frame the central trade-off: a strong economic growth may lead to inflation, while a slow growth may lead to unemployment.",
+        "Cite the example of the 2008 global financial crisis, where a strong fiscal stimulus helped India recover quickly.",
+        "Distinguish between the short-term and long-term effects of the government's economic policies on the economy.",
+        "Apply the concept of the Laffer curve to argue that a rise in GST collections may not necessarily lead to a rise in tax revenues.",
+        "Conclude by proposing a balanced approach to economic policy-making, taking into account both the need for growth and the need for fiscal prudence."
+      ]
+    },
+    "connect": [
+      {
+        "topic": "Fiscal Policy",
+        "context": "The government's fiscal policy, including its decisions on taxation and expenditure, has a significant impact on the economy's growth rate."
+      },
+      {
+        "topic": "Monetary Policy",
+        "context": "The RBI's monetary policy, including its decisions on interest rates and money supply, also plays a crucial role in shaping the economy's growth trajectory."
+      },
+      {
+        "topic": "Laffer Curve",
+        "context": "The concept of the Laffer curve suggests that a rise in tax rates may not necessarily lead to a rise in tax revenues, and is relevant to the debate on the optimal level of taxation."
+      },
+      {
+        "topic": "Economic Survey",
+        "context": "The Economic Survey is an annual document that provides an overview of the economy's performance and outlines the government's economic policies and priorities."
+      },
+      {
+        "topic": "FRBM Act",
+        "context": "The FRBM Act is a legislation that aims to promote fiscal discipline and transparency in the government's fiscal operations, and is relevant to the debate on the government's fiscal policy."
+      }
+    ],
+    "_hash": "d497fe74407a",
+    "_fetched": "2026-07-02T04:08:56.638811+00:00",
+    "_relevance": 72,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "examine",
+    "_mcqs": [
+      {
+        "q": "Consider the following statements:\n1. The GST is a direct tax.\n2. The GST is a value-added tax.\n3. The GST is a regressive tax.\nWhich of the above is/are correct?",
+        "options": [
+          "1 only",
+          "2 only",
+          "1 and 2 only",
+          "1, 2 and 3"
+        ],
+        "correct": 1,
+        "explanation": "Statement 1 is incorrect: the GST is an indirect tax. Statement 2 is correct: the GST is a value-added tax. Statement 3 is incorrect: the GST is not a regressive tax.",
+        "trap": "Definitional Trap"
+      },
+      {
+        "q": "Consider the following statements:\n1. The RBI is responsible for setting fiscal policy.\n2. The Ministry of Finance is responsible for setting monetary policy.\nWhich of the above is/are correct?",
+        "options": [
+          "1 only",
+          "2 only",
+          "Both 1 and 2",
+          "Neither 1 nor 2"
+        ],
+        "correct": 3,
+        "explanation": "Statement 1 is incorrect: the Ministry of Finance is responsible for setting fiscal policy. Statement 2 is incorrect: the RBI is responsible for setting monetary policy.",
+        "trap": "Wrong Body"
+      }
+    ]
+  },
+  {
+    "id": 2117,
+    "title": "RBI Governor Sanjay Malhotra Rules Out Inflation Target Hike",
+    "cat": "economy",
+    "upsc": true,
+    "time": "2026-07-02T04:09:13.522820+00:00",
+    "summary": "RBI Governor Sanjay Malhotra says India's inflation target is unlikely to be raised, citing the success of the current framework in lowering average inflation, with inflation remaining below the 4% target and the economy projected for strong growth.",
+    "story_fact": "RBI Governor Sanjay Malhotra suggests a potential long-term reduction in inflation target.",
+    "background": "The RBI's inflation-targeting framework aims to keep inflation within a 2-6% range. The current target is 4%. The framework has been successful in lowering average inflation.",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "ET Economy",
+    "link": "https://economictimes.indiatimes.com/news/economy/indicators/india-unlikely-to-raise-inflation-target-rbi-governor-sanjay-malhotra-says-expects-strong-growth/articleshow/132126908.cms",
+    "prelims": [
+      "The <strong>Reserve Bank of India (RBI)</strong> is the central bank of India, responsible for monetary policy and maintaining financial stability.",
+      "The <strong>inflation-targeting framework</strong> is a monetary policy framework that aims to keep inflation within a target range, currently 2-6% for India.",
+      "The RBI has kept the <strong>repo rate</strong> unchanged at 6.5% to support growth while controlling inflation.",
+      "The <strong>Monetary Policy Committee (MPC)</strong> is responsible for setting the inflation target and deciding on monetary policy actions.",
+      "The <strong>FRBM Act, 2003</strong> provides a framework for fiscal discipline and monetary policy coordination."
+    ],
+    "mains": {
+      "q": "The RBI's decision to maintain the current inflation target raises questions about the trade-off between price stability and growth. Examine.",
+      "marks": "15 marks · GS3",
+      "directive": "examine",
+      "hints": [
+        "Frame the central trade-off: price stability vs growth, citing the example of the 2020-21 pandemic response.",
+        "Cite the report of the <strong>Urjit Patel Committee (2014)</strong> on the inflation-targeting framework, highlighting its recommendations.",
+        "Distinguish between the <strong>headline inflation</strong> and <strong>core inflation</strong>, explaining how they influence monetary policy decisions.",
+        "Apply the concept of the <strong>Phillips Curve</strong> to argue for or against the current inflation target.",
+        "Conclude by suggesting a potential revision to the inflation-targeting framework, considering the experience of other emerging economies."
+      ]
+    },
+    "connect": [
+      {
+        "topic": "Monetary Policy Framework",
+        "context": "The inflation-targeting framework is a key component of the monetary policy framework, which also includes the liquidity adjustment facility and the marginal standing facility."
+      },
+      {
+        "topic": "Fiscal Policy Coordination",
+        "context": "The FRBM Act, 2003 provides a framework for fiscal discipline and monetary policy coordination, ensuring that fiscal policy supports the inflation-targeting framework."
+      },
+      {
+        "topic": "Phillips Curve",
+        "context": "The Phillips Curve suggests a trade-off between inflation and unemployment, which is relevant to the inflation-targeting framework and monetary policy decisions."
+      },
+      {
+        "topic": "Urjit Patel Committee Report",
+        "context": "The Urjit Patel Committee report (2014) recommended the adoption of an inflation-targeting framework, which has been influential in shaping India's monetary policy."
+      },
+      {
+        "topic": "International Experience with Inflation Targeting",
+        "context": "Countries like the UK and Australia have successfully implemented inflation-targeting frameworks, providing valuable lessons for India's monetary policy framework."
+      }
+    ],
+    "_hash": "a4349918d7de",
+    "_fetched": "2026-07-02T04:09:13.522820+00:00",
+    "_relevance": 64,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "examine",
+    "_mcqs": [
+      {
+        "q": "Consider the following statements:\n1. The RBI is responsible for setting the inflation target.\n2. The inflation target is set by the Government of India.\n3. The Monetary Policy Committee decides on the inflation target.\nWhich of the above is/are correct?",
+        "options": [
+          "1 only",
+          "2 only",
+          "1 and 3 only",
+          "1, 2 and 3"
+        ],
+        "correct": 2,
+        "explanation": "Statement 1 is incorrect: the RBI sets monetary policy but the inflation target is set by the Government. Statement 2 is correct: the Government sets the inflation target. Statement 3 is incorrect: the MPC decides on monetary policy actions, not the target itself.",
+        "trap": "Wrong Body"
+      },
+      {
+        "q": "Consider the following statements:\n1. The current inflation target is 4%.\n2. The inflation target range is 2-6%.\n3. The RBI has the power to change the inflation target unilaterally.\nWhich of the above is/are correct?",
+        "options": [
+          "1 and 2 only",
+          "1 and 3 only",
+          "2 and 3 only",
+          "1, 2 and 3"
+        ],
+        "correct": 0,
+        "explanation": "Statement 1 is correct: the current target is indeed 4%. Statement 2 is correct: the target range is 2-6%. Statement 3 is incorrect: the RBI does not have the power to unilaterally change the target.",
+        "trap": "Absolute Language"
+      }
+    ]
+  },
+  {
+    "id": 2118,
+    "title": "India-Japan Summit to Strengthen Bilateral Ties",
+    "cat": "world",
+    "upsc": true,
+    "time": "2026-07-02T04:10:30.572977+00:00",
+    "summary": "The India-Japan Summit will review bilateral cooperation across trade, investment, defence, and other key sectors. The summit aims to strengthen ties between the two nations.",
+    "story_fact": "India and Japan to deepen ties across trade, defence, and technology",
+    "background": "The India-Japan relationship is based on the principles of mutual respect and cooperation. The two nations have a long history of diplomatic and economic ties.",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "LiveMint",
+    "link": "https://www.livemint.com/news/world/moditakaichi-summit-today-india-japan-set-to-deepen-ties-across-trade-defence-and-technology-yen-rupee-11782958435551.html",
+    "prelims": [
+      "The <strong>India-Japan Summit</strong> provides an opportunity for both nations to review and strengthen bilateral cooperation across various sectors.",
+      "The <strong>Article 73</strong> of the Indian Constitution empowers the Central Government to enter into agreements with foreign nations, including Japan, for mutual cooperation and benefit.",
+      "The <strong>2016</strong> India-Japan Joint Statement outlined the roadmap for bilateral cooperation in areas such as defence, trade, and technology.",
+      "The <strong>Act East Policy</strong> initiated by India in 2014 aims to strengthen economic and cultural ties with Southeast Asian nations, including Japan.",
+      "The <strong>Quadrilateral Security Dialogue</strong> between India, Japan, Australia, and the United States is a key platform for discussing regional security issues and promoting cooperation."
+    ],
+    "mains": {
+      "q": "The India-Japan relationship has evolved significantly over the years. Examine the key factors contributing to this evolution and its implications for regional security.",
+      "marks": "15 marks · GS2",
+      "directive": "examine",
+      "hints": [
+        "Frame the central trade-off: deepening bilateral ties can enhance regional security but may also create dependencies and limit flexibility.",
+        "Cite the 2016 India-Japan Joint Statement and contrast it with the 2020 India-Australia Joint Declaration to highlight the evolution of India's Act East Policy.",
+        "Distinguish between the Quadrilateral Security Dialogue and the ASEAN Regional Forum, and argue which platform better serves India's regional security interests.",
+        "Apply the principles of mutual respect and cooperation to examine the potential areas of conflict and cooperation between India and Japan.",
+        "Conclude by proposing a framework for India-Japan cooperation that balances regional security concerns with the need for economic and cultural exchange."
+      ]
+    },
+    "connect": [
+      {
+        "topic": "ASEAN Regional Forum",
+        "context": "The ASEAN Regional Forum provides a platform for India and Japan to engage with Southeast Asian nations and discuss regional security issues, which is connected to the India-Japan Summit's focus on strengthening bilateral ties."
+      },
+      {
+        "topic": "Act West Policy",
+        "context": "The Act West Policy, initiated by India in 2015, aims to strengthen economic and cultural ties with the Middle East and North Africa, which is connected to the India-Japan Summit's focus on regional security and cooperation."
+      },
+      {
+        "topic": "Shanghai Cooperation Organisation",
+        "context": "The Shanghai Cooperation Organisation provides a platform for India and Japan to engage with Central Asian nations and discuss regional security issues, which is connected to the India-Japan Summit's focus on strengthening bilateral ties and regional security."
+      },
+      {
+        "topic": "India-Australia Joint Declaration",
+        "context": "The India-Australia Joint Declaration of 2020 outlined cooperation in areas such as defence and trade, which is connected to the India-Japan Summit's focus on strengthening bilateral ties and regional security."
+      }
+    ],
+    "_hash": "d810036f3fcd",
+    "_fetched": "2026-07-02T04:10:30.572977+00:00",
+    "_relevance": 59,
+    "_gs": [
+      "GS2"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "examine",
+    "_mcqs": [
+      {
+        "q": "Consider the following statements:\n1. The India-Japan Summit is held annually.\n2. The Quadrilateral Security Dialogue includes China as a member.\n3. The Act East Policy was initiated by India in 2010.\nWhich of the above is/are correct?",
+        "options": [
+          "1 only",
+          "2 only",
+          "1 and 2 only",
+          "1, 2 and 3"
+        ],
+        "correct": 0,
+        "explanation": "Statement 1 is incorrect: The India-Japan Summit is not held annually. Statement 2 is incorrect: The Quadrilateral Security Dialogue does not include China as a member. Statement 3 is incorrect: The Act East Policy was initiated by India in 2014.",
+        "trap": "Timeline Confusion"
+      },
+      {
+        "q": "Consider the following statements:\n1. The India-Japan Joint Statement of 2016 outlined cooperation in defence and trade.\n2. The Quadrilateral Security Dialogue is a platform for discussing regional security issues.\n3. The Act East Policy aims to strengthen economic ties with Southeast Asian nations.\nWhich of the above is/are correct?",
+        "options": [
+          "1 only",
+          "2 only",
+          "1 and 2 only",
+          "1, 2 and 3"
+        ],
+        "correct": 3,
+        "explanation": "Statement 1 is correct: The India-Japan Joint Statement of 2016 did outline cooperation in defence and trade. Statement 2 is correct: The Quadrilateral Security Dialogue is a platform for discussing regional security issues. Statement 3 is correct: The Act East Policy does aim to strengthen economic ties with Southeast Asian nations.",
+        "trap": "Wrong Article"
+      }
+    ]
+  },
+  {
+    "id": 2119,
+    "title": "Maharashtra govt. tables Women Farmers’ Empowerment Bill in ",
+    "cat": "economy",
+    "upsc": true,
+    "time": "2026-07-02T04:12:43.024056+00:00",
+    "summary": "Under this Bill, a woman farmer will be issued a ‘Woman Farmer Certificate’. It will be her official identity document for access to government scheme",
+    "story_fact": "",
+    "background": "",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "The Hindu",
+    "link": "https://www.thehindu.com/news/national/maharashtra/maharashtra-govt-tables-women-farmers-empowerment-bill-in-assembly/article71171049.ece",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "706bf034a2a9",
+    "_fetched": "2026-07-02T04:12:43.024056+00:00",
+    "_relevance": 52,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 2120,
+    "title": "Around 2% of Gaza’s child population killed by Israeli secur",
+    "cat": "world",
+    "upsc": false,
+    "time": "2026-07-02T04:14:55.554067+00:00",
+    "summary": "The latest report by the UN independent commission of inquiry captures Israel’s crimes against Palestinian children",
+    "story_fact": "",
+    "background": "",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "The Hindu International",
+    "link": "https://www.thehindu.com/data/around-2-of-gazas-child-population-killed-by-israeli-security-forces-un-report/article71167425.ece",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "adde76f21cc2",
+    "_fetched": "2026-07-02T04:14:55.554067+00:00",
+    "_relevance": 43,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 2121,
+    "title": "KPIT outlook shock sends IT stocks sliding as growth worries",
+    "cat": "tech",
+    "upsc": false,
+    "time": "2026-07-02T04:17:08.070310+00:00",
+    "summary": "Mid-cap IT stocks faced a significant downturn Wednesday, led by KPIT Technologies' warning of a near-term revenue slowdown. This has amplified invest",
+    "story_fact": "",
+    "background": "",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "Economic Times",
+    "link": "https://economictimes.indiatimes.com/markets/stocks/news/kpit-outlook-shock-sends-it-stocks-sliding-as-growth-worries-intensify/articleshow/132126618.cms",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "c792e80acd2b",
+    "_fetched": "2026-07-02T04:17:08.070310+00:00",
+    "_relevance": 42,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 2122,
+    "title": "Massive nuclear and AI bets hide a broader slump in India In",
+    "cat": "tech",
+    "upsc": false,
+    "time": "2026-07-02T04:19:20.852616+00:00",
+    "summary": "Fresh project proposals rose to  ₹14.5 trillion in the June quarter. This impressive aggregate masks a glaring asymmetry as just two sectors—nuclear p",
+    "story_fact": "",
+    "background": "",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "LiveMint",
+    "link": "https://www.livemint.com/news/massive-nuclear-and-ai-bets-hide-a-broader-slump-in-india-incs-june-quarter-capex-11782899775813.html",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "ab25f0032d7f",
+    "_fetched": "2026-07-02T04:19:20.852616+00:00",
+    "_relevance": 33,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 2123,
+    "title": "Odisha to spend ₹5,467 crore for free education from KG to P",
+    "cat": "tech",
+    "upsc": false,
+    "time": "2026-07-02T04:21:33.362244+00:00",
+    "summary": "Aimed at making quality education more accessible, equitable and affordable for students, the scheme says eligible students admitted to regular mode c",
+    "story_fact": "",
+    "background": "",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "The Hindu",
+    "link": "https://www.thehindu.com/news/national/odisha/odisha-to-spend-5467-crore-for-free-education-from-kg-to-pg-over-next-five-years/article71170777.ece",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "fed3b4ce0837",
+    "_fetched": "2026-07-02T04:21:33.362244+00:00",
+    "_relevance": 31,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 2124,
+    "title": "Trump urges acting spy chief to declassify records, includin",
+    "cat": "policy",
+    "upsc": false,
+    "time": "2026-07-02T04:23:45.867128+00:00",
+    "summary": "Bill Pulte, a political loyalist with no national security experience, was appointed as acting director of national intelligence last month; he has re",
+    "story_fact": "",
+    "background": "",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "The Hindu International",
+    "link": "https://www.thehindu.com/news/international/trump-urges-acting-spy-chief-to-declassify-records-including-on-2020-us-election/article71172012.ece",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "c8c01fbced59",
+    "_fetched": "2026-07-02T04:23:45.867128+00:00",
+    "_relevance": 31,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 2125,
+    "title": "Ahead of 8th CPC, experts explain why India’s public sector ",
+    "cat": "india",
+    "upsc": false,
+    "time": "2026-07-02T04:25:58.504895+00:00",
+    "summary": "",
+    "story_fact": "",
+    "background": "",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "IE Explained",
+    "link": "https://indianexpress.com/article/explained/explained-economics/8th-pay-commission-government-workforce-compensation-10766757/",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "de560a5b313b",
+    "_fetched": "2026-07-02T04:25:58.504895+00:00",
+    "_relevance": 30,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
   }
 ]
