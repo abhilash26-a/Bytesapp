@@ -5685,5 +5685,96 @@
     "_difficulty": 2,
     "_directive": "discuss",
     "_mcqs": []
+  },
+  {
+    "id": 2113,
+    "title": "Escoms to Submit Objections on Power Distribution Privatisation",
+    "cat": "policy",
+    "upsc": true,
+    "time": "2026-07-02T22:13:32.020120+00:00",
+    "summary": "Escoms have been asked to submit their disagreement and inform the KERC that the government does not concur with the application: CM",
+    "story_fact": "Escoms to submit objections on power distribution privatisation",
+    "background": "The Karnataka Electricity Regulatory Commission (KERC) is the regulatory body for the power sector in Karnataka. Escoms are the electricity supply companies in the state.",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "The Hindu",
+    "link": "https://www.thehindu.com/news/national/karnataka/privatisation-of-power-distribution-escoms-to-submit-objections-before-kerc/article71175441.ece",
+    "prelims": [
+      "The <strong>Karnataka Electricity Regulatory Commission (KERC)</strong> is the regulatory body for the power sector in Karnataka, responsible for determining tariffs and regulating escoms.",
+      "The <strong>Electricity Act, 2003</strong> provides the framework for the power sector, including the roles of escoms and regulatory commissions.",
+      "The <strong>government of Karnataka</strong> has been exploring options for power distribution privatisation, with escoms being asked to submit objections.",
+      "The <strong>privatisation of power distribution</strong> has been a topic of debate, with proponents arguing it can improve efficiency and opponents raising concerns about equity and accessibility.",
+      "The <strong>regulatory framework</strong> for power distribution privatisation is complex, involving multiple stakeholders and requiring careful consideration of various factors."
+    ],
+    "mains": {
+      "q": "The privatisation of power distribution has been proposed as a means to improve efficiency. Examine the potential benefits and drawbacks of such a move.",
+      "marks": "15 marks · GS2",
+      "directive": "examine",
+      "hints": [
+        "Frame the central trade-off: privatisation may lead to increased efficiency but could also result in unequal access to electricity.",
+        "Cite the example of the Delhi power distribution privatisation, which has been seen as a success story, and contrast it with the experience of other states.",
+        "Distinguish between the different models of privatisation, such as the franchisee model and the distribution company model, and discuss their relative merits.",
+        "Apply the principles of regulatory governance, including the role of independent regulatory commissions, to argue for or against privatisation.",
+        "Conclude by proposing a nuanced approach that balances the need for efficiency with the requirement for equitable access to electricity."
+      ]
+    },
+    "connect": [
+      {
+        "topic": "Regulatory Governance",
+        "context": "The concept of regulatory governance is crucial in understanding the role of independent regulatory commissions, such as the KERC, in overseeing the power sector."
+      },
+      {
+        "topic": "Delhi Power Distribution Privatisation",
+        "context": "The experience of Delhi in privatising power distribution can provide valuable lessons for other states, including Karnataka, and is relevant to the discussion on the potential benefits and drawbacks of privatisation."
+      },
+      {
+        "topic": "Franchisee Model",
+        "context": "The franchisee model is one of the models of privatisation being considered for power distribution, and its relative merits and demerits need to be evaluated in the context of the Karnataka power sector."
+      },
+      {
+        "topic": "Access to Electricity",
+        "context": "The issue of access to electricity is a critical one in the context of power distribution privatisation, and the potential impact of privatisation on equitable access needs to be carefully considered."
+      }
+    ],
+    "_hash": "716d89e56263",
+    "_fetched": "2026-07-02T22:13:32.020120+00:00",
+    "_relevance": 33,
+    "_gs": [
+      "GS2"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "examine",
+    "_mcqs": [
+      {
+        "q": "Consider the following statements:\n1. The KERC is responsible for determining tariffs for escoms.\n2. The Electricity Act, 2003 provides for the privatisation of power distribution.\n3. Escoms are required to submit objections to the KERC on power distribution privatisation.\nWhich of the above is/are correct?",
+        "options": [
+          "1 only",
+          "2 only",
+          "1 and 2 only",
+          "1, 2 and 3"
+        ],
+        "correct": 3,
+        "explanation": "Statement 1 is correct: The KERC is indeed responsible for determining tariffs for escoms. Statement 2 is incorrect: The Electricity Act, 2003 does not explicitly provide for privatisation. Statement 3 is correct: Escoms have been asked to submit objections to the KERC.",
+        "trap": "Wrong Article"
+      },
+      {
+        "q": "Consider the following statements:\n1. The government of Karnataka has proposed privatising power distribution.\n2. The KERC has approved the privatisation of power distribution.\n3. Escoms have submitted objections to the KERC on power distribution privatisation.\nWhich of the above is/are correct?",
+        "options": [
+          "1 only",
+          "2 only",
+          "1 and 2 only",
+          "1, 2 and 3"
+        ],
+        "correct": 1,
+        "explanation": "Statement 1 is correct: The government of Karnataka has indeed proposed privatising power distribution. Statement 2 is incorrect: The KERC has not approved the privatisation. Statement 3 is correct: Escoms have submitted objections to the KERC.",
+        "trap": "Timeline Confusion"
+      }
+    ]
   }
 ]
