@@ -8813,5 +8813,164 @@
     "_difficulty": 2,
     "_directive": "discuss",
     "_mcqs": []
+  },
+  {
+    "id": 2081,
+    "title": "India Aims for $1 Trillion Export Target: Piyush Goyal",
+    "cat": "economy",
+    "upsc": true,
+    "time": "2026-07-03T22:10:28.014871+00:00",
+    "summary": "Commerce Minister Piyush Goyal stated that achieving the $1 trillion export target is possible due to other countries' interest in trading with India.",
+    "story_fact": "India targets $1 trillion export by leveraging foreign trade interest.",
+    "background": "The $1 trillion export target is part of India's economic growth strategy. Foreign trade plays a crucial role in achieving this goal.",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "The Hindu",
+    "link": "https://www.thehindu.com/business/indian-firms-will-have-to-leave-comfort-zone-to-achieve-1-trillion-export-target-piyush-goyal/article71179318.ece",
+    "prelims": [
+      "The <strong>Commerce Minister</strong> outlined the export target at the Board of Trade meeting.",
+      "The <strong>export target</strong> is achievable due to foreign interest in Indian trade, according to Piyush Goyal.",
+      "India aims to reach a <strong>$1 trillion</strong> export milestone through strategic trade.",
+      "The <strong>Board of Trade</strong> meeting discussed ways to achieve the export target, including leveraging foreign trade interest.",
+      "Achieving the <strong>export target</strong> would require India to expand its trade relationships and exports."
+    ],
+    "mains": {
+      "q": "How does India's aim to achieve a $1 trillion export target reflect its economic strategy? Examine.",
+      "marks": "15 marks · GS3",
+      "directive": "examine",
+      "hints": [
+        "Frame the central trade-off: export growth boosts GDP but requires strategic trade relationships.",
+        "Cite the example of countries like China and the US, which have successfully leveraged foreign trade to drive economic growth.",
+        "Distinguish between the role of the Commerce Minister and other government agencies in achieving the export target.",
+        "Apply the concept of comparative advantage to argue for or against India's ability to achieve the export target.",
+        "Conclude by proposing specific policy reforms to support India's export growth strategy."
+      ]
+    },
+    "connect": [
+      {
+        "topic": "Foreign Trade Policy",
+        "context": "The foreign trade policy plays a crucial role in achieving the $1 trillion export target by providing a framework for trade relationships and export growth."
+      },
+      {
+        "topic": "Make in India Initiative",
+        "context": "The Make in India initiative is connected to the export target as it aims to promote domestic manufacturing and increase exports."
+      },
+      {
+        "topic": "Ease of Doing Business",
+        "context": "Improving the ease of doing business in India is essential for achieving the export target, as it will attract foreign investment and promote trade."
+      },
+      {
+        "topic": "GST Reform",
+        "context": "The GST reform has simplified the tax structure and reduced compliance costs, making it easier for businesses to export and achieve the $1 trillion target."
+      },
+      {
+        "topic": "India's Comparative Advantage",
+        "context": "India's comparative advantage in sectors like IT and textiles can be leveraged to achieve the export target and drive economic growth."
+      }
+    ],
+    "_hash": "2cc17c6f77c2",
+    "_fetched": "2026-07-03T22:10:28.014871+00:00",
+    "_relevance": 46,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "examine",
+    "_mcqs": [
+      {
+        "q": "Consider the following statements:\n1. The $1 trillion export target is part of India's economic growth strategy.\n2. The Commerce Minister outlined the export target at the Board of Trade meeting.\n3. Achieving the export target would require significant imports.\nWhich of the above is/are correct?",
+        "options": [
+          "1 only",
+          "2 only",
+          "1 and 2 only",
+          "1, 2 and 3"
+        ],
+        "correct": 2,
+        "explanation": "Statement 1 is correct: the export target is part of India's economic growth strategy. Statement 2 is correct: the Commerce Minister outlined the export target at the Board of Trade meeting. Statement 3 is incorrect: achieving the export target would require expanding exports, not necessarily increasing imports.",
+        "trap": "Quantitative Trap"
+      },
+      {
+        "q": "Consider the following statements:\n1. The Board of Trade meeting discussed ways to achieve the export target.\n2. The Commerce Minister is responsible for achieving the export target.\n3. The export target is achievable due to foreign interest in Indian trade.\nWhich of the above is/are correct?",
+        "options": [
+          "1 and 2 only",
+          "1 and 3 only",
+          "2 and 3 only",
+          "1, 2 and 3"
+        ],
+        "correct": 3,
+        "explanation": "Statement 1 is correct: the Board of Trade meeting discussed ways to achieve the export target. Statement 2 is correct: the Commerce Minister is responsible for achieving the export target. Statement 3 is correct: the export target is achievable due to foreign interest in Indian trade.",
+        "trap": "Scope Confusion"
+      }
+    ]
+  },
+  {
+    "id": 2082,
+    "title": "Trinamool infighting escalates as Ritabrata-led camp ‘takes ",
+    "cat": "india",
+    "upsc": false,
+    "time": "2026-07-03T22:12:40.577512+00:00",
+    "summary": "The development comes a day after Ritabrata Banerjee and other MLAs belonging to his camp met the full bench of Election Commission in Delhi and stake",
+    "story_fact": "",
+    "background": "",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "The Hindu",
+    "link": "https://www.thehindu.com/news/national/west-bengal/trinamool-infighting-escalates-as-ritabrata-led-camp-takes-control-over-party-headquarters/article71179586.ece",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "475bf779c10d",
+    "_fetched": "2026-07-03T22:12:40.577512+00:00",
+    "_relevance": 44,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 2083,
+    "title": "Centre orders blocking of battery management apps used to tu",
+    "cat": "tech",
+    "upsc": false,
+    "time": "2026-07-03T22:14:53.341716+00:00",
+    "summary": "Action comes after e-rickshaws in various parts of the country were turned off via apps developed\nby Chinese firms to manage lithium ion battery packs",
+    "story_fact": "",
+    "background": "",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "The Hindu",
+    "link": "https://www.thehindu.com/news/national/centre-orders-blocking-of-battery-management-apps-used-to-turn-off-e-rickshaws/article71179574.ece",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "bd9257db5c47",
+    "_fetched": "2026-07-03T22:14:53.341716+00:00",
+    "_relevance": 41,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
   }
 ]
