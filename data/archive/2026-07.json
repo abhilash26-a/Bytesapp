@@ -10980,5 +10980,128 @@
     "_difficulty": 2,
     "_directive": "discuss",
     "_mcqs": []
+  },
+  {
+    "id": 2092,
+    "title": "CJP Protest: Activist Sonam Wangchuk Continues Hunger Strike",
+    "cat": "india",
+    "upsc": true,
+    "time": "2026-07-04T22:03:55.710547+00:00",
+    "summary": "Activist Sonam Wangchuk continues his seventh day of hunger strike in support of the CJP protest, with political leaders pledging to raise the issue of examination irregularities in the upcoming Monsoon Session of Parliament.",
+    "story_fact": "Sonam Wangchuk is on his seventh day of hunger strike in support of the CJP protest.",
+    "background": "The CJP protest is related to irregularities in examinations. Hunger strikes are a form of non-violent protest.",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "The Hindu",
+    "link": "https://www.thehindu.com/news/national/fresh-political-support-pours-in-on-15th-day-of-cjp-protest-student-hospitalised/article71183637.ece",
+    "prelims": [
+      "The <strong>CJP protest</strong> is related to irregularities in examinations, with activists demanding action against those responsible.",
+      "The <strong>Representation of the People Act, 1951</strong> does not directly address examination irregularities, but the Election Commission of India has the power to investigate such matters under Article 324.",
+      "A total of <strong>15 days</strong> have passed since the CJP protest began, with supporters continuing to demand action.",
+      "The <strong>Monsoon Session of Parliament</strong> is scheduled to begin soon, with political leaders pledging to raise the issue of examination irregularities.",
+      "The <strong>Right to Education</strong> is a fundamental right under Article 21A of the Constitution, and examination irregularities can undermine this right."
+    ],
+    "mains": {
+      "q": "The use of hunger strikes as a form of protest raises questions about the limits of non-violent resistance. Examine.",
+      "marks": "15 marks · GS2",
+      "directive": "examine",
+      "hints": [
+        "Frame the central trade-off: non-violent resistance can bring attention to a cause, but also risks harming the protester's health.",
+        "Cite the example of Mahatma Gandhi's hunger strikes during the Indian independence movement, and contrast with the current CJP protest.",
+        "Distinguish between hunger strikes as a form of protest and those undertaken for personal reasons, such as a prisoner's demand for better conditions.",
+        "Apply the principles of the Indian Constitution, particularly Article 19(1)(a) on freedom of speech and expression, to the use of hunger strikes as a form of protest.",
+        "Conclude by proposing guidelines for the use of hunger strikes as a form of protest, balancing the right to free speech with the need to protect the protester's health and well-being."
+      ]
+    },
+    "connect": [
+      {
+        "topic": "Article 19(1)(a)",
+        "context": "The use of hunger strikes as a form of protest raises questions about the limits of freedom of speech and expression under Article 19(1)(a) of the Constitution."
+      },
+      {
+        "topic": "Mahatma Gandhi's Hunger Strikes",
+        "context": "The CJP protest's use of hunger strikes as a form of protest draws parallels with Mahatma Gandhi's hunger strikes during the Indian independence movement."
+      },
+      {
+        "topic": "Election Commission of India",
+        "context": "The Election Commission of India's power to investigate examination irregularities under Article 324 is relevant to the CJP protest's demands for action against those responsible."
+      },
+      {
+        "topic": "Non-Violent Resistance",
+        "context": "The use of hunger strikes as a form of protest in the CJP protest raises questions about the effectiveness and limits of non-violent resistance as a means of achieving social change."
+      }
+    ],
+    "_hash": "04fe65c734cf",
+    "_fetched": "2026-07-04T22:03:55.710547+00:00",
+    "_relevance": 44,
+    "_gs": [
+      "GS2"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "examine",
+    "_mcqs": [
+      {
+        "q": "Consider the following statements:\n1. The CJP protest is related to irregularities in examinations.\n2. The Election Commission of India has the power to investigate examination irregularities under Article 324.\n3. Hunger strikes are a form of violent protest.\nWhich of the above is/are correct?",
+        "options": [
+          "1 only",
+          "2 only",
+          "1 and 2 only",
+          "1, 2 and 3"
+        ],
+        "correct": 2,
+        "explanation": "Statement 1 is correct: the CJP protest is indeed related to examination irregularities. Statement 2 is correct: the Election Commission of India does have the power to investigate such matters under Article 324. Statement 3 is incorrect: hunger strikes are a form of non-violent protest.",
+        "trap": "Definitional Trap"
+      },
+      {
+        "q": "Consider the following statements:\n1. The Monsoon Session of Parliament is scheduled to begin soon.\n2. The CJP protest has been ongoing for 15 days.\n3. The Right to Education is a fundamental right under Article 21A of the Constitution.\nWhich of the above is/are correct?",
+        "options": [
+          "1 only",
+          "2 only",
+          "1 and 2 only",
+          "1, 2 and 3"
+        ],
+        "correct": 3,
+        "explanation": "Statement 1 is correct: the Monsoon Session of Parliament is indeed scheduled to begin soon. Statement 2 is correct: the CJP protest has been ongoing for 15 days. Statement 3 is correct: the Right to Education is indeed a fundamental right under Article 21A of the Constitution.",
+        "trap": "Quantitative Trap"
+      }
+    ]
+  },
+  {
+    "id": 2093,
+    "title": "Two DMK MLAs were offered Ministry post, money to join TVK, ",
+    "cat": "india",
+    "upsc": false,
+    "time": "2026-07-04T22:06:08.085738+00:00",
+    "summary": "A delegation from the DMK met Governor Rajendra Viswanath Arlekar and submitted a memorandum seeking action into allegations of ‘horse-trading’ by the",
+    "story_fact": "",
+    "background": "",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "The Hindu",
+    "link": "https://www.thehindu.com/news/national/tamil-nadu/two-dmk-mlas-were-offered-ministry-post-money-to-join-tvk-alleges-rs-bharathi/article71183889.ece",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "93a6e2d5ca41",
+    "_fetched": "2026-07-04T22:06:08.085738+00:00",
+    "_relevance": 36,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
   }
 ]
