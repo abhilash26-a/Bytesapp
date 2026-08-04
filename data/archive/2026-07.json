@@ -12962,5 +12962,128 @@
         "trap": "Definitional Trap"
       }
     ]
+  },
+  {
+    "id": 2150,
+    "title": "India's Exclusive Breastfeeding Rates Decline",
+    "cat": "policy",
+    "upsc": true,
+    "time": "2026-07-05T22:07:33.552139+00:00",
+    "summary": "NFHS-6 data reveals a decline in exclusive breastfeeding rates in India despite improvements in institutional deliveries and maternity programmes.",
+    "story_fact": "NFHS-6 data shows a decline in exclusive breastfeeding rates in India.",
+    "background": "The National Family Health Survey (NFHS) is a large-scale, multi-round survey conducted in a representative sample of households throughout India. NFHS-6 data provides insights into various health and family welfare indicators, including breastfeeding practices.",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "The Hindu",
+    "link": "https://www.thehindu.com/sci-tech/health/the-missing-link-in-indias-maternal-health-story/article71186272.ece",
+    "prelims": [
+      "The <strong>National Family Health Survey (NFHS)</strong> is a large-scale, multi-round survey conducted in a representative sample of households throughout India, providing data on various health and family welfare indicators.",
+      "The <strong>Ministry of Health and Family Welfare</strong> implements programmes aimed at promoting maternal and child health, including initiatives to support breastfeeding.",
+      "According to <strong>NFHS-6 data</strong>, the decline in exclusive breastfeeding rates in India is a concern, highlighting the need for targeted interventions to support breastfeeding practices.",
+      "The <strong>World Health Organization (WHO)</strong> recommends exclusive breastfeeding for the first six months of life, and continued breastfeeding along with appropriate complementary foods up to two years of age or beyond.",
+      "A <strong>study by the Indian Journal of Community Health</strong> found that factors such as maternal education, socioeconomic status, and access to healthcare services influence breastfeeding practices in India."
+    ],
+    "mains": {
+      "q": "The decline in exclusive breastfeeding rates in India, as revealed by NFHS-6 data, raises concerns about maternal and child health. Examine the factors contributing to this decline and suggest measures to promote breastfeeding practices.",
+      "marks": "15 marks · GS2",
+      "directive": "examine",
+      "hints": [
+        "Frame the central issue: the decline in exclusive breastfeeding rates in India is a concern for maternal and child health, with implications for the country's healthcare system.",
+        "Cite the WHO recommendation: exclusive breastfeeding for the first six months of life, and continued breastfeeding along with appropriate complementary foods up to two years of age or beyond, as a global standard.",
+        "Distinguish between factors influencing breastfeeding practices: maternal education, socioeconomic status, access to healthcare services, and cultural beliefs, to identify targeted interventions.",
+        "Apply the Ministry of Health and Family Welfare's initiatives: programmes aimed at promoting maternal and child health, including support for breastfeeding, to examine their effectiveness.",
+        "Conclude by proposing a multi-faceted approach: incorporating healthcare services, community outreach, and policy support to promote breastfeeding practices in India."
+      ]
+    },
+    "connect": [
+      {
+        "topic": "Janani Suraksha Yojana (JSY)",
+        "context": "The decline in exclusive breastfeeding rates in India, as revealed by NFHS-6 data, highlights the need to reassess the effectiveness of schemes like JSY in promoting maternal and child health, including breastfeeding practices."
+      },
+      {
+        "topic": "Integrated Child Development Services (ICDS)",
+        "context": "The ICDS programme, which includes components aimed at supporting breastfeeding, can be leveraged to address the decline in exclusive breastfeeding rates in India, by strengthening its implementation and outreach."
+      },
+      {
+        "topic": "National Nutrition Mission (NNM)",
+        "context": "The NNM, aimed at improving nutritional outcomes, can play a critical role in promoting breastfeeding practices in India, by incorporating targeted interventions and support for breastfeeding within its framework."
+      },
+      {
+        "topic": "Breastfeeding Promotion Network of India (BPNI)",
+        "context": "The BPNI, a network advocating for breastfeeding promotion, can collaborate with government initiatives and community outreach programs to support breastfeeding practices in India, addressing the decline revealed by NFHS-6 data."
+      }
+    ],
+    "_hash": "bcb250dad430",
+    "_fetched": "2026-07-05T22:07:33.552139+00:00",
+    "_relevance": 52,
+    "_gs": [
+      "GS2"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "examine",
+    "_mcqs": [
+      {
+        "q": "Consider the following statements:\n1. The National Family Health Survey (NFHS) is conducted by the Ministry of Health and Family Welfare.\n2. NFHS-6 data reveals a decline in exclusive breastfeeding rates in India.\n3. The WHO recommends exclusive breastfeeding for the first three months of life.\nWhich of the above is/are correct?",
+        "options": [
+          "1 only",
+          "2 only",
+          "1 and 2 only",
+          "1, 2 and 3"
+        ],
+        "correct": 2,
+        "explanation": "Statement 1 is correct: The National Family Health Survey (NFHS) is indeed conducted by the Ministry of Health and Family Welfare. Statement 2 is correct: NFHS-6 data does reveal a decline in exclusive breastfeeding rates in India. Statement 3 is incorrect: The WHO recommends exclusive breastfeeding for the first six months of life, not three months.",
+        "trap": "Wrong Article"
+      },
+      {
+        "q": "Consider the following statements:\n1. The Indian Journal of Community Health found that maternal education influences breastfeeding practices.\n2. The Ministry of Health and Family Welfare implements programmes to support breastfeeding.\n3. The decline in exclusive breastfeeding rates in India is attributed to increased access to healthcare services.\nWhich of the above is/are correct?",
+        "options": [
+          "1 only",
+          "2 only",
+          "1 and 2 only",
+          "1, 2 and 3"
+        ],
+        "correct": 2,
+        "explanation": "Statement 1 is correct: Research, such as a study by the Indian Journal of Community Health, has found that maternal education is a factor influencing breastfeeding practices. Statement 2 is correct: The Ministry of Health and Family Welfare does implement programmes aimed at supporting breastfeeding. Statement 3 is incorrect: The decline in exclusive breastfeeding rates in India is not attributed to increased access to healthcare services; rather, it is influenced by a complex interplay of factors.",
+        "trap": "Reversed Causation"
+      }
+    ]
+  },
+  {
+    "id": 2151,
+    "title": "India and Russia set $50 billion investment target by 2030",
+    "cat": "world",
+    "upsc": true,
+    "time": "2026-07-05T22:09:45.950120+00:00",
+    "summary": "India and Russia are targeting $50 billion in mutual investments by 2030, focusing on joint ventures in advanced manufacturing, critical minerals, and",
+    "story_fact": "",
+    "background": "",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "ET Economy",
+    "link": "https://economictimes.indiatimes.com/news/economy/foreign-trade/delhi-and-moscow-set-50-billion-investment-target-by-2030/articleshow/132202656.cms",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "1c47d32c0f82",
+    "_fetched": "2026-07-05T22:09:45.950120+00:00",
+    "_relevance": 52,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
   }
 ]
