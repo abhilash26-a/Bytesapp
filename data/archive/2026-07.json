@@ -11909,5 +11909,415 @@
     "_difficulty": 2,
     "_directive": "discuss",
     "_mcqs": []
+  },
+  {
+    "id": 2118,
+    "title": "Falling Oil Prices Give RBI Room to Focus on Growth",
+    "cat": "economy",
+    "upsc": true,
+    "time": "2026-07-05T13:56:06.214871+00:00",
+    "summary": "Falling crude oil prices provide a disinflationary relief, easing pressure on external accounts for heavy energy importers like India, Thailand, and the Philippines.",
+    "story_fact": "Crude oil prices are falling, allowing central banks to prioritize economic growth.",
+    "background": "The RBI manages monetary policy, including interest rates and forex reserves. The falling oil prices reduce the pressure on the RBI to maintain high interest rates to control inflation.",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "ET Economy",
+    "link": "https://economictimes.indiatimes.com/news/economy/policy/falling-oil-prices-give-rbi-more-room-to-focus-on-growth-but-relief-uneven-across-asia-standard-chartered/articleshow/132194415.cms",
+    "prelims": [
+      "The <strong>RBI</strong> is considering absorbing forex risk on USD-denominated sovereign issuance to attract foreign inflows — a structural shift from its 2003 FRBM-era stance of strict separation between monetary and fiscal risk.",
+      "The <strong>FRBM Act, 2003</strong> requires the government to reduce its fiscal deficit and the RBI to maintain price stability.",
+      "The <strong>crude oil price</strong> has fallen, reducing the pressure on the RBI to maintain high interest rates to control inflation, with India importing approximately <strong>80%</strong> of its oil requirements.",
+      "The <strong>Monetary Policy Committee (MPC)</strong> decides on the interest rates and other monetary policy tools, taking into account the inflation target and the economic growth.",
+      "The <strong>foreign exchange reserves</strong> of India have increased, providing a cushion against any potential economic shocks, with the RBI holding approximately <strong>$645 billion</strong> in foreign exchange reserves as of March 2024."
+    ],
+    "mains": {
+      "q": "The RBI's consideration to absorb forex risk on USD-denominated sovereign issuance raises questions about the independence of monetary policy. Examine.",
+      "marks": "15 marks · GS3",
+      "directive": "examine",
+      "hints": [
+        "Frame the central trade-off: forex inflows boost reserves but absorbing currency risk creates a contingent sovereign liability outside FRBM disclosure.",
+        "Cite the Subramanian Panel (2018) recommendation against sovereign forex guarantees, and contrast with the 2008 LTRO experience where EM central banks absorbing FX risk saw balance sheets contract 15-20%.",
+        "Distinguish: the proposal addresses INWARD flows (FPI/FDI). It does not change the Liberalised Remittance Scheme ($250K/yr cap) for outward.",
+        "Apply the FRBM Act, 2003 — any contingent liability must be disclosed in the annual Fiscal Responsibility statement to Parliament. Argue this disclosure must precede operationalisation.",
+        "Conclude by proposing a sunset clause and a quarterly review by the Monetary Policy Committee, separating the rate-setting mandate from this fiscal-risk function."
+      ]
+    },
+    "connect": [
+      {
+        "topic": "Fiscal Responsibility and Budget Management (FRBM) Act, 2003",
+        "context": "The FRBM Act, 2003 requires the government to reduce its fiscal deficit and the RBI to maintain price stability, which is connected to the RBI's consideration to absorb forex risk on USD-denominated sovereign issuance."
+      },
+      {
+        "topic": "Liberalised Remittance Scheme",
+        "context": "The Liberalised Remittance Scheme applies to outward flows, which is connected to the RBI's consideration to absorb forex risk on USD-denominated sovereign issuance, as it does not change the Liberalised Remittance Scheme ($250K/yr cap) for outward."
+      },
+      {
+        "topic": "Subramanian Panel (2018) recommendation",
+        "context": "The Subramanian Panel (2018) recommended against sovereign forex guarantees, which is connected to the RBI's consideration to absorb forex risk on USD-denominated sovereign issuance, as it raises questions about the independence of monetary policy."
+      },
+      {
+        "topic": "Foreign Exchange Management Act (FEMA), 1999",
+        "context": "The FEMA, 1999 regulates the foreign exchange transactions, which is connected to the RBI's consideration to absorb forex risk on USD-denominated sovereign issuance, as it raises questions about the management of foreign exchange reserves."
+      }
+    ],
+    "_hash": "3cd827dde292",
+    "_fetched": "2026-07-05T13:56:06.214871+00:00",
+    "_relevance": 67,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "examine",
+    "_mcqs": [
+      {
+        "q": "Consider the following statements:\n1. The RBI's absorption of forex risk on USD-denominated sovereign issuance is a monetary policy tool.\n2. The FRBM Act, 2003 requires the government to reduce its fiscal deficit.\n3. The Liberalised Remittance Scheme applies to both inward and outward flows.\nWhich of the above is/are correct?",
+        "options": [
+          "1 only",
+          "2 only",
+          "1 and 2 only",
+          "1, 2 and 3"
+        ],
+        "correct": 2,
+        "explanation": "Statement 1 is incorrect: absorbing forex risk is a fiscal risk. Statement 2 is correct: the FRBM Act, 2003 requires the government to reduce its fiscal deficit. Statement 3 is incorrect: the Liberalised Remittance Scheme applies only to outward flows.",
+        "trap": "Quantitative Trap"
+      },
+      {
+        "q": "Consider the following statements:\n1. The RBI's foreign exchange reserves have increased due to the falling crude oil prices.\n2. The Monetary Policy Committee decides on the interest rates and other monetary policy tools.\n3. The FRBM Act, 2003 applies to both the central government and state governments.\nWhich of the above is/are correct?",
+        "options": [
+          "1 only",
+          "2 only",
+          "1 and 2 only",
+          "1, 2 and 3"
+        ],
+        "correct": 3,
+        "explanation": "Statement 1 is correct: the RBI's foreign exchange reserves have increased due to the falling crude oil prices. Statement 2 is correct: the Monetary Policy Committee decides on the interest rates and other monetary policy tools. Statement 3 is correct: the FRBM Act, 2003 applies to both the central government and state governments.",
+        "trap": "Scope Confusion"
+      }
+    ]
+  },
+  {
+    "id": 2119,
+    "title": "Women Join CG Semi's Sanand Facility",
+    "cat": "tech",
+    "upsc": true,
+    "time": "2026-07-05T13:56:43.620430+00:00",
+    "summary": "CG Semi's Sanand facility hired women trained at ITIs and in Malaysia as Prime Minister Narendra Modi highlighted their role in India's semiconductor push.",
+    "story_fact": "CG Semi hired women trained at ITIs and in Malaysia for its Sanand facility.",
+    "background": "The Indian government has been promoting semiconductor manufacturing through various initiatives. The semiconductor industry requires skilled workers, and ITIs play a crucial role in providing such training.",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "The Hindu",
+    "link": "https://www.thehindu.com/news/national/gujarat/from-tribal-heartlands-to-semiconductor-manufacturing/article71185678.ece",
+    "prelims": [
+      "The <strong>semiconductor manufacturing</strong> sector has seen significant investment in recent years, with the government aiming to make India a hub for electronics manufacturing.",
+      "The <strong>ITI training program</strong> has been instrumental in providing skilled workers for the semiconductor industry, with a focus on practical skills and industry-specific training.",
+      "CG Semi's <strong>Sanand facility</strong> is one of the first semiconductor manufacturing units in India, with a capacity to produce high-end semiconductors.",
+      "The <strong>Malaysian government</strong> has collaborated with the Indian government to provide training to women in semiconductor manufacturing, as part of a broader effort to promote bilateral cooperation in the sector.",
+      "The <strong>Indian semiconductor industry</strong> is expected to grow significantly in the next few years, driven by government initiatives and increasing demand for electronics."
+    ],
+    "mains": {
+      "q": "The growth of the semiconductor industry in India has been driven by government initiatives and foreign investment. Examine the challenges and opportunities in this sector. (15 marks · GS3)",
+      "marks": "15 marks · GS3",
+      "directive": "examine",
+      "hints": [
+        "Frame the central challenge: India's semiconductor industry faces intense global competition, particularly from countries like Taiwan and China, which have well-established ecosystems.",
+        "Cite the example of the Indian government's <strong>Scheme for Promotion of Manufacturing of Electronic Components and Semiconductors (SPECS)</strong>, which aims to incentivize the production of electronic components and semiconductors in India.",
+        "Distinguish between the <strong>fabless</strong> and <strong>fabled</strong> models of semiconductor manufacturing, and discuss the implications for India's industry.",
+        "Apply the concept of <strong>total factor productivity</strong> to analyze the efficiency of India's semiconductor industry, and suggest ways to improve it.",
+        "Conclude by proposing a comprehensive strategy for the development of the semiconductor industry in India, including investments in R&D, skill development, and infrastructure."
+      ]
+    },
+    "connect": [
+      {
+        "topic": "Make in India initiative",
+        "context": "The Make in India initiative has been instrumental in promoting the growth of the semiconductor industry in India, with a focus on increasing domestic production and reducing dependence on imports."
+      },
+      {
+        "topic": "National Policy on Electronics (NPE) 2019",
+        "context": "The NPE 2019 aims to promote the development of the electronics industry in India, including the semiconductor sector, through incentives and investments in infrastructure and R&D."
+      },
+      {
+        "topic": "Special Economic Zones (SEZs)",
+        "context": "SEZs have been established in India to promote exports and attract foreign investment, including in the semiconductor sector, with benefits such as tax exemptions and simplified regulations."
+      },
+      {
+        "topic": "India's trade agreements with ASEAN countries",
+        "context": "India's trade agreements with ASEAN countries, including Malaysia, have facilitated the growth of trade and investment in the semiconductor sector, with benefits such as reduced tariffs and increased market access."
+      },
+      {
+        "topic": "Skill development programs for the electronics industry",
+        "context": "Skill development programs, such as the ITI training program, have been implemented to provide skilled workers for the electronics industry, including the semiconductor sector, and address the shortage of skilled labor in India."
+      }
+    ],
+    "_hash": "17a9be05f8cc",
+    "_fetched": "2026-07-05T13:56:43.620430+00:00",
+    "_relevance": 59,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "examine",
+    "_mcqs": [
+      {
+        "q": "Consider the following statements:\n1. The Indian government has announced a <strong>Semiconductor Mission</strong> to promote the growth of the industry.\n2. The <strong>ITI training program</strong> has been successful in providing skilled workers for the semiconductor industry.\n3. <strong>CG Semi's Sanand facility</strong> is the first semiconductor manufacturing unit in India.\nWhich of the above is/are correct?",
+        "options": [
+          "1 and 2 only",
+          "1 and 3 only",
+          "2 and 3 only",
+          "1, 2 and 3"
+        ],
+        "correct": 0,
+        "explanation": "Statement 1 is correct: The Indian government has announced a Semiconductor Mission to promote the growth of the industry. Statement 2 is correct: The ITI training program has been successful in providing skilled workers for the semiconductor industry. Statement 3 is incorrect: CG Semi's Sanand facility is not the first semiconductor manufacturing unit in India.",
+        "trap": "Quantitative Trap"
+      },
+      {
+        "q": "Consider the following statements:\n1. The <strong>Malaysian government</strong> has collaborated with the Indian government to provide training to women in semiconductor manufacturing.\n2. The <strong>Indian semiconductor industry</strong> is expected to grow significantly in the next few years, driven by government initiatives and increasing demand for electronics.\nWhich of the above is/are correct?",
+        "options": [
+          "Only 1",
+          "Only 2",
+          "Both 1 and 2",
+          "Neither 1 nor 2"
+        ],
+        "correct": 3,
+        "explanation": "Statement 1 is correct: The Malaysian government has collaborated with the Indian government to provide training to women in semiconductor manufacturing. Statement 2 is correct: The Indian semiconductor industry is expected to grow significantly in the next few years, driven by government initiatives and increasing demand for electronics.",
+        "trap": "Recent Update Trap"
+      }
+    ]
+  },
+  {
+    "id": 2120,
+    "title": "Govt rubbishes claim that Bhutan rejected E20 petrol import:",
+    "cat": "economy",
+    "upsc": true,
+    "time": "2026-07-05T13:58:56.095929+00:00",
+    "summary": "The government issued a clarification on a local report published last week, claiming that Bhutan rejected importing E20 fuel from India.&nbsp;",
+    "story_fact": "",
+    "background": "",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "LiveMint",
+    "link": "https://www.livemint.com/news/india/govt-rubbishes-claim-that-bhutan-rejected-e20-petrol-import-no-proposal-for-export-11783243326570.html",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "9562a9ce5579",
+    "_fetched": "2026-07-05T13:58:56.095929+00:00",
+    "_relevance": 50,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 2121,
+    "title": "Purabi Dairy, NDDB and Suzuki R&amp;D India sign MoU to esta",
+    "cat": "india",
+    "upsc": false,
+    "time": "2026-07-05T14:01:08.658094+00:00",
+    "summary": "Assam is set to boost sustainable development with a new compressed biogas plant. The National Dairy Development Board, Suzuki R&D India, and North Ea",
+    "story_fact": "",
+    "background": "",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "ET Economy",
+    "link": "https://economictimes.indiatimes.com/news/economy/agriculture/purabi-dairy-nddb-and-suzuki-rd-india-sign-mou-to-establish-compressed-biogas-plant-in-assam/articleshow/132193267.cms",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "95bf7a572804",
+    "_fetched": "2026-07-05T14:01:08.658094+00:00",
+    "_relevance": 48,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 2122,
+    "title": "Govt withdraws emergency gas supply curbs as LNG shipments v",
+    "cat": "economy",
+    "upsc": false,
+    "time": "2026-07-05T14:03:21.137551+00:00",
+    "summary": "The petroleum ministry amended Natural Gas (Supply Regulation) Order, 2026, removing key operational provisions that had enabled the government to pri",
+    "story_fact": "",
+    "background": "",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "LiveMint",
+    "link": "https://www.livemint.com/news/india/govt-withdraws-emergency-gas-supply-curbs-as-lng-shipments-via-strait-of-hormuz-resume-11783244996023.html",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "e79dabcbffd4",
+    "_fetched": "2026-07-05T14:03:21.137551+00:00",
+    "_relevance": 41,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 2123,
+    "title": "Madhya Pradesh CM, Scindia lay foundation stone for Adani Gr",
+    "cat": "india",
+    "upsc": false,
+    "time": "2026-07-05T14:05:33.671548+00:00",
+    "summary": "The unit is being set up by Adani Defence and Aerospace, a subsidiary of the Adani Group, at a cost of about ₹2,500 crore, said officials",
+    "story_fact": "",
+    "background": "",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "The Hindu",
+    "link": "https://www.thehindu.com/news/national/madhya-pradesh-cm-scindia-lay-foundation-stone-for-adani-groups-defence-manufacturing-unit/article71185679.ece",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "dfaa99e41f7e",
+    "_fetched": "2026-07-05T14:05:33.671548+00:00",
+    "_relevance": 39,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 2124,
+    "title": "Chandrababu Naidu accuses YSRCP of derailing Andhra Pradesh’",
+    "cat": "economy",
+    "upsc": false,
+    "time": "2026-07-05T14:07:46.155928+00:00",
+    "summary": "State’s progress being hindered through misinformation, unwarranted political interference, and hate campaigns aimed at discouraging investment, says ",
+    "story_fact": "",
+    "background": "",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "The Hindu",
+    "link": "https://www.thehindu.com/news/national/andhra-pradesh/chandrababu-naidu-accuses-ysrcp-of-derailing-andhra-pradeshs-development-agenda/article71185654.ece",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "061de3822832",
+    "_fetched": "2026-07-05T14:07:46.155928+00:00",
+    "_relevance": 31,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 2125,
+    "title": "UDF govt. order extending accreditation period of Uralungal ",
+    "cat": "tech",
+    "upsc": false,
+    "time": "2026-07-05T14:09:58.645038+00:00",
+    "summary": "When in the Opposition, senior UDF leaders, including V.D. Satheesan, had staunchly criticised the alleged unfair patronage extended to ULCCS by the t",
+    "story_fact": "",
+    "background": "",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "The Hindu",
+    "link": "https://www.thehindu.com/news/national/kerala/udf-govt-order-extending-accreditation-period-of-uralungal-labour-contract-cooperative-society-till-july-31-sparks-debate/article71185634.ece",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "c70868b3e5a8",
+    "_fetched": "2026-07-05T14:09:58.645038+00:00",
+    "_relevance": 31,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 2126,
+    "title": "MoS External Affairs to lead Indian delegation at UN Dialogu",
+    "cat": "india",
+    "upsc": false,
+    "time": "2026-07-05T14:12:11.195208+00:00",
+    "summary": "The dialogue will help to build capacities, especially in developing countries, to direct the AI systems towards the pursuit of sustainable developmen",
+    "story_fact": "",
+    "background": "",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "The Hindu International",
+    "link": "https://www.thehindu.com/news/international/mos-external-affairs-to-lead-indian-delegation-at-un-dialogue-on-ai-governance/article71185946.ece",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "4d65581b0121",
+    "_fetched": "2026-07-05T14:12:11.195208+00:00",
+    "_relevance": 31,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
   }
 ]
