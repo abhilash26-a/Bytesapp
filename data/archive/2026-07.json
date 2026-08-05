@@ -15563,5 +15563,132 @@
     "_difficulty": 2,
     "_directive": "discuss",
     "_mcqs": []
+  },
+  {
+    "id": 2239,
+    "title": "Venezuela Honours 'Heroes on Four Legs'",
+    "cat": "world",
+    "upsc": true,
+    "time": "2026-07-06T22:19:55.915052+00:00",
+    "summary": "Venezuela's interim President honoured dogs for helping locate earthquake victims.",
+    "story_fact": "Venezuela's interim President honoured 'heroes on four legs' for locating earthquake victims.",
+    "background": "The Venezuelan government has a history of recognizing the contributions of service animals. Service animals, including dogs, are trained to assist in various tasks, including search and rescue operations.",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "LiveMint",
+    "link": "https://www.livemint.com/news/world/total-world-latest-news-on-july-7-2026-live-updates-11783369219119.html",
+    "prelims": [
+      "<strong>Service animals</strong> are trained to assist in various tasks, including search and rescue operations, and are recognized for their contributions by the Venezuelan government.",
+      "The <strong>interim President of Venezuela</strong> has honoured dogs for their role in locating earthquake victims, highlighting the importance of service animals in disaster response.",
+      "The <strong>earthquake</strong> in Venezuela resulted in significant damage and loss of life, with service animals playing a crucial role in rescue efforts.",
+      "The Venezuelan government's recognition of <strong>service animals</strong> is part of a broader effort to promote animal welfare and acknowledge the contributions of animals in disaster response.",
+      "The use of <strong>service animals</strong> in disaster response is a common practice globally, with many countries recognizing the importance of these animals in saving lives."
+    ],
+    "mains": {
+      "q": "The role of service animals in disaster response has been increasingly recognized globally. Examine the implications of this trend for disaster management policies.",
+      "marks": "15 marks · GS2",
+      "directive": "examine",
+      "hints": [
+        "Frame the central issue: the growing recognition of service animals in disaster response and its implications for policy.",
+        "Cite the example of Venezuela's interim President honouring dogs for their role in locating earthquake victims, highlighting the importance of service animals in disaster response.",
+        "Distinguish between the roles of different types of service animals in disaster response, including search and rescue operations.",
+        "Apply the concept of animal welfare to the use of service animals in disaster response, considering the potential risks and benefits.",
+        "Conclude by proposing a framework for integrating service animals into disaster management policies, including training and deployment strategies."
+      ]
+    },
+    "connect": [
+      {
+        "topic": "Disaster Management",
+        "context": "The use of service animals in disaster response is an important aspect of disaster management, highlighting the need for effective policies and strategies to integrate these animals into response efforts."
+      },
+      {
+        "topic": "Animal Welfare",
+        "context": "The recognition of service animals in disaster response raises important questions about animal welfare, including the potential risks and benefits of using animals in these contexts."
+      },
+      {
+        "topic": "Search and Rescue Operations",
+        "context": "Service animals play a critical role in search and rescue operations, highlighting the importance of effective training and deployment strategies for these animals."
+      },
+      {
+        "topic": "International Cooperation",
+        "context": "The use of service animals in disaster response is a global phenomenon, highlighting the need for international cooperation and coordination to develop effective policies and strategies for integrating these animals into response efforts."
+      },
+      {
+        "topic": "Policy Frameworks",
+        "context": "The integration of service animals into disaster management policies requires the development of effective policy frameworks, including training and deployment strategies, to ensure the safe and effective use of these animals in disaster response."
+      }
+    ],
+    "_hash": "d291b4f9acb2",
+    "_fetched": "2026-07-06T22:19:55.915052+00:00",
+    "_relevance": 50,
+    "_gs": [
+      "GS2"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "examine",
+    "_mcqs": [
+      {
+        "q": "Consider the following statements:\n1. Service animals are used only in search and rescue operations.\n2. The Venezuelan government has recognized the contributions of service animals in disaster response.\nWhich of the above is/are correct?",
+        "options": [
+          "1 only",
+          "2 only",
+          "1 and 2 only",
+          "1, 2 and 3"
+        ],
+        "correct": 1,
+        "explanation": "Statement 1 is incorrect: service animals are used in various tasks, including search and rescue operations. Statement 2 is correct: the Venezuelan government has recognized the contributions of service animals in disaster response.",
+        "trap": "Absolute Language"
+      },
+      {
+        "q": "Consider the following statements:\n1. The use of service animals in disaster response is a common practice globally.\n2. Service animals are only used in developed countries.\nWhich of the above is/are correct?",
+        "options": [
+          "1 only",
+          "2 only",
+          "1 and 2 only",
+          "1, 2 and 3"
+        ],
+        "correct": 0,
+        "explanation": "Statement 1 is correct: the use of service animals in disaster response is a common practice globally. Statement 2 is incorrect: service animals are used in both developed and developing countries.",
+        "trap": "Scope Confusion"
+      }
+    ]
+  },
+  {
+    "id": 2240,
+    "title": "US stocks today: Nasdaq jumps over 1% as chip stocks rally, ",
+    "cat": "economy",
+    "upsc": false,
+    "time": "2026-07-06T22:22:08.412408+00:00",
+    "summary": "U.S. stocks rose sharply, led by chipmakers like Broadcom on AI-driven optimism and a strong earnings outlook. Microsoft fell after announcing job cut",
+    "story_fact": "",
+    "background": "",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "Economic Times",
+    "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-today-sp-500-nasdaq-close-sharply-higher-as-broadcom-rallies/articleshow/132225391.cms",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "fb4a20f1c1c6",
+    "_fetched": "2026-07-06T22:22:08.412408+00:00",
+    "_relevance": 32,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
   }
 ]
