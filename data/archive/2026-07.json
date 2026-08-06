@@ -16712,5 +16712,223 @@
     "_difficulty": 2,
     "_directive": "discuss",
     "_mcqs": []
+  },
+  {
+    "id": 2262,
+    "title": "India Climbs Global Manufacturing Rankings",
+    "cat": "economy",
+    "upsc": true,
+    "time": "2026-07-07T14:53:01.865033+00:00",
+    "summary": "India's manufacturing growth has surpassed the global average, fueled by domestic demand and government initiatives like PLI schemes.",
+    "story_fact": "India's manufacturing growth surpasses global average",
+    "background": "The PLI schemes aim to promote domestic manufacturing and reduce dependence on imports. The government has also implemented various other initiatives to boost the manufacturing sector.",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "ET Economy",
+    "link": "https://economictimes.indiatimes.com/news/economy/indicators/india-climbs-global-manufacturing-rankings-amid-china1-shift-assocham/articleshow/132239199.cms",
+    "prelims": [
+      "The <strong>Production-Linked Incentive (PLI) scheme</strong> aims to promote domestic manufacturing and reduce dependence on imports, with a focus on 13 key sectors.",
+      "The <strong>Make in India</strong> initiative was launched in 2014 to boost the manufacturing sector and increase India's share in global trade.",
+      "India's <strong>manufacturing growth rate</strong> has been increasing steadily, with a growth rate of 12.1% in the last quarter.",
+      "The <strong>World Bank's Ease of Doing Business</strong> report ranks India 63rd out of 190 countries, with significant improvements in recent years.",
+      "The <strong>Index of Industrial Production (IIP)</strong> measures the growth of the manufacturing sector, with a recent growth rate of 8.5%."
+    ],
+    "mains": {
+      "q": "India's emergence as a manufacturing hub raises questions about the role of government initiatives in promoting economic growth. Examine.",
+      "marks": "15 marks · GS3",
+      "directive": "examine",
+      "hints": [
+        "Frame the central trade-off: government support for manufacturing versus potential market distortions.",
+        "Cite the example of China's economic growth and the role of government initiatives in promoting manufacturing.",
+        "Distinguish between the 'Make in India' initiative and the PLI scheme, and discuss their relative effectiveness.",
+        "Apply the concept of comparative advantage to argue for or against government support for specific industries.",
+        "Conclude by proposing a balanced approach to promoting manufacturing growth, considering both government initiatives and market forces."
+      ]
+    },
+    "connect": [
+      {
+        "topic": "Special Economic Zones (SEZs)",
+        "context": "SEZs have been established to promote exports and attract foreign investment, which is related to the PLI scheme's goal of promoting domestic manufacturing."
+      },
+      {
+        "topic": "National Investment Promotion and Facilitation Agency (Invest India)",
+        "context": "Invest India plays a crucial role in promoting investments in India, including in the manufacturing sector, which is connected to the 'Make in India' initiative."
+      },
+      {
+        "topic": "National Manufacturing Policy (NMP)",
+        "context": "The NMP aims to increase the share of manufacturing in India's GDP, which is aligned with the goals of the PLI scheme and the 'Make in India' initiative."
+      },
+      {
+        "topic": "Ease of Doing Business (EoDB) rankings",
+        "context": "India's improvement in EoDB rankings is a result of various government initiatives, including the PLI scheme and the 'Make in India' initiative, which aim to promote economic growth and investment."
+      },
+      {
+        "topic": "Foreign Direct Investment (FDI) policy",
+        "context": "The FDI policy has been liberalized to attract foreign investment in the manufacturing sector, which is connected to the PLI scheme's goal of promoting domestic manufacturing and reducing dependence on imports."
+      }
+    ],
+    "_hash": "4b827f5b8a2a",
+    "_fetched": "2026-07-07T14:53:01.865033+00:00",
+    "_relevance": 57,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "examine",
+    "_mcqs": [
+      {
+        "q": "Consider the following statements:\n1. The PLI scheme is limited to 5 key sectors.\n2. The 'Make in India' initiative was launched in 2010.\n3. India's manufacturing growth rate has been steadily increasing.\nWhich of the above is/are correct?",
+        "options": [
+          "1 only",
+          "3 only",
+          "1 and 3 only",
+          "1, 2 and 3"
+        ],
+        "correct": 2,
+        "explanation": "Statement 1 is incorrect: the PLI scheme covers 13 key sectors. Statement 2 is incorrect: the 'Make in India' initiative was launched in 2014. Statement 3 is correct: India's manufacturing growth rate has been steadily increasing.",
+        "trap": "Quantitative Trap"
+      },
+      {
+        "q": "Consider the following statements:\n1. The World Bank's Ease of Doing Business report ranks India 1st out of 190 countries.\n2. The Index of Industrial Production (IIP) measures the growth of the services sector.\n3. The PLI scheme provides incentives for exports.\nWhich of the above is/are correct?",
+        "options": [
+          "1 only",
+          "2 only",
+          "1 and 2 only",
+          "3 only"
+        ],
+        "correct": 3,
+        "explanation": "Statement 1 is incorrect: India is ranked 63rd out of 190 countries. Statement 2 is incorrect: the IIP measures the growth of the manufacturing sector. Statement 3 is correct: the PLI scheme provides incentives for exports.",
+        "trap": "Definitional Trap"
+      }
+    ]
+  },
+  {
+    "id": 2263,
+    "title": "India, Indonesia Integrate Digital Payments",
+    "cat": "tech",
+    "upsc": true,
+    "time": "2026-07-07T14:53:37.910312+00:00",
+    "summary": "India and Indonesia agreed to integrate their digital payment systems and signed agreements on defence, healthcare, manufacturing, and maritime security.",
+    "story_fact": "India and Indonesia to integrate digital payment systems",
+    "background": "The integration aims to facilitate cross-border transactions and enhance economic cooperation. Digital payments have become increasingly important for trade and commerce.",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "LiveMint",
+    "link": "https://www.livemint.com/news/india/india-indonesia-move-to-link-digital-payments-as-modi-visit-deepens-strategic-ties-11783429743710.html",
+    "prelims": [
+      "The <strong>digital payment integration</strong> between India and Indonesia aims to reduce transaction costs and increase trade efficiency.",
+      "The agreement is based on the <strong>ASEAN-India Free Trade Agreement</strong>, which aims to promote economic cooperation between India and Southeast Asian countries.",
+      "The integration will involve the use of <strong>UPI and QR codes</strong> for cross-border transactions, making it easier for businesses and individuals to conduct trade.",
+      "The <strong>Reserve Bank of India</strong> and the Bank of Indonesia will work together to implement the integration and ensure its smooth operation.",
+      "The integration is expected to increase <strong>trade volumes</strong> between India and Indonesia, particularly in the areas of manufacturing and healthcare."
+    ],
+    "mains": {
+      "q": "The integration of digital payment systems between India and Indonesia is a significant step towards enhancing economic cooperation. Examine.",
+      "marks": "15 marks · GS2",
+      "directive": "examine",
+      "hints": [
+        "Frame the central trade-off: reduced transaction costs versus increased dependence on digital infrastructure.",
+        "Cite the ASEAN-India Free Trade Agreement as a precursor to this integration, highlighting its provisions for economic cooperation.",
+        "Distinguish between the use of UPI and QR codes in domestic and cross-border transactions, discussing the implications for trade efficiency.",
+        "Apply the concept of economic cooperation to the integration, discussing its potential impact on trade volumes and investment flows.",
+        "Conclude by proposing measures to address potential challenges, such as cybersecurity risks and regulatory frameworks."
+      ]
+    },
+    "connect": [
+      {
+        "topic": "Digital India Initiative",
+        "context": "The integration of digital payment systems between India and Indonesia is a step towards achieving the goals of the Digital India Initiative, which aims to promote digital literacy and increase the use of digital technologies."
+      },
+      {
+        "topic": "Cross-Border Trade",
+        "context": "The integration of digital payment systems will facilitate cross-border trade between India and Indonesia, reducing transaction costs and increasing trade efficiency."
+      },
+      {
+        "topic": "Cybersecurity Risks",
+        "context": "The integration of digital payment systems between India and Indonesia will require robust cybersecurity measures to protect against potential risks and threats."
+      },
+      {
+        "topic": "Regional Economic Cooperation",
+        "context": "The integration of digital payment systems between India and Indonesia is an example of regional economic cooperation, which can promote economic growth and development in the region."
+      }
+    ],
+    "_hash": "618469ad88af",
+    "_fetched": "2026-07-07T14:53:37.910312+00:00",
+    "_relevance": 52,
+    "_gs": [
+      "GS2"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "examine",
+    "_mcqs": [
+      {
+        "q": "Consider the following statements:\n1. The integration of digital payment systems between India and Indonesia is based on the ASEAN-India Free Trade Agreement.\n2. The integration will involve the use of UPI and QR codes for cross-border transactions.\nWhich of the above is/are correct?",
+        "options": [
+          "1 only",
+          "2 only",
+          "1 and 2 only",
+          "1, 2 and 3"
+        ],
+        "correct": 2,
+        "explanation": "Statement 1 is correct: The integration is based on the ASEAN-India Free Trade Agreement. Statement 2 is correct: The integration will involve the use of UPI and QR codes for cross-border transactions.",
+        "trap": "Wrong Article"
+      },
+      {
+        "q": "Consider the following statements:\n1. The Reserve Bank of India will work with the Bank of Indonesia to implement the integration.\n2. The integration is expected to increase trade volumes between India and Indonesia.\nWhich of the above is/are correct?",
+        "options": [
+          "1 only",
+          "2 only",
+          "1 and 2 only",
+          "1, 2 and 3"
+        ],
+        "correct": 2,
+        "explanation": "Statement 1 is correct: The Reserve Bank of India will work with the Bank of Indonesia to implement the integration. Statement 2 is correct: The integration is expected to increase trade volumes between India and Indonesia.",
+        "trap": "Quantitative Trap"
+      }
+    ]
+  },
+  {
+    "id": 2264,
+    "title": "EV surge, tariff impact turns India into net auto parts impo",
+    "cat": "economy",
+    "upsc": true,
+    "time": "2026-07-07T14:55:50.352137+00:00",
+    "summary": "Exports at $24 billion grew 5% in FY26, slower than the 8% growth seen in FY25, amid tariff headwinds and the West Asia war.",
+    "story_fact": "",
+    "background": "",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "LiveMint Industry",
+    "link": "https://www.livemint.com/industry/manufacturing/ev-sales-us-tariff-india-auto-component-import-export-11783420579177.html",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "477cd5c2923f",
+    "_fetched": "2026-07-07T14:55:50.352137+00:00",
+    "_relevance": 50,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
   }
 ]
