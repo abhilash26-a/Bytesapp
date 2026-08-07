@@ -18770,5 +18770,723 @@
     "_difficulty": 2,
     "_directive": "discuss",
     "_mcqs": []
+  },
+  {
+    "id": 2271,
+    "title": "US Companies Warn Higher Tariffs May Backfire",
+    "cat": "economy",
+    "upsc": true,
+    "time": "2026-07-08T08:39:20.024787+00:00",
+    "summary": "US companies, including Intel and IBM, urge USTR to reconsider tariffs on imports from 60 countries, including India.",
+    "story_fact": "USTR proposes 12.5% tariffs on imports from 60 countries.",
+    "background": "The US Trade Representative (USTR) has the authority to impose tariffs under Section 301 of the Trade Act of 1974. The USTR investigates unfair trade practices and can impose tariffs as a remedy.",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "ET Economy",
+    "link": "https://economictimes.indiatimes.com/news/economy/foreign-trade/american-giants-warn-higher-tariffs-on-india-others-may-backfire-on-us-manufacturing/articleshow/132253052.cms",
+    "prelims": [
+      "The <strong>US Trade Representative (USTR)</strong> is responsible for developing and implementing US trade policy, including the imposition of tariffs.",
+      "The <strong>Trade Act of 1974</strong> provides the USTR with the authority to investigate unfair trade practices and impose tariffs as a remedy.",
+      "The proposed <strong>12.5% tariffs</strong> would apply to imports from 60 countries, including India, and could have significant implications for global trade.",
+      "The <strong>World Trade Organization (WTO)</strong> has rules governing the imposition of tariffs, and the USTR must ensure that any tariffs imposed are consistent with these rules.",
+      "The <strong>Section 301 investigation</strong> is a process by which the USTR investigates unfair trade practices and can impose tariffs as a remedy."
+    ],
+    "mains": {
+      "q": "The imposition of tariffs by the USTR raises questions about the balance between trade policy and national security. Examine.",
+      "marks": "15 marks · GS2",
+      "directive": "examine",
+      "hints": [
+        "Frame the central trade-off: tariffs as a tool of trade policy versus their impact on national security.",
+        "Cite the example of the US-China trade war and its implications for global trade.",
+        "Distinguish between the USTR's authority under Section 301 and the WTO's rules governing tariffs.",
+        "Apply the concept of comparative advantage to argue for or against the imposition of tariffs.",
+        "Conclude by proposing a framework for balancing trade policy and national security concerns."
+      ]
+    },
+    "connect": [
+      {
+        "topic": "WTO Rules on Tariffs",
+        "context": "The WTO has rules governing the imposition of tariffs, and the USTR must ensure that any tariffs imposed are consistent with these rules."
+      },
+      {
+        "topic": "US-China Trade War",
+        "context": "The US-China trade war is an example of the use of tariffs as a tool of trade policy, and has significant implications for global trade."
+      },
+      {
+        "topic": "Comparative Advantage",
+        "context": "The concept of comparative advantage is relevant to the debate over tariffs, as it suggests that countries should specialize in producing goods for which they have a lower opportunity cost."
+      },
+      {
+        "topic": "National Security Exceptions",
+        "context": "The imposition of tariffs on national security grounds is a controversial issue, and raises questions about the balance between trade policy and national security concerns."
+      }
+    ],
+    "_hash": "3a5769307780",
+    "_fetched": "2026-07-08T08:39:20.024787+00:00",
+    "_relevance": 64,
+    "_gs": [
+      "GS2",
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "examine",
+    "_mcqs": [
+      {
+        "q": "Consider the following statements:\n1. The USTR has the authority to impose tariffs under Section 301 of the Trade Act of 1974.\n2. The proposed 12.5% tariffs would apply to imports from all countries.\n3. The WTO has rules governing the imposition of tariffs.\nWhich of the above is/are correct?",
+        "options": [
+          "1 only",
+          "1 and 2 only",
+          "1 and 3 only",
+          "1, 2 and 3"
+        ],
+        "correct": 2,
+        "explanation": "Statement 1 is correct: The USTR does have the authority to impose tariffs under Section 301. Statement 2 is incorrect: The proposed tariffs would only apply to imports from 60 countries. Statement 3 is correct: The WTO does have rules governing the imposition of tariffs.",
+        "trap": "Scope Confusion"
+      },
+      {
+        "q": "Consider the following statements:\n1. The USTR's investigation under Section 301 is limited to trade practices that affect US industries.\n2. The proposed tariffs would only apply to imports from countries with which the US has a trade deficit.\n3. The WTO has the authority to review the USTR's imposition of tariffs.\nWhich of the above is/are correct?",
+        "options": [
+          "1 only",
+          "1 and 2 only",
+          "1 and 3 only",
+          "1, 2 and 3"
+        ],
+        "correct": 0,
+        "explanation": "Statement 1 is correct: The USTR's investigation under Section 301 is limited to trade practices that affect US industries. Statement 2 is incorrect: The proposed tariffs would apply to imports from 60 countries, regardless of the trade balance. Statement 3 is incorrect: The WTO does not have the authority to review the USTR's imposition of tariffs.",
+        "trap": "Wrong Article"
+      }
+    ]
+  },
+  {
+    "id": 2272,
+    "title": "India, ASEAN Review FTA Progress",
+    "cat": "economy",
+    "upsc": true,
+    "time": "2026-07-08T08:39:56.712932+00:00",
+    "summary": "India and ASEAN reviewed free trade agreement progress, urging finalization of outstanding chapters. Bilateral trade reached $128 billion in 2025-26.",
+    "story_fact": "India-ASEAN bilateral trade reached $128 billion in 2025-26.",
+    "background": "The India-ASEAN free trade agreement in goods was signed in 2009. The agreement aims to reduce tariffs and increase trade between India and ASEAN countries.",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "ET Economy",
+    "link": "https://economictimes.indiatimes.com/news/economy/foreign-trade/india-asean-assess-progress-of-talks-for-review-of-goods-fta/articleshow/132257861.cms",
+    "prelims": [
+      "The <strong>India-ASEAN Free Trade Agreement</strong> was signed in 2009 to reduce tariffs and increase trade between India and ASEAN countries.",
+      "The agreement is based on <strong>Article 24</strong> of the ASEAN Charter, which promotes economic integration among member states.",
+      "India's bilateral trade with ASEAN reached <strong>$128 billion</strong> in 2025-26, with a significant portion being in goods.",
+      "The <strong>ASEAN-India Trade Negotiating Committee</strong> is responsible for negotiating and finalizing the outstanding chapters of the agreement.",
+      "The agreement aims to increase <strong>tariff-free trade</strong> in goods and services between India and ASEAN countries, promoting economic cooperation and integration."
+    ],
+    "mains": {
+      "q": "The India-ASEAN Free Trade Agreement has been in place since 2009. Examine the progress made and the challenges that remain in achieving its objectives.",
+      "marks": "15 marks · GS3",
+      "directive": "examine",
+      "hints": [
+        "Frame the central issue: despite the agreement, trade growth has been slow due to non-tariff barriers and lack of investment.",
+        "Cite the example of the ASEAN Single Window, which has facilitated trade among ASEAN member states, and argue for a similar mechanism for India-ASEAN trade.",
+        "Distinguish between the benefits of tariff reduction and the challenges of non-tariff measures, such as standards and regulatory differences.",
+        "Apply the concept of economic integration and its potential to increase trade and investment between India and ASEAN countries.",
+        "Conclude by suggesting ways to address the remaining challenges and achieve the full potential of the India-ASEAN Free Trade Agreement."
+      ]
+    },
+    "connect": [
+      {
+        "topic": "ASEAN Single Window",
+        "context": "The ASEAN Single Window has facilitated trade among ASEAN member states, and a similar mechanism could be established for India-ASEAN trade."
+      },
+      {
+        "topic": "Non-Tariff Measures",
+        "context": "Non-tariff measures, such as standards and regulatory differences, have been a significant challenge in achieving the objectives of the India-ASEAN Free Trade Agreement."
+      },
+      {
+        "topic": "Economic Integration",
+        "context": "The India-ASEAN Free Trade Agreement is an example of economic integration, which can increase trade and investment between India and ASEAN countries."
+      },
+      {
+        "topic": "Tariff Reduction",
+        "context": "Tariff reduction has been a key aspect of the India-ASEAN Free Trade Agreement, but non-tariff barriers remain a challenge."
+      }
+    ],
+    "_hash": "f874b57a6727",
+    "_fetched": "2026-07-08T08:39:56.712932+00:00",
+    "_relevance": 57,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "examine",
+    "_mcqs": [
+      {
+        "q": "Consider the following statements:\n1. The India-ASEAN Free Trade Agreement was signed in 2005.\n2. The agreement aims to reduce tariffs on goods and services between India and ASEAN countries.\n3. The ASEAN-India Trade Negotiating Committee is responsible for negotiating and finalizing the outstanding chapters of the agreement.\nWhich of the above is/are correct?",
+        "options": [
+          "1 only",
+          "2 only",
+          "1 and 2 only",
+          "2 and 3 only"
+        ],
+        "correct": 3,
+        "explanation": "Statement 1 is incorrect: the agreement was signed in 2009. Statement 2 is correct: the agreement aims to reduce tariffs. Statement 3 is correct: the ASEAN-India Trade Negotiating Committee is responsible for negotiating and finalizing the outstanding chapters.",
+        "trap": "Timeline Confusion"
+      },
+      {
+        "q": "Consider the following statements:\n1. The India-ASEAN Free Trade Agreement applies to all ASEAN member states.\n2. The agreement has led to a significant increase in trade between India and ASEAN countries.\n3. The agreement has been ratified by all ASEAN member states.\nWhich of the above is/are correct?",
+        "options": [
+          "1 and 2 only",
+          "1 and 3 only",
+          "2 and 3 only",
+          "1, 2 and 3"
+        ],
+        "correct": 0,
+        "explanation": "Statement 1 is correct: the agreement applies to all ASEAN member states. Statement 2 is incorrect: while trade has increased, the increase is not significant. Statement 3 is incorrect: not all ASEAN member states have ratified the agreement.",
+        "trap": "Quantitative Trap"
+      }
+    ]
+  },
+  {
+    "id": 2273,
+    "title": "Farmers Urge Govt to Clear Power Dues for Tunga Lift Irrigation Project",
+    "cat": "policy",
+    "upsc": true,
+    "time": "2026-07-08T08:40:33.711367+00:00",
+    "summary": "The Tunga Lift Irrigation Project benefits 7,500 acres of agricultural land across 28 villages but has remained defunct due to non-payment of electricity bills.",
+    "story_fact": "Tunga Lift Irrigation Project benefits 7,500 acres across 28 villages.",
+    "background": "The Tunga Lift Irrigation Project is designed to support agricultural activities in the region. It relies on a consistent power supply to function effectively.",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "The Hindu",
+    "link": "https://www.thehindu.com/news/national/karnataka/farmers-urge-govt-to-clear-power-dues-activate-tunga-lift-irrigation-project/article71189377.ece",
+    "prelims": [
+      "The <strong>Tunga Lift Irrigation Project</strong> supports 7,500 acres of agricultural land across 28 villages, enhancing local food security and farmer livelihoods.",
+      "The project's operation is governed by the <strong>Indian Easements Act, 1882</strong>, which outlines the rights and obligations regarding water usage and distribution.",
+      "The <strong>28 villages</strong> benefiting from the Tunga Lift Irrigation Project are located in areas with significant agricultural potential, highlighting the project's importance for local economic development.",
+      "A similar project, the <strong>Upper Krishna Project</strong>, has demonstrated the effectiveness of lift irrigation in supporting agricultural activities in water-scarce regions.",
+      "The subtle distinction between <strong>lift irrigation</strong> and <strong>gravity-fed irrigation</strong> systems is crucial, as it affects the project's feasibility, cost, and environmental impact."
+    ],
+    "mains": {
+      "q": "The recent emphasis on revitalizing irrigation projects to enhance agricultural productivity raises questions about the balance between water usage and environmental sustainability. Examine.",
+      "marks": "15 marks · GS3",
+      "directive": "examine",
+      "hints": [
+        "Frame the central trade-off: enhanced agricultural productivity versus potential environmental degradation due to increased water usage.",
+        "Cite the <strong>National Water Policy, 2012</strong>, which emphasizes the need for a holistic approach to water management, considering both agricultural and environmental needs.",
+        "Distinguish between <strong>lift irrigation</strong> and <strong>gravity-fed irrigation</strong> systems in terms of their water usage efficiency and environmental impact.",
+        "Apply the principles of <strong>integrated water resource management</strong> to argue for a balanced approach that meets agricultural demands while protecting ecosystems.",
+        "Conclude by proposing a framework for <strong>sustainable irrigation practices</strong> that could be applied to projects like the Tunga Lift Irrigation Project."
+      ]
+    },
+    "connect": [
+      {
+        "topic": "National Water Policy, 2012",
+        "context": "The policy emphasizes integrated water resource management, considering both agricultural and environmental needs, directly relevant to the Tunga Lift Irrigation Project's water usage."
+      },
+      {
+        "topic": "Integrated Water Resource Management",
+        "context": "This approach is essential for balancing agricultural water demands with environmental protection, directly applicable to the management of the Tunga Lift Irrigation Project."
+      },
+      {
+        "topic": "Sustainable Irrigation Practices",
+        "context": "The adoption of sustainable practices in irrigation projects like the Tunga Lift Irrigation Project is critical for long-term environmental sustainability and agricultural productivity."
+      }
+    ],
+    "_hash": "21fd83fed60d",
+    "_fetched": "2026-07-08T08:40:33.711367+00:00",
+    "_relevance": 52,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "examine",
+    "_mcqs": [
+      {
+        "q": "Consider the following statements:\n1. The Tunga Lift Irrigation Project is designed to support agricultural activities in water-scarce regions.\n2. The project's operation is governed by the Indian Easements Act, 1882.\n3. The project benefits 7,500 acres of agricultural land across 28 villages.\nWhich of the above is/are correct?",
+        "options": [
+          "1 only",
+          "2 only",
+          "1 and 2 only",
+          "1, 2 and 3"
+        ],
+        "correct": 3,
+        "explanation": "Statement 1 is correct: The project aims to support agriculture in water-scarce areas. Statement 2 is correct: The Indian Easements Act, 1882, governs water usage rights. Statement 3 is correct: The project indeed benefits 7,500 acres across 28 villages.",
+        "trap": "Scope Confusion"
+      },
+      {
+        "q": "Consider the following statements:\n1. Lift irrigation projects are more water-efficient than gravity-fed systems.\n2. The Tunga Lift Irrigation Project is an example of a gravity-fed irrigation system.\nWhich of the above is/are correct?",
+        "options": [
+          "Only 1",
+          "Only 2",
+          "Both 1 and 2",
+          "Neither 1 nor 2"
+        ],
+        "correct": 1,
+        "explanation": "Statement 1 is correct: Lift irrigation can be more water-efficient. Statement 2 is incorrect: The Tunga project is a lift irrigation project, not gravity-fed.",
+        "trap": "Definitional Trap"
+      }
+    ]
+  },
+  {
+    "id": 2274,
+    "title": "Global Market: Euro zone bond yields hit near one-month high",
+    "cat": "economy",
+    "upsc": true,
+    "time": "2026-07-08T08:42:46.015639+00:00",
+    "summary": "Euro zone government bond yields reached their highest levels in nearly a month. This rise followed a sharp jump in oil prices and heightened inflatio",
+    "story_fact": "",
+    "background": "",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "Economic Times",
+    "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-euro-zone-bond-yields-hit-near-one-month-high-as-oil-surge-fuels-ecb-rate-hike-bets/articleshow/132257743.cms",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "5e8b3f705fd5",
+    "_fetched": "2026-07-08T08:42:46.015639+00:00",
+    "_relevance": 50,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 2275,
+    "title": "Kalyan Jewellers shares soar over 6% as 38% YoY revenue jump",
+    "cat": "india",
+    "upsc": false,
+    "time": "2026-07-08T08:44:58.410335+00:00",
+    "summary": "Kalyan Jewellers shares rose sharply on Wednesday after the company reported an estimated 38% year-on-year growth in consolidated Q1 revenue, driven b",
+    "story_fact": "",
+    "background": "",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "Economic Times",
+    "link": "https://economictimes.indiatimes.com/markets/stocks/news/kalyan-jewellers-shares-soar-over-6-as-38-yoy-revenue-jump-in-q1-update/articleshow/132255507.cms",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "3552208fa8b9",
+    "_fetched": "2026-07-08T08:44:58.410335+00:00",
+    "_relevance": 42,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 2276,
+    "title": "Adani-MSC Vizhinjam deal: Kerala Cabinet to set up empowered",
+    "cat": "world",
+    "upsc": false,
+    "time": "2026-07-08T08:47:10.980664+00:00",
+    "summary": "CM Satheesan hits back at Opposition, claims previous LDF govt was aware of proposed Vizhinjam deal",
+    "story_fact": "",
+    "background": "",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "The Hindu",
+    "link": "https://www.thehindu.com/news/national/kerala/adani-msc-vizhinjam-deal-kerala-cabinet-to-set-up-empowered-panel-to-study-if-agreement-is-in-states-interests/article71196957.ece",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "89935dbc2f53",
+    "_fetched": "2026-07-08T08:47:10.980664+00:00",
+    "_relevance": 41,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 2277,
+    "title": "RBI backs crypto ban, tax department warns of evasion risks,",
+    "cat": "economy",
+    "upsc": false,
+    "time": "2026-07-08T08:49:23.423439+00:00",
+    "summary": "India's central bank has reiterated its preference for a cryptocurrency policy \"leaning towards prohibition,\" warning that crypto assets and stablecoi",
+    "story_fact": "",
+    "background": "",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "ET Economy",
+    "link": "https://economictimes.indiatimes.com/news/economy/policy/rbi-backs-crypto-ban-tax-department-warns-of-evasion-risks-documents-show/articleshow/132257290.cms",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "3a5cad51b21f",
+    "_fetched": "2026-07-08T08:49:23.423439+00:00",
+    "_relevance": 40,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 2278,
+    "title": "Surplus crop, weak exports: the crisis facing Andhra tobacco",
+    "cat": "economy",
+    "upsc": false,
+    "time": "2026-07-08T08:51:35.798390+00:00",
+    "summary": "A crop that fetched over ₹360 per kg during the previous season is now struggling to cross ₹265, with the average auction price remaining at just ₹219",
+    "story_fact": "",
+    "background": "",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "The Hindu",
+    "link": "https://www.thehindu.com/news/national/andhra-pradesh/surplus-crop-weak-exports-the-crisis-facing-andhra-tobacco-farmers-explained/article71193973.ece",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "9b055bd74d3b",
+    "_fetched": "2026-07-08T08:51:35.798390+00:00",
+    "_relevance": 39,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 2279,
+    "title": "Tamil Nadu moves SC against Madras HC order on backward stat",
+    "cat": "world",
+    "upsc": false,
+    "time": "2026-07-08T08:53:48.242004+00:00",
+    "summary": "A 2024 government order notified that a convert to Islam from Backward Classes, Most Backward Classes, Denotified Communities or Scheduled Castes ough",
+    "story_fact": "",
+    "background": "",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "The Hindu",
+    "link": "https://www.thehindu.com/news/national/tamil-nadu/tamil-nadu-moves-sc-against-madras-hc-order-on-backward-status-of-converts-to-islam/article71197024.ece",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "d2bab2403e3b",
+    "_fetched": "2026-07-08T08:53:48.242004+00:00",
+    "_relevance": 39,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 2280,
+    "title": "India to roll out new high-frequency economy barometer on Ju",
+    "cat": "tech",
+    "upsc": false,
+    "time": "2026-07-08T08:56:00.794340+00:00",
+    "summary": "India will launch a new services production index next week to track activity in the country's dominant services economy. It aims to provide timely ec",
+    "story_fact": "",
+    "background": "",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "ET Economy",
+    "link": "https://economictimes.indiatimes.com/news/economy/policy/india-to-roll-out-new-high-frequency-economy-barometer-on-july-14/articleshow/132255148.cms",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "5c344f0360b6",
+    "_fetched": "2026-07-08T08:56:00.794340+00:00",
+    "_relevance": 38,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 2281,
+    "title": "Why are Tamil Nadu and Kerala opposed to the proposed change",
+    "cat": "policy",
+    "upsc": false,
+    "time": "2026-07-08T08:58:13.132722+00:00",
+    "summary": "Read on to find out why Ministers from Tamil Nadu and Kerala have voiced their concerns over the proposed amendments to the National Food Security Act",
+    "story_fact": "",
+    "background": "",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "The Hindu",
+    "link": "https://www.thehindu.com/news/national/why-are-tamil-nadu-and-kerala-opposed-to-the-proposed-changes-in-food-security-law-explained/article71196839.ece",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "a0ac53f2dc60",
+    "_fetched": "2026-07-08T08:58:13.132722+00:00",
+    "_relevance": 36,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 2282,
+    "title": "Tamil Nadu government asks State Election Commissioner Jothi",
+    "cat": "india",
+    "upsc": false,
+    "time": "2026-07-08T09:00:25.497215+00:00",
+    "summary": "Ms. Nirmalasamy assumed office as the State Election Commissioner in March 2024 for a five-year term; her tenure ends in May 2029",
+    "story_fact": "",
+    "background": "",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "The Hindu",
+    "link": "https://www.thehindu.com/news/national/tamil-nadu/tamil-nadu-government-asks-state-election-commissioner-jothi-nirmalasamy-to-step-down/article71196798.ece",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "f7b9688b7e0f",
+    "_fetched": "2026-07-08T09:00:25.497215+00:00",
+    "_relevance": 33,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 2283,
+    "title": "Significance of Guwahati Declaration adopted by BRICS nation",
+    "cat": "world",
+    "upsc": false,
+    "time": "2026-07-08T09:02:38.006351+00:00",
+    "summary": "The Guwahati Declaration underscores the need to bolster the timely exchange of information and best practices, consistent with national laws and inte",
+    "story_fact": "",
+    "background": "",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "The Hindu",
+    "link": "https://www.thehindu.com/news/national/significance-of-guwahati-declaration-adopted-by-brics-nations-explained/article71196603.ece",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "2d9e1d652162",
+    "_fetched": "2026-07-08T09:02:38.006351+00:00",
+    "_relevance": 33,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 2284,
+    "title": "Parts of Maharashtra report ‘exceptional’ rain",
+    "cat": "tech",
+    "upsc": false,
+    "time": "2026-07-08T09:04:50.351937+00:00",
+    "summary": "Mahabaleshwar, in Maharashtra’s Satara district, received 513 mm of rainfall on 6th July, which, according to the IMD’s historical records, is highest",
+    "story_fact": "",
+    "background": "",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "The Hindu",
+    "link": "https://www.thehindu.com/news/national/maharashtra/parts-of-maharashtra-report-exceptional-rain/article71196939.ece",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "ec4f7c506abd",
+    "_fetched": "2026-07-08T09:04:50.351937+00:00",
+    "_relevance": 33,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 2285,
+    "title": "FAIMA condemns alleged assault on doctors at Thane's KDMC Ho",
+    "cat": "india",
+    "upsc": false,
+    "time": "2026-07-08T09:07:02.650233+00:00",
+    "summary": "The Federation of All India Medical Association (FAIMA) has strongly condemned the assault on doctors, nurses and healthcare workers at KDMC Shastrina",
+    "story_fact": "",
+    "background": "",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "LiveMint",
+    "link": "https://www.livemint.com/news/faima-condemns-alleged-assault-on-doctors-at-thanes-kdmc-hospital-seeks-action-within-24-hours-11783495338818.html",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "7f205b53d92e",
+    "_fetched": "2026-07-08T09:07:02.650233+00:00",
+    "_relevance": 33,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 2286,
+    "title": "Grain-based ethanol accounts for nearly 67% of supplies; mai",
+    "cat": "tech",
+    "upsc": false,
+    "time": "2026-07-08T09:09:15.123879+00:00",
+    "summary": "Surplus FCI grains and sugarcane juice also significantly contribute to the diversified feedstock mix. Policy support for higher blends and new applic",
+    "story_fact": "",
+    "background": "",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "ET Economy",
+    "link": "https://economictimes.indiatimes.com/news/economy/agriculture/grain-based-ethanol-accounts-for-nearly-67-of-supplies-maize-remains-the-largest-feedstock/articleshow/132255561.cms",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "50f626eeb7ff",
+    "_fetched": "2026-07-08T09:09:15.123879+00:00",
+    "_relevance": 33,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 2287,
+    "title": "Bengaluru: Lokayukta raids seven locations in two government",
+    "cat": "tech",
+    "upsc": false,
+    "time": "2026-07-08T09:11:27.479959+00:00",
+    "summary": "The accused officials allegedly facilitated the wrongful allotment of more than 13 acres of government land at Hunasamaranahalli to private individual",
+    "story_fact": "",
+    "background": "",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "The Hindu",
+    "link": "https://www.thehindu.com/news/national/karnataka/bengaluru-lokayukta-raids-seven-locations-in-two-government-land-allotment-cases/article71193814.ece",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "105ab8ace116",
+    "_fetched": "2026-07-08T09:11:27.479959+00:00",
+    "_relevance": 31,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
   }
 ]
