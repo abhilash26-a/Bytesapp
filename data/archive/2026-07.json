@@ -25711,5 +25711,595 @@
     "_difficulty": 2,
     "_directive": "discuss",
     "_mcqs": []
+  },
+  {
+    "id": 2253,
+    "title": "India's Forex Reserves Rise $7.26 Billion",
+    "cat": "economy",
+    "upsc": true,
+    "time": "2026-07-10T14:43:30.490480+00:00",
+    "summary": "India's foreign exchange reserves rose $7.26 billion to $674.19 billion in the week ended July 3, with the RBI closely monitoring foreign exchange market developments.",
+    "story_fact": "India's forex reserves rose $7.26 billion to $674.19 billion",
+    "background": "The RBI monitors foreign exchange market developments and intervenes when necessary to ensure orderly market conditions. The central bank does not target any specific exchange rate.",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "ET Economy",
+    "link": "https://economictimes.indiatimes.com/news/economy/indicators/indias-forex-reserves-rise-7-26-billion-to-674-19-billion-in-week-ended-july-3/articleshow/132311228.cms",
+    "prelims": [
+      "The <strong>Reserve Bank of India</strong> is responsible for managing India's foreign exchange reserves, which have risen to $674.19 billion.",
+      "The <strong>Foreign Exchange Management Act, 1999</strong>, regulates foreign exchange transactions in India, including the management of foreign exchange reserves.",
+      "The <strong>foreign exchange reserves</strong> rose by $7.26 billion in the week ended July 3, with the RBI closely monitoring foreign exchange market developments.",
+      "The <strong>RBI's intervention</strong> in the foreign exchange market is aimed at maintaining orderly market conditions, without targeting any specific exchange rate.",
+      "The <strong>increase in foreign exchange reserves</strong> can have a positive impact on India's economy, by increasing the country's ability to meet its foreign exchange obligations."
+    ],
+    "mains": {
+      "q": "The RBI's decision to absorb forex risk on sovereign USD issuance raises questions about the independence of monetary policy. Examine.",
+      "marks": "15 marks · GS3",
+      "directive": "examine",
+      "hints": [
+        "Frame the central trade-off: forex inflows boost reserves but absorbing currency risk creates a contingent sovereign liability outside FRBM disclosure.",
+        "Cite the Subramanian Panel (2018) recommendation against sovereign forex guarantees, and contrast with the 2008 LTRO experience.",
+        "Distinguish: the proposal addresses INWARD flows (FPI/FDI). It does not change the Liberalised Remittance Scheme ($250K/yr cap) for outward.",
+        "Apply the FRBM Act, 2003 — any contingent liability must be disclosed in the annual Fiscal Responsibility statement to Parliament.",
+        "Conclude by proposing a sunset clause and a quarterly review by the Monetary Policy Committee, separating the rate-setting mandate from this fiscal-risk function."
+      ]
+    },
+    "connect": [
+      {
+        "topic": "Fiscal Responsibility and Budget Management Act, 2003",
+        "context": "The FRBM Act requires the government to disclose any contingent liabilities, including those arising from forex risk absorption, in the annual Fiscal Responsibility statement to Parliament."
+      },
+      {
+        "topic": "Monetary Policy Committee (MPC)",
+        "context": "The MPC is responsible for setting interest rates and regulating money supply, but its mandate does not include absorbing forex risk on sovereign USD issuance."
+      },
+      {
+        "topic": "Liberalised Remittance Scheme (LRS)",
+        "context": "The LRS allows individuals to remit up to $250,000 per year for outward investments, but the proposal to absorb forex risk on sovereign USD issuance does not change this scheme."
+      },
+      {
+        "topic": "Subramanian Panel (2018) recommendations",
+        "context": "The Subramanian Panel recommended against sovereign forex guarantees, citing the risks of contingent liabilities and the potential impact on monetary policy independence."
+      }
+    ],
+    "_hash": "da8ff9dc29e9",
+    "_fetched": "2026-07-10T14:43:30.490480+00:00",
+    "_relevance": 60,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "examine",
+    "_mcqs": [
+      {
+        "q": "Consider the following statements:\n1. The RBI is responsible for managing India's foreign exchange reserves.\n2. The Foreign Exchange Management Act, 1999, regulates foreign exchange transactions in India.\n3. The RBI targets a specific exchange rate in its foreign exchange market interventions.\nWhich of the above is/are correct?",
+        "options": [
+          "1 only",
+          "1 and 2 only",
+          "2 and 3 only",
+          "1, 2 and 3"
+        ],
+        "correct": 1,
+        "explanation": "Statement 1 is correct: The RBI is responsible for managing India's foreign exchange reserves. Statement 2 is correct: The Foreign Exchange Management Act, 1999, regulates foreign exchange transactions in India. Statement 3 is incorrect: The RBI does not target a specific exchange rate in its foreign exchange market interventions.",
+        "trap": "Wrong Article"
+      },
+      {
+        "q": "Consider the following statements:\n1. The increase in foreign exchange reserves can have a positive impact on India's economy.\n2. The RBI's intervention in the foreign exchange market is aimed at maintaining orderly market conditions.\n3. The Foreign Exchange Management Act, 1999, is responsible for regulating foreign exchange reserves.\nWhich of the above is/are correct?",
+        "options": [
+          "1 only",
+          "1 and 2 only",
+          "2 and 3 only",
+          "1, 2 and 3"
+        ],
+        "correct": 1,
+        "explanation": "Statement 1 is correct: The increase in foreign exchange reserves can have a positive impact on India's economy. Statement 2 is correct: The RBI's intervention in the foreign exchange market is aimed at maintaining orderly market conditions. Statement 3 is incorrect: The Foreign Exchange Management Act, 1999, regulates foreign exchange transactions, not foreign exchange reserves.",
+        "trap": "Scope Confusion"
+      }
+    ]
+  },
+  {
+    "id": 2254,
+    "title": "Ajit Pawar Plane Crash: AAIB Report Due in January",
+    "cat": "india",
+    "upsc": true,
+    "time": "2026-07-10T14:44:07.441407+00:00",
+    "summary": "Maharashtra CM Devendra Fadnavis said the preliminary report has been received, and investigators have reconstructed and retrieved digital evidence, including data from the aircraft's black box.",
+    "story_fact": "Ajit Pawar plane crash investigation final report expected in January.",
+    "background": "The Aircraft Accident Investigation Bureau (AAIB) investigates aviation accidents in India. The AAIB's reports are used to improve aviation safety.",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "The Hindu",
+    "link": "https://www.thehindu.com/news/national/maharashtra/ajit-pawar-plane-crash-aaib-final-report-expected-in-january-further-action-after-that-says-fadnavis/article71206781.ece",
+    "prelims": [
+      "The <strong>Aircraft Accident Investigation Bureau (AAIB)</strong> is responsible for investigating aviation accidents in India, including the Ajit Pawar plane crash.",
+      "The <strong>Civil Aviation Act, 1972</strong>, empowers the central government to investigate aircraft accidents and take measures to improve aviation safety.",
+      "The Ajit Pawar plane crash occurred on <strong>January 1, 2026</strong>, and the preliminary report has already been submitted to the government.",
+      "The <strong>Directorate General of Civil Aviation (DGCA)</strong> is the regulatory body for civil aviation in India and works closely with the AAIB during investigations.",
+      "The AAIB's investigation into the Ajit Pawar plane crash will examine the <strong>human factors</strong> that may have contributed to the accident, including pilot error or aircraft maintenance issues."
+    ],
+    "mains": {
+      "q": "The Ajit Pawar plane crash highlights the need for more effective investigation protocols in India's aviation sector. Examine.",
+      "marks": "15 marks · GS2",
+      "directive": "examine",
+      "hints": [
+        "Frame the central issue: the current investigation protocols may not be robust enough to prevent similar accidents.",
+        "Cite the International Civil Aviation Organization (ICAO) guidelines on aircraft accident investigation and compare them with India's current protocols.",
+        "Distinguish between the roles of the AAIB and the DGCA in investigating aviation accidents in India.",
+        "Apply the principles of 'just culture' in aviation safety, which emphasizes learning from mistakes rather than punishing them.",
+        "Conclude by suggesting reforms to improve the effectiveness of investigation protocols in India's aviation sector."
+      ]
+    },
+    "connect": [
+      {
+        "topic": "International Civil Aviation Organization (ICAO)",
+        "context": "ICAO guidelines on aircraft accident investigation provide a framework for countries to follow, including India."
+      },
+      {
+        "topic": "Ministry of Civil Aviation",
+        "context": "The Ministry oversees the AAIB and the DGCA, making it a key player in India's aviation safety framework."
+      }
+    ],
+    "_hash": "c49aab5ebe66",
+    "_fetched": "2026-07-10T14:44:07.441407+00:00",
+    "_relevance": 49,
+    "_gs": [
+      "GS2"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "examine",
+    "_mcqs": [
+      {
+        "q": "Consider the following statements:\n1. The AAIB is responsible for investigating all aviation accidents in India.\n2. The DGCA is the regulatory body for civil aviation in India.\n3. The AAIB reports directly to the Ministry of Defence.\nWhich of the above is/are correct?",
+        "options": [
+          "1 only",
+          "2 only",
+          "1 and 2 only",
+          "1, 2 and 3"
+        ],
+        "correct": 2,
+        "explanation": "Statement 1 is correct: The AAIB investigates aviation accidents. Statement 2 is correct: The DGCA regulates civil aviation. Statement 3 is incorrect: The AAIB reports to the Ministry of Civil Aviation.",
+        "trap": "Wrong Body"
+      },
+      {
+        "q": "Consider the following statements:\n1. The Civil Aviation Act, 1972, empowers the central government to investigate aircraft accidents.\n2. The AAIB's reports are made public immediately after completion.\n3. The DGCA has the power to suspend or cancel the license of any airline found guilty of violating safety norms.\nWhich of the above is/are correct?",
+        "options": [
+          "1 only",
+          "2 only",
+          "1 and 2 only",
+          "1, 2 and 3"
+        ],
+        "correct": 0,
+        "explanation": "Statement 1 is correct: The Civil Aviation Act empowers the government to investigate accidents. Statement 2 is incorrect: AAIB reports are not made public immediately. Statement 3 is correct: The DGCA can suspend or cancel licenses for safety violations.",
+        "trap": "Timeline Confusion"
+      }
+    ]
+  },
+  {
+    "id": 2255,
+    "title": "International experts launch natural farming model at Guntur",
+    "cat": "world",
+    "upsc": false,
+    "time": "2026-07-10T14:46:20.097599+00:00",
+    "summary": "Pilot 2,000 sq. m. project aims to promote food and nutrition security and inspire students to take up sustainable agriculture",
+    "story_fact": "",
+    "background": "",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "The Hindu",
+    "link": "https://www.thehindu.com/news/national/andhra-pradesh/international-experts-launch-natural-farming-model-at-guntur-school/article71206992.ece",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "2dadb634694a",
+    "_fetched": "2026-07-10T14:46:20.097599+00:00",
+    "_relevance": 44,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 2256,
+    "title": "PIL in Punjab and Haryana HC seeks restoration of Diljit Dos",
+    "cat": "world",
+    "upsc": false,
+    "time": "2026-07-10T14:48:32.803139+00:00",
+    "summary": "The PIL said the sudden withdrawal of the film based upon documented historical events and the life of a human rights defender whose case has already ",
+    "story_fact": "",
+    "background": "",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "The Hindu",
+    "link": "https://www.thehindu.com/entertainment/pil-in-punjab-haryana-hc-seeks-restoration-of-diljit-dosanjh-starrer-satluj/article71203391.ece",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "c97024d43e17",
+    "_fetched": "2026-07-10T14:48:32.803139+00:00",
+    "_relevance": 44,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 2257,
+    "title": "Christopher Wood warns of AI fatigue. Why Jefferies is turni",
+    "cat": "economy",
+    "upsc": false,
+    "time": "2026-07-10T14:50:45.663341+00:00",
+    "summary": "Christopher Wood of Jefferies warns that the AI trade is showing signs of fatigue as investors seek cheaper value opportunities. With India and China ",
+    "story_fact": "",
+    "background": "",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "Economic Times",
+    "link": "https://economictimes.indiatimes.com/markets/stocks/news/christopher-wood-warns-of-ai-fatigue-why-jefferies-is-turning-to-india-and-china/articleshow/132308164.cms",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "3dc03bdf37bb",
+    "_fetched": "2026-07-10T14:50:45.663341+00:00",
+    "_relevance": 40,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 2258,
+    "title": "Telangana faces dry conditions with significant rainfall unl",
+    "cat": "economy",
+    "upsc": false,
+    "time": "2026-07-10T14:52:58.338255+00:00",
+    "summary": "Significant rainfall is likely only if weather systems develop closer to the Andhra Pradesh coast, says Telangana Development Planning Society (TGDPS)",
+    "story_fact": "",
+    "background": "",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "The Hindu",
+    "link": "https://www.thehindu.com/news/national/telangana/dry-july-2026-ahead-for-telangana-as-monsoon-shifts-elsewhere/article71206258.ece",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "18a4ed987810",
+    "_fetched": "2026-07-10T14:52:58.338255+00:00",
+    "_relevance": 39,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 2259,
+    "title": "Science should reach society with integrity and transparency",
+    "cat": "tech",
+    "upsc": false,
+    "time": "2026-07-10T14:55:11.016992+00:00",
+    "summary": "MSSRF Chairperson virtually addressed the IISc convocation; total of 1,452 PhD and Master’s students, and 118 undergraduate students received their de",
+    "story_fact": "",
+    "background": "",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "The Hindu",
+    "link": "https://www.thehindu.com/news/cities/bangalore/science-should-reach-society-with-integrity-and-transparency-soumya-swaminathan/article71205977.ece",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "250276343f15",
+    "_fetched": "2026-07-10T14:55:11.016992+00:00",
+    "_relevance": 39,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 2260,
+    "title": "Chittoor police conduct checks at lodges, dhabas and roadsid",
+    "cat": "tech",
+    "upsc": false,
+    "time": "2026-07-10T14:57:23.811214+00:00",
+    "summary": "The special drive aims to prevent illegal activities, curb the use and transportation of narcotic substances, ensure the safety of women and passenger",
+    "story_fact": "",
+    "background": "",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "The Hindu",
+    "link": "https://www.thehindu.com/news/national/andhra-pradesh/chittoor-police-conduct-checks-at-lodges-dhabas-and-roadside-eateries/article71206168.ece",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "5411dfad1dbe",
+    "_fetched": "2026-07-10T14:57:23.811214+00:00",
+    "_relevance": 39,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 2261,
+    "title": "Why is Chhattisgarh government asking farmers to adopt DSR m",
+    "cat": "tech",
+    "upsc": false,
+    "time": "2026-07-10T14:59:36.471569+00:00",
+    "summary": "Chhattisgarh’s DSR push comes amid rainfall uncertainty, water stress and labour shortages. A look at its benefits, challenges and adoption hurdles",
+    "story_fact": "",
+    "background": "",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "The Hindu Business",
+    "link": "https://www.thehindu.com/news/national/chhattisgarh/why-is-chhattisgarh-government-asking-farmers-to-adopt-dsr-method-for-paddy-cultivation-explained/article71205996.ece",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "de6e3b60eb6a",
+    "_fetched": "2026-07-10T14:59:36.471569+00:00",
+    "_relevance": 36,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 2262,
+    "title": "China announces temporary export ban on helium",
+    "cat": "tech",
+    "upsc": false,
+    "time": "2026-07-10T15:01:49.190730+00:00",
+    "summary": "China imposes a temporary helium export ban amid military tensions, aiming to prevent domestic shortages critical for chip manufacturing",
+    "story_fact": "",
+    "background": "",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "The Hindu International",
+    "link": "https://www.thehindu.com/news/international/chinas-export-ban-on-helium/article71206079.ece",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "75058da45e70",
+    "_fetched": "2026-07-10T15:01:49.190730+00:00",
+    "_relevance": 36,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 2263,
+    "title": "Trump ousts election commission members in latest push to re",
+    "cat": "india",
+    "upsc": false,
+    "time": "2026-07-10T15:04:02.045122+00:00",
+    "summary": "The White House said the president reserves the right to remove individuals who are not “totally aligned” with the administration's goals for election",
+    "story_fact": "",
+    "background": "",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "LiveMint",
+    "link": "https://www.livemint.com/news/us-news/trump-ousts-election-commission-members-in-latest-push-to-reshape-voting-process-not-totally-aligned-with-11783689333078.html",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "f98073bc5d84",
+    "_fetched": "2026-07-10T15:04:02.045122+00:00",
+    "_relevance": 35,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 2264,
+    "title": "China’s temporary export ban on helium| Explained",
+    "cat": "economy",
+    "upsc": false,
+    "time": "2026-07-10T15:06:14.822557+00:00",
+    "summary": "China imports more than 80% of its helium needs but produces only around 1.6% of the world’s helium; the export ban follows an extended period of supp",
+    "story_fact": "",
+    "background": "",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "The Hindu Science",
+    "link": "https://www.thehindu.com/news/international/chinastemporary-export-ban-on-helium-explained/article71206477.ece",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "5cfe9cb73862",
+    "_fetched": "2026-07-10T15:06:14.822557+00:00",
+    "_relevance": 33,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 2265,
+    "title": "Expert Explains | How Turkey emerged as a winner from a frac",
+    "cat": "world",
+    "upsc": false,
+    "time": "2026-07-10T15:08:27.525097+00:00",
+    "summary": "",
+    "story_fact": "",
+    "background": "",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "IE Explained",
+    "link": "https://indianexpress.com/article/explained/explained-global/nato-ankara-summit-turkey-trump-erdogan-10780495/",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "f6518e964a27",
+    "_fetched": "2026-07-10T15:08:27.525097+00:00",
+    "_relevance": 33,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 2266,
+    "title": "Lift water from Kannepalli to save farmers, Harish tells Rev",
+    "cat": "policy",
+    "upsc": false,
+    "time": "2026-07-10T15:10:40.371332+00:00",
+    "summary": "He dismisses CM’s charges on his political career",
+    "story_fact": "",
+    "background": "",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "The Hindu",
+    "link": "https://www.thehindu.com/news/national/telangana/lift-water-from-kannepalli-to-save-farmers-harish-tells-revanth/article71206919.ece",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "998371492682",
+    "_fetched": "2026-07-10T15:10:40.371332+00:00",
+    "_relevance": 31,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 2267,
+    "title": "Civic bodies default on library cess; Kerala State Library C",
+    "cat": "economy",
+    "upsc": false,
+    "time": "2026-07-10T15:12:53.119857+00:00",
+    "summary": "RTI information reveals that local self-government institutions have systematically failed to transfer these statutory funds, which are collected alon",
+    "story_fact": "",
+    "background": "",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "The Hindu",
+    "link": "https://www.thehindu.com/news/national/kerala/civic-bodies-default-on-library-cess-kerala-state-library-council-to-initiate-legal-proceedings/article71206569.ece",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "329cb864ca5b",
+    "_fetched": "2026-07-10T15:12:53.119857+00:00",
+    "_relevance": 31,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
   }
 ]
