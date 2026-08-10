@@ -27038,5 +27038,220 @@
     "_difficulty": 2,
     "_directive": "discuss",
     "_mcqs": []
+  },
+  {
+    "id": 2246,
+    "title": "Man Disrupts Supreme Court Proceedings",
+    "cat": "india",
+    "upsc": true,
+    "time": "2026-07-10T22:11:08.082148+00:00",
+    "summary": "A litigant threw papers at the Supreme Court bench, disrupting proceedings. The court decided not to take action despite unparliamentary language.",
+    "story_fact": "Supreme Court decides not to take action against a litigant for unparliamentary language.",
+    "background": "The Supreme Court of India is the highest judicial body. It has the power to punish for contempt of court. The court's decisions are binding on all lower courts.",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "The Hindu",
+    "link": "https://www.thehindu.com/news/national/man-hurls-papers-at-supreme-court-bench-after-incoherent-submissions/article71205937.ece",
+    "prelims": [
+      "The <strong>Supreme Court of India</strong> has the power to punish for contempt of court, as per the Contempt of Courts Act, 1971.",
+      "Article 129 of the Constitution grants the Supreme Court the power to punish for contempt of itself.",
+      "The <strong>Contempt of Courts Act, 1971</strong> defines contempt as any act that interferes with the administration of justice.",
+      "In the <strong>case of Vineet Narain vs. Union of India (1998)</strong>, the Supreme Court held that contempt proceedings can be initiated suo motu.",
+      "The <strong>Supreme Court Rules, 2013</strong> outline the procedure for contempt proceedings."
+    ],
+    "mains": {
+      "q": "The Supreme Court's decision not to take action against a litigant for unparliamentary language raises questions about the limits of judicial discretion. Examine.",
+      "marks": "15 marks · GS2",
+      "directive": "examine",
+      "hints": [
+        "Frame the central issue: the balance between maintaining order in the court and protecting freedom of speech.",
+        "Cite the <strong>Contempt of Courts Act, 1971</strong>, and contrast with the <strong>Article 19(1)(a)</strong> freedom of speech guarantee.",
+        "Distinguish between <strong>civil contempt</strong> and <strong>criminal contempt</strong>, and argue which applies in this case.",
+        "Apply the <strong>Supreme Court Rules, 2013</strong>, and examine the procedure for contempt proceedings.",
+        "Conclude by proposing guidelines for when the Supreme Court should exercise its contempt powers."
+      ]
+    },
+    "connect": [
+      {
+        "topic": "Article 14",
+        "context": "The Supreme Court's decision not to take action against the litigant raises questions about the principle of equality before the law, as enshrined in Article 14 of the Constitution."
+      },
+      {
+        "topic": "Judicial Review",
+        "context": "The Supreme Court's power to punish for contempt is an example of judicial review, which is the power of the judiciary to review and strike down laws and government actions that are unconstitutional."
+      },
+      {
+        "topic": "Freedom of Speech",
+        "context": "The litigant's unparliamentary language raises questions about the limits of freedom of speech, as guaranteed by Article 19(1)(a) of the Constitution."
+      }
+    ],
+    "_hash": "ddde55cd03e1",
+    "_fetched": "2026-07-10T22:11:08.082148+00:00",
+    "_relevance": 41,
+    "_gs": [
+      "GS2"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "examine",
+    "_mcqs": [
+      {
+        "q": "Consider the following statements:\n1. The Supreme Court has the power to punish for contempt of itself.\n2. The Contempt of Courts Act, 1971 defines contempt as any act that interferes with the administration of justice.\n3. The Supreme Court Rules, 2013 outline the procedure for contempt proceedings.\nWhich of the above is/are correct?",
+        "options": [
+          "1 only",
+          "2 only",
+          "1 and 2 only",
+          "1, 2 and 3"
+        ],
+        "correct": 3,
+        "explanation": "Statement 1 is correct: Article 129 of the Constitution grants the Supreme Court the power to punish for contempt of itself. Statement 2 is correct: The Contempt of Courts Act, 1971 defines contempt as any act that interferes with the administration of justice. Statement 3 is correct: The Supreme Court Rules, 2013 outline the procedure for contempt proceedings.",
+        "trap": "Wrong Article"
+      },
+      {
+        "q": "Consider the following statements:\n1. The Supreme Court can initiate contempt proceedings suo motu.\n2. The Contempt of Courts Act, 1971 applies to all courts in India.\n3. The Supreme Court has the power to punish for contempt of lower courts.\nWhich of the above is/are correct?",
+        "options": [
+          "1 only",
+          "2 only",
+          "1 and 2 only",
+          "1, 2 and 3"
+        ],
+        "correct": 1,
+        "explanation": "Statement 1 is correct: The Supreme Court can initiate contempt proceedings suo motu, as held in the case of Vineet Narain vs. Union of India (1998). Statement 2 is incorrect: The Contempt of Courts Act, 1971 applies to the Supreme Court and High Courts, but not to lower courts. Statement 3 is incorrect: The Supreme Court does not have the power to punish for contempt of lower courts.",
+        "trap": "Scope Confusion"
+      }
+    ]
+  },
+  {
+    "id": 2247,
+    "title": "The uncertain flight of Parandur airport",
+    "cat": "tech",
+    "upsc": false,
+    "time": "2026-07-10T22:13:20.648964+00:00",
+    "summary": "The proposed Parandur airport project in Tamil Nadu has been put on hold, though there is no official announcement yet. While the protesting residents",
+    "story_fact": "",
+    "background": "",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "The Hindu",
+    "link": "https://www.thehindu.com/news/national/tamil-nadu/the-uncertain-flight-of-parandur-airport/article71206301.ece",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "59ef92563775",
+    "_fetched": "2026-07-10T22:13:20.648964+00:00",
+    "_relevance": 41,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 2248,
+    "title": "AAP to launch signature campaign for action in Ram Temple do",
+    "cat": "india",
+    "upsc": false,
+    "time": "2026-07-10T22:15:33.542052+00:00",
+    "summary": "As part of the campaign, a letter addressed to Prime Minister Narendra Modi will be signed by people across India.",
+    "story_fact": "",
+    "background": "",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "The Hindu",
+    "link": "https://www.thehindu.com/news/cities/Delhi/aap-to-launch-signature-campaign-for-action-in-ram-temple-donation-row/article71207257.ece",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "b2574d7597c7",
+    "_fetched": "2026-07-10T22:15:33.542052+00:00",
+    "_relevance": 36,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 2249,
+    "title": "US stocks today: US stocks end higher as investors turn to e",
+    "cat": "economy",
+    "upsc": false,
+    "time": "2026-07-10T22:17:46.163030+00:00",
+    "summary": "US markets ended higher with the S&P 500 near record levels, driven by SK Hynix’s strong Nasdaq debut and renewed momentum in AI-linked chip stocks. I",
+    "story_fact": "",
+    "background": "",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "Economic Times",
+    "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-today-us-stocks-end-higher-as-investors-turn-to-earnings-season/articleshow/132320373.cms",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "13dc7e83da6e",
+    "_fetched": "2026-07-10T22:17:46.163030+00:00",
+    "_relevance": 36,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 2250,
+    "title": "Phone calls from 1600 number series cannot be blocked, DND a",
+    "cat": "tech",
+    "upsc": false,
+    "time": "2026-07-10T22:19:58.794978+00:00",
+    "summary": "The key objective of assigning designated series for these important communications is to make such calls trustworthy for the citizens, the regulator ",
+    "story_fact": "",
+    "background": "",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "The Hindu",
+    "link": "https://www.thehindu.com/news/national/phone-calls-from-1600-number-series-cannot-be-blocked-dnd-app-can-block-calls-from-140-series-trai/article71208007.ece",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "80725d8f7b8c",
+    "_fetched": "2026-07-10T22:19:58.794978+00:00",
+    "_relevance": 31,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
   }
 ]
