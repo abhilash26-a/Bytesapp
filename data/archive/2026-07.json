@@ -31847,5 +31847,100 @@
     "_difficulty": 2,
     "_directive": "discuss",
     "_mcqs": []
+  },
+  {
+    "id": 2294,
+    "title": "NaBFID CEO: Private Capital Must Play Larger Role in India's Infrastructure",
+    "cat": "economy",
+    "upsc": true,
+    "time": "2026-07-12T21:57:18.102656+00:00",
+    "summary": "Rajkiran Rai, MD & CEO of NaBFID, says India requires Rs 770 lakh crore in infrastructure investments over 20 years, which cannot be met through budgetary resources alone.",
+    "story_fact": "India needs Rs 770 lakh crore in infrastructure investments over 20 years.",
+    "background": "The National Bank for Financing Infrastructure and Development (NaBFID) aims to support infrastructure development in India. Infrastructure investments are crucial for economic growth.",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "ET Economy",
+    "link": "https://economictimes.indiatimes.com/news/economy/infrastructure/private-capital-should-play-a-much-larger-role-in-indias-infrastructure-development-rajkiran-rai-md-ceo-nabfid/articleshow/132351620.cms",
+    "prelims": [
+      "The <strong>National Bank for Financing Infrastructure and Development (NaBFID)</strong> was established to support infrastructure development in India, with a focus on financing.",
+      "The <strong>Infrastructure Investment requirement</strong> of Rs 770 lakh crore over 20 years necessitates a significant role for private capital, as budgetary resources are insufficient.",
+      "The <strong>NaBFID CEO</strong> emphasized the need for private capital to play a larger role in India's infrastructure development, citing the massive investment requirement.",
+      "The <strong>Infrastructure sector</strong> is critical for India's economic growth, and the government has launched various initiatives to boost investment in this sector.",
+      "The <strong>Private sector</strong> is expected to play a key role in financing infrastructure projects, with the government providing support through policies and incentives."
+    ],
+    "mains": {
+      "q": "How does the role of private capital in infrastructure development impact India's economic growth? Examine.",
+      "marks": "15 marks · GS3",
+      "directive": "examine",
+      "hints": [
+        "Frame the central trade-off: private capital boosts infrastructure development but may lead to debt servicing burdens.",
+        "Cite the example of the Delhi-Mumbai Industrial Corridor, where private investment has driven infrastructure growth.",
+        "Distinguish between greenfield and brownfield infrastructure projects, and how private capital can be leveraged for each.",
+        "Apply the concept of public-private partnerships (PPPs) in infrastructure development, highlighting their benefits and limitations.",
+        "Conclude by proposing policy measures to attract private capital into infrastructure development, such as tax incentives and streamlined regulatory frameworks."
+      ]
+    },
+    "connect": [
+      {
+        "topic": "Public-Private Partnerships (PPPs)",
+        "context": "PPPs can be used to leverage private capital for infrastructure development, as seen in the Delhi-Mumbai Industrial Corridor project."
+      },
+      {
+        "topic": "Infrastructure Investment Trusts (InvITs)",
+        "context": "InvITs provide a platform for private investors to invest in infrastructure projects, helping to bridge the funding gap."
+      },
+      {
+        "topic": "National Infrastructure Pipeline (NIP)",
+        "context": "The NIP outlines the government's infrastructure development plans, with a focus on leveraging private capital to achieve the investment targets."
+      },
+      {
+        "topic": "Viability Gap Funding (VGF)",
+        "context": "VGF is a government scheme that provides financial support to infrastructure projects, making them more attractive to private investors."
+      },
+      {
+        "topic": "Credit Enhancement Funds",
+        "context": "Credit Enhancement Funds can be used to enhance the credit rating of infrastructure projects, making them more attractive to private investors and helping to leverage private capital."
+      }
+    ],
+    "_hash": "bfecf5a84edc",
+    "_fetched": "2026-07-12T21:57:18.102656+00:00",
+    "_relevance": 45,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "examine",
+    "_mcqs": [
+      {
+        "q": "Consider the following statements:\n1. NaBFID is a public sector bank.\n2. Private capital is necessary for India's infrastructure development.\n3. The government can fully finance infrastructure investments through budgetary resources.\nWhich of the above is/are correct?",
+        "options": [
+          "1 only",
+          "2 only",
+          "1 and 2 only",
+          "1, 2 and 3"
+        ],
+        "correct": 1,
+        "explanation": "Statement 1 is incorrect: NaBFID is a development finance institution, not a public sector bank. Statement 2 is correct: Private capital is necessary to bridge the infrastructure investment gap. Statement 3 is incorrect: The government cannot fully finance infrastructure investments through budgetary resources alone.",
+        "trap": "Wrong Body"
+      },
+      {
+        "q": "Consider the following statements:\n1. India's infrastructure investment requirement is Rs 500 lakh crore over 10 years.\n2. NaBFID aims to support infrastructure development in India.\n3. Private capital plays a minor role in India's infrastructure development.\nWhich of the above is/are correct?",
+        "options": [
+          "1 only",
+          "2 only",
+          "1 and 2 only",
+          "1, 2 and 3"
+        ],
+        "correct": 1,
+        "explanation": "Statement 1 is incorrect: India's infrastructure investment requirement is Rs 770 lakh crore over 20 years, not Rs 500 lakh crore over 10 years. Statement 2 is correct: NaBFID aims to support infrastructure development in India. Statement 3 is incorrect: Private capital is expected to play a significant role in India's infrastructure development.",
+        "trap": "Quantitative Trap"
+      }
+    ]
   }
 ]
