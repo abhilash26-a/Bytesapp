@@ -29798,5 +29798,160 @@
     "_difficulty": 2,
     "_directive": "discuss",
     "_mcqs": []
+  },
+  {
+    "id": 2263,
+    "title": "India, New Zealand Elevate Ties to Strategic Partnership",
+    "cat": "world",
+    "upsc": true,
+    "time": "2026-07-11T21:56:08.996477+00:00",
+    "summary": "India and New Zealand have elevated their bilateral ties to a strategic partnership, setting a target to double annual trade to ₹35,000 crore. Defense agreements include mutual logistics support and maritime cooperation.",
+    "story_fact": "India and New Zealand have set a target to double annual trade to ₹35,000 crore.",
+    "background": "The strategic partnership between India and New Zealand is guided by a shared commitment to democracy, human rights, and the rule of law. The partnership aims to enhance cooperation in areas such as defense, trade, and counter-terrorism.",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "ET Economy",
+    "link": "https://economictimes.indiatimes.com/news/economy/foreign-trade/india-new-zealand-elevate-ties-to-strategic-partnership-launch-2030-roadmap/articleshow/132337221.cms",
+    "prelims": [
+      "India and <strong>New Zealand</strong> have elevated their bilateral ties to a strategic partnership, with a focus on defense and trade cooperation.",
+      "The <strong>strategic partnership</strong> between India and New Zealand is guided by a shared commitment to democracy, human rights, and the rule of law.",
+      "The <strong>target</strong> is to double annual trade to ₹35,000 crore, with a focus on mutual logistics support and maritime cooperation.",
+      "The <strong>joint working group</strong> on counter-terrorism will enhance cooperation between India and New Zealand in combating terrorism.",
+      "The <strong>2030 roadmap</strong> will guide the structured implementation of the strategic partnership between India and New Zealand."
+    ],
+    "mains": {
+      "q": "The elevation of India-New Zealand ties to a strategic partnership marks a significant shift in their bilateral relations. Examine the implications of this development for India's foreign policy.",
+      "marks": "15 marks · GS2",
+      "directive": "examine",
+      "hints": [
+        "Frame the central trade-off: enhanced cooperation in defense and trade versus potential risks of over-reliance on a single partner.",
+        "Cite the example of the India-Australia strategic partnership and compare the similarities and differences with the India-New Zealand partnership.",
+        "Distinguish between the roles of the joint working group on counter-terrorism and the 2030 roadmap in enhancing cooperation between India and New Zealand.",
+        "Apply the concept of strategic partnerships in international relations and argue how the India-New Zealand partnership fits into this framework.",
+        "Conclude by suggesting ways in which India can leverage the strategic partnership with New Zealand to enhance its global influence and promote its national interests."
+      ]
+    },
+    "connect": [
+      {
+        "topic": "Quad Initiative",
+        "context": "The India-New Zealand strategic partnership can be seen as part of a broader effort by India to enhance its cooperation with like-minded countries, such as the Quad Initiative."
+      },
+      {
+        "topic": "Shanghai Cooperation Organization (SCO)",
+        "context": "The India-New Zealand strategic partnership can be contrasted with the Shanghai Cooperation Organization (SCO), which is a regional security organization that includes India and other countries."
+      },
+      {
+        "topic": "India's Act East Policy",
+        "context": "The India-New Zealand strategic partnership can be seen as part of India's Act East Policy, which aims to enhance cooperation with countries in the Asia-Pacific region."
+      },
+      {
+        "topic": "WTO Trade Facilitation Agreement",
+        "context": "The India-New Zealand strategic partnership can be linked to the WTO Trade Facilitation Agreement, which aims to simplify and harmonize trade procedures between countries."
+      }
+    ],
+    "_hash": "9267cee72db0",
+    "_fetched": "2026-07-11T21:56:08.996477+00:00",
+    "_relevance": 43,
+    "_gs": [
+      "GS2"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "examine",
+    "_mcqs": [
+      {
+        "q": "Consider the following statements:\n1. The India-New Zealand strategic partnership is focused on defense and trade cooperation.\n2. The joint working group on counter-terrorism is a key component of the partnership.\n3. The 2030 roadmap is a comprehensive plan for implementing the partnership.\nWhich of the above is/are correct?",
+        "options": [
+          "1 only",
+          "2 only",
+          "1 and 2 only",
+          "1, 2 and 3"
+        ],
+        "correct": 3,
+        "explanation": "Statement 1 is correct: the partnership is focused on defense and trade cooperation. Statement 2 is correct: the joint working group on counter-terrorism is a key component. Statement 3 is correct: the 2030 roadmap is a comprehensive plan.",
+        "trap": "Scope Confusion"
+      },
+      {
+        "q": "Consider the following statements:\n1. The India-New Zealand strategic partnership is a bilateral agreement.\n2. The partnership is focused on enhancing cooperation in areas such as defense, trade, and counter-terrorism.\n3. The partnership is a comprehensive plan for implementing a free trade agreement.\nWhich of the above is/are correct?",
+        "options": [
+          "1 only",
+          "2 only",
+          "1 and 2 only",
+          "1, 2 and 3"
+        ],
+        "correct": 2,
+        "explanation": "Statement 1 is correct: the partnership is a bilateral agreement. Statement 2 is correct: the partnership is focused on enhancing cooperation. Statement 3 is incorrect: the partnership is not a comprehensive plan for a free trade agreement.",
+        "trap": "Definitional Trap"
+      }
+    ]
+  },
+  {
+    "id": 2264,
+    "title": "PM Modi in New Zealand updates: India, New Zealand elevate t",
+    "cat": "india",
+    "upsc": false,
+    "time": "2026-07-11T21:58:21.364861+00:00",
+    "summary": "An India-New Zealand joint action plan on sport was also firmed up; it provides for collaboration in high-performance sports, sports science, sports m",
+    "story_fact": "",
+    "background": "",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "The Hindu",
+    "link": "https://www.thehindu.com/news/national/prime-minister-narendra-modi-new-zealand-visit-live-updates-on-july-11-2026/article71209319.ece",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "3906296efb0e",
+    "_fetched": "2026-07-11T21:58:21.364861+00:00",
+    "_relevance": 36,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 2265,
+    "title": "AI to help check genuineness of farm data in A.P.",
+    "cat": "tech",
+    "upsc": false,
+    "time": "2026-07-11T22:00:33.666815+00:00",
+    "summary": "The technology set for rollout across the State soon will automatically verify and authenticate images, locations and timelines so as to ensure that f",
+    "story_fact": "",
+    "background": "",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "The Hindu",
+    "link": "https://www.thehindu.com/news/national/andhra-pradesh/ai-to-help-check-genuineness-of-farm-data-in-ap/article70537858.ece",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "f2cbbb9a866a",
+    "_fetched": "2026-07-11T22:00:33.666815+00:00",
+    "_relevance": 33,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
   }
 ]
