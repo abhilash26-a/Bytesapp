@@ -32340,5 +32340,869 @@
     "_difficulty": 2,
     "_directive": "discuss",
     "_mcqs": []
+  },
+  {
+    "id": 2300,
+    "title": "India Mulls Security Certification for IoT Devices",
+    "cat": "tech",
+    "upsc": true,
+    "time": "2026-07-13T09:40:11.989382+00:00",
+    "summary": "The government is considering extending cybersecurity rules to IoT devices, including smart meters, amid concerns over vulnerabilities in imported products, particularly from China.",
+    "story_fact": "India considers security certification for IoT devices, including smart meters.",
+    "background": "The government has existing cybersecurity rules for internet-enabled devices. IoT devices are increasingly used in various sectors.",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "ET Economy",
+    "link": "https://economictimes.indiatimes.com/news/economy/policy/india-mulls-security-certification-for-iot-devices/articleshow/132360328.cms",
+    "prelims": [
+      "The <strong>Ministry of Electronics and Information Technology</strong> is responsible for implementing cybersecurity measures in India, including for IoT devices.",
+      "The <strong>Information Technology Act, 2000</strong> provides the legal framework for cybersecurity in India, including provisions for data protection and privacy.",
+      "The government has identified <strong>1,400</strong> cyber-attacks on Indian entities in the past year, highlighting the need for enhanced cybersecurity measures.",
+      "The <strong>National Cyber Security Policy, 2013</strong> aims to create a secure cyber ecosystem in India, including through the implementation of security certifications for IoT devices.",
+      "The use of <strong>IoT devices</strong> in critical infrastructure, such as smart grids and transportation systems, increases the risk of cyber-attacks and highlights the need for robust security measures."
+    ],
+    "mains": {
+      "q": "The increasing use of IoT devices in critical infrastructure raises concerns about cybersecurity. Examine the measures that can be taken to enhance the security of these devices.",
+      "marks": "15 marks · GS3",
+      "directive": "examine",
+      "hints": [
+        "Frame the central issue: the trade-off between convenience and security in the use of IoT devices in critical infrastructure.",
+        "Cite the example of the <strong>Stuxnet worm</strong>, which highlighted the vulnerability of industrial control systems to cyber-attacks.",
+        "Distinguish between <strong>security certifications</strong> and <strong>compliance standards</strong> for IoT devices, and argue for the need for both.",
+        "Apply the principles of <strong>defense in depth</strong> to the security of IoT devices, including the use of firewalls, intrusion detection systems, and encryption.",
+        "Conclude by proposing a <strong>national IoT security framework</strong> that includes standards for device security, incident response, and information sharing."
+      ]
+    },
+    "connect": [
+      {
+        "topic": "Critical Information Infrastructure Protection",
+        "context": "The use of IoT devices in critical infrastructure, such as smart grids and transportation systems, increases the risk of cyber-attacks and highlights the need for robust security measures."
+      },
+      {
+        "topic": "Cybersecurity and Data Protection",
+        "context": "The increasing use of IoT devices raises concerns about data protection and privacy, and the need for robust cybersecurity measures to protect against cyber-attacks."
+      },
+      {
+        "topic": "Internet of Things (IoT) Security",
+        "context": "The security of IoT devices is a critical issue, as these devices are increasingly used in various sectors, including critical infrastructure, and are vulnerable to cyber-attacks."
+      }
+    ],
+    "_hash": "9c078d16089f",
+    "_fetched": "2026-07-13T09:40:11.989382+00:00",
+    "_relevance": 50,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "examine",
+    "_mcqs": [
+      {
+        "q": "Consider the following statements:\n1. The Information Technology Act, 2000 provides for the establishment of a national cyber security agency.\n2. The National Cyber Security Policy, 2013 aims to create a secure cyber ecosystem in India.\n3. The use of IoT devices in critical infrastructure is prohibited in India.\nWhich of the above is/are correct?",
+        "options": [
+          "1 only",
+          "2 only",
+          "1 and 2 only",
+          "1, 2 and 3"
+        ],
+        "correct": 2,
+        "explanation": "Statement 1 is incorrect: the Information Technology Act, 2000 does not provide for the establishment of a national cyber security agency. Statement 2 is correct: the National Cyber Security Policy, 2013 aims to create a secure cyber ecosystem in India. Statement 3 is incorrect: the use of IoT devices in critical infrastructure is not prohibited in India.",
+        "trap": "Wrong Article"
+      },
+      {
+        "q": "Consider the following statements:\n1. The Ministry of Electronics and Information Technology is responsible for implementing cybersecurity measures in India.\n2. The National Cyber Security Policy, 2013 provides for the establishment of a national cyber security agency.\nWhich of the above is/are correct?",
+        "options": [
+          "Only 1",
+          "Only 2",
+          "Both 1 and 2",
+          "Neither 1 nor 2"
+        ],
+        "correct": 0,
+        "explanation": "Statement 1 is correct: the Ministry of Electronics and Information Technology is responsible for implementing cybersecurity measures in India. Statement 2 is incorrect: the National Cyber Security Policy, 2013 does not provide for the establishment of a national cyber security agency.",
+        "trap": "Compositional Error"
+      }
+    ]
+  },
+  {
+    "id": 2301,
+    "title": "India-Australia Uranium Supply Deal Finalized",
+    "cat": "policy",
+    "upsc": true,
+    "time": "2026-07-13T09:40:48.256796+00:00",
+    "summary": "India and Australia have finalized administrative arrangements for uranium supplies, enabling private sector collaboration under IAEA oversight.",
+    "story_fact": "India and Australia finalized administrative arrangements for uranium supplies.",
+    "background": "The agreement enables Australian uranium exports to India. IAEA oversight will be applied to ensure safety and security.",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "The Hindu",
+    "link": "https://www.thehindu.com/news/national/india-australia-administrative-arrangements-for-uranium-supplies-explained/article71216378.ece",
+    "prelims": [
+      "The <strong>India-Australia</strong> administrative arrangement enables uranium exports under IAEA oversight.",
+      "The agreement is based on <strong>IAEA</strong> safeguards to ensure nuclear safety and security.",
+      "The deal allows for <strong>private sector</strong> collaboration in uranium mining and export.",
+      "The <strong>Atomic Energy Act, 1962</strong>, regulates nuclear activities in India, including uranium imports.",
+      "The <strong>Nuclear Security Action Plan</strong> aims to prevent nuclear terrorism and ensure security."
+    ],
+    "mains": {
+      "q": "The recent India-Australia uranium supply deal raises questions about the role of private sector collaboration in nuclear energy. Examine.",
+      "marks": "15 marks · GS2",
+      "directive": "examine",
+      "hints": [
+        "Frame the central issue: balancing private sector involvement with nuclear safety and security.",
+        "Cite the IAEA's guidelines on nuclear safety and security as a framework for evaluating the deal.",
+        "Distinguish between the roles of public and private sectors in nuclear energy production and export.",
+        "Apply the principles of the Nuclear Security Action Plan to assess the deal's implications.",
+        "Conclude by proposing measures to ensure that private sector collaboration enhances nuclear safety and security."
+      ]
+    },
+    "connect": [
+      {
+        "topic": "Nuclear Cooperation Agreement",
+        "context": "The India-Australia uranium supply deal is a type of nuclear cooperation agreement, which aims to promote peaceful use of nuclear energy."
+      },
+      {
+        "topic": "IAEA Safeguards",
+        "context": "The IAEA safeguards are applied to ensure that nuclear materials are used for peaceful purposes only."
+      }
+    ],
+    "_hash": "5accc4f74c60",
+    "_fetched": "2026-07-13T09:40:48.256796+00:00",
+    "_relevance": 49,
+    "_gs": [
+      "GS2"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "examine",
+    "_mcqs": [
+      {
+        "q": "Consider the following statements:\n1. The India-Australia uranium supply deal is based on IAEA safeguards.\n2. The deal allows for private sector collaboration in uranium mining and export.\n3. The Atomic Energy Act, 1962, regulates nuclear activities in India, including uranium imports.\nWhich of the above is/are correct?",
+        "options": [
+          "1 only",
+          "2 only",
+          "1 and 2 only",
+          "1, 2 and 3"
+        ],
+        "correct": 3,
+        "explanation": "Statement 1 is correct: the deal is based on IAEA safeguards. Statement 2 is correct: the deal allows for private sector collaboration. Statement 3 is correct: the Atomic Energy Act, 1962, regulates nuclear activities in India.",
+        "trap": "Wrong Article"
+      },
+      {
+        "q": "Consider the following statements:\n1. The Nuclear Security Action Plan aims to prevent nuclear terrorism.\n2. The India-Australia uranium supply deal is subject to parliamentary approval.\nWhich of the above is/are correct?",
+        "options": [
+          "1 only",
+          "2 only",
+          "1 and 2 only",
+          "1, 2 and 3"
+        ],
+        "correct": 0,
+        "explanation": "Statement 1 is correct: the Nuclear Security Action Plan aims to prevent nuclear terrorism. Statement 2 is incorrect: the deal is not subject to parliamentary approval.",
+        "trap": "Absolute Language"
+      }
+    ]
+  },
+  {
+    "id": 2302,
+    "title": "India's June Trade Deficit Jumps 59% YoY to $30.43 Billion",
+    "cat": "economy",
+    "upsc": true,
+    "time": "2026-07-13T09:41:25.303976+00:00",
+    "summary": "India's merchandise trade deficit widened to $30.43 billion in June, with goods exports rising 15.5% year-on-year to $40.41 billion, supported by higher petroleum shipments and a recovery in exports to Gulf countries.",
+    "story_fact": "India's June trade deficit jumps 59% YoY to $30.43 billion",
+    "background": "The trade deficit is the difference between the value of a country's exports and imports. India's trade deficit has been widening due to rising imports and a slower growth in exports.",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "ET Economy",
+    "link": "https://economictimes.indiatimes.com/news/economy/foreign-trade/indias-trade-deficit-widens-to-30-43-bn-in-june-as-against-28-21-bn-in-may/articleshow/132358512.cms",
+    "prelims": [
+      "The <strong>trade deficit</strong> is the difference between the value of a country's exports and imports, with India's June deficit at $30.43 billion.",
+      "The <strong>Foreign Trade Policy</strong> aims to increase India's exports and reduce its trade deficit, with a focus on boosting shipments to countries like those in the Gulf.",
+      "India's <strong>petroleum exports</strong> have increased, contributing to the rise in overall exports, which grew 15.5% year-on-year to $40.41 billion.",
+      "The <strong>World Trade Organization (WTO)</strong> has noted that global trade has been impacted by protectionism and trade tensions, affecting countries like India.",
+      "The <strong>Exchange Rate Management</strong> by the RBI can influence India's trade balance by affecting the competitiveness of its exports."
+    ],
+    "mains": {
+      "q": "The widening trade deficit raises questions about the effectiveness of India's export promotion strategies. Examine the role of the Foreign Trade Policy in addressing this issue.",
+      "marks": "15 marks · GS3",
+      "directive": "examine",
+      "hints": [
+        "Frame the central challenge: India's trade deficit has been widening despite efforts to boost exports, with the June deficit at $30.43 billion.",
+        "Cite the example of the <strong>Agricultural Export Policy</strong>, which aims to increase agricultural exports, and discuss its potential impact on the trade balance.",
+        "Distinguish between the effects of <strong>tariff</strong> and <strong>non-tariff barriers</strong> on India's trade, and argue which is more significant.",
+        "Apply the concept of <strong>comparative advantage</strong> to explain why India's exports have not grown as expected, despite having a large workforce and resources.",
+        "Conclude by suggesting reforms to the Foreign Trade Policy, including measures to increase competitiveness and reduce regulatory barriers."
+      ]
+    },
+    "connect": [
+      {
+        "topic": "Foreign Exchange Management Act (FEMA)",
+        "context": "The FEMA regulates foreign exchange transactions in India, which can impact the country's trade balance and exchange rates."
+      },
+      {
+        "topic": "Special Economic Zones (SEZs)",
+        "context": "SEZs are designed to promote exports by providing tax and regulatory incentives, which can help reduce India's trade deficit."
+      },
+      {
+        "topic": "Make in India Initiative",
+        "context": "The Make in India initiative aims to promote manufacturing in India, which can increase exports and reduce the trade deficit."
+      },
+      {
+        "topic": "Exchange Rate Pass-Through",
+        "context": "The exchange rate pass-through refers to the impact of exchange rate changes on import and export prices, which can affect India's trade balance and competitiveness."
+      }
+    ],
+    "_hash": "e1209356d487",
+    "_fetched": "2026-07-13T09:41:25.303976+00:00",
+    "_relevance": 43,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "examine",
+    "_mcqs": [
+      {
+        "q": "Consider the following statements:\n1. India's trade deficit is primarily due to a surge in oil imports.\n2. The Foreign Trade Policy aims to increase India's exports and reduce its trade deficit.\n3. The WTO has imposed trade sanctions on India due to its trade deficit.\nWhich of the above is/are correct?",
+        "options": [
+          "1 only",
+          "2 only",
+          "1 and 2 only",
+          "1, 2 and 3"
+        ],
+        "correct": 2,
+        "explanation": "Statement 1 is incorrect: while oil imports contribute to the trade deficit, they are not the primary cause. Statement 2 is correct: the Foreign Trade Policy does aim to increase exports and reduce the trade deficit. Statement 3 is incorrect: the WTO has not imposed trade sanctions on India due to its trade deficit.",
+        "trap": "Quantitative Trap"
+      },
+      {
+        "q": "Consider the following statements:\n1. The RBI's exchange rate management can influence India's trade balance.\n2. The Foreign Trade Policy is formulated by the Ministry of Commerce and Industry.\n3. India's trade deficit is a result of its high savings rate.\nWhich of the above is/are correct?",
+        "options": [
+          "1 and 2 only",
+          "1 and 3 only",
+          "2 and 3 only",
+          "1, 2 and 3"
+        ],
+        "correct": 0,
+        "explanation": "Statement 1 is correct: the RBI's exchange rate management can influence India's trade balance. Statement 2 is correct: the Foreign Trade Policy is indeed formulated by the Ministry of Commerce and Industry. Statement 3 is incorrect: India's trade deficit is not a result of its high savings rate.",
+        "trap": "Definitional Trap"
+      }
+    ]
+  },
+  {
+    "id": 2303,
+    "title": "Three BJP candidates file nomination papers for Rajya Sabha ",
+    "cat": "india",
+    "upsc": false,
+    "time": "2026-07-13T09:43:37.862803+00:00",
+    "summary": "Three Rajya Sabha seats fell vacant after Sukhendu Sekhar Ray, Sushmita Dev and Prakash Chik Baraik resigned from the Upper House of Parliament and qu",
+    "story_fact": "",
+    "background": "",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "The Hindu",
+    "link": "https://www.thehindu.com/news/national/west-bengal/three-bjp-candidates-file-nomination-papers-for-rajya-sabha-byelections-in-bengal/article71216385.ece",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "566ba387a14a",
+    "_fetched": "2026-07-13T09:43:37.862803+00:00",
+    "_relevance": 41,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 2304,
+    "title": "India refuses to fast-track US trade deal, rejects rushing i",
+    "cat": "economy",
+    "upsc": false,
+    "time": "2026-07-13T09:45:50.266263+00:00",
+    "summary": "India has decided against rushing into an interim trade agreement with the United States, choosing instead to push for more favourable terms as strong",
+    "story_fact": "",
+    "background": "",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "LiveMint",
+    "link": "https://www.livemint.com/news/india/india-refuses-to-fast-track-us-trade-deal-rejects-rushing-into-agreement-11783920445936.html",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "1bf7b8df8112",
+    "_fetched": "2026-07-13T09:45:50.266263+00:00",
+    "_relevance": 41,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 2305,
+    "title": "Interview | Shubhanshu Shukla on his new book, ‘The Second O",
+    "cat": "economy",
+    "upsc": false,
+    "time": "2026-07-13T09:48:02.839897+00:00",
+    "summary": "The astronaut speaks about his learnings in space, the importance of science communication, and the space habits he holds onto",
+    "story_fact": "",
+    "background": "",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "The Hindu Science",
+    "link": "https://www.thehindu.com/books/books-authors/interview-shubhanshu-shukla-on-his-new-book-the-second-orbit/article71216159.ece",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "c782a2c5027e",
+    "_fetched": "2026-07-13T09:48:02.839897+00:00",
+    "_relevance": 39,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 2306,
+    "title": "Swiggy shares slide over 2% after FSSAI issues 9 notices ove",
+    "cat": "india",
+    "upsc": false,
+    "time": "2026-07-13T09:50:15.309613+00:00",
+    "summary": "Swiggy shares fell over 2% on Monday, extending losses for a second session after the Food Safety and Standards Authority of India (FSSAI) issued nine",
+    "story_fact": "",
+    "background": "",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "Economic Times",
+    "link": "https://economictimes.indiatimes.com/markets/stocks/news/swiggy-shares-slide-over-2-after-fssai-issues-9-notices-over-consumer-complaints/articleshow/132360998.cms",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "3d9bf1170f48",
+    "_fetched": "2026-07-13T09:50:15.309613+00:00",
+    "_relevance": 38,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 2307,
+    "title": "Q1 surprise sends jewellery stocks shining 40% in a month. W",
+    "cat": "economy",
+    "upsc": false,
+    "time": "2026-07-13T09:52:27.902893+00:00",
+    "summary": "Indian jewellery stocks saw a 40% surge after strong June quarter business updates. Resilient demand and a shift to organized players supported this s",
+    "story_fact": "",
+    "background": "",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "Economic Times",
+    "link": "https://economictimes.indiatimes.com/markets/stocks/news/q1-surprise-sends-jewellery-stocks-shining-40-in-a-month-will-the-surge-last-in-next-quarters/articleshow/132356680.cms",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "93686464c7a0",
+    "_fetched": "2026-07-13T09:52:27.902893+00:00",
+    "_relevance": 38,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 2308,
+    "title": "Karnataka Governor suspends KPSC chairperson Shivashankarapp",
+    "cat": "india",
+    "upsc": false,
+    "time": "2026-07-13T09:54:40.531326+00:00",
+    "summary": "The Governor recommended to the President that the matter be referred to the Supreme Court under Article 317(1) of the Constitution for an inquiry int",
+    "story_fact": "",
+    "background": "",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "The Hindu",
+    "link": "https://www.thehindu.com/news/national/karnataka/karnataka-governor-suspends-kpsc-chairman-shivashankarappa-s-sahukar-over-illegal-selection-of-daughters-in-government-service/article71216107.ece",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "e99ff1e2a332",
+    "_fetched": "2026-07-13T09:54:40.531326+00:00",
+    "_relevance": 36,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 2309,
+    "title": "Kaleshwaram row intensifies as Congress, BRS trade charges o",
+    "cat": "economy",
+    "upsc": false,
+    "time": "2026-07-13T09:56:53.812590+00:00",
+    "summary": "Even as the political exchanges intensified, the central technical disagreement remained unresolved",
+    "story_fact": "",
+    "background": "",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "The Hindu",
+    "link": "https://www.thehindu.com/news/national/telangana/kaleshwaram-row-intensifies-as-congress-brs-trade-charges-over-lifting-floodwaters-amid-dry-spell/article71216535.ece",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "ccc432223b08",
+    "_fetched": "2026-07-13T09:56:53.812590+00:00",
+    "_relevance": 33,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 2310,
+    "title": "Bengal to observe 'Ayushman Divas' on Aug 16, replacing TMC'",
+    "cat": "world",
+    "upsc": false,
+    "time": "2026-07-13T09:59:06.598419+00:00",
+    "summary": "\"The previous TMC government observed it as 'Khela Hobey Divas'. Our government has decided that the day will be observed as Ayushman Divas. The detai",
+    "story_fact": "",
+    "background": "",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "The Hindu",
+    "link": "https://www.thehindu.com/news/national/west-bengal/bengal-to-observe-ayushman-divas-on-aug-16-replacing-tmcs-khela-hobey-divas-cm/article71215986.ece",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "e49605db9a34",
+    "_fetched": "2026-07-13T09:59:06.598419+00:00",
+    "_relevance": 33,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 2311,
+    "title": "CAG flags  ₹3,541 crore excess spend,  ₹15,586 crore fund pa",
+    "cat": "economy",
+    "upsc": false,
+    "time": "2026-07-13T10:01:19.280043+00:00",
+    "summary": "CAG audit flags  ₹3,541 crore excess spending, fund parking and budgetary lapses in Maharashtra’s Ladki Bahin scheme. The report highlights financial ",
+    "story_fact": "",
+    "background": "",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "LiveMint",
+    "link": "https://www.livemint.com/news/india/cag-flags-3-541-crore-excess-spend-15-586-crore-fund-parking-in-maharashtra-s-ladki-bahin-yojana-11783918637748.html",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "e43d06888a4c",
+    "_fetched": "2026-07-13T10:01:19.280043+00:00",
+    "_relevance": 33,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 2312,
+    "title": "Explained: EC adds parents' SIR details to new voter registr",
+    "cat": "tech",
+    "upsc": false,
+    "time": "2026-07-13T10:03:31.940532+00:00",
+    "summary": "The addition has been introduced without any corresponding amendment to the statutory Form 6. Although the field is not marked as compulsory, users ca",
+    "story_fact": "",
+    "background": "",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "LiveMint Politics",
+    "link": "https://www.livemint.com/politics/news/explained-ec-adds-parents-sir-details-to-new-voter-registration-form-6-what-changes-and-why-it-matters-11783923595101.html",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "a03d1c26dcf9",
+    "_fetched": "2026-07-13T10:03:31.940532+00:00",
+    "_relevance": 33,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 2313,
+    "title": "No caste, communal or political activities will be allowed i",
+    "cat": "india",
+    "upsc": false,
+    "time": "2026-07-13T10:05:44.731533+00:00",
+    "summary": "Advocate General Vijay Narayan says, the aim of the School Education Department is to foster unity and togetherness among 1,03,98,748 students pursuin",
+    "story_fact": "",
+    "background": "",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "The Hindu",
+    "link": "https://www.thehindu.com/news/national/tamil-nadu/no-caste-communal-or-political-activities-will-be-allowed-in-tamil-nadu-schools-madras-high-court-told/article71216355.ece",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "3116f02d694b",
+    "_fetched": "2026-07-13T10:05:44.731533+00:00",
+    "_relevance": 31,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 2314,
+    "title": "Central Information Commission directs IIT-M to disclose uti",
+    "cat": "world",
+    "upsc": false,
+    "time": "2026-07-13T10:07:57.592796+00:00",
+    "summary": "It gave the direction on a petition filed by Ananya Dubey, who sought details of the grant-in-aid received by the institute in the previous three fina",
+    "story_fact": "",
+    "background": "",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "The Hindu",
+    "link": "https://www.thehindu.com/news/national/tamil-nadu/central-information-commissiondirects-iit-m-to-disclose-utilisation-of-grant-in-aid-funds/article71213866.ece",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "fd0e1c4002bf",
+    "_fetched": "2026-07-13T10:07:57.592796+00:00",
+    "_relevance": 31,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 2315,
+    "title": "EPFO Amnesty Scheme 2026: What is it and who is eligible?",
+    "cat": "economy",
+    "upsc": false,
+    "time": "2026-07-13T10:10:10.187602+00:00",
+    "summary": "The EPFO has launched the Amnesty Scheme 2026, aimed at providing a six-month window for establishments managing Provident Fund (PF) Trusts under the ",
+    "story_fact": "",
+    "background": "",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "The Hindu",
+    "link": "https://www.thehindu.com/news/national/what-is-epfo-amnesty-scheme-2026-eligibility-guidelines-regularise-exempted-provident-fund-status/article71216201.ece",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "c94b845188b3",
+    "_fetched": "2026-07-13T10:10:10.187602+00:00",
+    "_relevance": 31,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 2316,
+    "title": "Congress Slams PM Modi's Anti-Graft Pitch",
+    "cat": "policy",
+    "upsc": true,
+    "time": "2026-07-13T10:11:27.598955+00:00",
+    "summary": "The Congress criticized PM Modi's anti-graft pitch, citing the Modani empire's growth as proof of the regime's true nature, with 100 questions asked in the 'Hum Adani Ke Hain Kaun' series.",
+    "story_fact": "Congress asked 100 questions in the 'Hum Adani Ke Hain Kaun' series on the Modani empire.",
+    "background": "The Representation of the People Act, 1951, defines the framework for elections. The Congress has been critical of the Modi regime's handling of corruption.",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "The Hindu",
+    "link": "https://www.thehindu.com/news/national/khaunga-khane-doonga-aur-khilaunga-congress-slams-pm-modis-anti-graft-pitch/article71216089.ece",
+    "prelims": [
+      "The <strong>Modani empire</strong> has been at the center of controversy, with the Congress questioning its growth under the Modi regime.",
+      "The <strong>Representation of the People Act, 1951</strong>, is the legal basis for elections in India, including the definition of service voters.",
+      "The Congress has asked <strong>100 questions</strong> in the 'Hum Adani Ke Hain Kaun' series, highlighting the regime's handling of corruption.",
+      "The <strong>Supreme Court</strong> has ruled on the issue of corruption and electoral transparency in the past, including the landmark judgment in the <strong>Association for Democratic Reforms case</strong>.",
+      "The <strong>Election Commission of India</strong> is responsible for ensuring the integrity of elections, including the enforcement of the Model Code of Conduct."
+    ],
+    "mains": {
+      "q": "The growth of the Modani empire under the Modi regime raises questions about the effectiveness of anti-graft measures. Examine.",
+      "marks": "15 marks · GS2",
+      "directive": "examine",
+      "hints": [
+        "Frame the central issue: the Modani empire's growth under the Modi regime has sparked controversy over corruption and crony capitalism.",
+        "Cite the <strong>Association for Democratic Reforms case</strong>, where the Supreme Court ruled on the issue of electoral transparency and corruption.",
+        "Distinguish between the <strong>Election Commission's</strong> role in ensuring electoral integrity and the <strong>government's</strong> responsibility to prevent corruption.",
+        "Apply the <strong>Representation of the People Act, 1951</strong>, to argue that the regime's handling of corruption undermines the democratic process.",
+        "Conclude by proposing reforms to strengthen anti-graft measures and ensure transparency in elections."
+      ]
+    },
+    "connect": [
+      {
+        "topic": "Model Code of Conduct",
+        "context": "The Election Commission enforces the Model Code of Conduct to ensure fair elections, which is relevant to the controversy surrounding the Modani empire."
+      },
+      {
+        "topic": "Right to Information Act, 2005",
+        "context": "The RTI Act is a tool for citizens to hold the government accountable, including in cases of corruption and crony capitalism."
+      },
+      {
+        "topic": "Lokpal and Lokayuktas Act, 2013",
+        "context": "The Lokpal and Lokayuktas Act is a legislation aimed at preventing corruption, which is relevant to the controversy surrounding the Modani empire."
+      },
+      {
+        "topic": "Election Commission's Procedural Powers",
+        "context": "The Election Commission's powers to enforce the Model Code of Conduct and prevent corruption are crucial in ensuring the integrity of elections."
+      }
+    ],
+    "_hash": "f27f1a5f26ae",
+    "_fetched": "2026-07-13T10:11:27.598955+00:00",
+    "_relevance": 31,
+    "_gs": [
+      "GS2"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "examine",
+    "_mcqs": [
+      {
+        "q": "Consider the following statements:\n1. The Election Commission of India is responsible for ensuring the integrity of elections.\n2. The Representation of the People Act, 1951, defines the framework for elections.\n3. The Supreme Court has ruled that the Election Commission has the power to disqualify candidates for corruption.\nWhich of the above is/are correct?",
+        "options": [
+          "1 only",
+          "2 only",
+          "1 and 2 only",
+          "1, 2 and 3"
+        ],
+        "correct": 2,
+        "explanation": "Statement 1 is correct: The Election Commission of India is responsible for ensuring the integrity of elections. Statement 2 is correct: The Representation of the People Act, 1951, defines the framework for elections. Statement 3 is incorrect: The Supreme Court has not ruled that the Election Commission has the power to disqualify candidates for corruption.",
+        "trap": "Wrong Article"
+      },
+      {
+        "q": "Consider the following statements:\n1. The Modi regime has been criticized for its handling of corruption.\n2. The Congress has asked 100 questions in the 'Hum Adani Ke Hain Kaun' series.\n3. The Supreme Court has ruled that the government has the power to appoint the Election Commission.\nWhich of the above is/are correct?",
+        "options": [
+          "1 only",
+          "2 only",
+          "1 and 2 only",
+          "1, 2 and 3"
+        ],
+        "correct": 0,
+        "explanation": "Statement 1 is correct: The Modi regime has been criticized for its handling of corruption. Statement 2 is correct: The Congress has asked 100 questions in the 'Hum Adani Ke Hain Kaun' series. Statement 3 is incorrect: The Supreme Court has not ruled that the government has the power to appoint the Election Commission.",
+        "trap": "Compositional Error"
+      }
+    ]
+  },
+  {
+    "id": 2317,
+    "title": "No EU agreement yet on 21st Russian sanctions package, says ",
+    "cat": "world",
+    "upsc": false,
+    "time": "2026-07-13T10:13:40.447273+00:00",
+    "summary": "EU countries hoping to get 250 listings agreed before a meeting of ‌EU Foreign Affairs Ministers ​in Brussels says EU foreign ‌policy ⁠chief Kaja Kall",
+    "story_fact": "",
+    "background": "",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "The Hindu International",
+    "link": "https://www.thehindu.com/news/international/no-eu-agreement-yet-on-21st-russian-sanctions-package-says-eu-foreign-policy-chief-kaja-kallas/article71216270.ece",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "dfd977c3f66c",
+    "_fetched": "2026-07-13T10:13:40.447273+00:00",
+    "_relevance": 31,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 2318,
+    "title": "Entry to 136-year-old Kolkata airport mosque suspended, Beng",
+    "cat": "world",
+    "upsc": false,
+    "time": "2026-07-13T10:15:53.000912+00:00",
+    "summary": "CM Suvendu Adhikari said that national security and security of the Kolkata international airport took precedence over everything else.",
+    "story_fact": "",
+    "background": "",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "LiveMint Politics",
+    "link": "https://www.livemint.com/politics/news/entry-to-136-year-old-kolkata-airport-mosque-suspended-bengal-cm-suvendu-adhikari-backs-move-11783925335902.html",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "a66c91be4d1c",
+    "_fetched": "2026-07-13T10:15:53.000912+00:00",
+    "_relevance": 31,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 2319,
+    "title": "Vijay-led Tamil Nadu govt gets relief as SC stays Madras HC'",
+    "cat": "india",
+    "upsc": false,
+    "time": "2026-07-13T10:18:05.641609+00:00",
+    "summary": "The Supreme Court stayed a Madras High Court ruling prohibiting cow and calf slaughter in Tamil Nadu. Justices Vikram Nath and Sandeep Mehta issued an",
+    "story_fact": "",
+    "background": "",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "LiveMint",
+    "link": "https://www.livemint.com/news/india/vijayled-tamil-nadu-govt-gets-relief-as-sc-stays-madras-hcs-cow-slaughter-ban-directive-11783932746873.html",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "fd7eb54bcb4d",
+    "_fetched": "2026-07-13T10:18:05.641609+00:00",
+    "_relevance": 30,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
   }
 ]
