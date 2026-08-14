@@ -41021,5 +41021,932 @@
     "_difficulty": 2,
     "_directive": "discuss",
     "_mcqs": []
+  },
+  {
+    "id": 2247,
+    "title": "India-UK FTA Takes Off With Tariff Cuts",
+    "cat": "economy",
+    "upsc": true,
+    "time": "2026-07-15T13:57:27.666730+00:00",
+    "summary": "India-UK Comprehensive Economic and Trade Agreement has come into force, aiming to increase bilateral trade with nearly 99% of India's exports receiving zero-duty market access.",
+    "story_fact": "India-UK FTA cuts tariffs for 99% of India's exports",
+    "background": "The India-UK Comprehensive Economic and Trade Agreement is a free trade agreement between the two nations. It aims to reduce trade barriers and increase economic cooperation.",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "ET Economy",
+    "link": "https://economictimes.indiatimes.com/news/economy/foreign-trade/india-uk-fta-takes-off-with-tariff-cuts-london-targets-100-bn-trade-from-gold-standard-deal/articleshow/132413164.cms",
+    "prelims": [
+      "<strong>India-UK FTA</strong> aims to increase bilateral trade with zero-duty market access for nearly 99% of India's exports.",
+      "The <strong>Comprehensive Economic and Trade Agreement</strong> between India and the UK is expected to foster greater investment and economic cooperation.",
+      "The agreement will benefit <strong>British exports to India</strong> with lower or zero tariffs.",
+      "The <strong>tariff cuts</strong> are expected to increase trade between the two nations, with a target of $100 billion.",
+      "The <strong>zero-duty market access</strong> will apply to nearly 99% of India's exports to the UK."
+    ],
+    "mains": {
+      "q": "The India-UK FTA's tariff cuts and zero-duty market access provisions raise questions about the impact on India's trade balance. Examine.",
+      "marks": "15 marks · GS3",
+      "directive": "examine",
+      "hints": [
+        "Frame the central trade-off: increased trade vs potential trade balance impact.",
+        "Cite the example of the EU-India FTA negotiations and the challenges faced in reaching a similar agreement.",
+        "Distinguish between the impact on Indian exports and imports, and the potential effect on the rupee.",
+        "Apply the concept of comparative advantage to argue for or against the FTA's provisions.",
+        "Conclude by proposing measures to mitigate potential negative effects on India's trade balance."
+      ]
+    },
+    "connect": [
+      {
+        "topic": "WTO's Most Favoured Nation (MFN) Principle",
+        "context": "The India-UK FTA's zero-duty market access provisions may be seen as inconsistent with the MFN principle, which requires equal treatment for all WTO members."
+      },
+      {
+        "topic": "EU-India FTA Negotiations",
+        "context": "The India-UK FTA's provisions can be compared to the EU-India FTA negotiations, which have faced challenges in reaching a similar agreement."
+      },
+      {
+        "topic": "Comparative Advantage Theory",
+        "context": "The India-UK FTA's tariff cuts and zero-duty market access provisions can be analyzed using the concept of comparative advantage, which argues that countries should specialize in producing goods for which they have a lower opportunity cost."
+      },
+      {
+        "topic": "Trade Balance and Exchange Rates",
+        "context": "The India-UK FTA's impact on India's trade balance and exchange rates can be examined, including the potential effects on the rupee and the country's trade deficit."
+      },
+      {
+        "topic": "Regional Trade Agreements (RTAs)",
+        "context": "The India-UK FTA can be seen as part of a broader trend of regional trade agreements (RTAs), which have become increasingly popular in recent years as a means of promoting trade and economic cooperation between countries."
+      }
+    ],
+    "_hash": "ddc9f2ca64fd",
+    "_fetched": "2026-07-15T13:57:27.666730+00:00",
+    "_relevance": 69,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "examine",
+    "_mcqs": [
+      {
+        "q": "Consider the following statements:\n1. The India-UK FTA aims to increase bilateral trade with zero-duty market access for nearly 99% of India's exports.\n2. The agreement will benefit British exports to India with lower or zero tariffs.\n3. The FTA is expected to reduce trade between the two nations.\nWhich of the above is/are correct?",
+        "options": [
+          "1 only",
+          "2 only",
+          "1 and 2 only",
+          "1, 2 and 3"
+        ],
+        "correct": 2,
+        "explanation": "Statement 1 is correct: the FTA aims to increase bilateral trade with zero-duty market access for nearly 99% of India's exports. Statement 2 is correct: the agreement will benefit British exports to India with lower or zero tariffs. Statement 3 is incorrect: the FTA is expected to increase trade between the two nations.",
+        "trap": "Quantitative Trap"
+      },
+      {
+        "q": "Consider the following statements:\n1. The India-UK FTA is a free trade agreement between the two nations.\n2. The agreement aims to reduce trade barriers and increase economic cooperation.\n3. The FTA is expected to come into force immediately.\nWhich of the above is/are correct?",
+        "options": [
+          "1 only",
+          "1 and 2 only",
+          "2 and 3 only",
+          "1, 2 and 3"
+        ],
+        "correct": 1,
+        "explanation": "Statement 1 is correct: the India-UK FTA is a free trade agreement between the two nations. Statement 2 is correct: the agreement aims to reduce trade barriers and increase economic cooperation. Statement 3 is incorrect: the FTA is expected to come into force after a certain period.",
+        "trap": "Timeline Confusion"
+      }
+    ]
+  },
+  {
+    "id": 2248,
+    "title": "Google expands India AI push with new education, healthcare ",
+    "cat": "tech",
+    "upsc": true,
+    "time": "2026-07-15T13:59:40.166936+00:00",
+    "summary": "Google's Keynote unveiled AI initiatives promoting education and healthcare in India. Partnerships with NASSCOM and IISc will provide an AI curriculum",
+    "story_fact": "",
+    "background": "",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "LiveMint",
+    "link": "https://www.livemint.com/news/google-expands-india-ai-push-with-new-education-healthcare-and-cybersecurity-initiatives-google-i-o-connect-india-11784111938407.html",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "0f0eeb22965f",
+    "_fetched": "2026-07-15T13:59:40.166936+00:00",
+    "_relevance": 55,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 2249,
+    "title": "Bio-input demand may rise, but skill gap threatens India's g",
+    "cat": "india",
+    "upsc": true,
+    "time": "2026-07-15T14:01:52.598937+00:00",
+    "summary": "Agriculture Commissioner said widespread adoption of bio-inputs by India's nearly 14 crore farmers could generate annual demand of 20–30 crore tonnes.",
+    "story_fact": "",
+    "background": "",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "ET Economy",
+    "link": "https://economictimes.indiatimes.com/news/economy/agriculture/bio-input-demand-may-rise-but-skill-gap-threatens-indias-green-farming-push-agriculture-commissioner/articleshow/132416021.cms",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "f01c7ba6d88d",
+    "_fetched": "2026-07-15T14:01:52.598937+00:00",
+    "_relevance": 55,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 2250,
+    "title": "Cabinet approves ₹1.27 lakh crore for Semicon Mission 2.0",
+    "cat": "tech",
+    "upsc": false,
+    "time": "2026-07-15T14:04:05.548314+00:00",
+    "summary": "The government expects the new scheme to attract investments of around ₹4 lakh crore and lead to semiconductor production worth ₹2 lakh crore during t",
+    "story_fact": "",
+    "background": "",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "The Hindu",
+    "link": "https://www.thehindu.com/news/national/cabinet-approves-127-lakh-crore-for-semicon-mission-20/article71225210.ece",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "22bfddec4ef1",
+    "_fetched": "2026-07-15T14:04:05.548314+00:00",
+    "_relevance": 46,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "ministry",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 2251,
+    "title": "India to push for common standards, AI rules at expanded Bri",
+    "cat": "world",
+    "upsc": false,
+    "time": "2026-07-15T14:06:18.009479+00:00",
+    "summary": "India will host a Brics meeting to develop a collaborative standards framework essential for trade and technology, including discussions on AI standar",
+    "story_fact": "",
+    "background": "",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "LiveMint",
+    "link": "https://www.livemint.com/news/india/india-common-standards-expanded-brics-ai-rules-bengaluru-11784108459768.html",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "3d24b7eaef12",
+    "_fetched": "2026-07-15T14:06:18.009479+00:00",
+    "_relevance": 44,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 2252,
+    "title": "Cabinet approves  ₹62,500 crore mobile manufacturing scheme ",
+    "cat": "economy",
+    "upsc": false,
+    "time": "2026-07-15T14:08:30.452113+00:00",
+    "summary": "The Union Cabinet approves a  ₹62,500 crore Mobile Phone Manufacturing Scheme to boost domestic production, exports and local value addition. The five",
+    "story_fact": "",
+    "background": "",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "LiveMint",
+    "link": "https://www.livemint.com/news/india/cabinet-approves-rs-62-500-crore-mobile-manufacturing-scheme-to-boost-production-exports-11784113482176.html",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "24c49cdece4d",
+    "_fetched": "2026-07-15T14:08:30.452113+00:00",
+    "_relevance": 44,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "ministry",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 2253,
+    "title": "NCDEX to roll out Guar Korma futures from July 24",
+    "cat": "economy",
+    "upsc": false,
+    "time": "2026-07-15T14:10:42.858054+00:00",
+    "summary": "NCDEX will launch Guar Korma futures on July 24, giving exporters, processors and feed manufacturers a SEBI-regulated platform to hedge price risks. T",
+    "story_fact": "",
+    "background": "",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "Economic Times",
+    "link": "https://economictimes.indiatimes.com/markets/stocks/news/ncdex-to-roll-out-guar-korma-futures-from-july-24/articleshow/132416023.cms",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "0417120c0264",
+    "_fetched": "2026-07-15T14:10:42.858054+00:00",
+    "_relevance": 42,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 2254,
+    "title": "Registration campaign launched for MY Bharat portal in Mysur",
+    "cat": "tech",
+    "upsc": false,
+    "time": "2026-07-15T14:12:55.314594+00:00",
+    "summary": "Through the portal, young people aged between 15 and 29 can access employment opportunities, skill development programmes and internships free of cost",
+    "story_fact": "",
+    "background": "",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "The Hindu",
+    "link": "https://www.thehindu.com/news/national/karnataka/registration-campaign-launched-for-my-bharat-portal-in-mysuru/article71224375.ece",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "f9d6ef514945",
+    "_fetched": "2026-07-15T14:12:55.314594+00:00",
+    "_relevance": 41,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 2255,
+    "title": "Centre invites global bids for 10 GWh ACC battery manufactur",
+    "cat": "science",
+    "upsc": false,
+    "time": "2026-07-15T14:15:07.861253+00:00",
+    "summary": "These batteries will be used for grid-scale energy storage, helping store electricity generated from renewable sources such as solar and wind",
+    "story_fact": "",
+    "background": "",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "The Hindu Business",
+    "link": "https://www.thehindu.com/business/centre-invites-global-bids-for-10-gwh-acc-battery-manufacturing-under-pli-scheme/article71225678.ece",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "dd214445048d",
+    "_fetched": "2026-07-15T14:15:07.861253+00:00",
+    "_relevance": 40,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 2256,
+    "title": "Cabinet clears ₹25,400-crore highway projects to decongest V",
+    "cat": "india",
+    "upsc": false,
+    "time": "2026-07-15T14:17:20.371702+00:00",
+    "summary": "The projects, to be implemented by the National Highways Authority of India (NHAI) under the Hybrid Annuity Model (HAM), include a 43.218-km corridor ",
+    "story_fact": "",
+    "background": "",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "The Hindu",
+    "link": "https://www.thehindu.com/business/cabinet-clears-25400-crore-highway-projects-to-decongest-varanasi/article71225626.ece",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "74b3108b2d3d",
+    "_fetched": "2026-07-15T14:17:20.371702+00:00",
+    "_relevance": 39,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "ministry",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 2257,
+    "title": "Warburg acquires Integrace Health from Temasek and True Nort",
+    "cat": "economy",
+    "upsc": false,
+    "time": "2026-07-15T14:19:32.870590+00:00",
+    "summary": "As part of the transaction, existing shareholders True North and Temasek will fully exit their investment in the company. Over the years, Integrace ha",
+    "story_fact": "",
+    "background": "",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "LiveMint",
+    "link": "https://www.livemint.com/news/warburg-acquires-integrace-health-from-temasek-and-true-north-ropes-in-new-ceo-11784118394521.html",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "838af8f14cb0",
+    "_fetched": "2026-07-15T14:19:32.870590+00:00",
+    "_relevance": 39,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 2258,
+    "title": "Union Bank Q1 Results: Profit rises over 27% to Rs 5,641 cro",
+    "cat": "economy",
+    "upsc": false,
+    "time": "2026-07-15T14:21:45.312118+00:00",
+    "summary": "Union Bank of India achieved a remarkable 27.5% surge in its net profit for the June quarter. The bank experienced a subtle rise in net interest incom",
+    "story_fact": "",
+    "background": "",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "Economic Times",
+    "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/union-bank-q1-results-profit-rises-over-27-to-rs-5641-crore/articleshow/132417165.cms",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "946fd0ff2829",
+    "_fetched": "2026-07-15T14:21:45.312118+00:00",
+    "_relevance": 38,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 2259,
+    "title": "First commercial consignments valued at $4,46,046 flagged of",
+    "cat": "economy",
+    "upsc": false,
+    "time": "2026-07-15T14:23:58.310650+00:00",
+    "summary": "India and the United Kingdom's CETA agreement officially began on Wednesday. First commercial shipments valued at over USD 446,000 were flagged off fr",
+    "story_fact": "",
+    "background": "",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "ET Economy",
+    "link": "https://economictimes.indiatimes.com/news/economy/foreign-trade/first-commercial-consignments-valued-at-446046-flagged-off-under-ceta-from-chennai/articleshow/132416561.cms",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "8e3ee86b60e3",
+    "_fetched": "2026-07-15T14:23:58.310650+00:00",
+    "_relevance": 38,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 2260,
+    "title": "Tamil Nadu CM Vijay to chair Cabinet meeting to deliberate o",
+    "cat": "tech",
+    "upsc": false,
+    "time": "2026-07-15T14:26:10.836128+00:00",
+    "summary": "The Cabinet is also likely to approve new industrial projects in the State",
+    "story_fact": "",
+    "background": "",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "The Hindu",
+    "link": "https://www.thehindu.com/news/national/tamil-nadu/cm-vijay-to-chair-cabinet-meeting-to-deliberate-on-budget-announcements/article71225602.ece",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "298d39003503",
+    "_fetched": "2026-07-15T14:26:10.836128+00:00",
+    "_relevance": 36,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "budget",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 2261,
+    "title": "Explained | India’s sedition law, its usage, and the opinion",
+    "cat": "india",
+    "upsc": false,
+    "time": "2026-07-15T14:28:23.442374+00:00",
+    "summary": "On Monday, the Central government sought one more day to file a reply in plea challenging constitutional validity of the sedition charge under Section",
+    "story_fact": "",
+    "background": "",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "The Hindu",
+    "link": "https://www.thehindu.com/news/national/explained-indias-colonial-sedition-law-origins-govt-abuse-courts-take-on-it/article65375097.ece",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "aab7741f7548",
+    "_fetched": "2026-07-15T14:28:23.442374+00:00",
+    "_relevance": 36,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 2262,
+    "title": "Cabinet okays National Investment Policy to add fresh 10 mil",
+    "cat": "economy",
+    "upsc": false,
+    "time": "2026-07-15T14:30:35.964068+00:00",
+    "summary": "The policy will encourage new investments in the urea sector to set up gas-based urea manufacturing units in the country",
+    "story_fact": "",
+    "background": "",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "The Hindu",
+    "link": "https://www.thehindu.com/news/national/cabinet-okays-national-investment-policy-to-add-fresh-10-million-tons-urea-capacity/article71225533.ece",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "9d47ae2362ca",
+    "_fetched": "2026-07-15T14:30:35.964068+00:00",
+    "_relevance": 36,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "ministry",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 2263,
+    "title": "Layout Regularisation Scheme mela in Kurnool from July 16",
+    "cat": "india",
+    "upsc": false,
+    "time": "2026-07-15T14:32:48.410810+00:00",
+    "summary": "Kurnool Municipal Corporation Commissioner says the fair will be held at the Municipal Corporation meeting hall in the local SBI Employees’ Colony til",
+    "story_fact": "",
+    "background": "",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "The Hindu",
+    "link": "https://www.thehindu.com/news/national/andhra-pradesh/layout-regularisation-scheme-mela-in-kurnool-from-july-16/article71225478.ece",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "97c6be82ccf6",
+    "_fetched": "2026-07-15T14:32:48.410810+00:00",
+    "_relevance": 36,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 2264,
+    "title": "Iran threatens to halt Mideast energy exports after US reimp",
+    "cat": "economy",
+    "upsc": false,
+    "time": "2026-07-15T14:35:00.852981+00:00",
+    "summary": "Iran's Revolutionary Guard threatened to halt Middle East energy exports after the US reimposed a naval blockade and intensified airstrikes.&nbsp;",
+    "story_fact": "",
+    "background": "",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "LiveMint",
+    "link": "https://www.livemint.com/news/world/iran-threatens-to-halt-mideast-energy-exports-after-us-reimposes-blockade-says-route-for-everyone-or-no-one-11784114995617.html",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "bb89c68365e0",
+    "_fetched": "2026-07-15T14:35:00.852981+00:00",
+    "_relevance": 35,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 2265,
+    "title": "Mysuru: Yathindra Siddaramaiah hints at induction of new fac",
+    "cat": "india",
+    "upsc": false,
+    "time": "2026-07-15T14:37:13.323864+00:00",
+    "summary": "Mr. Yathindra said the Cabinet expansion had been delayed owing to elections to the Legislative Council and the Rajya Sabha, but expressed hope that t",
+    "story_fact": "",
+    "background": "",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "The Hindu",
+    "link": "https://www.thehindu.com/news/national/karnataka/mysuru-yathindra-siddaramaiah-hints-at-induction-of-new-faces-into-cabinet/article71225737.ece",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "fc264991d790",
+    "_fetched": "2026-07-15T14:37:13.323864+00:00",
+    "_relevance": 33,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 2266,
+    "title": "US Russia sanctions bill: The proposed 100% tariff and what ",
+    "cat": "world",
+    "upsc": false,
+    "time": "2026-07-15T14:39:25.864910+00:00",
+    "summary": "",
+    "story_fact": "",
+    "background": "",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "IE Explained",
+    "link": "https://indianexpress.com/article/explained/explained-economics/us-russia-sanctions-bill-india-russian-oil-tariffs-10787864/",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "1b199832d49d",
+    "_fetched": "2026-07-15T14:39:25.864910+00:00",
+    "_relevance": 33,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 2267,
+    "title": "Free Trade Agreement set to double exports from Karur to UK ",
+    "cat": "economy",
+    "upsc": false,
+    "time": "2026-07-15T14:41:38.333197+00:00",
+    "summary": "",
+    "story_fact": "",
+    "background": "",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "The Hindu",
+    "link": "https://www.thehindu.com/news/cities/Tiruchirapalli/free-trade-agreement-set-to-double-exports-from-karur-to-uk-within-two-years/article71225671.ece",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "598e5779cf87",
+    "_fetched": "2026-07-15T14:41:38.333197+00:00",
+    "_relevance": 31,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 2268,
+    "title": "BJP credits Modi govt. for Warangal airport revival, urges T",
+    "cat": "india",
+    "upsc": false,
+    "time": "2026-07-15T14:43:50.869284+00:00",
+    "summary": "",
+    "story_fact": "",
+    "background": "",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "The Hindu",
+    "link": "https://www.thehindu.com/news/national/telangana/bjp-credits-modi-govt-for-warangal-airport-revival-urges-tg-to-act-on-land-transfer/article71225279.ece",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "074b648fbf94",
+    "_fetched": "2026-07-15T14:43:50.869284+00:00",
+    "_relevance": 31,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 2269,
+    "title": "India-U.K. DCC not applicable to Indians working in the U.K.",
+    "cat": "economy",
+    "upsc": false,
+    "time": "2026-07-15T14:46:03.397902+00:00",
+    "summary": "DCC came into effect on July 15, 2026 alongside the India-U.K. Comprehensive Economic and Trade Agreement (CETA)",
+    "story_fact": "",
+    "background": "",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "The Hindu",
+    "link": "https://www.thehindu.com/news/national/india-uk-dcc-not-applicable-to-indians-working-in-the-uk-before-july-15/article71225205.ece",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "d0888fd9d1d0",
+    "_fetched": "2026-07-15T14:46:03.397902+00:00",
+    "_relevance": 31,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 2270,
+    "title": "Cabinet clears Rs 25,500 crore highway push to decongest Var",
+    "cat": "tech",
+    "upsc": false,
+    "time": "2026-07-15T14:48:15.841590+00:00",
+    "summary": "The Union Cabinet approved two highway projects for Varanasi. These projects will cost nearly Rs 25,500 crore in total. One project connects NH-31 and",
+    "story_fact": "",
+    "background": "",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "ET Economy",
+    "link": "https://economictimes.indiatimes.com/news/economy/infrastructure/cabinet-clears-rs-25500-crore-highway-push-to-decongest-varanasi/articleshow/132413934.cms",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "3dee3c4ecfe8",
+    "_fetched": "2026-07-15T14:48:15.841590+00:00",
+    "_relevance": 31,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "ministry",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 2271,
+    "title": "Cabinet clears new Rs 62,500 crore mobile manufacturing sche",
+    "cat": "india",
+    "upsc": false,
+    "time": "2026-07-15T14:50:28.397772+00:00",
+    "summary": "",
+    "story_fact": "",
+    "background": "",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "IE Business",
+    "link": "https://indianexpress.com/article/business/cabinet-approves-rs-62500-crore-mobile-phone-manufacturing-scheme-10788061/",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "a36f2e522768",
+    "_fetched": "2026-07-15T14:50:28.397772+00:00",
+    "_relevance": 30,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "ministry",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 2272,
+    "title": "Thailand makes U-turn on visa rules for Indians. You can now",
+    "cat": "tech",
+    "upsc": false,
+    "time": "2026-07-15T14:52:40.847499+00:00",
+    "summary": "Thailand's Cabinet has approved updated visa regulations that allow passport holders from 59 countries to enter the country without a visa for stays o",
+    "story_fact": "",
+    "background": "",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "LiveMint",
+    "link": "https://www.livemint.com/news/trends/thailand-makes-u-turn-on-visa-rules-for-indians-you-can-now-travel-visa-free-but-11784121085865.html",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "c9b53ca1f50a",
+    "_fetched": "2026-07-15T14:52:40.847499+00:00",
+    "_relevance": 30,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 2273,
+    "title": "Bryan Johnson says people celebrated his illness after autoi",
+    "cat": "tech",
+    "upsc": false,
+    "time": "2026-07-15T14:54:53.341767+00:00",
+    "summary": "Longevity entrepreneur Bryan Johnson has shared statement after revealing he has Autoimmune Gastritis (AIG), saying the response to his diagnosis expo",
+    "story_fact": "",
+    "background": "",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "LiveMint",
+    "link": "https://www.livemint.com/news/trends/bryan-johnson-says-people-celebrated-his-illness-after-autoimmune-gastritis-diagnosis-world-wants-me-to-die-11784121332759.html",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "b8638d974181",
+    "_fetched": "2026-07-15T14:54:53.341767+00:00",
+    "_relevance": 30,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
   }
 ]
