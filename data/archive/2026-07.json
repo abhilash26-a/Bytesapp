@@ -52155,5 +52155,92 @@
     "_difficulty": 2,
     "_directive": "discuss",
     "_mcqs": []
+  },
+  {
+    "id": 2155,
+    "title": "State Election Commission Updates Voters’ Lists Ahead of Bypolls",
+    "cat": "policy",
+    "upsc": true,
+    "time": "2026-07-18T16:02:12.102144+00:00",
+    "summary": "The State Election Commission will publish the draft voters’ list on July 21 and the final list on August 19 for 38 local body wards ahead of bypolls.",
+    "story_fact": "The State Election Commission will update voters’ lists for 38 local body wards.",
+    "background": "The Representation of the People Act, 1951, governs electoral processes. Section 19 defines 'service voters' as members of the armed forces or government employees posted outside their home state.",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "The Hindu",
+    "link": "https://www.thehindu.com/news/national/kerala/voters-lists-in-38-local-body-wards-to-be-updated-ahead-of-bypolls/article71238394.ece",
+    "prelims": [
+      "The <strong>State Election Commission</strong> is responsible for conducting local body elections. It operates under the <strong>Representation of the People Act, 1951</strong>.",
+      "The <strong>Representation of the People Act, 1951</strong>, specifically <strong>Section 19</strong>, defines the criteria for 'service voters'.",
+      "The <strong>draft voters’ list</strong> will be published on <strong>July 21</strong>, and the <strong>final list</strong> on <strong>August 19</strong>.",
+      "The <strong>Delimitation Commission</strong> is responsible for redrawing electoral boundaries, which can impact local body elections.",
+      "The <strong>Model Code of Conduct</strong> applies to all elections, including bypolls, to ensure fair campaigning."
+    ],
+    "mains": {
+      "q": "The expansion of service voter eligibility raises questions about the legitimacy of procedural orders versus statutory amendments. Examine.",
+      "marks": "15 marks · GS2",
+      "directive": "examine",
+      "hints": [
+        "Frame the central trade-off: expanded service voter eligibility versus potential procedural legitimacy issues.",
+        "Cite the <strong>Subramanian Panel (2018)</strong> recommendation on electoral reforms and contrast with the current procedural approach.",
+        "Distinguish between the <strong>Election Commission's</strong> procedural powers and its statutory mandate under the Representation of the People Act, 1951.",
+        "Apply the <strong>FRBM Act, 2003</strong>, to argue for fiscal transparency in electoral processes.",
+        "Conclude by proposing a review mechanism for electoral procedural orders to ensure legitimacy and transparency."
+      ]
+    },
+    "connect": [
+      {
+        "topic": "Article 329(b)",
+        "context": "This article bars judicial intervention during the election process, relevant when disputes over service-voter inclusion arise."
+      },
+      {
+        "topic": "Sukhbir Singh v. State of Punjab (1991)",
+        "context": "The Supreme Court held that vote-secrecy of postal ballots is essential for free and fair elections, relevant to expanding ETPBS distribution."
+      },
+      {
+        "topic": "Election Commission's Procedural Powers",
+        "context": "The SC held the ECI's residuary powers under Article 324 include filling statutory gaps, relevant to service-voter expansion via procedural order."
+      }
+    ],
+    "_hash": "227bc59fe96a",
+    "_fetched": "2026-07-18T16:02:12.102144+00:00",
+    "_relevance": 41,
+    "_gs": [
+      "GS2"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "examine",
+    "_mcqs": [
+      {
+        "q": "Consider the following statements:\n1. The State Election Commission is responsible for conducting local body elections.\n2. The Representation of the People Act, 1951, governs all aspects of electoral processes in India.\n3. The Election Commission of India has the power to redraw electoral boundaries.\nWhich of the above is/are correct?",
+        "options": [
+          "1 only",
+          "2 only",
+          "1 and 2 only",
+          "1, 2 and 3"
+        ],
+        "correct": 2,
+        "explanation": "Statement 1 is correct: The State Election Commission conducts local body elections. Statement 2 is correct: The Representation of the People Act, 1951, is a key legislation governing electoral processes. Statement 3 is incorrect: The Delimitation Commission, not the Election Commission of India, redraws electoral boundaries.",
+        "trap": "Compositional Error"
+      },
+      {
+        "q": "Consider the following statements:\n1. The draft voters’ list will be published on July 15.\n2. The final voters’ list will be published on August 19.\nWhich of the above is/are correct?",
+        "options": [
+          "Only 1",
+          "Only 2",
+          "Both 1 and 2",
+          "Neither 1 nor 2"
+        ],
+        "correct": 1,
+        "explanation": "Statement 1 is incorrect: The draft voters’ list will be published on July 21, not July 15. Statement 2 is correct: The final voters’ list will indeed be published on August 19.",
+        "trap": "Timeline Confusion"
+      }
+    ]
   }
 ]
