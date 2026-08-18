@@ -52648,5 +52648,132 @@
     "_difficulty": 2,
     "_directive": "discuss",
     "_mcqs": []
+  },
+  {
+    "id": 2155,
+    "title": "Ayodhya Ram Temple Donations Spark Trust Crisis",
+    "cat": "india",
+    "upsc": true,
+    "time": "2026-07-18T21:56:53.370784+00:00",
+    "summary": "Allegations of money being siphoned off from donations at the Ram temple in Ayodhya have triggered a crisis of trust among pilgrims and residents, with many growing cautious about donating.",
+    "story_fact": "Ayodhya Ram temple donations spark trust crisis after allegations of siphoning",
+    "background": "The Ram temple in Ayodhya is a significant religious site in India. Donations to the temple are managed by a trust. The trust is responsible for the upkeep and maintenance of the temple.",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "The Hindu",
+    "link": "https://www.thehindu.com/news/national/uttar-pradesh/faith-and-its-fallout/article71237666.ece",
+    "prelims": [
+      "The <strong>Ram Janmabhoomi Teerth Kshetra Trust</strong> manages donations to the Ayodhya Ram temple, with a specific focus on transparency and accountability in its financial dealings.",
+      "Under <strong>Section 11</strong> of the Income Tax Act, 1961, charitable trusts like the Ram Janmabhoomi Teerth Kshetra Trust are exempt from income tax, provided they maintain proper accounts and adhere to specified regulations.",
+      "As of <strong>2026</strong>, the Ayodhya Ram temple has seen a significant influx of donations, necessitating robust management and oversight to ensure the trust's objectives are met.",
+      "The <strong>Charities Aid Foundation India</strong> has highlighted the importance of transparency in charitable giving, emphasizing the need for donors to be aware of how their contributions are utilized.",
+      "The <strong>Comptroller and Auditor General (CAG) of India</strong> has the authority to audit the accounts of public charitable trusts, including those related to religious institutions, to ensure compliance with financial regulations."
+    ],
+    "mains": {
+      "q": "The allegations of financial mismanagement in religious institutions raise questions about the regulatory framework governing such entities. Examine.",
+      "marks": "15 marks · GS2",
+      "directive": "examine",
+      "hints": [
+        "Frame the central issue: the lack of a unified regulatory framework for charitable trusts in India hinders effective oversight and accountability.",
+        "Cite the <strong>Tata Trusts</strong> model, which emphasizes transparency and governance in philanthropic activities, as a potential benchmark for other charitable entities.",
+        "Distinguish between the roles of the <strong>Comptroller and Auditor General (CAG)</strong> and the <strong>Income Tax Department</strong> in regulating and auditing charitable trusts.",
+        "Apply the principles of the <strong>Right to Information (RTI) Act, 2005</strong>, to argue for greater transparency in the financial dealings of public charitable trusts.",
+        "Conclude by proposing a legislative amendment to strengthen the regulatory framework, ensuring that charitable trusts are held to higher standards of accountability and transparency."
+      ]
+    },
+    "connect": [
+      {
+        "topic": "Public Financial Management System (PFMS)",
+        "context": "The PFMS, implemented by the Government of India, aims to ensure transparency and efficiency in the management of public funds, which could be a model for charitable trusts to adopt for better financial management."
+      },
+      {
+        "topic": "Foreign Contribution (Regulation) Act, 2010",
+        "context": "The FCRA regulates the acceptance and utilization of foreign contributions by charitable organizations in India, highlighting the need for stringent oversight and compliance in the nonprofit sector."
+      },
+      {
+        "topic": "National Financial Reporting Authority (NFRA)",
+        "context": "The NFRA, established under the Companies Act, 2013, oversees the quality of audits of listed and large companies, and its framework could inform the development of audit standards for charitable trusts."
+      },
+      {
+        "topic": "Public Interest Disclosure and Protection to Persons Making Disclosures Bill, 2010",
+        "context": "This bill, aimed at protecting whistleblowers, could have implications for charitable trusts by encouraging the reporting of financial irregularities and promoting a culture of transparency."
+      },
+      {
+        "topic": "Accountability and transparency in public-private partnerships",
+        "context": "The principles of accountability and transparency in public-private partnerships could serve as a model for charitable trusts engaging in collaborative projects, ensuring that both public and private interests are protected and aligned with the trust's objectives."
+      }
+    ],
+    "_hash": "85f4fffdac57",
+    "_fetched": "2026-07-18T21:56:53.370784+00:00",
+    "_relevance": 57,
+    "_gs": [
+      "GS2"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "examine",
+    "_mcqs": [
+      {
+        "q": "Consider the following statements:\n1. The Ram Janmabhoomi Teerth Kshetra Trust is exempt from income tax under Section 11 of the Income Tax Act, 1961.\n2. The Comptroller and Auditor General (CAG) of India has the authority to audit the accounts of public charitable trusts.\n3. The Right to Information (RTI) Act, 2005, applies to all charitable trusts in India.\nWhich of the above is/are correct?",
+        "options": [
+          "1 only",
+          "2 only",
+          "1 and 2 only",
+          "1, 2 and 3"
+        ],
+        "correct": 2,
+        "explanation": "Statement 1 is correct: The Ram Janmabhoomi Teerth Kshetra Trust, as a charitable trust, is indeed exempt from income tax under Section 11 of the Income Tax Act, 1961, provided it adheres to the specified regulations. Statement 2 is correct: The CAG of India does have the authority to audit the accounts of public charitable trusts, ensuring compliance with financial regulations. Statement 3 is incorrect: The RTI Act, 2005, does not apply to all charitable trusts in India; its applicability depends on the trust's nature and whether it is substantially financed by the government.",
+        "trap": "Definitional Trap"
+      },
+      {
+        "q": "Consider the following statements:\n1. The Charities Aid Foundation India emphasizes the importance of transparency in charitable giving.\n2. The Income Tax Department is responsible for regulating all charitable trusts in India.\nWhich of the above is/are correct?",
+        "options": [
+          "Only 1",
+          "Only 2",
+          "Both 1 and 2",
+          "Neither 1 nor 2"
+        ],
+        "correct": 0,
+        "explanation": "Statement 1 is correct: The Charities Aid Foundation India does indeed highlight the importance of transparency in charitable giving, emphasizing the need for donors to be aware of how their contributions are utilized. Statement 2 is incorrect: While the Income Tax Department plays a role in regulating charitable trusts through tax exemptions and compliance, it is not responsible for regulating all aspects of charitable trusts in India.",
+        "trap": "Scope Confusion"
+      }
+    ]
+  },
+  {
+    "id": 2156,
+    "title": "New tool to help cities quantify greenhouse gas emissions fr",
+    "cat": "tech",
+    "upsc": false,
+    "time": "2026-07-18T21:59:05.814652+00:00",
+    "summary": "The Excel-based tool developed by WRI aims to help cities, businesses, and resident associations reduce emissions; it estimates emissions from transpo",
+    "story_fact": "",
+    "background": "",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "The Hindu",
+    "link": "https://www.thehindu.com/news/national/tamil-nadu/new-tool-to-help-cities-quantify-greenhouse-gas-emissions-from-food-waste/article71233707.ece",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "7bf19bd639b0",
+    "_fetched": "2026-07-18T21:59:05.814652+00:00",
+    "_relevance": 44,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
   }
 ]
