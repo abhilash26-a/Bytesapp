@@ -57632,5 +57632,120 @@
     "_difficulty": 2,
     "_directive": "discuss",
     "_mcqs": []
+  },
+  {
+    "id": 2196,
+    "title": "CJP Leaders Meet Nadda After Crackdown on Parliament March",
+    "cat": "india",
+    "upsc": true,
+    "time": "2026-07-20T22:06:27.789047+00:00",
+    "summary": "CJP leaders met JP Nadda after a crackdown on their Parliament march left scores hospitalised with fractures and head injuries, demanding Pradhan's ouster.",
+    "story_fact": "CJP leaders met Nadda, demanding Pradhan's ouster after a crackdown on their Parliament march.",
+    "background": "The CJP march was a protest against the government. The Election Commission and government bodies have rules to manage such protests.",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "The Hindu",
+    "link": "https://www.thehindu.com/news/national/government-cracks-down-on-cockroach-janta-party-protest-in-delhi-net-snapped/article71246087.ece",
+    "prelims": [
+      "The <strong>CJP</strong> is a political organization that has been protesting against the government. It has been demanding the ouster of Pradhan.",
+      "The <strong>Representation of the People Act, 1951</strong> provides the framework for elections in India, including the rules for protests and marches.",
+      "The <strong>number of people injured</strong> in the crackdown on the CJP Parliament march is a concern for human rights.",
+      "The <strong>Supreme Court judgment</strong> in a related case has implications for the CJP's demands.",
+      "The <strong>distinction between a protest and an assembly</strong> is crucial in understanding the rules that apply to the CJP march."
+    ],
+    "mains": {
+      "q": "The use of force by the government to disperse protests raises questions about the balance between public order and the right to assemble. Examine.",
+      "marks": "15 marks · GS2",
+      "directive": "examine",
+      "hints": [
+        "Frame the central trade-off: public order vs the right to assemble.",
+        "Cite the relevant Supreme Court judgment on the right to assemble.",
+        "Distinguish between a protest and an assembly.",
+        "Apply the principles of the Representation of the People Act, 1951.",
+        "Conclude by proposing a framework for balancing public order and the right to assemble."
+      ]
+    },
+    "connect": [
+      {
+        "topic": "Right to Assemble",
+        "context": "The CJP march was a protest against the government, and the right to assemble is a fundamental right."
+      },
+      {
+        "topic": "Public Order",
+        "context": "The use of force by the government to disperse protests raises questions about the balance between public order and the right to assemble."
+      }
+    ],
+    "_hash": "ad79a892830d",
+    "_fetched": "2026-07-20T22:06:27.789047+00:00",
+    "_relevance": 36,
+    "_gs": [
+      "GS2"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "examine",
+    "_mcqs": [
+      {
+        "q": "Consider the following statements:\n1. The CJP is a political organization.\n2. The Representation of the People Act, 1951 provides the framework for elections in India.\n3. The Supreme Court has judgment on the right to assemble.\nWhich of the above is/are correct?",
+        "options": [
+          "1 only",
+          "2 only",
+          "1 and 2 only",
+          "1, 2 and 3"
+        ],
+        "correct": 3,
+        "explanation": "Statement 1 is correct: The CJP is a political organization. Statement 2 is correct: The Representation of the People Act, 1951 provides the framework for elections in India. Statement 3 is correct: The Supreme Court has judgment on the right to assemble.",
+        "trap": "Wrong Body"
+      },
+      {
+        "q": "Consider the following statements:\n1. The number of people injured in the crackdown on the CJP Parliament march is a concern for human rights.\n2. The distinction between a protest and an assembly is crucial in understanding the rules that apply to the CJP march.\nWhich of the above is/are correct?",
+        "options": [
+          "1 only",
+          "1 and 2 only",
+          "2 only",
+          "Neither 1 nor 2"
+        ],
+        "correct": 1,
+        "explanation": "Statement 1 is correct: The number of people injured in the crackdown on the CJP Parliament march is a concern for human rights. Statement 2 is incorrect: The distinction between a protest and an assembly is not directly relevant to the CJP march.",
+        "trap": "Quantitative Trap"
+      }
+    ]
+  },
+  {
+    "id": 2197,
+    "title": "Four Indian seafarers killed near Ukrainian port Odessa",
+    "cat": "india",
+    "upsc": false,
+    "time": "2026-07-20T22:08:40.266242+00:00",
+    "summary": "Ukrainian Acting Foreign Minister say five crew still missing",
+    "story_fact": "",
+    "background": "",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "The Hindu",
+    "link": "https://www.thehindu.com/news/international/four-indians-killed-one-injured-in-attack-on-ship-leaving-ukraines-odesa-mea-says/article71246517.ece",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "1321b1039312",
+    "_fetched": "2026-07-20T22:08:40.266242+00:00",
+    "_relevance": 33,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
   }
 ]
