@@ -63395,5 +63395,416 @@
     "_difficulty": 2,
     "_directive": "discuss",
     "_mcqs": []
+  },
+  {
+    "id": 2170,
+    "title": "RBI sells $6.1 billion in May",
+    "cat": "economy",
+    "upsc": true,
+    "time": "2026-07-22T16:25:28.246446+00:00",
+    "summary": "The Reserve Bank of India sold $6.1 billion in May amid global market volatility and geopolitical tensions, with India's external sector remaining steady and foreign exchange reserves covering over 10 months of imports.",
+    "story_fact": "RBI sold $6.1 billion in May.",
+    "background": "The RBI manages foreign exchange reserves to maintain the stability of the rupee. The Foreign Exchange Management Act, 1999, empowers the RBI to regulate foreign exchange transactions.",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "ET Economy",
+    "link": "https://economictimes.indiatimes.com/news/economy/indicators/rbi-sold-6-1-bn-in-may-as-oil-weighed-on-the-rupee-with-foreign-inflows-showing-signs-of-revival-bulletin/articleshow/132560451.cms",
+    "prelims": [
+      "The <strong>Reserve Bank of India</strong> is responsible for managing India's foreign exchange reserves, which stood at over $600 billion as of March 2024.",
+      "The <strong>Foreign Exchange Management Act, 1999</strong>, regulates foreign exchange transactions in India, including the RBI's intervention in the forex market.",
+      "In May, the <strong>RBI sold $6.1 billion</strong> to stabilize the rupee, which had been under pressure due to global market volatility and geopolitical tensions.",
+      "The <strong>External Commercial Borrowings (ECB) framework</strong> allows Indian companies to borrow from foreign lenders, which can help reduce the pressure on the rupee.",
+      "The <strong>Foreign Exchange Reserves</strong> of India are sufficient to cover over 10 months of imports, providing a cushion against external shocks."
+    ],
+    "mains": {
+      "q": "The RBI's intervention in the forex market to stabilize the rupee raises questions about the effectiveness of this strategy in managing exchange rates. Examine.",
+      "marks": "15 marks · GS3",
+      "directive": "examine",
+      "hints": [
+        "Frame the central trade-off: stabilizing the rupee through intervention versus allowing market forces to determine the exchange rate.",
+        "Cite the example of the 2013 taper tantrum, where the RBI's intervention in the forex market helped stabilize the rupee.",
+        "Distinguish between the RBI's intervention in the spot market and the forward market, and discuss the implications for exchange rate management.",
+        "Apply the concept of the impossible trinity, which suggests that a country cannot simultaneously maintain a fixed exchange rate, free capital mobility, and independent monetary policy.",
+        "Conclude by discussing the need for a nuanced approach to exchange rate management, taking into account the complexities of the global economy and the limitations of the RBI's intervention strategies."
+      ]
+    },
+    "connect": [
+      {
+        "topic": "Impossible Trinity",
+        "context": "The RBI's intervention in the forex market is limited by the impossible trinity, which suggests that a country cannot simultaneously maintain a fixed exchange rate, free capital mobility, and independent monetary policy."
+      },
+      {
+        "topic": "Current Account Deficit",
+        "context": "The RBI's intervention in the forex market can affect the current account deficit, as a stable exchange rate can influence trade flows and capital inflows."
+      },
+      {
+        "topic": "Monetary Policy Committee (MPC)",
+        "context": "The RBI's intervention in the forex market is influenced by the Monetary Policy Committee (MPC), which sets the monetary policy framework for the country."
+      },
+      {
+        "topic": "Capital Account Convertibility",
+        "context": "The RBI's intervention in the forex market is related to the concept of capital account convertibility, which refers to the ability to freely convert domestic currency into foreign currency for capital account transactions."
+      }
+    ],
+    "_hash": "5001539c0758",
+    "_fetched": "2026-07-22T16:25:28.246446+00:00",
+    "_relevance": 96,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "examine",
+    "_mcqs": [
+      {
+        "q": "Consider the following statements:\n1. The RBI's intervention in the forex market is aimed at stabilizing the rupee.\n2. The RBI's intervention in the forex market is aimed at reducing the current account deficit.\n3. The RBI's intervention in the forex market is aimed at increasing foreign exchange reserves.\nWhich of the above is/are correct?",
+        "options": [
+          "1 only",
+          "2 only",
+          "1 and 2 only",
+          "1, 2 and 3"
+        ],
+        "correct": 0,
+        "explanation": "Statement 1 is correct: The RBI's intervention in the forex market is aimed at stabilizing the rupee. Statement 2 is incorrect: The RBI's intervention in the forex market is not directly aimed at reducing the current account deficit. Statement 3 is incorrect: The RBI's intervention in the forex market is not directly aimed at increasing foreign exchange reserves.",
+        "trap": "Quantitative Trap"
+      },
+      {
+        "q": "Consider the following statements:\n1. The RBI's intervention in the forex market is limited to the spot market.\n2. The RBI's intervention in the forex market is limited to the forward market.\n3. The RBI's intervention in the forex market includes both the spot and forward markets.\nWhich of the above is/are correct?",
+        "options": [
+          "1 only",
+          "2 only",
+          "1 and 2 only",
+          "1, 2 and 3"
+        ],
+        "correct": 3,
+        "explanation": "Statement 1 is incorrect: The RBI's intervention in the forex market is not limited to the spot market. Statement 2 is incorrect: The RBI's intervention in the forex market is not limited to the forward market. Statement 3 is correct: The RBI's intervention in the forex market includes both the spot and forward markets.",
+        "trap": "Scope Confusion"
+      }
+    ]
+  },
+  {
+    "id": 2171,
+    "title": "Indian economy navigated well external uncertainties: RBI Bu",
+    "cat": "economy",
+    "upsc": true,
+    "time": "2026-07-22T16:27:40.813987+00:00",
+    "summary": "“Industrial and services sector indicators remained firm. Farm sector is witnessing uneven southwest monsoon, but the impact on food inflation may be ",
+    "story_fact": "",
+    "background": "",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "The Hindu Business",
+    "link": "https://www.thehindu.com/business/Economy/indian-economy-navigated-well-external-uncertainties-rbi-bulletin/article71253837.ece",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "37ffc4e39264",
+    "_fetched": "2026-07-22T16:27:40.813987+00:00",
+    "_relevance": 72,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 2172,
+    "title": "PM calls for citizen-centric reforms, greater policy converg",
+    "cat": "tech",
+    "upsc": false,
+    "time": "2026-07-22T16:29:53.306159+00:00",
+    "summary": "During a high-level review, the prime minister pushed for a ‘whole-of-government’ approach to accelerate clean energy adoption in agriculture and alig",
+    "story_fact": "",
+    "background": "",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "LiveMint",
+    "link": "https://www.livemint.com/news/india/pm-modi-narendra-modi-viksit-bharat-11784730857467.html",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "ea9112f3f382",
+    "_fetched": "2026-07-22T16:29:53.306159+00:00",
+    "_relevance": 48,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 2173,
+    "title": "Net FDI turned negative again in May 2026 with outflows exce",
+    "cat": "economy",
+    "upsc": false,
+    "time": "2026-07-22T16:32:06.456987+00:00",
+    "summary": "RBI data shows that, even though outflows of direct investment slowed in May 2026, inflows slowed even more. This snapped a three-month streak of posi",
+    "story_fact": "",
+    "background": "",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "The Hindu Business",
+    "link": "https://www.thehindu.com/business/Economy/net-fdi-turned-negative-again-in-may-2026-with-outflows-exceeding-inflows-by-74-million/article71253744.ece",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "98be88513010",
+    "_fetched": "2026-07-22T16:32:06.456987+00:00",
+    "_relevance": 40,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 2174,
+    "title": "India joins Quad partners in call for Indo-Pacific peace, AS",
+    "cat": "world",
+    "upsc": false,
+    "time": "2026-07-22T16:34:19.226141+00:00",
+    "summary": "A joint statement said the Quad reaffirmed its commitment to strengthening a free and open Indo-Pacific while extending “unwavering support” for “ASEA",
+    "story_fact": "",
+    "background": "",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "The Hindu",
+    "link": "https://www.thehindu.com/news/national/india-joins-quad-partners-in-call-for-indo-pacific-peace-asean-centrality-amid-chinese-assertiveness/article71253751.ece",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "282220268d0b",
+    "_fetched": "2026-07-22T16:34:19.226141+00:00",
+    "_relevance": 39,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 2175,
+    "title": "Kerala CM Satheesan making false claim on SC rejecting petit",
+    "cat": "policy",
+    "upsc": false,
+    "time": "2026-07-22T16:36:32.175621+00:00",
+    "summary": "He says  Chief Minister is speaking like a spokesperson of Bharatiya Janata Party, by echoing its stance on including non-Muslims in an institution re",
+    "story_fact": "",
+    "background": "",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "The Hindu",
+    "link": "https://www.thehindu.com/news/national/kerala/kerala-cm-satheesan-making-false-claim-on-sc-rejecting-petitions-against-waqf-amendment-bill-rajeeve/article71253974.ece",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "5d8a0f15a9af",
+    "_fetched": "2026-07-22T16:36:32.175621+00:00",
+    "_relevance": 36,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 2176,
+    "title": "Delhi HC seeks Centre’s reply to claims of police brutality,",
+    "cat": "india",
+    "upsc": false,
+    "time": "2026-07-22T16:38:44.782848+00:00",
+    "summary": "High Court orders preservation of CCTV, video footage; says allegations cannot be dismissed as “isolated” incidents; ASG claims protesters turned viol",
+    "story_fact": "",
+    "background": "",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "The Hindu",
+    "link": "https://www.thehindu.com/news/cities/Delhi/delhi-hc-seeks-centre-police-response-on-pleas-alleging-excessive-force-during-july-20-cjp-protest-march/article71253106.ece",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "2ec3bc227314",
+    "_fetched": "2026-07-22T16:38:44.782848+00:00",
+    "_relevance": 36,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 2177,
+    "title": "NHAI revises toll charges on Bengaluru-Nelamangala and Benga",
+    "cat": "tech",
+    "upsc": false,
+    "time": "2026-07-22T16:40:57.420447+00:00",
+    "summary": "According to separate public notices issued by the Project Implementation Unit (PIU), Bengaluru, the revised toll rates will be applicable at the Beng",
+    "story_fact": "",
+    "background": "",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "The Hindu",
+    "link": "https://www.thehindu.com/news/national/karnataka/nhai-revises-toll-charges-on-bengaluru-nelamangala-and-bengaluru-kolar-highway-stretches/article71253641.ece",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "b6f35d6326a7",
+    "_fetched": "2026-07-22T16:40:57.420447+00:00",
+    "_relevance": 33,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 2178,
+    "title": "Tips Music reports Q1 FY27 revenue growth of 21% YoY",
+    "cat": "tech",
+    "upsc": false,
+    "time": "2026-07-22T16:43:10.113936+00:00",
+    "summary": "Tips Music reported a 21% year-on-year increase in revenue driven by sustained growth across its digital and non-digital businesses, alongside continu",
+    "story_fact": "",
+    "background": "",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "LiveMint",
+    "link": "https://www.livemint.com/news/tips-music-reports-q1-fy27-revenue-growth-of-21-yoy-11784730521428.html",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "a7692e87fd96",
+    "_fetched": "2026-07-22T16:43:10.113936+00:00",
+    "_relevance": 33,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 2179,
+    "title": "Centre positive on extending relief to tobacco, aqua farmers",
+    "cat": "india",
+    "upsc": false,
+    "time": "2026-07-22T16:45:22.848358+00:00",
+    "summary": "The Minister accuses YSR Congress Party president Jagan Mohan Reddy of exploiting the problems of tobacco and aquaculture farmers for political mileag",
+    "story_fact": "",
+    "background": "",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "The Hindu",
+    "link": "https://www.thehindu.com/news/national/andhra-pradesh/centre-positive-on-extending-relief-to-tobacco-aqua-farmers-says-agriculture-minister-atchannaidu/article71253770.ece",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "0b380d878976",
+    "_fetched": "2026-07-22T16:45:22.848358+00:00",
+    "_relevance": 31,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 2180,
+    "title": "Amid CJP protests, Universities asked to counsel students to",
+    "cat": "india",
+    "upsc": false,
+    "time": "2026-07-22T16:47:36.103481+00:00",
+    "summary": "Association of Indian Universities (AIU) has asked varsities and higher education institutions (HEIs) across the country to counsel students to remain",
+    "story_fact": "",
+    "background": "",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "LiveMint",
+    "link": "https://www.livemint.com/news/india/amid-cjp-protests-universities-asked-to-counsel-students-to-study-not-divert-energy-11784732492467.html",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "50b9252d076d",
+    "_fetched": "2026-07-22T16:47:36.103481+00:00",
+    "_relevance": 30,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
   }
 ]
