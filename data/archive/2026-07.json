@@ -72341,5 +72341,319 @@
     "_difficulty": 2,
     "_directive": "discuss",
     "_mcqs": []
+  },
+  {
+    "id": 2132,
+    "title": "India Exports to US: 45% Spared from New 10% Tariffs",
+    "cat": "economy",
+    "upsc": true,
+    "time": "2026-07-25T19:18:23.727600+00:00",
+    "summary": "The Commerce Ministry stated 45% of Indian exports to the US will not face new 10% tariffs, while the remaining 55% will attract these 'forced labour' tariffs at a lower rate than most other investigated countries.",
+    "story_fact": "45% of Indian exports to the US are spared from new 10% tariffs.",
+    "background": "The US imposes tariffs on countries found to have forced labour practices. India's exports to the US are subject to these tariffs, except for certain exempted categories.",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "The Hindu Business",
+    "link": "https://www.thehindu.com/business/Economy/45-of-indian-exports-to-the-us-will-not-face-new-10-tariffs-commerce-ministry-says/article71265959.ece",
+    "prelims": [
+      "The <strong>US Tariff Act</strong> allows for the imposition of tariffs on countries with forced labour practices, affecting 55% of Indian exports to the US.",
+      "The <strong>Forced Labour Convention</strong> of the ILO is a key international framework that guides the US in identifying countries with forced labour, including India.",
+      "The <strong>Commerce Ministry</strong> has reported that 45% of Indian exports to the US are exempt from the new 10% tariffs, citing specific product categories.",
+      "The <strong>US Trade Act of 1974</strong> provides the legal basis for the US to investigate and impose tariffs on countries suspected of using forced labour, as seen in recent US actions.",
+      "The <strong>WTO's General Agreement on Tariffs and Trade (GATT)</strong> allows for tariffs to be imposed for reasons including the protection of public morals, which can include combating forced labour."
+    ],
+    "mains": {
+      "q": "The imposition of tariffs by the US on Indian exports due to forced labour concerns raises questions about the efficacy of international labour standards in regulating global trade. Examine.",
+      "marks": "15 marks · GS3",
+      "directive": "examine",
+      "hints": [
+        "Frame the central issue: the tension between trade liberalization and labour standards, as evident in the US tariff actions against India.",
+        "Cite the ILO's <strong>Forced Labour Protocol (2014)</strong> and its provisions for combating forced labour, which the US uses as a basis for its tariff investigations.",
+        "Distinguish between the <strong>WTO's trade facilitation agreements</strong> and the ILO's labour standards, highlighting how they intersect in the context of US-India trade.",
+        "Apply the concept of <strong>non-tariff barriers</strong> to understand how labour standards can act as a barrier to trade, even in the absence of explicit tariffs.",
+        "Conclude by proposing a framework for integrating labour standards into trade agreements, drawing on examples from the <strong>USMCA</strong> and the <strong>EU's GSP+</strong>."
+      ]
+    },
+    "connect": [
+      {
+        "topic": "ILO's Fundamental Principles and Rights at Work",
+        "context": "The ILO's principles, including the elimination of forced labour, are crucial in the context of international trade and the imposition of tariffs by countries like the US on others, including India."
+      },
+      {
+        "topic": "WTO's Dispute Settlement Body",
+        "context": "The WTO's Dispute Settlement Body could potentially be involved in resolving trade disputes arising from the imposition of tariffs due to forced labour concerns, providing a platform for countries to challenge such measures."
+      },
+      {
+        "topic": "USMCA's Labour Chapter",
+        "context": "The labour chapter in the USMCA sets a precedent for integrating labour standards into trade agreements, which could influence how the US approaches labour issues in its trade relations with other countries, including India."
+      },
+      {
+        "topic": "EU's Generalised Scheme of Preferences (GSP+)",
+        "context": "The EU's GSP+ scheme offers trade incentives to countries that comply with certain international conventions, including those related to labour rights, and could serve as a model for how trade agreements can promote labour standards."
+      },
+      {
+        "topic": "India's National Human Rights Commission (NHRC)",
+        "context": "India's NHRC plays a crucial role in monitoring and addressing human rights issues, including forced labour, within the country, and its efforts could impact India's compliance with international labour standards and thus its trade relationships."
+      }
+    ],
+    "_hash": "05d88ecb69d0",
+    "_fetched": "2026-07-25T19:18:23.727600+00:00",
+    "_relevance": 50,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "examine",
+    "_mcqs": [
+      {
+        "q": "Consider the following statements:\n1. The US Tariff Act allows for tariffs on countries with forced labour practices.\n2. The ILO's Forced Labour Convention guides the US in identifying such countries.\n3. All Indian exports to the US are subject to the new 10% tariffs.\nWhich of the above is/are correct?",
+        "options": [
+          "1 only",
+          "2 only",
+          "1 and 2 only",
+          "1, 2 and 3"
+        ],
+        "correct": 2,
+        "explanation": "Statement 1 is correct: The US Tariff Act does allow for tariffs on countries with forced labour practices. Statement 2 is correct: The ILO's Forced Labour Convention does guide the US in identifying such countries. Statement 3 is incorrect: Not all Indian exports to the US are subject to the new 10% tariffs; 45% are exempt.",
+        "trap": "Quantitative Trap"
+      },
+      {
+        "q": "Consider the following statements:\n1. The WTO's GATT allows for tariffs to protect public morals.\n2. The US Trade Act of 1974 provides the basis for US tariff investigations into forced labour.\n3. India has ratified the ILO's Forced Labour Protocol (2014).\nWhich of the above is/are correct?",
+        "options": [
+          "1 only",
+          "1 and 2 only",
+          "2 and 3 only",
+          "1, 2 and 3"
+        ],
+        "correct": 0,
+        "explanation": "Statement 1 is correct: The WTO's GATT does allow for tariffs to protect public morals, which can include combating forced labour. Statement 2 is correct: The US Trade Act of 1974 does provide the basis for US tariff investigations into forced labour. Statement 3 is correct: India has ratified the ILO's Forced Labour Protocol (2014).",
+        "trap": "Recent Update Trap"
+      }
+    ]
+  },
+  {
+    "id": 2133,
+    "title": "Kerala Dissolves Milma's Thiruvananthapuram Union Board",
+    "cat": "policy",
+    "upsc": true,
+    "time": "2026-07-25T19:18:59.982355+00:00",
+    "summary": "The Kerala government dissolved the board of Milma's Thiruvananthapuram union, citing ongoing investigations.",
+    "story_fact": "Kerala government dissolves Milma's Thiruvananthapuram union board",
+    "background": "Milma is a dairy development cooperative in Kerala. The Dairy Development department oversees such cooperatives.",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "The Hindu",
+    "link": "https://www.thehindu.com/news/national/kerala/kerala-government-dissolves-board-of-milmas-thiruvananthapuram-union/article71267382.ece",
+    "prelims": [
+      "The <strong>Dairy Development department</strong> has the authority to oversee dairy cooperatives in Kerala.",
+      "The <strong>Kerala Cooperative Societies Act, 1969</strong>, governs the formation and management of cooperatives like Milma.",
+      "The <strong>Thiruvananthapuram union</strong> is one of the three regional unions of Milma in Kerala.",
+      "In <strong>2022</strong>, the Kerala government had initiated measures to strengthen the dairy sector through cooperatives.",
+      "The dissolution of the board may lead to a <strong>temporary takeover</strong> by the state government to ensure continuity of services."
+    ],
+    "mains": {
+      "q": "The dissolution of cooperative boards by state governments raises questions about the balance between state oversight and cooperative autonomy. Examine.",
+      "marks": "15 marks · GS2",
+      "directive": "examine",
+      "hints": [
+        "Frame the central issue: state control vs. cooperative independence.",
+        "Cite the Kerala Cooperative Societies Act, 1969, and its provisions for state intervention.",
+        "Distinguish between temporary takeovers for mismanagement and permanent dissolution.",
+        "Apply the principle of cooperative federalism to this scenario.",
+        "Conclude by proposing measures to balance state oversight with cooperative autonomy."
+      ]
+    },
+    "connect": [
+      {
+        "topic": "National Dairy Development Board",
+        "context": "As a national body, it oversees dairy development across states, including Kerala, and its policies can influence state-level initiatives like Milma."
+      },
+      {
+        "topic": "Cooperative Federalism",
+        "context": "The principle of cooperative federalism is crucial in understanding the balance between state and central government oversight of cooperatives, including dairy development cooperatives."
+      },
+      {
+        "topic": "State Government's Role in Cooperatives",
+        "context": "The role of state governments in managing and regulating cooperatives is defined by state laws and can impact the autonomy and functioning of these cooperatives."
+      },
+      {
+        "topic": "Dairy Development in India",
+        "context": "Understanding the broader context of dairy development in India, including initiatives and challenges, can provide insights into the significance of cooperatives like Milma in Kerala's dairy sector."
+      }
+    ],
+    "_hash": "bc83c62f3a53",
+    "_fetched": "2026-07-25T19:18:59.982355+00:00",
+    "_relevance": 36,
+    "_gs": [
+      "GS2"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "examine",
+    "_mcqs": [
+      {
+        "q": "Consider the following statements:\n1. The Kerala government can dissolve a cooperative board without a court order.\n2. The Dairy Development department has the final say in dissolving a cooperative board.\nWhich of the above is/are correct?",
+        "options": [
+          "1 only",
+          "2 only",
+          "1 and 2 only",
+          "1, 2 and 3"
+        ],
+        "correct": 0,
+        "explanation": "Statement 1 is correct: The state government has the authority to dissolve a cooperative board under certain conditions. Statement 2 is incorrect: The final decision to dissolve a board involves more than just the Dairy Development department.",
+        "trap": "Wrong Body"
+      },
+      {
+        "q": "Consider the following statements:\n1. Milma is a dairy development cooperative in Kerala.\n2. The Kerala Cooperative Societies Act, 1969, applies to all cooperatives in Kerala.\nWhich of the above is/are correct?",
+        "options": [
+          "1 only",
+          "2 only",
+          "1 and 2 only",
+          "1, 2 and 3"
+        ],
+        "correct": 2,
+        "explanation": "Statement 1 is correct: Milma is indeed a dairy cooperative in Kerala. Statement 2 is correct: The Act governs all cooperatives in the state.",
+        "trap": "Definitional Trap"
+      }
+    ]
+  },
+  {
+    "id": 2134,
+    "title": "Watch: CJP Protest: Mumbai’s young voices on accountability ",
+    "cat": "tech",
+    "upsc": false,
+    "time": "2026-07-25T19:21:12.780572+00:00",
+    "summary": "A ground report from Mumbai exploring how Gen Z views the CJP agitation, the issues that brought young people into the movement, and their expectation",
+    "story_fact": "",
+    "background": "",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "The Hindu",
+    "link": "https://www.thehindu.com/videos/watch-cjp-protest-mumbais-young-voices-on-accountability-and-change-pulse-maharashtra/article71267282.ece",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "b50bee01affc",
+    "_fetched": "2026-07-25T19:21:12.780572+00:00",
+    "_relevance": 36,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 2135,
+    "title": "Telugu Mahotsavam begins with a celebration of literature an",
+    "cat": "tech",
+    "upsc": false,
+    "time": "2026-07-25T19:23:25.467792+00:00",
+    "summary": "Organised by Andhra Pradesh State Creativity and Culture Society, the two-day event aims at preserving and promoting the richness of Telugu language a",
+    "story_fact": "",
+    "background": "",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "The Hindu",
+    "link": "https://www.thehindu.com/news/national/andhra-pradesh/telugu-mahotsavam-begins-with-a-celebration-of-literature-and-heritage/article71266951.ece",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "172cd98829b2",
+    "_fetched": "2026-07-25T19:23:25.467792+00:00",
+    "_relevance": 31,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 2136,
+    "title": "Dharmendra Pradhan tenders resignation as Union Education Mi",
+    "cat": "tech",
+    "upsc": false,
+    "time": "2026-07-25T19:25:38.437125+00:00",
+    "summary": "Protesters erupt in joy; President appoints Pralhad Joshi as new Education Minister; we have done it, says Dipke; govt. promises compensation to kin o",
+    "story_fact": "",
+    "background": "",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "The Hindu",
+    "link": "https://www.thehindu.com/news/national/dharmendra-pradhan-quit-resign-as-union-education-minister-jantar-mantar-protest-july-25-2026/article71265711.ece",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "f6791da44ec4",
+    "_fetched": "2026-07-25T19:25:38.437125+00:00",
+    "_relevance": 31,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 2137,
+    "title": "Minister to release digital content for art education in sch",
+    "cat": "world",
+    "upsc": false,
+    "time": "2026-07-25T19:27:51.031516+00:00",
+    "summary": "Based on the art education handbook, SIET has developed video lessons to guide children in various art activities",
+    "story_fact": "",
+    "background": "",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "The Hindu",
+    "link": "https://www.thehindu.com/news/national/kerala/minister-to-release-digital-content-for-art-education-in-schools/article71267084.ece",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "6c00ff97d11d",
+    "_fetched": "2026-07-25T19:27:51.031516+00:00",
+    "_relevance": 31,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
   }
 ]
