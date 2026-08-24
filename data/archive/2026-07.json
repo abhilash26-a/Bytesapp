@@ -70913,5 +70913,291 @@
     "_difficulty": 2,
     "_directive": "discuss",
     "_mcqs": []
+  },
+  {
+    "id": 2102,
+    "title": "SpaceX Starship Rocket Deploys 20 Satellites",
+    "cat": "tech",
+    "upsc": true,
+    "time": "2026-07-25T03:24:26.374458+00:00",
+    "summary": "SpaceX's Starship rocket lifted off from Texas for a test flight, deploying 20 Starlink satellites in suborbital space on July 25, 2026.",
+    "story_fact": "SpaceX deployed 20 Starlink satellites in suborbital space.",
+    "background": "The Starlink project aims to provide global internet connectivity through a constellation of satellites. SpaceX has been testing its Starship rocket for this purpose.",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "LiveMint",
+    "link": "https://www.livemint.com/news/world/total-world-latest-news-on-july-25-2026-live-updates-11784946665890.html",
+    "prelims": [
+      "The <strong>Starlink satellite constellation</strong> is a project by SpaceX to provide global internet connectivity, with over 4,000 satellites planned.",
+      "The <strong>Starship rocket</strong> is a reusable spacecraft designed for long-duration missions to the Moon, Mars, and other destinations in the solar system.",
+      "SpaceX has launched <strong>20 Starlink satellites</strong> in suborbital space as part of its test flight on July 25, 2026.",
+      "The <strong>Federal Communications Commission (FCC)</strong> has approved SpaceX's plan to deploy up to 12,000 Starlink satellites in low Earth orbit.",
+      "The <strong>International Telecommunication Union (ITU)</strong> has allocated frequencies for the Starlink satellite constellation to operate globally."
+    ],
+    "mains": {
+      "q": "How does the development of satellite constellations like Starlink impact global internet connectivity? Examine.",
+      "marks": "15 marks · GS3",
+      "directive": "examine",
+      "hints": [
+        "Frame the central issue: satellite constellations can provide global internet access but also raise concerns about space debris and frequency allocation.",
+        "Cite the example of the FCC's approval of SpaceX's Starlink plan and the ITU's allocation of frequencies for the constellation.",
+        "Distinguish between the benefits of satellite-based internet connectivity, such as reaching remote areas, and the challenges, such as latency and signal interference.",
+        "Apply the concept of the digital divide and how satellite constellations can help bridge the gap in global internet access.",
+        "Conclude by discussing the need for international cooperation in regulating satellite constellations and ensuring their safe and sustainable development."
+      ]
+    },
+    "connect": [
+      {
+        "topic": "ITU Radio Regulations",
+        "context": "The ITU's allocation of frequencies for the Starlink satellite constellation is crucial for its global operation, as it ensures that the satellites do not interfere with other radio communications systems."
+      },
+      {
+        "topic": "FCC Satellite Licensing",
+        "context": "The FCC's approval of SpaceX's plan to deploy up to 12,000 Starlink satellites is an example of the regulatory framework that governs the development of satellite constellations in the United States."
+      },
+      {
+        "topic": "Space Debris Mitigation",
+        "context": "The development of satellite constellations like Starlink raises concerns about space debris and the need for sustainable practices in space exploration, such as designing satellites for de-orbiting and minimizing the risk of collisions."
+      },
+      {
+        "topic": "Digital Divide",
+        "context": "The Starlink satellite constellation has the potential to bridge the digital divide by providing internet access to remote and underserved areas, but it also raises questions about the affordability and accessibility of satellite-based internet services."
+      },
+      {
+        "topic": "International Cooperation in Space",
+        "context": "The development of satellite constellations like Starlink requires international cooperation and agreement on issues such as frequency allocation, space debris mitigation, and the long-term sustainability of space activities."
+      }
+    ],
+    "_hash": "abc5e6b73232",
+    "_fetched": "2026-07-25T03:24:26.374458+00:00",
+    "_relevance": 72,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "examine",
+    "_mcqs": [
+      {
+        "q": "Consider the following statements:\n1. The Starlink satellite constellation is designed to provide global internet connectivity.\n2. The Starship rocket is a reusable spacecraft designed for long-duration missions.\n3. The FCC has approved SpaceX's plan to deploy up to 12,000 Starlink satellites.\nWhich of the above is/are correct?",
+        "options": [
+          "1 only",
+          "2 only",
+          "1 and 2 only",
+          "1, 2 and 3"
+        ],
+        "correct": 3,
+        "explanation": "Statement 1 is correct: The Starlink satellite constellation is indeed designed to provide global internet connectivity. Statement 2 is correct: The Starship rocket is a reusable spacecraft designed for long-duration missions. Statement 3 is correct: The FCC has approved SpaceX's plan to deploy up to 12,000 Starlink satellites.",
+        "trap": "Quantitative Trap"
+      },
+      {
+        "q": "Consider the following statements:\n1. The ITU has allocated frequencies for the Starlink satellite constellation to operate globally.\n2. The Starlink satellite constellation is designed to provide internet connectivity only in the United States.\n3. The Starship rocket is capable of carrying crew to the Moon and Mars.\nWhich of the above is/are correct?",
+        "options": [
+          "1 only",
+          "2 only",
+          "1 and 3 only",
+          "1, 2 and 3"
+        ],
+        "correct": 1,
+        "explanation": "Statement 1 is correct: The ITU has allocated frequencies for the Starlink satellite constellation to operate globally. Statement 2 is incorrect: The Starlink satellite constellation is designed to provide global internet connectivity, not just in the United States. Statement 3 is incorrect: While the Starship rocket is designed for long-duration missions, its capability to carry crew to the Moon and Mars is still in development.",
+        "trap": "Scope Confusion"
+      }
+    ]
+  },
+  {
+    "id": 2103,
+    "title": "India Seeks Trade Talks to Soften US Drug Tariff Plan",
+    "cat": "economy",
+    "upsc": true,
+    "time": "2026-07-25T03:25:03.192122+00:00",
+    "summary": "The US is India's largest pharmaceutical export market, with $9.47 billion in exports in FY26, making proposed tariffs a significant risk for the sector.",
+    "story_fact": "India's pharmaceutical exports to the US were $9.47 billion in FY26.",
+    "background": "The US is a major market for Indian pharmaceuticals. India's pharmaceutical exports are subject to US trade policies.",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "LiveMint",
+    "link": "https://www.livemint.com/news/govt-pharma-industry-lean-on-trade-talks-to-soften-trump-s-drug-tariff-plan-sun-glenmark-aurobindo-generic-medicine-11784884777886.html",
+    "prelims": [
+      "The <strong>US</strong> is India's largest pharmaceutical export market, accounting for $9.47 billion in exports in FY26.",
+      "The proposed <strong>tariffs</strong> on Indian pharmaceuticals would be a significant risk for the sector, with potential impacts on exports and employment.",
+      "India's <strong>pharmaceutical exports</strong> to the US are subject to US trade policies, including tariffs and regulatory requirements.",
+      "The <strong>US-India trade talks</strong> aim to soften the proposed tariffs on Indian pharmaceuticals and promote bilateral trade.",
+      "The <strong>Indian pharmaceutical industry</strong> is a significant contributor to the country's economy, with exports accounting for a substantial portion of its revenue."
+    ],
+    "mains": {
+      "q": "The imposition of tariffs on Indian pharmaceuticals by the US raises questions about the impact on India's economy and trade relations. Examine.",
+      "marks": "15 marks · GS3",
+      "directive": "examine",
+      "hints": [
+        "Frame the central trade-off: tariffs on pharmaceuticals could reduce India's exports and employment, but may also prompt domestic manufacturing and self-reliance.",
+        "Cite the example of the US-India trade talks and their potential to promote bilateral trade and investment.",
+        "Distinguish between the impacts of tariffs on different sectors of the Indian economy, including pharmaceuticals, textiles, and IT.",
+        "Apply the concept of comparative advantage to argue that India's pharmaceutical industry has a competitive edge in the global market.",
+        "Conclude by suggesting policy measures to mitigate the negative impacts of tariffs and promote India's pharmaceutical exports."
+      ]
+    },
+    "connect": [
+      {
+        "topic": "Special 301 Report",
+        "context": "The US Special 301 Report has previously identified India as a priority watch list country for intellectual property protection, which could impact pharmaceutical exports."
+      },
+      {
+        "topic": "Pharmaceuticals and Medical Devices (PMD) Policy",
+        "context": "The Indian government's PMD policy aims to promote domestic manufacturing of pharmaceuticals and medical devices, which could be impacted by US tariffs."
+      },
+      {
+        "topic": "WTO Agreement on Trade-Related Aspects of Intellectual Property Rights (TRIPS)",
+        "context": "The TRIPS agreement sets international standards for intellectual property protection, which could be relevant to the US-India trade talks on pharmaceuticals."
+      },
+      {
+        "topic": "US-India Strategic and Commercial Dialogue",
+        "context": "The US-India Strategic and Commercial Dialogue provides a platform for discussing trade and investment issues, including pharmaceuticals."
+      },
+      {
+        "topic": "Indian Patent Act, 1970",
+        "context": "The Indian Patent Act, 1970, has been amended several times to comply with international intellectual property standards, which could impact the pharmaceutical industry."
+      }
+    ],
+    "_hash": "ce39ffe1d1d1",
+    "_fetched": "2026-07-25T03:25:03.192122+00:00",
+    "_relevance": 46,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "examine",
+    "_mcqs": [
+      {
+        "q": "Consider the following statements:\n1. The US is India's largest pharmaceutical export market.\n2. The proposed tariffs on Indian pharmaceuticals would increase India's exports to the US.\n3. The US-India trade talks aim to reduce tariffs on Indian pharmaceuticals.\nWhich of the above is/are correct?",
+        "options": [
+          "1 only",
+          "1 and 3 only",
+          "2 and 3 only",
+          "1, 2 and 3"
+        ],
+        "correct": 1,
+        "explanation": "Statement 1 is correct: The US is indeed India's largest pharmaceutical export market. Statement 2 is incorrect: The proposed tariffs would likely decrease India's exports to the US. Statement 3 is correct: The US-India trade talks do aim to reduce tariffs on Indian pharmaceuticals.",
+        "trap": "Quantitative Trap"
+      },
+      {
+        "q": "Consider the following statements:\n1. The Indian pharmaceutical industry is a significant contributor to the country's economy.\n2. The proposed tariffs on Indian pharmaceuticals would have no impact on India's economy.\n3. The US-India trade talks are focused solely on pharmaceuticals.\nWhich of the above is/are correct?",
+        "options": [
+          "1 only",
+          "1 and 2 only",
+          "2 and 3 only",
+          "1, 2 and 3"
+        ],
+        "correct": 0,
+        "explanation": "Statement 1 is correct: The Indian pharmaceutical industry is indeed a significant contributor to the country's economy. Statement 2 is incorrect: The proposed tariffs would likely have a negative impact on India's economy. Statement 3 is incorrect: The US-India trade talks cover a broader range of topics beyond pharmaceuticals.",
+        "trap": "Scope Confusion"
+      }
+    ]
+  },
+  {
+    "id": 2104,
+    "title": "Half Tibetan, half North Indian: a lost Himalayan people eme",
+    "cat": "india",
+    "upsc": false,
+    "time": "2026-07-25T03:27:15.710012+00:00",
+    "summary": "A new study has reported genome-wide data from 10 individuals recovered from a cave in Kargil district, and their ancestry splits almost exactly down ",
+    "story_fact": "",
+    "background": "",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "The Hindu Science",
+    "link": "https://www.thehindu.com/sci-tech/science/half-tibetan-half-north-indian-a-lost-himalayan-people-emerges-from-a-ladakh-cave/article71262008.ece",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "ee488153112d",
+    "_fetched": "2026-07-25T03:27:15.710012+00:00",
+    "_relevance": 44,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 2105,
+    "title": "SpaceX's Starship rocket lifts off from Texas for test fligh",
+    "cat": "science",
+    "upsc": false,
+    "time": "2026-07-25T03:29:28.361954+00:00",
+    "summary": "Billionaire Elon Musk-led SpaceX on Friday launched its 13th test flight from Texas, after it was rescheduled twice this month. The rocket briefly fir",
+    "story_fact": "",
+    "background": "",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "LiveMint",
+    "link": "https://www.livemint.com/news/world/spacexs-starship-rocket-lifts-off-from-texas-for-test-flight-deploys-20-starlink-satellites-in-suborbital-space-11784945768301.html",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "7fda470596dd",
+    "_fetched": "2026-07-25T03:29:28.361954+00:00",
+    "_relevance": 41,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 2106,
+    "title": "Introduce, pass Statehood bill in ongoing Parliament session",
+    "cat": "india",
+    "upsc": false,
+    "time": "2026-07-25T03:31:41.085576+00:00",
+    "summary": "Farooq Abdullah’s appeal comes days after he led a protest of his party leaders, including Chief Minister Omar Abdullah, and legislators at Jantar Man",
+    "story_fact": "",
+    "background": "",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "The Hindu",
+    "link": "https://www.thehindu.com/news/national/jammu-and-kashmir/introduce-pass-statehood-bill-in-ongoing-parliament-session-dr-farooq-abdullah-to-centre/article71263692.ece",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "cce977d40344",
+    "_fetched": "2026-07-25T03:31:41.085576+00:00",
+    "_relevance": 33,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
   }
 ]
