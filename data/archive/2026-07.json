@@ -70721,5 +70721,197 @@
     "_difficulty": 2,
     "_directive": "discuss",
     "_mcqs": []
+  },
+  {
+    "id": 2104,
+    "title": "US Imposes 10% Tariff on India, Pakistan, Bangladesh",
+    "cat": "economy",
+    "upsc": true,
+    "time": "2026-07-24T22:11:16.555403+00:00",
+    "summary": "The US has imposed a 10% tariff on goods from India and 16 other nations for allegedly failing to ban imports made with forced labor. India amended its foreign trade policy after the investigation began.",
+    "story_fact": "The US imposed a 10% tariff on goods from India under a forced labor probe.",
+    "background": "The US Tariff Act of 1930 allows for tariffs on goods made with forced labor. The US Customs and Border Protection investigates allegations of forced labor.",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "ET Economy",
+    "link": "https://economictimes.indiatimes.com/news/economy/foreign-trade/us-imposes-10-tariff-on-india-pak-bangladesh-uk-others-in-forced-labour-probe/articleshow/132594207.cms",
+    "prelims": [
+      "The <strong>US Tariff Act of 1930</strong> allows for tariffs on goods made with forced labor, with Section 307 specifically addressing forced labor.",
+      "The <strong>Forced Labor Division</strong> of the US Customs and Border Protection investigates allegations of forced labor in supply chains.",
+      "The US has imposed a <strong>10% tariff</strong> on goods from 17 countries, including India, Pakistan, and Bangladesh.",
+      "The <strong>International Labor Organization (ILO)</strong> estimates that 50 million people are trapped in forced labor worldwide, with the majority being women and girls.",
+      "The <strong>US Customs and Border Protection</strong> has the authority to issue Withhold Release Orders (WROs) to prevent goods made with forced labor from entering the US market."
+    ],
+    "mains": {
+      "q": "The imposition of tariffs on goods made with forced labor raises questions about the effectiveness of trade policy in promoting human rights. Examine.",
+      "marks": "15 marks · GS2",
+      "directive": "examine",
+      "hints": [
+        "Frame the central trade-off: tariffs may reduce forced labor but also harm legitimate businesses and workers.",
+        "Cite the ILO's estimates of forced labor and argue that tariffs are a necessary measure to combat this issue.",
+        "Distinguish between the US Tariff Act of 1930 and the EU's forced labor regulations, highlighting the differences in approach.",
+        "Apply the concept of human rights due diligence to argue that companies have a responsibility to ensure their supply chains are free from forced labor.",
+        "Conclude by proposing a multilateral approach to addressing forced labor, involving international organizations and governments."
+      ]
+    },
+    "connect": [
+      {
+        "topic": "Generalized System of Preferences (GSP)",
+        "context": "The US GSP program provides preferential tariff treatment to certain countries, but may be withdrawn if they fail to comply with labor standards, including those related to forced labor."
+      },
+      {
+        "topic": "ILO Convention 29",
+        "context": "The ILO Convention 29, which India has ratified, defines forced labor and obliges countries to take measures to prevent and eliminate it, including through trade policy measures like tariffs."
+      },
+      {
+        "topic": "US Trade Act of 1974",
+        "context": "The US Trade Act of 1974 authorizes the President to impose tariffs on goods from countries that engage in unfair trade practices, including the use of forced labor."
+      },
+      {
+        "topic": "EU's Forced Labor Regulation",
+        "context": "The EU's Forced Labor Regulation, which came into effect in 2022, prohibits the importation of goods made with forced labor, and may serve as a model for other countries to follow."
+      },
+      {
+        "topic": "WTO's Agreement on Tariffs and Trade (GATT)",
+        "context": "The GATT allows for tariffs to be imposed on goods made with forced labor, but also requires that such measures be non-discriminatory and not constitute a means of arbitrary or unjustifiable discrimination."
+      }
+    ],
+    "_hash": "d2a8360ef29d",
+    "_fetched": "2026-07-24T22:11:16.555403+00:00",
+    "_relevance": 62,
+    "_gs": [
+      "GS2",
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "examine",
+    "_mcqs": [
+      {
+        "q": "Consider the following statements:\n1. The US Tariff Act of 1930 allows for tariffs on goods made with forced labor.\n2. The ILO estimates that 50 million people are trapped in forced labor worldwide.\n3. The US has imposed a 10% tariff on goods from 17 countries, including India.\nWhich of the above is/are correct?",
+        "options": [
+          "1 only",
+          "2 only",
+          "1 and 2 only",
+          "1, 2 and 3"
+        ],
+        "correct": 3,
+        "explanation": "Statement 1 is correct: The US Tariff Act of 1930 allows for tariffs on goods made with forced labor. Statement 2 is correct: The ILO estimates that 50 million people are trapped in forced labor worldwide. Statement 3 is correct: The US has imposed a 10% tariff on goods from 17 countries, including India.",
+        "trap": "Quantitative Trap"
+      },
+      {
+        "q": "Consider the following statements:\n1. The US Customs and Border Protection has the authority to issue Withhold Release Orders (WROs) to prevent goods made with forced labor from entering the US market.\n2. The ILO has the power to impose sanctions on countries that fail to comply with forced labor regulations.\n3. The US Tariff Act of 1930 applies to all countries, including those with which the US has a free trade agreement.\nWhich of the above is/are correct?",
+        "options": [
+          "1 only",
+          "2 only",
+          "1 and 2 only",
+          "1, 2 and 3"
+        ],
+        "correct": 0,
+        "explanation": "Statement 1 is correct: The US Customs and Border Protection has the authority to issue Withhold Release Orders (WROs) to prevent goods made with forced labor from entering the US market. Statement 2 is incorrect: The ILO does not have the power to impose sanctions. Statement 3 is incorrect: The US Tariff Act of 1930 does not apply to all countries, especially those with which the US has a free trade agreement.",
+        "trap": "Wrong Article"
+      }
+    ]
+  },
+  {
+    "id": 2105,
+    "title": "US stocks today: Nasdaq lags on angst over AI spending ahead",
+    "cat": "economy",
+    "upsc": false,
+    "time": "2026-07-24T22:13:28.959099+00:00",
+    "summary": "U.S. markets closed mixed as the Nasdaq declined on chip stock weakness driven by concerns over heavy AI spending, while the Dow rose and the S&P 500 ",
+    "story_fact": "",
+    "background": "",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "Economic Times",
+    "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-today-nasdaq-lags-on-angst-over-ai-spending-ahead-of-earnings-reports/articleshow/132614541.cms",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "2d7b896d1630",
+    "_fetched": "2026-07-24T22:13:28.959099+00:00",
+    "_relevance": 44,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 2106,
+    "title": "Indian seafarer killed in attack on ship in Black Sea",
+    "cat": "india",
+    "upsc": false,
+    "time": "2026-07-24T22:15:41.364161+00:00",
+    "summary": "The External Affairs Ministry said MV Omorfi was attacked while transiting the Black Sea, reportedly in Russian territorial waters; at the time of the",
+    "story_fact": "",
+    "background": "",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "The Hindu International",
+    "link": "https://www.thehindu.com/news/international/indian-seafarer-killed-in-attack-on-ship-in-black-sea/article71263875.ece",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "e2a9df64a7cd",
+    "_fetched": "2026-07-24T22:15:41.364161+00:00",
+    "_relevance": 40,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 2107,
+    "title": "Did not cut any deal with government: Sonam Wangchuk",
+    "cat": "tech",
+    "upsc": false,
+    "time": "2026-07-24T22:17:53.946833+00:00",
+    "summary": "‘I focused on getting justice for the students and young people against whom FIRs have been registered. We saw what happened after the Ladakh incident",
+    "story_fact": "",
+    "background": "",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "The Hindu",
+    "link": "https://www.thehindu.com/news/national/did-not-cut-any-deal-with-government-sonam-wangchuk/article71263954.ece",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "4672d324315a",
+    "_fetched": "2026-07-24T22:17:53.946833+00:00",
+    "_relevance": 31,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
   }
 ]
