@@ -72655,5 +72655,100 @@
     "_difficulty": 2,
     "_directive": "discuss",
     "_mcqs": []
+  },
+  {
+    "id": 2137,
+    "title": "Berlin Police Halt LGBTQ Pride Parade After Car Drives Into Crowd",
+    "cat": "world",
+    "upsc": true,
+    "time": "2026-07-25T22:00:55.337619+00:00",
+    "summary": "Berlin police halted the LGBTQ pride parade after a car drove into the crowd, injuring several people.",
+    "story_fact": "Berlin police halted the LGBTQ pride parade after a car drove into the crowd.",
+    "background": "The LGBTQ pride parade is an annual event in Berlin. Section 11 of the German Assembly Act regulates public gatherings.",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "LiveMint",
+    "link": "https://www.livemint.com/news/world/total-world-latest-news-on-july-26-2026-live-updates-11785015613381.html",
+    "prelims": [
+      "The <strong>German Assembly Act</strong> regulates public gatherings, including the LGBTQ pride parade, under Section 11.",
+      "Article 11 of the German Constitution protects the right to assembly, but this right is not absolute and can be restricted for public safety.",
+      "The <strong>Berlin Police</strong> have the authority to halt public gatherings if they pose a risk to public safety, as per the German Assembly Act.",
+      "In 2019, the <strong>European Court of Human Rights</strong> ruled that freedom of assembly is a fundamental right, but it can be restricted in certain circumstances.",
+      "The <strong>LGBTQ pride parade</strong> is an annual event in Berlin, promoting equality and rights for the LGBTQ community."
+    ],
+    "mains": {
+      "q": "The right to assembly is a fundamental right, but it can be restricted in certain circumstances. Examine.",
+      "marks": "15 marks · GS2",
+      "directive": "examine",
+      "hints": [
+        "Frame the central trade-off between the right to assembly and public safety.",
+        "Cite the European Court of Human Rights ruling on freedom of assembly and its limitations.",
+        "Distinguish between the German Assembly Act and the European Convention on Human Rights.",
+        "Apply the principles of proportionality and necessity in restricting the right to assembly.",
+        "Conclude by proposing measures to balance the right to assembly with public safety concerns."
+      ]
+    },
+    "connect": [
+      {
+        "topic": "European Convention on Human Rights",
+        "context": "The European Court of Human Rights has ruled on the right to assembly, which is relevant to the LGBTQ pride parade in Berlin."
+      },
+      {
+        "topic": "German Federal Constitutional Court",
+        "context": "The German Federal Constitutional Court has also ruled on the right to assembly, providing guidance on the balance between this right and public safety."
+      },
+      {
+        "topic": "Freedom of Assembly in the EU",
+        "context": "The European Union's Charter of Fundamental Rights protects the right to assembly, which is relevant to the LGBTQ pride parade in Berlin."
+      },
+      {
+        "topic": "Public Order and Safety",
+        "context": "The German Assembly Act regulates public gatherings, including the LGBTQ pride parade, to ensure public order and safety."
+      },
+      {
+        "topic": "LGBTQ Rights in Germany",
+        "context": "The LGBTQ pride parade in Berlin promotes equality and rights for the LGBTQ community, which is a relevant context for understanding the right to assembly in Germany."
+      }
+    ],
+    "_hash": "e389cd5f4312",
+    "_fetched": "2026-07-25T22:00:55.337619+00:00",
+    "_relevance": 44,
+    "_gs": [
+      "GS2"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "examine",
+    "_mcqs": [
+      {
+        "q": "Consider the following statements:\n1. The German Assembly Act regulates public gatherings.\n2. The right to assembly is absolute and cannot be restricted.\n3. The Berlin Police have the authority to halt public gatherings if they pose a risk to public safety.\nWhich of the above is/are correct?",
+        "options": [
+          "1 and 3 only",
+          "1 only",
+          "2 only",
+          "1, 2 and 3"
+        ],
+        "correct": 0,
+        "explanation": "Statement 1 is correct: The German Assembly Act regulates public gatherings. Statement 2 is incorrect: The right to assembly is not absolute and can be restricted. Statement 3 is correct: The Berlin Police have the authority to halt public gatherings if they pose a risk to public safety.",
+        "trap": "Absolute Language"
+      },
+      {
+        "q": "Consider the following statements:\n1. The European Court of Human Rights has ruled that freedom of assembly is a fundamental right.\n2. The German Assembly Act allows for unrestricted freedom of assembly.\n3. The Berlin Police can halt public gatherings without prior notice.\nWhich of the above is/are correct?",
+        "options": [
+          "1 only",
+          "1 and 2 only",
+          "1 and 3 only",
+          "1, 2 and 3"
+        ],
+        "correct": 0,
+        "explanation": "Statement 1 is correct: The European Court of Human Rights has ruled that freedom of assembly is a fundamental right. Statement 2 is incorrect: The German Assembly Act allows for restricted freedom of assembly. Statement 3 is incorrect: The Berlin Police can halt public gatherings with prior notice or in emergency situations.",
+        "trap": "Wrong Article"
+      }
+    ]
   }
 ]
