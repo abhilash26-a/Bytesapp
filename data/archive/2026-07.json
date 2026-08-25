@@ -74345,5 +74345,356 @@
     "_difficulty": 2,
     "_directive": "discuss",
     "_mcqs": []
+  },
+  {
+    "id": 2158,
+    "title": "Nabard Report: Fintech Credit Revolution Eludes Rural India",
+    "cat": "economy",
+    "upsc": true,
+    "time": "2026-07-26T16:07:53.380217+00:00",
+    "summary": "Nabard report notes Indian banks have expanded digital banking, but fintech-led credit breakthrough in last-mile financial inclusion has yet to materialise.",
+    "story_fact": "Nabard report finds fintech credit revolution has not reached rural India.",
+    "background": "Digital public infrastructure and digital banking infrastructure have been built. However, last-mile financial inclusion through fintech has not been achieved.",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "LiveMint",
+    "link": "https://www.livemint.com/news/why-rural-india-is-still-waiting-for-fintech-credit-revolution-digital-banking-infra-dpi-financial-services-technology-11785060130026.html",
+    "prelims": [
+      "The <strong>Nabard</strong> report highlights the gap in last-mile financial inclusion despite robust digital public infrastructure.",
+      "The <strong>digital banking infrastructure</strong> has been significantly expanded by Indian banks, but its impact on rural areas is limited.",
+      "The report notes that <strong>1,468</strong> service voters were approved for a recent phase, but this does not directly relate to fintech credit.",
+      "A similar <strong>fintech initiative</strong> in another country has shown promise, but its applicability to India's rural context is unclear.",
+      "The <strong>RBI's</strong> stance on fintech regulation may be a crucial factor in the slow adoption of fintech credit in rural areas."
+    ],
+    "mains": {
+      "q": "The expansion of digital banking infrastructure has not led to the expected breakthrough in last-mile financial inclusion through fintech. Examine the reasons behind this gap.",
+      "marks": "15 marks · GS3",
+      "directive": "examine",
+      "hints": [
+        "Frame the central issue: the gap between digital banking infrastructure and last-mile financial inclusion through fintech.",
+        "Cite the Nabard report's findings on the current state of fintech adoption in rural India.",
+        "Distinguish between the factors affecting urban and rural fintech adoption, such as infrastructure and regulatory support.",
+        "Apply the concept of financial inclusion to the context of rural India, highlighting the challenges and opportunities.",
+        "Conclude by suggesting policy reforms to address the gap in last-mile financial inclusion through fintech."
+      ]
+    },
+    "connect": [
+      {
+        "topic": "Financial Inclusion",
+        "context": "The concept of financial inclusion is crucial for understanding the gap in last-mile financial inclusion through fintech in rural India."
+      },
+      {
+        "topic": "Digital Payments",
+        "context": "The growth of digital payments has been significant, but its impact on fintech credit in rural areas is limited."
+      },
+      {
+        "topic": "RBI's Fintech Regulation",
+        "context": "The RBI's stance on fintech regulation may be a crucial factor in the slow adoption of fintech credit in rural areas."
+      },
+      {
+        "topic": "Nabard's Role",
+        "context": "Nabard's report highlights the need for targeted interventions to promote fintech adoption in rural India."
+      },
+      {
+        "topic": "Digital Literacy",
+        "context": "Digital literacy is a critical factor in the adoption of fintech services in rural areas, and its lack may be a significant barrier to last-mile financial inclusion."
+      }
+    ],
+    "_hash": "ec14149a875e",
+    "_fetched": "2026-07-26T16:07:53.380217+00:00",
+    "_relevance": 55,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "examine",
+    "_mcqs": [
+      {
+        "q": "Consider the following statements:\n1. Nabard report highlights the success of fintech in rural India.\n2. Digital public infrastructure has been robustly built.\n3. Last-mile financial inclusion through fintech has been achieved.\nWhich of the above is/are correct?",
+        "options": [
+          "1 only",
+          "2 only",
+          "1 and 2 only",
+          "1, 2 and 3"
+        ],
+        "correct": 1,
+        "explanation": "Statement 1 is incorrect: the report notes the lack of fintech breakthrough. Statement 2 is correct: digital public infrastructure has been built. Statement 3 is incorrect: last-mile financial inclusion has not been achieved.",
+        "trap": "Wrong Body"
+      },
+      {
+        "q": "Consider the following statements:\n1. Fintech regulation is solely under the RBI.\n2. Digital banking infrastructure expansion is a state subject.\n3. Nabard report focuses on urban fintech adoption.\nWhich of the above is/are correct?",
+        "options": [
+          "1 only",
+          "1 and 2 only",
+          "2 and 3 only",
+          "1, 2 and 3"
+        ],
+        "correct": 0,
+        "explanation": "Statement 1 is correct: fintech regulation falls under the RBI. Statement 2 is incorrect: digital banking infrastructure is a concurrent subject. Statement 3 is incorrect: the report focuses on rural fintech adoption.",
+        "trap": "Scope Confusion"
+      }
+    ]
+  },
+  {
+    "id": 2159,
+    "title": "PM Modi announces Nandan Nilekani-led ‘high-powered’ task fo",
+    "cat": "india",
+    "upsc": false,
+    "time": "2026-07-26T16:10:06.247035+00:00",
+    "summary": "Prime Minister Narendra Modi announced a ‘high-powered’ task force led by Infosys co-founder Nandan Nilekani to enhance the integrity and technologica",
+    "story_fact": "",
+    "background": "",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "LiveMint",
+    "link": "https://www.livemint.com/news/india/pm-modi-announces-nandan-nilekani-led-task-force-on-exam-reforms-11785073027932.html",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "fdeed6644748",
+    "_fetched": "2026-07-26T16:10:06.247035+00:00",
+    "_relevance": 39,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 2160,
+    "title": "KPSC temporarily stays veterinary officer selection list, fo",
+    "cat": "policy",
+    "upsc": false,
+    "time": "2026-07-26T16:12:18.976263+00:00",
+    "summary": "The Karnataka Public Service Commission (KPSC) temporarily put on hold the selection list for veterinary officers and formed an internal sub-committee",
+    "story_fact": "",
+    "background": "",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "The Hindu",
+    "link": "https://www.thehindu.com/news/cities/bangalore/kpsc-temporarily-stays-veterinary-officer-selection-list-forms-internal-inquiry-committee-to-review-exam-process/article71269710.ece",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "0af8ceb49684",
+    "_fetched": "2026-07-26T16:12:18.976263+00:00",
+    "_relevance": 36,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 2161,
+    "title": "Encroachment on government land on the rise in Idukki’s Waga",
+    "cat": "tech",
+    "upsc": false,
+    "time": "2026-07-26T16:14:31.683668+00:00",
+    "summary": "Large real estate groups have reportedly purchased nearly 25 acres of land on the meadows, a main tourist attraction in Wagamon, to carry out construc",
+    "story_fact": "",
+    "background": "",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "The Hindu",
+    "link": "https://www.thehindu.com/news/national/kerala/encroachment-on-government-land-on-the-rise-in-idukkis-wagamon/article71269831.ece",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "2decd63b3a0e",
+    "_fetched": "2026-07-26T16:14:31.683668+00:00",
+    "_relevance": 33,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 2162,
+    "title": "MEA advisory urges Indian seafarers to assess security risks",
+    "cat": "india",
+    "upsc": false,
+    "time": "2026-07-26T16:16:44.387560+00:00",
+    "summary": "The advisory comes a day after the MV AGN Ragnar, carrying four Indian crew, was hit by a projectile in Odesa; two Indians on the ship confirmed safe,",
+    "story_fact": "",
+    "background": "",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "The Hindu",
+    "link": "https://www.thehindu.com/news/national/mea-advisory-urges-indian-seafarers-to-assess-security-risks-before-taking-jobs-in-black-sea-region/article71269712.ece",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "48ba97ada025",
+    "_fetched": "2026-07-26T16:16:44.387560+00:00",
+    "_relevance": 33,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 2163,
+    "title": "FIR in alleged KPSC scam: OMR answer sheet tampering, nepoti",
+    "cat": "policy",
+    "upsc": false,
+    "time": "2026-07-26T16:18:57.612397+00:00",
+    "summary": "The Vidhana Soudha Police have registered an FIR in connection with alleged irregularities in the Karnataka Public Service Commission’s recruitment pr",
+    "story_fact": "",
+    "background": "",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "The Hindu",
+    "link": "https://www.thehindu.com/news/cities/bangalore/fir-in-alleged-kpsc-scam-omr-answer-sheet-tampering-nepotism-question-paper-leak-corruption-alleged/article71269205.ece",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "3d804568cfc4",
+    "_fetched": "2026-07-26T16:18:57.612397+00:00",
+    "_relevance": 33,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 2164,
+    "title": "Kerala Agricultural University launches entrepreneurship pro",
+    "cat": "tech",
+    "upsc": false,
+    "time": "2026-07-26T16:21:10.370081+00:00",
+    "summary": "Minister for Agriculture T. Siddique launches training programme for aspiring agripreneurs; first instalment of grant assistance under PM RKVY-RAFTAAR",
+    "story_fact": "",
+    "background": "",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "The Hindu",
+    "link": "https://www.thehindu.com/news/national/kerala/kerala-agricultural-university-launches-entrepreneurship-programme-releases-startup-grants/article71269783.ece",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "c4f44822d431",
+    "_fetched": "2026-07-26T16:21:10.370081+00:00",
+    "_relevance": 33,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 2165,
+    "title": "SC judge observes eating chicken on Ganga not a crime, flags",
+    "cat": "india",
+    "upsc": false,
+    "time": "2026-07-26T16:23:23.138879+00:00",
+    "summary": "Supreme Court Justice Ujjal Bhuyan expressed concern over the ‘shrinking’ dissent space in India, with arrests of students and stringent bail conditio",
+    "story_fact": "",
+    "background": "",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "LiveMint",
+    "link": "https://www.livemint.com/news/india/sc-judge-observes-eating-chicken-on-ganga-not-a-crime-flags-shrinking-dissent-space-students-dont-get-bail-for-11785068805384.html",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "d141e2a54802",
+    "_fetched": "2026-07-26T16:23:23.138879+00:00",
+    "_relevance": 33,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 2166,
+    "title": "Guru Tegh Bahadur’s sacrifice symbolises courage, service an",
+    "cat": "india",
+    "upsc": false,
+    "time": "2026-07-26T16:25:36.102672+00:00",
+    "summary": "Recalling Guru Tegh Bahadur’s supreme sacrifice in the defence of faith and religious freedom, Mr. Gehlot said the guru laid down his life to protect ",
+    "story_fact": "",
+    "background": "",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "The Hindu",
+    "link": "https://www.thehindu.com/news/national/karnataka/guru-tegh-bahadurs-sacrifice-symbolises-courage-service-and-compassion-governor/article71269618.ece",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "ec1cfb570e1f",
+    "_fetched": "2026-07-26T16:25:36.102672+00:00",
+    "_relevance": 31,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
   }
 ]
