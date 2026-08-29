@@ -89255,5 +89255,196 @@
     "_difficulty": 2,
     "_directive": "discuss",
     "_mcqs": []
+  },
+  {
+    "id": 2040,
+    "title": "Parliament passes Bill to curb paper leaks",
+    "cat": "policy",
+    "upsc": true,
+    "time": "2026-07-30T22:12:44.037271+00:00",
+    "summary": "Jitendra Singh stated the government has made efforts to free medical education from management quota malice, while Kharge demanded an SC-monitored panel to probe NEET paper leaks.",
+    "story_fact": "Parliament passed a Bill to curb paper leaks under Section 19 of the Representation of the People Act, 1951.",
+    "background": "Section 19 of the RPA, 1951 defines 'service voters'. They vote via postal ballot or proxy voting. Each addition requires Form 2A/2C verification.",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "The Hindu",
+    "link": "https://www.thehindu.com/news/national/rajya-sabha-too-passes-bill-on-paper-leaks-opposition-walks-out-of-voting/article71287509.ece",
+    "prelims": [
+      "The <strong>Representation of the People Act, 1951</strong> defines 'service voters' as members of the armed forces, armed police, or government employees abroad, who vote via postal ballot or proxy voting.",
+      "The <strong>Section 19</strong> of the RPA, 1951, requires verification under Form 2A/2C for service-voter additions.",
+      "The <strong>Election Commission of India</strong> approved 1,468 service voters for Phase 2 of the West Bengal assembly polls.",
+      "The <strong>Supreme Court</strong> has held that vote secrecy of postal ballots is essential for free and fair elections.",
+      "The <strong>Electronically Transmitted Postal Ballot System (ETPBS)</strong> was introduced in 2016 for service voters, reducing lost ballots from ~30% to under 5%."
+    ],
+    "mains": {
+      "q": "The ECI's expansion of service-voter eligibility raises questions about the legitimacy of procedural orders versus statutory amendments. Examine.",
+      "marks": "15 marks · GS2",
+      "directive": "examine",
+      "hints": [
+        "Frame the central trade-off: expanded service-voter eligibility versus potential legitimacy concerns.",
+        "Cite the Supreme Court's judgment on the Election Commission's procedural powers in Mohinder Singh Gill (1978).",
+        "Distinguish between the ECI's residuary powers under Article 324 and the need for statutory amendments.",
+        "Apply the principles of natural justice and fairness in the context of electoral processes.",
+        "Conclude by proposing a framework for balancing the ECI's procedural powers with the need for legislative oversight."
+      ]
+    },
+    "connect": [
+      {
+        "topic": "Tenth Schedule (Anti-Defection Law)",
+        "context": "By-elections triggered by Tenth Schedule disqualifications also rely on Section 19 service-voter rolls — both fall under the RPA framework but the disqualification arises from constitutional Schedule, not statute."
+      },
+      {
+        "topic": "Article 329(b) (Election Petitions)",
+        "context": "Disputes over service-voter inclusion can only be raised via election petitions, not writ petitions — Article 329(b) bars judicial intervention during the election process."
+      },
+      {
+        "topic": "Sukhbir Singh v. State of Punjab (1991)",
+        "context": "The Supreme Court held that vote-secrecy of postal ballots is a 'free and fair election' essential — directly relevant when expanding ETPBS distribution."
+      },
+      {
+        "topic": "Model Code of Conduct (MCC)",
+        "context": "MCC restrictions on government announcements apply once the EC issues the election schedule — including any subsequent service-voter additions."
+      },
+      {
+        "topic": "Election Commission's Procedural Powers (Mohinder Singh Gill, 1978)",
+        "context": "The SC held the ECI's residuary powers under Article 324 include filling statutory gaps. Critics argue service-voter expansion via procedural order rather than amendment tests this doctrine."
+      }
+    ],
+    "_hash": "9e8220a7f570",
+    "_fetched": "2026-07-30T22:12:44.037271+00:00",
+    "_relevance": 67,
+    "_gs": [
+      "GS2"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "examine",
+    "_mcqs": [
+      {
+        "q": "Consider the following statements:\n1. The Election Commission of India is a constitutional body.\n2. The Chief Election Commissioner can be removed by the President.\n3. The ECI's procedural orders are subject to judicial review.\nWhich of the above is/are correct?",
+        "options": [
+          "1 only",
+          "2 only",
+          "1 and 2 only",
+          "1, 2 and 3"
+        ],
+        "correct": 0,
+        "explanation": "Statement 1 is correct: The ECI is a constitutional body under Article 324. Statement 2 is incorrect: The CEC can only be removed by the procedure for removing a Supreme Court judge. Statement 3 is correct: The ECI's procedural orders are subject to judicial review.",
+        "trap": "Wrong Article"
+      },
+      {
+        "q": "Consider the following statements:\n1. The Representation of the People Act, 1951, defines 'service voters'.\n2. The ECI's procedural orders are binding on all political parties.\n3. The Supreme Court has held that vote secrecy is essential for free and fair elections.\nWhich of the above is/are correct?",
+        "options": [
+          "1 only",
+          "1 and 2 only",
+          "1 and 3 only",
+          "1, 2 and 3"
+        ],
+        "correct": 0,
+        "explanation": "Statement 1 is correct: The RPA, 1951, defines 'service voters'. Statement 2 is incorrect: The ECI's procedural orders are not binding on all political parties. Statement 3 is correct: The Supreme Court has held that vote secrecy is essential for free and fair elections.",
+        "trap": "Compositional Error"
+      }
+    ]
+  },
+  {
+    "id": 2041,
+    "title": "US stocks: US market ends sharply higher, lifted by soaring ",
+    "cat": "economy",
+    "upsc": true,
+    "time": "2026-07-30T22:14:56.455090+00:00",
+    "summary": "Wall Street surged on Thursday, led by chip stocks and Microsoft's strong forecast.  Microsoft's forecast eased investor concerns about massive artifi",
+    "story_fact": "",
+    "background": "",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "Economic Times",
+    "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-us-market-ends-sharply-higher-lifted-by-soaring-microsoft/articleshow/132749971.cms",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "fffade0923e9",
+    "_fetched": "2026-07-30T22:14:56.455090+00:00",
+    "_relevance": 50,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 2042,
+    "title": "External shock risks rise as geopolitics, AI reshape global ",
+    "cat": "economy",
+    "upsc": false,
+    "time": "2026-07-30T22:17:08.876047+00:00",
+    "summary": "",
+    "story_fact": "",
+    "background": "",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "IE Business",
+    "link": "https://indianexpress.com/article/business/rbi-financial-stability-report-2026-sanjay-malhotra-ai-10765033/",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "76aacd604e44",
+    "_fetched": "2026-07-30T22:17:08.876047+00:00",
+    "_relevance": 39,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 2043,
+    "title": "PM Modi drops late-night selfie video after anti-paper leak ",
+    "cat": "india",
+    "upsc": false,
+    "time": "2026-07-30T22:19:21.411804+00:00",
+    "summary": "Prime Minister Narendra Modi welcomed Parliament’s passage of the anti-paper leak Bill, calling it a major step towards a credible examination system ",
+    "story_fact": "",
+    "background": "",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "LiveMint",
+    "link": "https://www.livemint.com/news/india/pm-modi-drops-late-night-selfie-video-after-anti-paper-leak-bill-gets-parliament-s-nod-says-exam-mafias-wont-be-spare-11785440748411.html",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "1e913efc7e1d",
+    "_fetched": "2026-07-30T22:19:21.411804+00:00",
+    "_relevance": 35,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
   }
 ]
