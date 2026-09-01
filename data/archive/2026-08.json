@@ -4402,5 +4402,423 @@
     "_difficulty": 2,
     "_directive": "discuss",
     "_mcqs": []
+  },
+  {
+    "id": 2035,
+    "title": "RBI Special Windows Attract $100B Forex Inflows",
+    "cat": "economy",
+    "upsc": true,
+    "time": "2026-08-02T22:00:52.073786+00:00",
+    "summary": "The Reserve Bank of India's new forex inflow programs have attracted over $40 billion in foreign exchange and may exceed initial estimates, aiming to support the balance of payments.",
+    "story_fact": "RBI's special windows may attract $100B in forex inflows.",
+    "background": "The RBI introduced these facilities to support the balance of payments. These programs aim to cushion the impact of global economic uncertainty on India's economy.",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "Economic Times",
+    "link": "https://economictimes.indiatimes.com/news/economy/policy/rbi-special-windows-seen-big-enough-to-bring-in-100b/articleshow/132813309.cms",
+    "prelims": [
+      "The <strong>Reserve Bank of India</strong> has introduced special windows to attract forex inflows, aiming to support the balance of payments.",
+      "The <strong>Foreign Exchange Management Act, 1999</strong> regulates foreign exchange transactions in India, including those related to the RBI's special windows.",
+      "The RBI's special windows have already mobilized over <strong>$40 billion</strong> in foreign exchange, with estimates suggesting they may attract up to $100 billion.",
+      "The <strong>Liberalized Remittance Scheme</strong> allows residents to remit up to $250,000 per year, which is not directly affected by the RBI's special windows.",
+      "The <strong>Fiscal Responsibility and Budget Management Act, 2003</strong> requires the government to disclose contingent liabilities, including those related to the RBI's special windows."
+    ],
+    "mains": {
+      "q": "The RBI's absorption of forex risk on sovereign USD issuance raises questions about the independence of monetary policy. Examine.",
+      "marks": "15 marks · GS3",
+      "directive": "examine",
+      "hints": [
+        "Frame the central trade-off: forex inflows boost reserves but absorbing currency risk creates a contingent sovereign liability.",
+        "Cite the Subramanian Panel (2018) recommendation against sovereign forex guarantees, and contrast with the 2008 LTRO experience.",
+        "Distinguish: the proposal addresses inward flows (FPI/FDI) and does not change the Liberalised Remittance Scheme ($250,000/yr cap) for outward flows.",
+        "Apply the FRBM Act, 2003 — any contingent liability must be disclosed in the annual Fiscal Responsibility statement to Parliament.",
+        "Conclude by proposing a sunset clause and a quarterly review by the Monetary Policy Committee, separating the rate-setting mandate from this fiscal-risk function."
+      ]
+    },
+    "connect": [
+      {
+        "topic": "Monetary Policy Committee (MPC)",
+        "context": "The MPC's rate-setting mandate may be affected by the RBI's absorption of forex risk on sovereign USD issuance."
+      },
+      {
+        "topic": "Subramanian Panel (2018) on RBI's Role",
+        "context": "The Subramanian Panel recommended against sovereign forex guarantees, which contrasts with the RBI's current absorption of forex risk on sovereign USD issuance."
+      }
+    ],
+    "_hash": "b9ab829e66c6",
+    "_fetched": "2026-08-02T22:00:52.073786+00:00",
+    "_relevance": 72,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "examine",
+    "_mcqs": [
+      {
+        "q": "Consider the following statements:\n1. The RBI's special windows are open to all foreign investors.\n2. The special windows are limited to USD-denominated sovereign issuance.\nWhich of the above is/are correct?",
+        "options": [
+          "1 only",
+          "2 only",
+          "1 and 2 only",
+          "1, 2 and 3"
+        ],
+        "correct": 1,
+        "explanation": "Statement 1 is incorrect: the RBI's special windows are not open to all foreign investors. Statement 2 is correct: the special windows are limited to USD-denominated sovereign issuance.",
+        "trap": "Scope Confusion"
+      },
+      {
+        "q": "Consider the following statements:\n1. The RBI's absorption of forex risk is a fiscal policy decision.\n2. The RBI's absorption of forex risk is a monetary policy decision.\nWhich of the above is/are correct?",
+        "options": [
+          "1 only",
+          "2 only",
+          "1 and 2 only",
+          "1, 2 and 3"
+        ],
+        "correct": 1,
+        "explanation": "Statement 1 is correct: the RBI's absorption of forex risk has implications for fiscal policy. Statement 2 is incorrect: the RBI's absorption of forex risk is not a traditional monetary policy decision.",
+        "trap": "Compositional Error"
+      }
+    ]
+  },
+  {
+    "id": 2036,
+    "title": "Data centres draw 40% of institutional capital in the June q",
+    "cat": "tech",
+    "upsc": true,
+    "time": "2026-08-02T22:03:04.835568+00:00",
+    "summary": "Data centres are now the second-largest investment recipient, attracting substantial institutional capital.  Rapid AI adoption and cloud expansion fue",
+    "story_fact": "",
+    "background": "",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "ET Economy",
+    "link": "https://economictimes.indiatimes.com/news/economy/infrastructure/data-centres-draw-40-of-institutional-capital-in-the-june-quarter/articleshow/132813300.cms",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "ca02064c524f",
+    "_fetched": "2026-08-02T22:03:04.835568+00:00",
+    "_relevance": 50,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 2037,
+    "title": "Strong health systems for all with better public spending",
+    "cat": "economy",
+    "upsc": false,
+    "time": "2026-08-02T22:05:17.231582+00:00",
+    "summary": "With foreign aid cuts and strained domestic budgets, the way forward may be to spend available money better",
+    "story_fact": "",
+    "background": "",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "The Hindu",
+    "link": "https://www.thehindu.com/opinion/op-ed/strong-health-systems-for-all-with-better-public-spending/article71298594.ece",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "b6fdf9c1bbc4",
+    "_fetched": "2026-08-02T22:05:17.231582+00:00",
+    "_relevance": 31,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 2038,
+    "title": "India, Canada to Conclude CEPA by 2026",
+    "cat": "economy",
+    "upsc": true,
+    "time": "2026-08-02T19:20:19.250730+00:00",
+    "summary": "India and Canada aim to finalize the Comprehensive Economic Partnership Agreement by 2026, liberalizing trade and strengthening economic cooperation.",
+    "story_fact": "India and Canada aim to conclude CEPA by end-2026.",
+    "background": "The Comprehensive Economic Partnership Agreement is a trade agreement that aims to reduce tariffs and increase economic cooperation between countries. India and Canada have been negotiating the agreement to strengthen their economic ties.",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "Economic Times",
+    "link": "https://economictimes.indiatimes.com/news/economy/foreign-trade/india-canada-aim-to-conclude-cepa-trade-pact-by-end-2026-mea/articleshow/132813105.cms",
+    "prelims": [
+      "The <strong>Comprehensive Economic Partnership Agreement (CEPA)</strong> is a trade agreement that aims to reduce tariffs and increase economic cooperation between countries.",
+      "The <strong>India-Canada CEPA</strong> negotiations are based on the <strong>WTO's General Agreement on Tariffs and Trade (GATT)</strong> principles.",
+      "The <strong>CEPA</strong> agreement will cover <strong>tariff reductions</strong> on goods and services, as well as <strong>investment</strong> and <strong>dispute settlement</strong> mechanisms.",
+      "The <strong>India-Canada trade</strong> relationship has been growing, with bilateral trade increasing by <strong>15%</strong> in the last year.",
+      "The <strong>CEPA</strong> agreement is expected to increase <strong>Indian exports</strong> to Canada by <strong>20%</strong> and <strong>Canadian investments</strong> in India by <strong>30%</strong>."
+    ],
+    "mains": {
+      "q": "The India-Canada CEPA aims to liberalize trade and strengthen economic cooperation. Examine the potential benefits and challenges of this agreement. (15 marks · GS2)",
+      "marks": "15 marks · GS2",
+      "directive": "examine",
+      "hints": [
+        "Frame the central trade-off: increased trade vs potential job losses in sensitive sectors.",
+        "Cite the example of the India-ASEAN FTA, which increased trade but also led to concerns about trade deficits.",
+        "Distinguish between the benefits of tariff reductions and the challenges of non-tariff barriers.",
+        "Apply the principles of comparative advantage to argue that CEPA will benefit both countries.",
+        "Conclude by suggesting ways to mitigate potential challenges, such as providing support to affected industries."
+      ]
+    },
+    "connect": [
+      {
+        "topic": "India-ASEAN Free Trade Agreement",
+        "context": "The India-ASEAN FTA is an example of a trade agreement that increased trade but also led to concerns about trade deficits, which is relevant to the India-Canada CEPA negotiations."
+      },
+      {
+        "topic": "Comparative Advantage",
+        "context": "The principle of comparative advantage suggests that countries should specialize in producing goods and services in which they have a lower opportunity cost, which is relevant to the India-Canada CEPA negotiations."
+      },
+      {
+        "topic": "Non-Tariff Barriers",
+        "context": "Non-tariff barriers, such as regulatory standards, can be a significant challenge in trade agreements, and the India-Canada CEPA will need to address these issues to be effective."
+      }
+    ],
+    "_hash": "8e94f00d65cb",
+    "_fetched": "2026-08-02T19:20:19.250730+00:00",
+    "_relevance": 58,
+    "_gs": [
+      "GS2",
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "examine",
+    "_mcqs": [
+      {
+        "q": "Consider the following statements:\n1. The India-Canada CEPA aims to reduce tariffs on goods and services.\n2. The agreement will cover investment and dispute settlement mechanisms.\n3. The CEPA is expected to increase Indian exports to Canada by 30%.\nWhich of the above is/are correct?",
+        "options": [
+          "1 and 2 only",
+          "1 and 3 only",
+          "2 and 3 only",
+          "1, 2 and 3"
+        ],
+        "correct": 0,
+        "explanation": "Statement 1 is correct: The CEPA aims to reduce tariffs on goods and services. Statement 2 is correct: The agreement will cover investment and dispute settlement mechanisms. Statement 3 is incorrect: The CEPA is expected to increase Indian exports to Canada by 20%, not 30%.",
+        "trap": "Quantitative Trap"
+      },
+      {
+        "q": "Consider the following statements:\n1. The India-Canada CEPA is based on the WTO's General Agreement on Tariffs and Trade (GATT) principles.\n2. The agreement will cover non-tariff barriers, such as regulatory standards.\n3. The CEPA is expected to increase Canadian investments in India by 40%.\nWhich of the above is/are correct?",
+        "options": [
+          "1 only",
+          "2 only",
+          "1 and 2 only",
+          "1, 2 and 3"
+        ],
+        "correct": 2,
+        "explanation": "Statement 1 is correct: The CEPA is based on the WTO's GATT principles. Statement 2 is correct: The agreement will cover non-tariff barriers, such as regulatory standards. Statement 3 is incorrect: The CEPA is expected to increase Canadian investments in India by 30%, not 40%.",
+        "trap": "Quantitative Trap"
+      }
+    ]
+  },
+  {
+    "id": 2039,
+    "title": "Centre Divides Ministry of Housing and Urban Affairs",
+    "cat": "policy",
+    "upsc": true,
+    "time": "2026-08-02T19:20:56.758262+00:00",
+    "summary": "The Ministry of Housing and Urban Affairs has been split into two specialized departments, focusing on capital development and urban development, to streamline service delivery and accelerate infrastructure projects.",
+    "story_fact": "The Ministry of Housing and Urban Affairs was split into two specialized departments.",
+    "background": "The Ministry of Housing and Urban Affairs is responsible for implementing various urban development schemes and programs. The ministry's restructuring aims to improve its efficiency and effectiveness.",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "Economic Times",
+    "link": "https://economictimes.indiatimes.com/news/economy/infrastructure/govts-urban-reset-centre-divides-ministry-of-housing-and-urban-affairs-into-two-specialised-verticals/articleshow/132812900.cms",
+    "prelims": [
+      "The <strong>Ministry of Housing and Urban Affairs</strong> has undergone a structural overhaul, with senior bureaucrats replaced and new leadership appointed to spearhead its flagship missions.",
+      "The <strong>Urban Development Department</strong> will focus on urban planning, housing, and infrastructure development, while the <strong>Capital Development Department</strong> will oversee the development of new capital cities and smart cities.",
+      "The ministry's restructuring aims to <strong>streamline service delivery</strong> and <strong>accelerate infrastructure projects</strong>, with a focus on improving the quality of life in urban areas.",
+      "The <strong>74th Constitutional Amendment Act, 1992</strong>, which gave constitutional status to urban local bodies, provides the framework for urban development in India.",
+      "The <strong>Smart Cities Mission</strong>, launched in 2015, aims to promote sustainable and inclusive urban development, with a focus on improving infrastructure, transportation, and public services."
+    ],
+    "mains": {
+      "q": "The restructuring of the Ministry of Housing and Urban Affairs into two specialized departments raises questions about the effectiveness of such administrative reforms in achieving urban development goals. Examine.",
+      "marks": "15 marks · GS2",
+      "directive": "examine",
+      "hints": [
+        "Frame the central trade-off: administrative efficiency versus potential fragmentation of urban development efforts.",
+        "Cite the 74th Constitutional Amendment Act, 1992, and its provisions for urban local bodies, to argue for or against the restructuring.",
+        "Distinguish between the roles of the Urban Development Department and the Capital Development Department, and argue for their potential impact on urban development.",
+        "Apply the principles of good governance, such as transparency and accountability, to evaluate the potential effectiveness of the restructuring.",
+        "Conclude by proposing a framework for evaluating the success of the restructuring, including key performance indicators and metrics."
+      ]
+    },
+    "connect": [
+      {
+        "topic": "Jawaharlal Nehru National Urban Renewal Mission (JNNURM)",
+        "context": "The mission aimed to improve the quality of life in urban areas, with a focus on infrastructure development and urban governance."
+      },
+      {
+        "topic": "Atal Mission for Rejuvenation and Urban Transformation (AMRUT)",
+        "context": "The mission aims to improve the quality of life in urban areas, with a focus on infrastructure development, urban governance, and citizen participation."
+      },
+      {
+        "topic": "Swachh Bharat Abhiyan",
+        "context": "The mission aims to improve sanitation and hygiene in urban areas, with a focus on waste management, toilet construction, and behavioral change."
+      }
+    ],
+    "_hash": "03805fc74b6d",
+    "_fetched": "2026-08-02T19:20:56.758262+00:00",
+    "_relevance": 46,
+    "_gs": [
+      "GS2"
+    ],
+    "_sourceType": "ministry",
+    "_difficulty": 2,
+    "_directive": "examine",
+    "_mcqs": [
+      {
+        "q": "Consider the following statements:\n1. The Ministry of Housing and Urban Affairs has been split into two specialized departments.\n2. The Urban Development Department will focus on rural development.\n3. The Capital Development Department will oversee the development of new capital cities.\nWhich of the above is/are correct?",
+        "options": [
+          "1 only",
+          "1 and 3 only",
+          "2 and 3 only",
+          "1, 2 and 3"
+        ],
+        "correct": 1,
+        "explanation": "Statement 1 is correct: The Ministry of Housing and Urban Affairs has indeed been split into two specialized departments. Statement 2 is incorrect: The Urban Development Department will focus on urban development, not rural development. Statement 3 is correct: The Capital Development Department will oversee the development of new capital cities.",
+        "trap": "Wrong Body"
+      },
+      {
+        "q": "Consider the following statements:\n1. The 74th Constitutional Amendment Act, 1992, gave constitutional status to urban local bodies.\n2. The Smart Cities Mission was launched in 2010.\n3. The Ministry of Housing and Urban Affairs has been split into three specialized departments.\nWhich of the above is/are correct?",
+        "options": [
+          "1 only",
+          "2 only",
+          "1 and 2 only",
+          "1, 2 and 3"
+        ],
+        "correct": 0,
+        "explanation": "Statement 1 is correct: The 74th Constitutional Amendment Act, 1992, did give constitutional status to urban local bodies. Statement 2 is incorrect: The Smart Cities Mission was launched in 2015, not 2010. Statement 3 is incorrect: The Ministry of Housing and Urban Affairs has been split into two specialized departments, not three.",
+        "trap": "Timeline Confusion"
+      }
+    ]
+  },
+  {
+    "id": 2040,
+    "title": "Government plans to ease forex rule for SEZ services exports",
+    "cat": "economy",
+    "upsc": false,
+    "time": "2026-08-02T19:23:09.607265+00:00",
+    "summary": "The current provision under Section 2(z) of the SEZ Act, 2005 mandates that proceeds for SEZ to DTA supplies of services must be realised in foreign e",
+    "story_fact": "",
+    "background": "",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "ET Economy",
+    "link": "https://economictimes.indiatimes.com/news/economy/policy/government-plans-to-ease-forex-rule-for-sez-services-exports-to-domestic-tariff-areas/articleshow/132812586.cms",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "b1c9ca354ec0",
+    "_fetched": "2026-08-02T19:23:09.607265+00:00",
+    "_relevance": 45,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 2041,
+    "title": "Processed food exports gain steam, US leads the rise in glob",
+    "cat": "world",
+    "upsc": false,
+    "time": "2026-08-02T19:25:22.594162+00:00",
+    "summary": "Exports of ready-to-eat and cooked food items increased 16% to $2.4 billion in 2025-26 from $2.1 billion in the previous financial year, according to ",
+    "story_fact": "",
+    "background": "",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "ET Economy",
+    "link": "https://economictimes.indiatimes.com/news/economy/foreign-trade/processed-food-exports-gain-steam-us-leads-the-rise-in-global-appetite/articleshow/132812525.cms",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "cbc66ad13c02",
+    "_fetched": "2026-08-02T19:25:22.594162+00:00",
+    "_relevance": 38,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 2042,
+    "title": "Congress workers detained in Pune ahead of Shah, Doval visit",
+    "cat": "india",
+    "upsc": false,
+    "time": "2026-08-02T19:27:35.368045+00:00",
+    "summary": "The individuals were taken into custody. The police described the action as a preventive measure. The measure was intended to maintain order during th",
+    "story_fact": "",
+    "background": "",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "The Hindu",
+    "link": "https://www.thehindu.com/news/national/maharashtra/congress-workers-detained-in-pune-ahead-of-shah-doval-visit/article71295270.ece",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "59a7ed100991",
+    "_fetched": "2026-08-02T19:27:35.368045+00:00",
+    "_relevance": 31,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
   }
 ]
