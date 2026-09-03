@@ -10961,5 +10961,224 @@
     "_difficulty": 2,
     "_directive": "discuss",
     "_mcqs": []
+  },
+  {
+    "id": 2035,
+    "title": "SpaceX Revenue Surges 92% in Q2",
+    "cat": "tech",
+    "upsc": true,
+    "time": "2026-08-04T22:18:03.048811+00:00",
+    "summary": "SpaceX reported a 92% increase in revenue, driven by growth in its Starlink business and AI initiatives, despite a net loss due to infrastructure investments.",
+    "story_fact": "SpaceX's quarterly revenue surged 92% due to Starlink growth.",
+    "background": "SpaceX is a private aerospace manufacturer and space transport services company. Its Starlink project aims to provide global satellite internet connectivity.",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "Economic Times",
+    "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-spacex-quarterly-revenue-surges-in-debut-results-on-strong-growth-in-its-starlink-business/articleshow/132872768.cms",
+    "prelims": [
+      "The <strong>Starlink</strong> project by SpaceX aims to provide global satellite internet connectivity, with over 4,000 satellites launched to date.",
+      "The <strong>Communications Act of 1934</strong> regulates satellite communications in the US, requiring companies like SpaceX to obtain licenses for their operations.",
+      "SpaceX has launched <strong>over 4,000 Starlink satellites</strong> into orbit, with plans to expand its constellation to provide global coverage.",
+      "The <strong>Federal Communications Commission (FCC)</strong> has approved SpaceX's plans to launch thousands of Starlink satellites, subject to certain conditions.",
+      "The <strong>ITU Radio Regulations</strong> govern the use of satellite orbits and frequencies, ensuring that companies like SpaceX do not interfere with other satellite operations."
+    ],
+    "mains": {
+      "q": "How does the growth of private space companies like SpaceX impact the regulatory framework for space exploration? Examine.",
+      "marks": "15 marks · GS3",
+      "directive": "examine",
+      "hints": [
+        "Frame the central issue: the need for a balanced regulatory approach that promotes innovation while ensuring safety and compliance with international norms.",
+        "Cite the example of the FCC's approval of SpaceX's Starlink plans, highlighting the conditions imposed to mitigate potential interference with other satellite operations.",
+        "Distinguish between the regulatory frameworks for commercial space activities in the US and other countries, such as India's recently introduced Space Activities Bill.",
+        "Apply the principles of international space law, including the Outer Space Treaty, to argue for a more harmonized global regulatory approach.",
+        "Conclude by suggesting ways to enhance international cooperation in regulating private space activities, such as through the establishment of a global space agency or the development of common technical standards."
+      ]
+    },
+    "connect": [
+      {
+        "topic": "Outer Space Treaty",
+        "context": "The treaty's principles, such as the prohibition on nuclear weapons in space, are relevant to the growth of private space companies like SpaceX."
+      },
+      {
+        "topic": "FCC Regulations",
+        "context": "The FCC's approval of SpaceX's Starlink plans highlights the importance of regulatory frameworks for commercial space activities."
+      },
+      {
+        "topic": "Space Activities Bill (India)",
+        "context": "India's recently introduced Space Activities Bill provides a regulatory framework for private space activities, which can be compared to the regulatory approaches in other countries."
+      },
+      {
+        "topic": "Private Space Companies",
+        "context": "The growth of private space companies like SpaceX, Blue Origin, and Virgin Galactic raises questions about the need for a more harmonized global regulatory approach to space exploration."
+      }
+    ],
+    "_hash": "4c01786adc9d",
+    "_fetched": "2026-08-04T22:18:03.048811+00:00",
+    "_relevance": 40,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "examine",
+    "_mcqs": [
+      {
+        "q": "Consider the following statements:\n1. SpaceX's Starlink project is regulated by the FCC.\n2. The ITU Radio Regulations govern the use of satellite orbits and frequencies.\n3. Private space companies are exempt from complying with international space law.\nWhich of the above is/are correct?",
+        "options": [
+          "1 only",
+          "2 only",
+          "1 and 2 only",
+          "1, 2 and 3"
+        ],
+        "correct": 2,
+        "explanation": "Statement 1 is correct: the FCC regulates satellite communications in the US. Statement 2 is correct: the ITU Radio Regulations govern the use of satellite orbits and frequencies. Statement 3 is incorrect: private space companies must comply with international space law.",
+        "trap": "Definitional Trap"
+      },
+      {
+        "q": "Consider the following statements:\n1. The Outer Space Treaty prohibits the use of nuclear weapons in space.\n2. The FCC has approved SpaceX's plans to launch thousands of Starlink satellites.\n3. Private space companies are required to obtain licenses for their operations from the ITU.\nWhich of the above is/are correct?",
+        "options": [
+          "1 only",
+          "2 only",
+          "1 and 2 only",
+          "1, 2 and 3"
+        ],
+        "correct": 2,
+        "explanation": "Statement 1 is correct: the Outer Space Treaty prohibits the use of nuclear weapons in space. Statement 2 is correct: the FCC has approved SpaceX's plans to launch thousands of Starlink satellites. Statement 3 is incorrect: private space companies obtain licenses from national regulatory authorities, not the ITU.",
+        "trap": "Wrong Body"
+      }
+    ]
+  },
+  {
+    "id": 2036,
+    "title": "Why is a SpaceX rocket crashing into the Moon today? Impact ",
+    "cat": "science",
+    "upsc": false,
+    "time": "2026-08-04T22:20:16.130598+00:00",
+    "summary": "Although the impact will create a plume of lunar dust, experts say it poses no danger to Earth and is unlikely to be visible without specialized teles",
+    "story_fact": "",
+    "background": "",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "LiveMint",
+    "link": "https://www.livemint.com/news/world/why-is-a-spacex-rocket-crashing-into-the-moon-today-impact-time-location-and-everything-you-need-to-know-11785875601741.html",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "594dc3f5b5ea",
+    "_fetched": "2026-08-04T22:20:16.130598+00:00",
+    "_relevance": 33,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 2037,
+    "title": "Security beefed up as Congress, PDP, NC to observe August 5 ",
+    "cat": "india",
+    "upsc": false,
+    "time": "2026-08-04T22:22:29.190579+00:00",
+    "summary": "Police, the Army and the CRPF have stepped up security arrangements by increasing vehicle checking, frisking and surveillance at sensitive locations a",
+    "story_fact": "",
+    "background": "",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "The Hindu",
+    "link": "https://www.thehindu.com/news/national/jammu-and-kashmir/security-beefed-up-as-congress-pdp-nc-to-observe-august-5-as-black-day/article71307010.ece",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "fc83a05a2ecd",
+    "_fetched": "2026-08-04T22:22:29.190579+00:00",
+    "_relevance": 31,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 2038,
+    "title": "Opposition seeks debate on Ram temple theft, police action",
+    "cat": "india",
+    "upsc": false,
+    "time": "2026-08-04T22:24:42.266310+00:00",
+    "summary": "Mallikarjun Kharge says govt. ‘seems panicked’ and the ‘truth will come out’ if there is a debate on the Ram Mandir issue and police brutality against",
+    "story_fact": "",
+    "background": "",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "The Hindu",
+    "link": "https://www.thehindu.com/news/national//article71305390.ece",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "9d491d110c88",
+    "_fetched": "2026-08-04T22:24:42.266310+00:00",
+    "_relevance": 31,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 2039,
+    "title": "Udhayanidhi Stalin arrest updates: Leader of Opposition says",
+    "cat": "tech",
+    "upsc": false,
+    "time": "2026-08-04T22:26:55.341588+00:00",
+    "summary": "He accused the TVK government of filing the case to distract the public from the issues faced by farmers he raised.",
+    "story_fact": "",
+    "background": "",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "The Hindu",
+    "link": "https://www.thehindu.com/news/national/tamil-nadu/udhayanidhi-stalin-arrest-trisha-comment-dmk-protests-tvk-vijay-tamil-nadu-politics-live-updates-august-4-2026/article71304357.ece",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "f0b6ffecde1c",
+    "_fetched": "2026-08-04T22:26:55.341588+00:00",
+    "_relevance": 31,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
   }
 ]
