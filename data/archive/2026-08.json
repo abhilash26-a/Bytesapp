@@ -30446,5 +30446,416 @@
     "_difficulty": 2,
     "_directive": "discuss",
     "_mcqs": []
+  },
+  {
+    "id": 1843,
+    "title": "Nirmala Sitharaman: UPI to Remain Free",
+    "cat": "economy",
+    "upsc": true,
+    "time": "2026-08-10T19:05:25.058890+00:00",
+    "summary": "Nirmala Sitharaman tells Rajya Sabha that UPI will remain free for consumers. The Rajya Sabha passes the Bankers’ Books Evidence Bill and returns the Taxation and Other Laws (Amendment) Bill.",
+    "story_fact": "Nirmala Sitharaman announces UPI to remain free for consumers",
+    "background": "The Unified Payments Interface (UPI) is a payment system that allows users to transfer funds between bank accounts. The Reserve Bank of India (RBI) and the National Payments Corporation of India (NPCI) regulate UPI.",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "The Hindu",
+    "link": "https://www.thehindu.com/news/national/upi-will-remain-free-for-consumers-nirmala-sitharaman-tells-rajya-sabha/article71329536.ece",
+    "prelims": [
+      "The <strong>Unified Payments Interface (UPI)</strong> is a payment system that allows users to transfer funds between bank accounts, regulated by the RBI and NPCI.",
+      "The <strong>Reserve Bank of India (RBI)</strong> has the power to regulate payment systems under the Payment and Settlement Systems Act, 2007.",
+      "As of <strong>2022</strong>, UPI has seen significant growth, with over 5 billion transactions per month.",
+      "The <strong>National Payments Corporation of India (NPCI)</strong> is an organization that develops and implements payment systems, including UPI.",
+      "The <strong>Payment and Settlement Systems Act, 2007</strong> provides the regulatory framework for payment systems in India, including UPI."
+    ],
+    "mains": {
+      "q": "The decision to keep UPI free for consumers has implications for the digital payments ecosystem. Examine.",
+      "marks": "15 marks · GS3",
+      "directive": "examine",
+      "hints": [
+        "Frame the central trade-off: UPI's growth has been driven by its convenience and low cost, but maintaining it as a free service may impact the revenue models of payment service providers.",
+        "Cite the RBI's guidelines on payment system operators, which emphasize the need for a level playing field and fair competition.",
+        "Distinguish between the regulatory frameworks for UPI and other payment systems, such as credit cards and net banking.",
+        "Apply the concept of network effects in payment systems, where the value of the system increases with the number of users.",
+        "Conclude by suggesting measures to ensure the long-term sustainability of UPI while maintaining its accessibility and convenience for consumers."
+      ]
+    },
+    "connect": [
+      {
+        "topic": "RBI Act, 1934",
+        "context": "The RBI Act gives the RBI the power to regulate the money supply and credit in the economy, which has implications for the growth and development of payment systems like UPI."
+      },
+      {
+        "topic": "National Electronic Funds Transfer (NEFT)",
+        "context": "NEFT is another payment system regulated by the RBI, which allows users to transfer funds between bank accounts, and its regulatory framework is similar to that of UPI."
+      },
+      {
+        "topic": "Digital Payments Index (DPI)",
+        "context": "The DPI is a measure of the growth and development of digital payments in India, which includes UPI transactions, and is used to track the progress of the digital payments ecosystem."
+      },
+      {
+        "topic": "Financial Inclusion",
+        "context": "The growth of UPI and other digital payment systems has contributed to financial inclusion in India, by providing access to financial services for underserved populations, and has implications for the overall development of the economy."
+      }
+    ],
+    "_hash": "b96cd517cd95",
+    "_fetched": "2026-08-10T19:05:25.058890+00:00",
+    "_relevance": 57,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "examine",
+    "_mcqs": [
+      {
+        "q": "Consider the following statements:\n1. UPI is regulated by the RBI under the Payment and Settlement Systems Act, 2007.\n2. The NPCI is responsible for developing and implementing UPI.\n3. UPI transactions are subject to a small fee paid by the recipient.\nWhich of the above is/are correct?",
+        "options": [
+          "1 only",
+          "1 and 2 only",
+          "2 and 3 only",
+          "1, 2 and 3"
+        ],
+        "correct": 1,
+        "explanation": "Statement 1 is correct: The RBI regulates UPI under the Payment and Settlement Systems Act, 2007. Statement 2 is correct: The NPCI develops and implements UPI. Statement 3 is incorrect: UPI transactions are free for consumers.",
+        "trap": "Quantitative Trap"
+      },
+      {
+        "q": "Consider the following statements:\n1. The RBI has the power to regulate payment systems under the RBI Act, 1934.\n2. The Payment and Settlement Systems Act, 2007, provides the regulatory framework for UPI.\n3. The NPCI is a subsidiary of the RBI.\nWhich of the above is/are correct?",
+        "options": [
+          "1 only",
+          "2 only",
+          "1 and 2 only",
+          "2 and 3 only"
+        ],
+        "correct": 2,
+        "explanation": "Statement 1 is incorrect: The RBI's power to regulate payment systems comes from the Payment and Settlement Systems Act, 2007, not the RBI Act, 1934. Statement 2 is correct: The Payment and Settlement Systems Act, 2007, provides the regulatory framework for UPI. Statement 3 is incorrect: The NPCI is not a subsidiary of the RBI.",
+        "trap": "Wrong Article"
+      }
+    ]
+  },
+  {
+    "id": 1844,
+    "title": "T.N. government’s proposed four-year undergraduate programme",
+    "cat": "policy",
+    "upsc": true,
+    "time": "2026-08-10T19:07:37.577078+00:00",
+    "summary": "Many allege that the move smacks of duality in the government’s stand on National Education Policy (NEP) 2020",
+    "story_fact": "",
+    "background": "",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "The Hindu",
+    "link": "https://www.thehindu.com/news/national/tamil-nadu/tn-governments-proposed-four-year-undergraduate-programme-faces-resistance-from-students-faculty/article71322214.ece",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "ad2ec3b77bb8",
+    "_fetched": "2026-08-10T19:07:37.577078+00:00",
+    "_relevance": 52,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 1845,
+    "title": "Government offers Shah’s reply on students’ protests; Rahul ",
+    "cat": "economy",
+    "upsc": false,
+    "time": "2026-08-10T19:09:50.109017+00:00",
+    "summary": "Government says Home Minister Amit Shah ready to reply to any discussion on student protests; Parliament deadlock continues as Opposition refused to r",
+    "story_fact": "",
+    "background": "",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "The Hindu",
+    "link": "https://www.thehindu.com/news/national/amit-shah-to-speak-on-students-protest-says-kiren-rijiju-amid-opposition-demand-in-parliament/article71328032.ece",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "51201d9c5d7e",
+    "_fetched": "2026-08-10T19:09:50.109017+00:00",
+    "_relevance": 41,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 1846,
+    "title": "Rice use for ethanol may rise as maize, sugarcane acreage fa",
+    "cat": "economy",
+    "upsc": false,
+    "time": "2026-08-10T19:12:02.678675+00:00",
+    "summary": "India is set to ramp up rice utilization for ethanol production this year, amid reduced planting of maize and sugarcane, raising concerns about feedst",
+    "story_fact": "",
+    "background": "",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "ET Economy",
+    "link": "https://economictimes.indiatimes.com/news/economy/agriculture/rice-use-for-ethanol-may-rise-as-maize-sugarcane-acreage-falls-this-kharif-season/articleshow/133130617.cms",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "6cd2e151956c",
+    "_fetched": "2026-08-10T19:12:02.678675+00:00",
+    "_relevance": 38,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 1847,
+    "title": "Activists question Tamil Nadu Speaker J.C.D. Prabhakar’s par",
+    "cat": "policy",
+    "upsc": false,
+    "time": "2026-08-10T19:14:15.253037+00:00",
+    "summary": "They contend that a constitutional office-holder taking part in such an event could set a wrong precedent on women’s reproductive autonomy",
+    "story_fact": "",
+    "background": "",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "The Hindu",
+    "link": "https://www.thehindu.com/news/national/tamil-nadu/activists-question-speaker-jcd-prabhakars-participation-in-pro-life-rally/article71329041.ece",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "177cff685959",
+    "_fetched": "2026-08-10T19:14:15.253037+00:00",
+    "_relevance": 36,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 1848,
+    "title": "Supriya Sule’s meeting with PM sets off speculation over NCP",
+    "cat": "india",
+    "upsc": false,
+    "time": "2026-08-10T19:16:27.780703+00:00",
+    "summary": "The party’s position on delimitation would be decided only after the government introduced a Bill in Parliament, NCP(SP) spokesperson Mahesh Tapase sa",
+    "story_fact": "",
+    "background": "",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "The Hindu",
+    "link": "https://www.thehindu.com/news/national/ncp-sp-mps-meet-pm-modi-discuss-maharashtra-issues/article71328632.ece",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "9caafa7a1196",
+    "_fetched": "2026-08-10T19:16:27.780703+00:00",
+    "_relevance": 36,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 1849,
+    "title": "Bangladesh urges India to expedite Sheikh Hasina’s extraditi",
+    "cat": "india",
+    "upsc": false,
+    "time": "2026-08-10T19:18:40.267798+00:00",
+    "summary": "Indian High Commissioner Dinesh Trivedi calls on Prime Minister Tarique Rahman; “somewhat reassured” after meeting, says Bangladesh; exchanged views o",
+    "story_fact": "",
+    "background": "",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "The Hindu",
+    "link": "https://www.thehindu.com/news/national/amidst-tension-in-india-bangladesh-relations-high-commissioner-dinesh-trivedi-calls-on-pm-tarique-rahman/article71327338.ece",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "4316d174fe5a",
+    "_fetched": "2026-08-10T19:18:40.267798+00:00",
+    "_relevance": 33,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 1850,
+    "title": "11 new entry points added for foreigners to enter India: Hom",
+    "cat": "india",
+    "upsc": false,
+    "time": "2026-08-10T19:20:52.801620+00:00",
+    "summary": "The Ministry says the newly notified entry points comprise airports at Bhopal and Tirupati, and land ports of Agartala, Darranga, Gede, Ghojadanga, Ha",
+    "story_fact": "",
+    "background": "",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "The Hindu",
+    "link": "https://www.thehindu.com/news/national/11-new-entry-points-added-for-foreigners-to-enter-india-home-ministry/article71329415.ece",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "46e17844b056",
+    "_fetched": "2026-08-10T19:20:52.801620+00:00",
+    "_relevance": 33,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 1851,
+    "title": "From gold and LIC policy to SIPs and crypto: How investment ",
+    "cat": "tech",
+    "upsc": false,
+    "time": "2026-08-10T16:30:37.172530+00:00",
+    "summary": "Modern Indians are redefining investment strategies; rather than saving first, the youth now prioritize their financial goals before choosing investme",
+    "story_fact": "",
+    "background": "",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "Economic Times",
+    "link": "https://economictimes.indiatimes.com/wealth/invest/from-gold-and-lic-policy-to-sips-and-crypto-how-investment-habits-changed-from-boomers-to-millennials-to-gen-z/articleshow/133044977.cms",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "7d1ef25bd0eb",
+    "_fetched": "2026-08-10T16:30:37.172530+00:00",
+    "_relevance": 34,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 1852,
+    "title": "A.P. Minister seeks people support in local bodies elections",
+    "cat": "india",
+    "upsc": false,
+    "time": "2026-08-10T16:32:49.695171+00:00",
+    "summary": "Janardhan Reddy asks public not to trust the YSRCP, and says TDP-led coalition government is working for the welfare and development of the State",
+    "story_fact": "",
+    "background": "",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "The Hindu",
+    "link": "https://www.thehindu.com/news/national/andhra-pradesh/ap-minister-seeks-people-support-in-local-bodies-elections/article71329345.ece",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "0678cff564b6",
+    "_fetched": "2026-08-10T16:32:49.695171+00:00",
+    "_relevance": 33,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 1853,
+    "title": "Parliament clears taxation bill: FM Sitharaman says UPI will",
+    "cat": "economy",
+    "upsc": false,
+    "time": "2026-08-10T16:35:02.193164+00:00",
+    "summary": "Parliament clears the Taxation Bill as Nirmala Sitharaman says UPI payments will remain free for consumers. No MDR framework has been finalised yet.",
+    "story_fact": "",
+    "background": "",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "LiveMint",
+    "link": "https://www.livemint.com/news/india/parliament-clears-taxation-bill-fm-sitharaman-says-upi-will-remain-free-no-mdr-framework-yet-11786367727604.html",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "f582bec918e3",
+    "_fetched": "2026-08-10T16:35:02.193164+00:00",
+    "_relevance": 30,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
   }
 ]
