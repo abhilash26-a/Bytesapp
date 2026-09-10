@@ -31072,5 +31072,247 @@
     "_difficulty": 2,
     "_directive": "discuss",
     "_mcqs": []
+  },
+  {
+    "id": 1854,
+    "title": "Cabinet to Consider ₹50,000 Crore RE Corridor Phase 3",
+    "cat": "policy",
+    "upsc": true,
+    "time": "2026-08-11T02:11:19.966320+00:00",
+    "summary": "India plans a ₹50,000-crore push for its power grid as renewable capacity outpaces transmission infrastructure, aiming to ease renewables' curtailment.",
+    "story_fact": "India plans a ₹50,000-crore RE corridor phase 3",
+    "background": "The green energy corridor aims to boost power grid infrastructure. Renewable capacity growth outpaces transmission infrastructure development.",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "LiveMint Industry",
+    "link": "https://www.livemint.com/industry/energy/mnre-cabinet-re-green-corridor-rs-50-000-crore-electricity-grid-transmission-11786359863917.html",
+    "prelims": [
+      "The <strong>Green Energy Corridor</strong> is a ₹50,000-crore initiative to enhance power transmission infrastructure for renewable energy integration.",
+      "The <strong>Renewable Energy Certificate (REC)</strong> mechanism allows renewable energy generators to trade their excess energy.",
+      "India has set a target of <strong>500 GW</strong> of non-fossil fuel capacity by 2030, driving the need for enhanced transmission infrastructure.",
+      "The <strong>Ministry of Power</strong> has initiated several schemes to promote renewable energy, including the Green Energy Corridor project.",
+      "The <strong>Central Electricity Authority (CEA)</strong> is responsible for planning and coordinating the development of power infrastructure in India."
+    ],
+    "mains": {
+      "q": "The integration of renewable energy into the power grid raises questions about transmission infrastructure and grid stability. Examine.",
+      "marks": "15 marks · GS3",
+      "directive": "examine",
+      "hints": [
+        "Frame the central challenge: integrating variable renewable energy sources into a grid designed for baseload power.",
+        "Cite the example of the Green Energy Corridor project and its goals for enhancing transmission infrastructure.",
+        "Distinguish between the roles of the Ministry of Power and the Central Electricity Authority in promoting renewable energy and ensuring grid stability.",
+        "Apply the concept of grid resilience and the need for flexible generation and demand response to accommodate variable renewables.",
+        "Conclude by suggesting policy reforms to support the large-scale integration of renewable energy into the power grid."
+      ]
+    },
+    "connect": [
+      {
+        "topic": "National Clean Energy Fund (NCEF)",
+        "context": "The NCEF supports research and development in clean energy technologies, including those that enhance grid integration of renewables."
+      },
+      {
+        "topic": "Renewable Purchase Obligations (RPOs)",
+        "context": "RPOs mandate utilities to purchase a certain percentage of their power from renewable sources, driving demand for green energy and thus the need for better transmission infrastructure."
+      },
+      {
+        "topic": "Grid Connectivity Regulations",
+        "context": "These regulations outline the technical and commercial terms for connecting renewable energy projects to the grid, ensuring stability and efficiency."
+      },
+      {
+        "topic": "Energy Storage Systems",
+        "context": "Advancements in energy storage can mitigate the variability of renewable energy sources, making them more reliable and grid-friendly."
+      },
+      {
+        "topic": "Smart Grids Initiative",
+        "context": "The initiative aims to modernize the grid with smart technologies, enabling real-time monitoring and management of energy distribution, which is crucial for integrating renewables effectively."
+      }
+    ],
+    "_hash": "847bf85db713",
+    "_fetched": "2026-08-11T02:11:19.966320+00:00",
+    "_relevance": 44,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "examine",
+    "_mcqs": [
+      {
+        "q": "Consider the following statements:\n1. The Green Energy Corridor is a ₹50,000-crore initiative.\n2. The Renewable Energy Certificate (REC) mechanism is mandatory for all renewable energy generators.\n3. India aims to achieve 500 GW of non-fossil fuel capacity by 2030.\nWhich of the above is/are correct?",
+        "options": [
+          "1 only",
+          "1 and 2 only",
+          "1 and 3 only",
+          "1, 2 and 3"
+        ],
+        "correct": 2,
+        "explanation": "Statement 1 is correct: The Green Energy Corridor is indeed a ₹50,000-crore initiative. Statement 2 is incorrect: The REC mechanism is voluntary. Statement 3 is correct: India does aim for 500 GW of non-fossil fuel capacity by 2030.",
+        "trap": "Quantitative Trap"
+      },
+      {
+        "q": "Consider the following statements:\n1. The Ministry of Power is responsible for planning power infrastructure development.\n2. The Central Electricity Authority (CEA) oversees the integration of renewable energy into the grid.\n3. The Green Energy Corridor project is funded entirely by the private sector.\nWhich of the above is/are correct?",
+        "options": [
+          "1 only",
+          "2 only",
+          "1 and 2 only",
+          "1, 2 and 3"
+        ],
+        "correct": 2,
+        "explanation": "Statement 1 is correct: The Ministry of Power does have a role in planning. Statement 2 is correct: The CEA is involved in overseeing grid integration. Statement 3 is incorrect: The project is not entirely privately funded.",
+        "trap": "Scope Confusion"
+      }
+    ]
+  },
+  {
+    "id": 1855,
+    "title": "Belagavi IT Firm Flags 'Anthropic' Brand Name Confusion",
+    "cat": "tech",
+    "upsc": true,
+    "time": "2026-08-11T02:11:55.796097+00:00",
+    "summary": "Anthropic Software cautions Karnataka and Union governments against formal engagement with California-based AI firm until 'Anthropic' brand name dispute is resolved.",
+    "story_fact": "Anthropic Software flags 'Anthropic' brand name confusion with California-based AI firm.",
+    "background": "The 'Anthropic' brand name is used by both Anthropic Software and the California-based AI firm. The dispute arises from potential confusion between the two entities.",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "The Hindu",
+    "link": "https://www.thehindu.com/news/national/karnataka/belagavi-it-firm-flags-anthropic-brand-name-confusion-warns-of-email-misrouting-data-security-risks/article71329225.ece",
+    "prelims": [
+      "The <strong>Information Technology Act, 2000</strong> provides the framework for resolving domain name disputes in India.",
+      "The <strong>Trade Marks Act, 1999</strong> governs trademark registrations and disputes in India, including those related to brand names.",
+      "The <strong>California-based AI firm</strong> is developing AI technologies, which may have implications for India's tech industry.",
+      "The <strong>Ministry of Electronics and Information Technology</strong> oversees the development of India's IT sector, including AI and related technologies.",
+      "The <strong>World Intellectual Property Organization (WIPO)</strong> provides a framework for resolving international intellectual property disputes, including those related to brand names."
+    ],
+    "mains": {
+      "q": "The increasing use of AI technologies raises concerns about intellectual property protection. Examine the role of the Information Technology Act, 2000 in resolving domain name disputes in India.",
+      "marks": "15 marks · GS3",
+      "directive": "examine",
+      "hints": [
+        "Frame the central issue: the need for effective intellectual property protection in the AI sector.",
+        "Cite the Information Technology Act, 2000, and its provisions for resolving domain name disputes.",
+        "Distinguish between trademark and copyright protection in the context of AI technologies.",
+        "Apply the principles of the Trade Marks Act, 1999 to the 'Anthropic' brand name dispute.",
+        "Conclude by suggesting measures to strengthen intellectual property protection in India's AI sector."
+      ]
+    },
+    "connect": [
+      {
+        "topic": "Artificial Intelligence (AI) Policy",
+        "context": "The 'Anthropic' brand name dispute highlights the need for a comprehensive AI policy in India, including provisions for intellectual property protection."
+      },
+      {
+        "topic": "Intellectual Property Rights (IPR)",
+        "context": "The dispute between Anthropic Software and the California-based AI firm underscores the importance of strong IPR protection in the tech sector."
+      }
+    ],
+    "_hash": "43bb034e9fb6",
+    "_fetched": "2026-08-11T02:11:55.796097+00:00",
+    "_relevance": 36,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "examine",
+    "_mcqs": [
+      {
+        "q": "Consider the following statements:\n1. The Information Technology Act, 2000 provides for resolving domain name disputes.\n2. The Trade Marks Act, 1999 governs trademark registrations in India.\nWhich of the above is/are correct?",
+        "options": [
+          "1 only",
+          "2 only",
+          "1 and 2 only",
+          "1, 2 and 3"
+        ],
+        "correct": 2,
+        "explanation": "Statement 1 is correct: The Information Technology Act, 2000 provides for resolving domain name disputes. Statement 2 is correct: The Trade Marks Act, 1999 governs trademark registrations in India.",
+        "trap": "Wrong Body"
+      },
+      {
+        "q": "Consider the following statements:\n1. The Ministry of Electronics and Information Technology oversees the development of India's AI sector.\n2. The World Intellectual Property Organization (WIPO) provides a framework for resolving international intellectual property disputes.\nWhich of the above is/are correct?",
+        "options": [
+          "1 only",
+          "1 and 2 only",
+          "2 and 3 only",
+          "1, 2 and 3"
+        ],
+        "correct": 1,
+        "explanation": "Statement 1 is correct: The Ministry of Electronics and Information Technology oversees the development of India's AI sector. Statement 2 is incorrect: While WIPO provides a framework for resolving international intellectual property disputes, it is not directly relevant to the 'Anthropic' brand name dispute.",
+        "trap": "Scope Confusion"
+      }
+    ]
+  },
+  {
+    "id": 1856,
+    "title": "Global Market Today: Asian shares trade lower; oil holds gai",
+    "cat": "economy",
+    "upsc": false,
+    "time": "2026-08-11T02:14:08.307227+00:00",
+    "summary": "Oil prices managed to retain their gains as optimism regarding a deal in the Strait of Hormuz dissipated, sparking renewed fears of inflation. Treasur",
+    "story_fact": "",
+    "background": "",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "Economic Times",
+    "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-today-asian-shares-trade-lower-oil-holds-gains/articleshow/133140042.cms",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "37fa902d06e4",
+    "_fetched": "2026-08-11T02:14:08.307227+00:00",
+    "_relevance": 36,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 1857,
+    "title": "India demands accountability after embassy premises defaced ",
+    "cat": "india",
+    "upsc": false,
+    "time": "2026-08-11T02:16:20.829709+00:00",
+    "summary": "We have taken up the matter strongly with Slovenian authorities, both in New Delhi and in Ljubljana, so that the perpetrators behind such reprehensibl",
+    "story_fact": "",
+    "background": "",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "The Hindu",
+    "link": "https://www.thehindu.com/news/national/india-demands-accountability-after-embassy-premises-defaced-in-slovenian-capital/article71330829.ece",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "5efcd4790b09",
+    "_fetched": "2026-08-11T02:16:20.829709+00:00",
+    "_relevance": 31,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
   }
 ]
