@@ -33983,5 +33983,443 @@
     "_difficulty": 2,
     "_directive": "discuss",
     "_mcqs": []
+  },
+  {
+    "id": 1836,
+    "title": "US Helicopter Fires Missiles at Panama-Flagged Ship",
+    "cat": "world",
+    "upsc": true,
+    "time": "2026-08-11T21:55:48.616243+00:00",
+    "summary": "A US helicopter fired missiles at a Panama-flagged ship attempting to evade a blockade on August 12, 2026.",
+    "story_fact": "A US helicopter fired missiles at a Panama-flagged ship on August 12, 2026.",
+    "background": "The US Navy has been enforcing a blockade in the region. Ships attempting to evade the blockade are subject to interception.",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "LiveMint",
+    "link": "https://www.livemint.com/news/world/total-world-latest-news-on-august-12-2026-live-updates-11786479532059.html",
+    "prelims": [
+      "The <strong>US Navy</strong> has been involved in several interceptions in the region, with the most recent being on August 12, 2026.",
+      "The <strong>blockade</strong> is enforced under international law, which allows for the interception of ships attempting to evade it.",
+      "The <strong>Panama-flagged ship</strong> was carrying an unknown cargo, which is currently being investigated by the US authorities.",
+      "The <strong>US helicopter</strong> used in the operation was an MH-60R Seahawk, which is equipped with advanced missile systems.",
+      "The <strong>international community</strong> has been watching the situation closely, with some countries expressing concern over the use of force."
+    ],
+    "mains": {
+      "q": "The use of force by the US Navy in intercepting ships attempting to evade a blockade raises questions about the limits of international law. Examine. (15 marks · GS2)",
+      "marks": "15 marks · GS2",
+      "directive": "examine",
+      "hints": [
+        "Frame the central issue: the balance between enforcing a blockade and respecting the sovereignty of ships on the high seas.",
+        "Cite the relevant international law: the United Nations Convention on the Law of the Sea (UNCLOS) and the San Remo Manual on International Law Applicable to Armed Conflicts at Sea.",
+        "Distinguish between the different types of blockades: pacific blockade, belligerent blockade, and humanitarian blockade.",
+        "Apply the principles of international humanitarian law: distinction, proportionality, and precaution.",
+        "Conclude by discussing the implications for global security and the role of the US Navy in maintaining international order."
+      ]
+    },
+    "connect": [
+      {
+        "topic": "United Nations Convention on the Law of the Sea (UNCLOS)",
+        "context": "The US Navy's interception of the Panama-flagged ship raises questions about the application of UNCLOS in enforcing blockades."
+      },
+      {
+        "topic": "San Remo Manual on International Law Applicable to Armed Conflicts at Sea",
+        "context": "The manual provides guidance on the conduct of naval warfare, including the use of force in intercepting ships."
+      },
+      {
+        "topic": "International Humanitarian Law (IHL)",
+        "context": "The use of force by the US Navy in intercepting ships must comply with the principles of distinction, proportionality, and precaution under IHL."
+      },
+      {
+        "topic": "US Navy's Maritime Strategy",
+        "context": "The strategy outlines the US Navy's approach to maintaining international order at sea, including the use of blockades and interceptions."
+      },
+      {
+        "topic": "Law of the Sea Tribunal (ITLOS)",
+        "context": "The tribunal has jurisdiction over disputes related to the interpretation and application of UNCLOS, including the enforcement of blockades."
+      }
+    ],
+    "_hash": "f5b1de00b8d1",
+    "_fetched": "2026-08-11T21:55:48.616243+00:00",
+    "_relevance": 61,
+    "_gs": [
+      "GS2"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "examine",
+    "_mcqs": [
+      {
+        "q": "Consider the following statements:\n1. The US Navy has the authority to intercept ships attempting to evade a blockade under international law.\n2. The use of force by the US Navy in intercepting ships is subject to the principles of international humanitarian law.\n3. The blockade is enforced by the US Navy without the consent of the flagged country.\nWhich of the above is/are correct?",
+        "options": [
+          "1 only",
+          "2 only",
+          "1 and 2 only",
+          "1, 2 and 3"
+        ],
+        "correct": 2,
+        "explanation": "Statement 1 is correct: the US Navy has the authority to intercept ships under international law. Statement 2 is correct: the use of force is subject to international humanitarian law. Statement 3 is incorrect: the blockade is enforced with the consent of the international community.",
+        "trap": "Wrong Article"
+      },
+      {
+        "q": "Consider the following statements:\n1. The US Navy uses MH-60R Seahawk helicopters for intercepting ships.\n2. The Panama-flagged ship was carrying a cargo of humanitarian aid.\n3. The interception was conducted in accordance with the principles of international law.\nWhich of the above is/are correct?",
+        "options": [
+          "1 only",
+          "2 only",
+          "1 and 2 only",
+          "1, 2 and 3"
+        ],
+        "correct": 0,
+        "explanation": "Statement 1 is correct: the US Navy uses MH-60R Seahawk helicopters. Statement 2 is incorrect: the cargo of the ship is unknown. Statement 3 is correct: the interception was conducted in accordance with international law.",
+        "trap": "Quantitative Trap"
+      }
+    ]
+  },
+  {
+    "id": 1837,
+    "title": "US stocks: US market ends down as Iran peace deal optimism f",
+    "cat": "economy",
+    "upsc": false,
+    "time": "2026-08-11T21:58:01.008369+00:00",
+    "summary": "Wall Street closed lower as investors grew pessimistic about Middle East stability. Amazon and Alphabet stocks dipped, impacting major indices like th",
+    "story_fact": "",
+    "background": "",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "Economic Times",
+    "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-us-market-ends-down-as-iran-peace-deal-optimism-fades/articleshow/133165118.cms",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "ff1c1825df79",
+    "_fetched": "2026-08-11T21:58:01.008369+00:00",
+    "_relevance": 46,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 1838,
+    "title": "Muslim Youth League leader P.K. Firoz seeks VACB enquiry int",
+    "cat": "tech",
+    "upsc": false,
+    "time": "2026-08-11T22:00:13.382646+00:00",
+    "summary": "He said an enquiry had revealed grave irregularities as well as the fact that shady financial transactions had taken place on behalf of the LDF govern",
+    "story_fact": "",
+    "background": "",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "The Hindu",
+    "link": "https://www.thehindu.com/news/national/kerala/pk-firoz-seeks-vacb-enquiry-into-the-messi-affair/article71333142.ece",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "5db92516b8bb",
+    "_fetched": "2026-08-11T22:00:13.382646+00:00",
+    "_relevance": 39,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 1839,
+    "title": "Fitch Keeps India's Rating at BBB-",
+    "cat": "economy",
+    "upsc": true,
+    "time": "2026-08-11T22:00:50.204603+00:00",
+    "summary": "Fitch Ratings kept India's sovereign credit rating at BBB- with a stable outlook, citing robust growth and solid external finances despite fiscal weaknesses and energy shocks.",
+    "story_fact": "Fitch forecasts 6.4% GDP growth for India",
+    "background": "The BBB- rating is the lowest investment grade. Fitch assesses India's macroeconomic stability and policy credibility.",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "ET Economy",
+    "link": "https://economictimes.indiatimes.com/news/economy/indicators/indias-bbb-rating-unchanged-fitch-cites-energy-shocks-fiscal-weakness-but-praises-growth/articleshow/133164460.cms",
+    "prelims": [
+      "Fitch Ratings has <strong>maintained</strong> India's sovereign credit rating at BBB- with a stable outlook.",
+      "The <strong>Representation of the People Act, 1951</strong> defines the framework for elections in India, including the role of the Election Commission.",
+      "India's <strong>fiscal deficit</strong> has been a concern, with high deficits and debt constraining the rating.",
+      "The <strong>FRBM Act, 2003</strong> provides a framework for fiscal discipline, including targets for fiscal deficit and debt.",
+      "The <strong>Monetary Policy Committee (MPC)</strong> plays a crucial role in maintaining macroeconomic stability, including managing inflation and growth."
+    ],
+    "mains": {
+      "q": "The maintenance of India's sovereign credit rating at BBB- despite fiscal weaknesses raises questions about the credibility of the fiscal consolidation efforts. Examine. (15 marks · GS3)",
+      "marks": "15 marks · GS3",
+      "directive": "examine",
+      "hints": [
+        "Frame the central trade-off: fiscal discipline versus growth imperatives, with reference to the FRBM Act, 2003.",
+        "Cite the example of the 2003 FRBM-era stance of strict separation between monetary and fiscal risk, and contrast with the current scenario.",
+        "Distinguish between the role of the Monetary Policy Committee (MPC) and the Fiscal Policy framework in maintaining macroeconomic stability.",
+        "Apply the concept of fiscal consolidation and its impact on the sovereign credit rating, with reference to the 14th Finance Commission's recommendations.",
+        "Conclude by proposing a roadmap for achieving fiscal consolidation, including specific measures to reduce the fiscal deficit and debt."
+      ]
+    },
+    "connect": [
+      {
+        "topic": "Fiscal Responsibility and Budget Management (FRBM) Act, 2003",
+        "context": "The FRBM Act provides a framework for fiscal discipline, including targets for fiscal deficit and debt, which is relevant to the maintenance of India's sovereign credit rating."
+      },
+      {
+        "topic": "Public Finance and Fiscal Policy",
+        "context": "The maintenance of India's sovereign credit rating is closely related to the government's fiscal policy and public finance framework, including the management of fiscal deficits and debt."
+      },
+      {
+        "topic": "Economic Survey and Budget Documents",
+        "context": "The Economic Survey and Budget documents provide valuable insights into the government's fiscal policy and public finance framework, including the targets for fiscal deficit and debt, which is relevant to the maintenance of India's sovereign credit rating."
+      }
+    ],
+    "_hash": "0560df9ce42d",
+    "_fetched": "2026-08-11T22:00:50.204603+00:00",
+    "_relevance": 38,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "examine",
+    "_mcqs": [
+      {
+        "q": "Consider the following statements:\n1. Fitch Ratings has upgraded India's sovereign credit rating.\n2. The Representation of the People Act, 1951 defines the framework for elections in India.\n3. The FRBM Act, 2003 provides a framework for fiscal discipline.\nWhich of the above is/are correct?",
+        "options": [
+          "1 only",
+          "2 only",
+          "1 and 2 only",
+          "1, 2 and 3"
+        ],
+        "correct": 3,
+        "explanation": "Statement 1 is incorrect: Fitch has maintained the rating at BBB-. Statement 2 is correct: the Act defines the framework for elections. Statement 3 is correct: the FRBM Act provides a framework for fiscal discipline.",
+        "trap": "Wrong Body"
+      },
+      {
+        "q": "Consider the following statements:\n1. The Monetary Policy Committee (MPC) is responsible for fiscal policy.\n2. The FRBM Act, 2003 targets a fiscal deficit of 3% of GDP.\n3. The Representation of the People Act, 1951 is related to the Election Commission's powers.\nWhich of the above is/are correct?",
+        "options": [
+          "1 only",
+          "1 and 2 only",
+          "2 and 3 only",
+          "1, 2 and 3"
+        ],
+        "correct": 2,
+        "explanation": "Statement 1 is incorrect: the MPC is responsible for monetary policy. Statement 2 is correct: the FRBM Act targets a fiscal deficit of 3% of GDP. Statement 3 is correct: the Representation of the People Act is related to the Election Commission's powers.",
+        "trap": "Compositional Error"
+      }
+    ]
+  },
+  {
+    "id": 1840,
+    "title": "Government proposes 40% hike in SC/ST atrocity compensation ",
+    "cat": "tech",
+    "upsc": false,
+    "time": "2026-08-11T22:03:02.573764+00:00",
+    "summary": "The government plans a substantial compensation hike for atrocity victims under the SC/ST Act. Financial assistance will also be provided to states fo",
+    "story_fact": "",
+    "background": "",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "ET Economy",
+    "link": "https://economictimes.indiatimes.com/news/economy/policy/government-proposes-40-hike-in-sc/st-atrocity-compensation-to-rs-12-lakh/articleshow/133164581.cms",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "b6459592fcec",
+    "_fetched": "2026-08-11T22:03:02.573764+00:00",
+    "_relevance": 36,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 1841,
+    "title": "Trump, Modi will resolve Russia sanctions: U.S. official",
+    "cat": "economy",
+    "upsc": false,
+    "time": "2026-08-11T22:05:14.952836+00:00",
+    "summary": "White House Trade Adviser Peter Navarro’ comment comes days after Senate passed a Bill authorising U.S. President to impose 100% tariffs on top five p",
+    "story_fact": "",
+    "background": "",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "The Hindu",
+    "link": "https://www.thehindu.com/news/national/trump-modi-will-resolve-russia-sanctions-us-official/article71333910.ece",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "1983b784490d",
+    "_fetched": "2026-08-11T22:05:14.952836+00:00",
+    "_relevance": 33,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 1842,
+    "title": "B.Tech spot admission in Kerala made more student-friendly",
+    "cat": "tech",
+    "upsc": false,
+    "time": "2026-08-11T22:07:27.383612+00:00",
+    "summary": "Applicants can report at any of the 12 government and aided colleges for the admission process on August 13",
+    "story_fact": "",
+    "background": "",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "The Hindu",
+    "link": "https://www.thehindu.com/news/national/kerala/btech-spot-admission-in-kerala-on-august-13/article71332915.ece",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "72edb5429ffe",
+    "_fetched": "2026-08-11T22:07:27.383612+00:00",
+    "_relevance": 33,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 1843,
+    "title": "Oil conundrum: On India’s energy imports from Russia",
+    "cat": "economy",
+    "upsc": false,
+    "time": "2026-08-11T22:09:39.785054+00:00",
+    "summary": "India’s energy imports from Russia seem driven by confusion, not strategy",
+    "story_fact": "",
+    "background": "",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "The Hindu Editorial",
+    "link": "https://www.thehindu.com/opinion/editorial/oil-conundrum-on-indias-energy-imports-from-russia/article71214010.ece",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "74aa972b7cec",
+    "_fetched": "2026-08-11T22:09:39.785054+00:00",
+    "_relevance": 33,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 1844,
+    "title": "US Criticizes China Over Nuclear Missile Test in Pacific Oce",
+    "cat": "world",
+    "upsc": false,
+    "time": "2026-08-11T22:11:52.225545+00:00",
+    "summary": "The US criticized China for not giving sufficient notice before testing an intercontinental ballistic missile in the Pacific Ocean last month, as the ",
+    "story_fact": "",
+    "background": "",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "LiveMint Politics",
+    "link": "https://www.livemint.com/politics/us-criticizes-china-over-nuclear-missile-test-in-pacific-ocean-11786475573935.html",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "219cccbf0037",
+    "_fetched": "2026-08-11T22:11:52.225545+00:00",
+    "_relevance": 31,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
+  },
+  {
+    "id": 1845,
+    "title": "US helicopter fires missiles at Panama-flagged ship attempti",
+    "cat": "world",
+    "upsc": false,
+    "time": "2026-08-11T22:14:04.602694+00:00",
+    "summary": "US Central Command (CENTCOM) said a US Navy MH-60 helicopter fired two Hellfire missiles into the engine room of the M/V Vela Nova, disabling the vess",
+    "story_fact": "",
+    "background": "",
+    "visual": "stats",
+    "vdata": [
+      {
+        "val": "NEW",
+        "label": "Story"
+      }
+    ],
+    "src": "LiveMint",
+    "link": "https://www.livemint.com/news/world/us-helicopter-fires-missiles-at-panama-flagged-ship-attempting-to-evade-blockade-11786479091151.html",
+    "prelims": [],
+    "mains": {},
+    "connect": [],
+    "_hash": "9838c63f1737",
+    "_fetched": "2026-08-11T22:14:04.602694+00:00",
+    "_relevance": 30,
+    "_gs": [
+      "GS3"
+    ],
+    "_sourceType": "media",
+    "_difficulty": 2,
+    "_directive": "discuss",
+    "_mcqs": []
   }
 ]
